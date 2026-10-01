@@ -1,0 +1,52 @@
+{
+ "folder": "G183-188/bne-3c3f765a-610",
+ "scan_id": "bne-3c3f765a-610",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 38,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "183",
+   "184",
+   "185",
+   "186",
+   "187",
+   "188"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790576500,
+ "observed": {
+  "part_books": [
+   {
+    "page": 3,
+    "label": "BNE_3c3f765a-610:03",
+    "part": "violin 1"
+   },
+   {
+    "page": 13,
+    "label": "BNE_3c3f765a-610:13",
+    "part": "violin 2"
+   },
+   {
+    "page": 26,
+    "label": "BNE_3c3f765a-610:26",
+    "part": "viola"
+   },
+   {
+    "page": 33,
+    "label": "BNE_3c3f765a-610:33",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 4,
+  "n_work_starts": 0
+ },
+ "disagreements": [],
+ "verified": null
+}

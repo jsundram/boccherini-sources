@@ -1,0 +1,35 @@
+{
+ "source": "library-of-congress",
+ "medium": "manuscript",
+ "form": "quartet",
+ "title": "Tre Quartetti per due Violini, Viola e Basso, composti del Sig. Luigi Boccherini — Opera 54, 1796",
+ "composer": "Boccherini, Luigi (1743-1805)",
+ "year": "1796",
+ "date_statement": "1796 (dated on the title page)",
+ "opus": "Op. 54",
+ "gerard": "250",
+ "gerard_numbers": [
+  "250",
+  "251",
+  "252",
+  "253",
+  "254",
+  "255"
+ ],
+ "gerard_label": "250-255",
+ "gerard_uncertain": true,
+ "siglum": "US-Wc",
+ "institution": "Library of Congress, Music Division",
+ "shelfmark": "M452.A2 B68 op. 54 Case",
+ "pages": 85,
+ "files": {
+  "all": "US-Wc_M452-A2-B68-op54.pdf"
+ },
+ "downloaded_by_hand": true,
+ "commissioned": true,
+ "rism_links_this_copy": false,
+ "discrepancy": "The Gerard span 250-255 comes from the prior-pass filename ('Opus 54 Numbers 1-6'), but the title page reads 'Tre Quartetti' -- three, not six. Sampled pages are single-line part music throughout, so this volume is a part-book, not a score. The count is unresolved.",
+ "established_by": "Official scan commissioned from the Library of Congress. Title page reads 'Opera 54 ... 1796 ... Tre Quartetti Per due Violini, Viola e Basso Composti del Sig. Luigi Boccherini ... Violino Primo'. No GerB number in the 250-255 range appears anywhere in the harvested RISM records, so this set sits outside the RISM corpus this project indexes. Filed 2026-09-28.",
+ "arrived_as": "pdf",
+ "arrived_as_note": "Supplied as a finished PDF, not collated here from page images, so there are no filenames whose meaning could be lost. `page_index` does not apply."
+}

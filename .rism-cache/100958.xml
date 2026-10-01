@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000nda a2200000 u 4500</leader>
+  <controlfield tag="001">sources/100958</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412031314.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Allegro molto</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bBE</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">''8D/4.G{8DC'B}/{8.Bt''6C}'4.A8A/'''4.AgG{8xFgE8DC}/</subfield>
+    <subfield code="r">g</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Adagio cantabile ma con un poco di moto</subfield>
+    <subfield code="o">c</subfield>
+    <subfield code="r">E|b</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">3</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Presto ma non tanto</subfield>
+    <subfield code="o">3/8</subfield>
+    <subfield code="r">g</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Sonatas</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">op.5/5</subfield>
+    <subfield code="n">GerB 29</subfield>
+    <subfield code="o">Arr</subfield>
+    <subfield code="r">g</subfield>
+    <subfield code="0">standard_titles/3900185</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[t.p., vol.3, f.1r:] N.o 5: | Quartetto V. | Per due Violini, Viola, e Violoncello. | di Luigi Boccherini. | Partitura N.o 5</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">score (vol.3): f.1v-11r</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op.5/5</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">f.1r, pencil: "Autographe de Cambini"</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-01-16 08:13:32 UTC (Update linked values)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-11-20 10:43:01 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-01-28 07:58:56 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2023-01-23 10:00:42 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-06-05 09:16:17 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-03-26 15:29:13 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Sonatas</subfield>
+    <subfield code="0">standard_terms/25213</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2=" ">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">29</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cambini, Giuseppe</subfield>
+    <subfield code="d">1746-1825</subfield>
+    <subfield code="0">people/43730</subfield>
+    <subfield code="4">scr</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cambini, Giuseppe</subfield>
+    <subfield code="d">1746-1825</subfield>
+    <subfield code="0">people/43730</subfield>
+    <subfield code="4">arr</subfield>
+  </datafield>
+  <datafield tag="730" ind1="0" ind2=" ">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="g">RISM</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">4 Sonatas - Arr; vl (2), vla, vlc</subfield>
+    <subfield code="w">sources/100955</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">US-CA</subfield>
+    <subfield code="c">bMS Mus 6.2</subfield>
+    <subfield code="e">Harvard University, Harvard College Library</subfield>
+    <subfield code="x">institutions/30002227</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Sonatas, pf, vl; g; GerB 29</subfield>
+    <subfield code="0">works/33311</subfield>
+    <subfield code="4">arr</subfield>
+  </datafield>
+</record>

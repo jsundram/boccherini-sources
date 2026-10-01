@@ -1,0 +1,85 @@
+{
+ "kind": "iiif",
+ "url": "https://iiif.slub-dresden.de/iiif/2/454515855/manifest.json",
+ "note": "Digitalisat der Notenhandschrift",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-LEm",
+ "institution": "Leipziger Stadtbibliothek - Musikbibliothek",
+ "shelfmark": "Becker III.12.4",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "score: 22p. · 27 x 18,5 cm",
+ "all_sigla": [
+  "D-LEm"
+ ],
+ "source": "https://rism.online/sources/225003122",
+ "source_id": "225003122",
+ "title": "2 Quartets",
+ "full_title": "[title on cover, printed label:] Boccherini | Luatur | quatuor | Part.",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": null,
+ "gerard_numbers": [
+  "202",
+  "204"
+ ],
+ "catalogs": [],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1780-1800 (1780c-1800c)"
+ },
+ "physical": [],
+ "extent": [
+  "score: 22p."
+ ],
+ "notes": [
+  "Moderne Bleistift-Paginierung: p.1-22.",
+  "Mit Stempel \"STADTBIBLIOTHEK ZU LEIPZIG. | C. F. BECKERS STIFTUNG\" (p. 1)."
+ ],
+ "incipits": 0,
+ "gerard_label": "202, 204",
+ "holdings": {
+  "_0": {
+   "siglum": "D-LEm",
+   "institution": "Leipziger Stadtbibliothek - Musikbibliothek",
+   "shelfmark": "Becker III.12.4",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000053",
+   "source_type": "Manuscript copy",
+   "extent": "score: 22p. · 27 x 18,5 cm"
+  }
+ },
+ "corrected": true,
+ "correction_note": "D-LEm 'Becker III.12.4', catalogued as '2 Quartets' with no GerB number, so the harvester files it under `unidentified/`. RISM's two companion records at the same shelfmark supply the numbers.",
+ "established_by": "Shelfmark join against RISM: 225003123 (GerB 202, 'score: p.1-10') and 225003124 (GerB 204, 'score: p.11-22') are both D-LEm Becker III.12.4 -- the same shelfmark and the two halves of the same 28-image volume.",
+ "livraison": null,
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "202"
+  },
+  {
+   "n": 2,
+   "gerard": "204"
+  }
+ ],
+ "unidentified_works": 0,
+ "gerard_numbers_rism": [],
+ "rism_related": [
+  "https://rism.online/sources/225003122"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 28
+ }
+}

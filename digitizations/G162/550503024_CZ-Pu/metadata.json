@@ -1,0 +1,157 @@
+{
+ "kind": "digitized",
+ "url": "https://www.manuscriptorium.com/apps/index.php?direct=record&pid=AIPDIG-NKCR__59_R_23_____4471UF8-cs",
+ "note": "Manuscriptorium - Digital library",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "CZ-Pu",
+ "institution": "Národní knihovna České republiky",
+ "shelfmark": "59 R 23",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 22,5 x 28,5 cm",
+ "all_sigla": [
+  "CZ-Pu"
+ ],
+ "unresolved": true,
+ "source": "https://rism.online/sources/550503024",
+ "source_id": "550503024",
+ "title": "Divertimentos",
+ "full_title": "[title page, vlc:] Divertimento ex Dis. | à | Due Violini | Alto Viola | con | Violoncello. | [at left:] Del Sig|r|e Boccarini. [!] | [at right by another hand:] Ex Musurge | Per Milone Stöbral. | Professor de Orde des Premontrés. [at the right top corner:] III.",
+ "key": "E|b",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "162",
+ "catalogs": [
+  "GerB 162"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1775-1799"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [],
+ "incipits": 4,
+ "holdings": {
+  "_0": {
+   "siglum": "CZ-Pu",
+   "institution": "Národní knihovna České republiky",
+   "shelfmark": "59 R 23",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000083",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 22,5 x 28,5 cm",
+   "provenance": "Klášter kapucínů u sv. Josefa, Praha",
+   "watermark": "[slim crescent with facial profile / star (six points, small star inside)]"
+  }
+ },
+ "downloaded_by_hand": true,
+ "suggested_filename": "CZ-Pu_59_R_23.pdf",
+ "why_manual": "Needs a portal session before it will serve images; the record URL alone returns no manifest.",
+ "rism_related": [
+  "https://rism.online/sources/550503024"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "filenames, preserved before the images were moved to Trash",
+  "count": 20,
+  "pages": [
+   {
+    "page": 1,
+    "file": "01-cover.jpg",
+    "opens": "cover"
+   },
+   {
+    "page": 2,
+    "file": "02.jpg"
+   },
+   {
+    "page": 3,
+    "file": "03-title.jpg",
+    "opens": "title"
+   },
+   {
+    "page": 4,
+    "file": "04-vc.jpg",
+    "opens": "violoncello"
+   },
+   {
+    "page": 5,
+    "file": "05.jpg"
+   },
+   {
+    "page": 6,
+    "file": "06.jpg"
+   },
+   {
+    "page": 7,
+    "file": "07.jpg"
+   },
+   {
+    "page": 8,
+    "file": "08.jpg"
+   },
+   {
+    "page": 9,
+    "file": "09-v1.jpg",
+    "opens": "violin 1"
+   },
+   {
+    "page": 10,
+    "file": "10.jpg"
+   },
+   {
+    "page": 11,
+    "file": "11.jpg"
+   },
+   {
+    "page": 12,
+    "file": "12.jpg"
+   },
+   {
+    "page": 13,
+    "file": "13-v2.jpg",
+    "opens": "violin 2"
+   },
+   {
+    "page": 14,
+    "file": "14.jpg"
+   },
+   {
+    "page": 15,
+    "file": "15.jpg"
+   },
+   {
+    "page": 16,
+    "file": "16.jpg"
+   },
+   {
+    "page": 17,
+    "file": "17-va.jpg",
+    "opens": "viola"
+   },
+   {
+    "page": 18,
+    "file": "18.jpg"
+   },
+   {
+    "page": 19,
+    "file": "19.jpg"
+   },
+   {
+    "page": 20,
+    "file": "20.jpg"
+   }
+  ]
+ }
+}

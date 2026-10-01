@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/850009299</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260209213750.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Quartetti</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[1761-1790]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">28,5 x 21,2 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Filigrana: giglio in due cerchi concentrici</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">L'ultima carta di ciascun volume è vuota</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, vlc</subfield>
+    <subfield code="b">20, 20, 20, 20 p.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-01-16 14:16:32 UTC (Update linked values)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-14 13:43:36 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-14 14:24:03 UTC (Add 774 link 850655478)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-14 14:24:21 UTC (Add 774 link 850655479)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-14 14:24:42 UTC (Add 774 link 850655480)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-14 14:25:03 UTC (Add 774 link 850655481)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-14 14:25:33 UTC (Add 774 link 850655641)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-14 14:26:07 UTC (Add 774 link 850655642)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-14 14:28:24 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 9, 3; GerB 173</subfield>
+    <subfield code="w">sources/850655478</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 9, 6; GerB 176</subfield>
+    <subfield code="w">sources/850655479</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 9, 5; GerB 175</subfield>
+    <subfield code="w">sources/850655480</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 9, 1; GerB 171</subfield>
+    <subfield code="w">sources/850655481</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 9, 4; GerB 174</subfield>
+    <subfield code="w">sources/850655641</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 9, 2; GerB 172</subfield>
+    <subfield code="w">sources/850655642</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Nc</subfield>
+    <subfield code="c">Musica Strumentale 345-348</subfield>
+    <subfield code="d">XXII. 5.2</subfield>
+    <subfield code="e">Biblioteca del Conservatorio di Musica S. Pietro a Majella</subfield>
+    <subfield code="x">institutions/30000223</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/MSM0056039</subfield>
+    <subfield code="x">Other</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

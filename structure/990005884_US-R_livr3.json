@@ -1,0 +1,67 @@
+{
+ "folder": "G234/990005884_US-R_livr3",
+ "scan_id": "990005884_US-R_livr3",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 59,
+ "rism": {
+  "extent": "parts 15, 3 x 13 p. 17, 12, 9, 13 p. 19, 13, 13, 11 p. 3 x 13, 11 p. parts",
+  "parts_declared": null,
+  "form_declared": "parts",
+  "works_declared": 1,
+  "gerard": [
+   "234"
+  ],
+  "source_ids": [
+   "990005884"
+  ]
+ },
+ "source_mtime": 1790562261,
+ "observed": {
+  "part_books": [
+   {
+    "page": 2,
+    "label": "39087009315138.cello:02",
+    "part": "cello"
+   },
+   {
+    "page": 15,
+    "label": "39087009315138.viola:02",
+    "part": "viola"
+   },
+   {
+    "page": 29,
+    "label": "39087009315138.violin1:03",
+    "part": "violin 1"
+   },
+   {
+    "page": 49,
+    "label": "39087009315138.violin2:03",
+    "part": "violin 2"
+   },
+   {
+    "page": 58,
+    "label": "39087009315138.violin2:12",
+    "part": "violin 1"
+   },
+   {
+    "page": 59,
+    "label": "39087009315138.violin2:13",
+    "part": "violin 2"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 35,
+    "label": "39087009315138.violin1:09",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 6,
+  "n_work_starts": 1
+ },
+ "disagreements": [],
+ "verified": null
+}

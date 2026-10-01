@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndm a2200000 u 4500</leader>
+  <controlfield tag="001">sources/463059600</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412031222.0</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">op.44,1</subfield>
+    <subfield code="n">GerB 220</subfield>
+    <subfield code="r">B|b</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[caption title, p. 1:] Mese di Febbraro. 1792. | Quartettino. Per due Violini, Viola, e Violoncello obb.to | Di Luigi Boccherini | Compositor di Camera di S. M. il Re di Prussia.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1792</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">score: 8p.</subfield>
+    <subfield code="c">20 x 29,5 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op.44,1</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Am Schluss (p. 8) unter dem originalen Schlussvermerk "Fine" von anderer Hand (Schober?): "copirt v. Schober | d, 24 Aprill. 1792". Vermutlich bezieht sich dieser Vermerk auf die von Schober angefertigte Stimmenabschrift KHM 597.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Von den sechs "Quartettini" des Jahres 1792 (op. 44) waren bereits in den 1890er Jahren ausweislich des Katalogs von Goerg Thouret nur das Autograph von op. 44 Nr. 1 sowie Berliner Stimmenabschriften der Quartette Nr. 1-4 und 6 vorhanden (KHM 597-601), wohingegen das Quartett Nr. 5 gar nicht nachgewiesen ist.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Papier nachträglich erheblich beschnitten, z.T. leichter Textverlust. {{brk}}Origibnale Tintenpaginierung 1-8.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Autograph manuscript</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2018-12-16 08:14:46 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-02-23 14:23:50 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2=" ">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">220</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-B</subfield>
+    <subfield code="c">KHM 596</subfield>
+    <subfield code="e">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung</subfield>
+    <subfield code="x">institutions/30000655</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://resolver.staatsbibliothek-berlin.de/SBB0001C5F200000000</subfield>
+    <subfield code="x">Digitized</subfield>
+    <subfield code="z">[digitized version]</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; B|b; GerB 220</subfield>
+    <subfield code="0">works/33180</subfield>
+  </datafield>
+</record>

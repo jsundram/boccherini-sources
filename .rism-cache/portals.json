@@ -1,0 +1,25 @@
+{
+ "digital.slub-dresden.de": {},
+ "resolver.staatsbibliothek-berlin.de": {},
+ "staatsbibliothek-berlin.de": {},
+ "www.conservatoire.be": {},
+ "www.kcb.be": {},
+ "musikverket.se": {},
+ "muscat.rism.info": {
+  "sru": "https://muscat.rism.info/sru?operation=explain&version=1.2"
+ },
+ "www.bsb-muenchen.de": {},
+ "dmga.faust-hosting.de": {},
+ "www.uu.nl": {},
+ "lib.harvard.edu": {},
+ "id.sbn.it": {},
+ "www.consmilano.it": {},
+ "www.musikverein.at": {},
+ "lccn.loc.gov": {},
+ "guides.loc.gov": {},
+ "www.bu.uni.wroc.pl": {},
+ "www.conservatory.ru": {},
+ "www.kbr.be": {},
+ "www.conservatoriovenezia.net": {},
+ "www.ceskearchivy.cz": {}
+}

@@ -1,0 +1,37 @@
+{
+ "folder": "G177-182/btv1b108868225",
+ "scan_id": "btv1b108868225",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 20,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "177",
+   "178",
+   "179",
+   "180",
+   "181",
+   "182"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628350,
+ "observed": {
+  "part_books": [
+   {
+    "page": 18,
+    "label": "btv1b108868225:18",
+    "part": "bass"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 1,
+  "n_work_starts": 0
+ },
+ "disagreements": [],
+ "verified": null
+}

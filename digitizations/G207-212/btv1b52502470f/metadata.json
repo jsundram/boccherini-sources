@@ -1,0 +1,43 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b52502470f",
+ "title": "Opera Prima. 1781. // Sei Quartettini. // Per due Violini, Viola, e Violoncello obbto. // Compositi da Luigi Boccherini. // Professore di Musica all'attual Servizio di S.M.C // Compositor di Camera di S.M. Prussiana. // Direttore del Concerto dell Eccellentissima Signora Contessa di // Benavevente, Duchessa di Ossuna, di Gondia & & (manuscrit autographe)",
+ "shelfmark": "RES-507 (2)",
+ "institution": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, RES-507 (2)",
+ "siglum": "F-Po",
+ "medium": "autograph",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": true,
+ "date": "1781",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502470f/manifest.json",
+ "pages": 104,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "207",
+ "gerard_numbers": [
+  "207",
+  "208",
+  "209",
+  "210",
+  "211",
+  "212"
+ ],
+ "gerard_label": "207-212",
+ "opus": "Op. 33, complete",
+ "gerard_established_by": "Prior-pass download filenames in boccherini-quartet-data/manuscripts, matched to this ark by Gallica title and page count. RISM records no GerB number for this source.",
+ "rism_related": [
+  "https://rism.online/sources/840013691",
+  "https://rism.online/sources/840022749",
+  "https://rism.online/sources/840022750",
+  "https://rism.online/sources/840022751",
+  "https://rism.online/sources/840022752",
+  "https://rism.online/sources/840022753",
+  "https://rism.online/sources/840022754"
+ ],
+ "rism_related_established_by": "Shelfmark join: RISM records 7 source(s) at F-Po RES-507 (2), the shelfmark this folder carries. RISM links no scan for them, so this is the record, not the copy.",
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 104
+ }
+}

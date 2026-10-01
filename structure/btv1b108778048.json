@@ -1,0 +1,33 @@
+{
+ "folder": "G242-247/btv1b108778048",
+ "scan_id": "btv1b108778048",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 15,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "242",
+   "243",
+   "244",
+   "245",
+   "246",
+   "247"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628348,
+ "observed": {
+  "part_books": [],
+  "work_starts": [],
+  "n_part_books": 0,
+  "n_work_starts": 0
+ },
+ "disagreements": [
+  "nothing read — faint engraving, or not a printed part-book at all"
+ ],
+ "verified": null
+}

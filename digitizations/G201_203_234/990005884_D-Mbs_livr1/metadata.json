@@ -1,0 +1,448 @@
+{
+ "kind": "digitized",
+ "url": "https://www.digitale-sammlungen.de/en/view/bsb11363152",
+ "note": null,
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-Mbs",
+ "shelfmark": null,
+ "former_shelfmark": null,
+ "institution": "Bayerische Staatsbibliothek",
+ "source_type": null,
+ "holding_extent": null,
+ "all_sigla": [],
+ "found_by_hand": true,
+ "source": "https://rism.online/sources/990005884",
+ "source_id": "990005884",
+ "title": "12 Quartets",
+ "full_title": "Douze quatuors pour deux violons, alto et violoncelle ... 1ère [-4ème] livraison œuvre 39 [Paris, Pleyel]",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "234",
+ "gerard_numbers": [
+  "201",
+  "203",
+  "234"
+ ],
+ "catalogs": [
+  "GerB 234"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "125",
+  "(134)",
+  "(151)",
+  "(178)"
+ ],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1815c]"
+ },
+ "physical": [],
+ "extent": [
+  "15, 3 x 13 p.",
+  "17, 12, 9, 13 p.",
+  "19, 13, 13, 11 p.",
+  "3 x 13, 11 p.",
+  "parts"
+ ],
+ "notes": [
+  "PN Titelblatt: 125",
+  "LC copy likely dates to 1798."
+ ],
+ "incipits": 0,
+ "gerard_label": "201, 203, 234",
+ "holdings": {
+  "holdings/24139": {
+   "siglum": "A-Wgm",
+   "institution": "Gesellschaft der Musikfreunde in Wien, Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000388",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24140": {
+   "siglum": "B-Ac",
+   "institution": "Koninklijk Conservatorium - Artesis Hogeschool, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000428",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24141": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/319444": {
+   "siglum": "B-Br",
+   "institution": "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR)",
+   "shelfmark": "Mus. 14.582 C",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000440",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24142": {
+   "siglum": "CH-Gamoudruz",
+   "institution": "Collection M. Emile Amoudruz",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000514",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24143": {
+   "siglum": "CH-LAc",
+   "institution": "Conservatoire de Lausanne, Bibliothèque",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000524",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/51067162": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "Mus. 8824",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24144": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "DMS 51778",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24145": {
+   "siglum": "D-BDHlebermann",
+   "institution": "Privatsammlung Walter Lebermann",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000676",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24146": {
+   "siglum": "D-BNba",
+   "institution": "Beethoven-Haus, Forschungszentrum Beethoven-Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000692",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24147": {
+   "siglum": "D-Dl",
+   "institution": "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000042",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24148": {
+   "siglum": "D-Mbs",
+   "institution": "Bayerische Staatsbibliothek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000882",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24149": {
+   "siglum": "D-Tmi",
+   "institution": "Musikwissenschaftliches Institut der Eberhard-Karls-Universität",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001016",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24150": {
+   "siglum": "DK-Kk",
+   "institution": "Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001344",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24151": {
+   "siglum": "DK-Km",
+   "institution": "Musikmuseet",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001346",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24152": {
+   "siglum": "DK-Kmk",
+   "institution": "Det Kongelige danske Musikkonservatoriums Bibliotek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001345",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24175": {
+   "siglum": "E-Mn",
+   "institution": "Biblioteca Nacional de España",
+   "shelfmark": "Mp/2393|3; Mp/2393|4",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001386",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24153": {
+   "siglum": "E-Mp",
+   "institution": "Palacio Real, Biblioteca",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001387",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24154": {
+   "siglum": "F-C",
+   "institution": "Bibliothèque-musée Inguimbertine",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001435",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24155": {
+   "siglum": "F-MH",
+   "institution": "Bibliothèque municipale",
+   "shelfmark": "MN 4861,7 /A-D",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001468",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24156": {
+   "siglum": "F-Pc",
+   "institution": "Bibliothèque du Conservatoire",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001480",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24157": {
+   "siglum": "F-Pn",
+   "institution": "Bibliothèque nationale de France, Département de la Musique",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001488",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24158": {
+   "siglum": "F-V",
+   "institution": "Bibliothèque municipale",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001511",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24159": {
+   "siglum": "GB-Lam",
+   "institution": "Royal Academy of Music, Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000263",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24160": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24162": {
+   "siglum": "I-Fc",
+   "institution": "Biblioteca del Conservatorio di musica Luigi Cherubini",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001778",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24163": {
+   "siglum": "I-Nc",
+   "institution": "Biblioteca del Conservatorio di Musica S. Pietro a Majella",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000223",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24164": {
+   "siglum": "I-PAc",
+   "institution": "Sezione musicale della Biblioteca Palatina",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001861",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24165": {
+   "siglum": "I-Ria",
+   "institution": "Biblioteca di Archeologia e Storia dell'Arte",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001906",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24166": {
+   "siglum": "I-Vc",
+   "institution": "Biblioteca del Conservatorio di Musica Benedetto Marcello",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001975",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24167": {
+   "siglum": "J-Tk",
+   "institution": "Kunitachi Ongaku Daigaku",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30004431",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24168": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24169": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24170": {
+   "siglum": "S-Smf",
+   "institution": "Stiftelsen Musikkulturens främjande",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002154",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24171": {
+   "siglum": "US-AAu",
+   "institution": "University of Michigan, Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002177",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24172": {
+   "siglum": "US-Cn",
+   "institution": "The Newberry Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000320",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24173": {
+   "siglum": "US-PO",
+   "institution": "Vassar College, George Sherman Dickinson Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000312",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/24174": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "parts"
+  },
+  "holdings/51004704": {
+   "siglum": "US-Wc",
+   "institution": "The Library of Congress, Music Division",
+   "shelfmark": "M452.A2 B67 Case",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002492",
+   "source_type": "Print",
+   "extent": "parts"
+  }
+ },
+ "corrected": true,
+ "correction_note": "Pleyel's 'Douze quatuors ... oeuvre 39': twelve Boccherini quartets issued in four livraisons of three. RISM catalogues the whole publication as one record with one Gerard number. Berlin's copies all carry the same shelfmark DMS 51778 and are distinguished only by livraison, each scanned under its own SBB PPN. Munich holds all four livraisons (MDZ bsb11363152-55), which is the only complete set found; livraison 4 is held nowhere else in this collection. — Munich copy, MDZ bsb11363152, Pleyel Paris 1798. Livraison 1 of four.",
+ "established_by": "found in an MDZ search page; livraison 4 contents supplied by hand, 2026-09-28",
+ "livraison": 1,
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "234"
+  },
+  {
+   "n": 2,
+   "gerard": "201"
+  },
+  {
+   "n": 3,
+   "gerard": "203"
+  }
+ ],
+ "unidentified_works": 0,
+ "gerard_numbers_rism": [
+  "234"
+ ],
+ "suggested_filename": "D-Mbs_990005884.pdf",
+ "rism_related": [
+  "https://rism.online/sources/990005884"
+ ],
+ "rism_relation": "copy",
+ "publisher": "Pleyel",
+ "publication_place": "Paris",
+ "publisher_established_by": "Imprint at the end of the RISM title; RISM leaves 260 $b empty.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 52
+ }
+}

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndm a2200000 u 4500</leader>
+  <controlfield tag="001">sources/550266110</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412043521.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Allegro</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xFCG</subfield>
+    <subfield code="o">6/8</subfield>
+    <subfield code="p">{''8EC'A}/''!{ED'B}!f/!{''EC'A}!f/4Bt8A4Bt8A/</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Andantino lentarello</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="o">2/4</subfield>
+    <subfield code="p">8-/4-8-'A/{xGnGxFnF}/E4A8xG/qqB''CDr{8.C'6B}{8A''F+}/F4E8D/</subfield>
+    <subfield code="r">a</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">2</subfield>
+    <subfield code="g">C-3</subfield>
+    <subfield code="m">a-vla</subfield>
+    <subfield code="o">2/4</subfield>
+    <subfield code="p">'8A/{xGnGxFnF}/4E{8D,B}/'{C''C'BE}/4.E8-/</subfield>
+    <subfield code="r">a</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">3</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Menuetto. Con moto</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xFCG</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">''4CCD/'B{8.Bt6''C}'4B/''C8{DCD'B}/{''C'AEA''CE}/</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">4</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Trio.</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">{'8A6AB}{''8C'BAxG}/{A6AB}{''8C'BAG}/</subfield>
+    <subfield code="r">a</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">5</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Presto assai</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xFCG</subfield>
+    <subfield code="o">2/4</subfield>
+    <subfield code="p">''8E/{A'''6C''B}{AGFE}/{8D6FE}{DC'BA}/</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">GerB 206</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Quartetto. in A. a Violino Primo, Secondo, Viola Violonzello. Del: Sig: Boccherini.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1780 (1780c)</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">295 x 235 mm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Umschlag umfaßt 2f.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Rechts oben in der Ecke auf dem Titelblatt Musikincipit der vl 1-Stimme (4 Takte), dort auch alte Signatur "Nro: 18:"; rechts unten in der Ecke runder roter Stempel mit dem Text: "Knihovna Zemského musea v Praze. Bibliothek des Landesmuseums in Prag."; weiterer länglicher roter Stempel "Archiv hrab. Jana Pachty"; dort auch Nummer "673/42"; links oben Nummer: "IV.14/359 čís 15."; darunter runder Stempel: "Umělecká beseda v Praze"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Beide runden Stempel auf allen Stimmen</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Zámek, Liblice</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Knihovna Zemského musea, Praha</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Umělecká beseda, Praha</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, a-vla, vlc</subfield>
+    <subfield code="b">2, 2, 2, 2f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-01-16 12:34:16 UTC (Update linked values)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-08-10 11:23:38 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2024-01-11 08:29:45 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2=" ">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">206</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Pachta, Jan Josef</subfield>
+    <subfield code="d">1756-1834</subfield>
+    <subfield code="0">people/30060345</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Zámek</subfield>
+    <subfield code="c">Liblice</subfield>
+    <subfield code="g">Ascertained</subfield>
+    <subfield code="0">institutions/30042212</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Knihovna Zemského musea</subfield>
+    <subfield code="c">Praha</subfield>
+    <subfield code="0">institutions/30042213</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Umělecká beseda</subfield>
+    <subfield code="c">Praha</subfield>
+    <subfield code="0">institutions/30042214</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">CZ-Pnm</subfield>
+    <subfield code="c">XXII B 58</subfield>
+    <subfield code="d">Nro: 18</subfield>
+    <subfield code="e">Národní muzeum - České muzeum hudby, Sbírka hudebněhistorického oddělení</subfield>
+    <subfield code="x">institutions/30000029</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; A; GerB 206</subfield>
+    <subfield code="0">works/33170</subfield>
+  </datafield>
+</record>

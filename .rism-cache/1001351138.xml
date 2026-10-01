@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/1001351138</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260216115013.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">3 Quartets</subfield>
+    <subfield code="m">cemb (2)</subfield>
+    <subfield code="o">Arr</subfield>
+    <subfield code="0">standard_titles/3900950</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[parts:] Quartetti | No: I° II° e III° | a Due Cembali | Cembalo I|m|o [II|d|o] | di Luigi Boccherini.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">ca. 1781-1800</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 parts</subfield>
+    <subfield code="c">23,5 x 32,5 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Von der besitzenden Bibliothek D-Dl durchgehend paginiert (p. 1-40).</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Alte Signatur der Königlichen Privatmusikaliensammlung auf der Titelseite von cemb 1</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bearbeitung von Streichquartetten. Die 1781 erschienene Druckausgabe RISM A/I B 3135 ist aus der Königlichen Privatmusikalien-Sammlung in D-Dl (Mus.3490.P.10) überliefert und diente vermutlich als Vorlage für die Bearbeitung.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In CatFriedrichAugustIII verzeichnet.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">cemb 1, 2</subfield>
+    <subfield code="b">10, 10f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="592" ind1=" " ind2=" ">
+    <subfield code="a">[lily] [countermark:] OBERGURCK</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="592" ind1=" " ind2=" ">
+    <subfield code="a">p. 21-40: [without watermark]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">cemb</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">cemb (2)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-09-03 08:58:16 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-09-10 09:17:31 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-09-26 08:23:11 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-10-08 07:27:36 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-02-16 11:50:13 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="7">
+    <subfield code="a">CatFriedrichAugustIII</subfield>
+    <subfield code="n">p. 47</subfield>
+    <subfield code="0">publications/30027603</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Friedrich August I., König von Sachsen</subfield>
+    <subfield code="d">1750-1827</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/344858</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Haußstädler, Johann Gottlieb</subfield>
+    <subfield code="d">1720c-1800c</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30035446</subfield>
+    <subfield code="4">scr</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Königliche Privat-Musikaliensammlung</subfield>
+    <subfield code="c">Dresden</subfield>
+    <subfield code="g">Ascertained</subfield>
+    <subfield code="0">institutions/30000738</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - Arr; cemb (2); [op. 32,1]; GerB 195</subfield>
+    <subfield code="w">sources/1001351143</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - Arr; cemb (2); [op. 32,2]; GerB 196</subfield>
+    <subfield code="w">sources/1001351145</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - Arr; cemb (2); [op. 32,3]; GerB 197</subfield>
+    <subfield code="w">sources/1001351146</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-Dl</subfield>
+    <subfield code="c">Mus.3490-P-10a</subfield>
+    <subfield code="d">Mus.c Cn LXXXII</subfield>
+    <subfield code="e">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)</subfield>
+    <subfield code="x">institutions/30000042</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://digital.slub-dresden.de/id1935644742</subfield>
+    <subfield code="x">Digitized</subfield>
+    <subfield code="z">Digitalisat der Musikhandschrift und Wasserzeichen</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">https://iiif.slub-dresden.de/iiif/2/1935644742/manifest.json</subfield>
+    <subfield code="x">IIIF manifest (digitized source)</subfield>
+    <subfield code="z">Digitalisat der Musikhandschrift und Wasserzeichen</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://digital.slub-dresden.de/id425389669/51</subfield>
+    <subfield code="x">Other</subfield>
+    <subfield code="z">Katalogeintrag CatFriedrichAugustIII</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="b">full</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2025-09-03 10:26:58</subfield>
+    <subfield code="0">1001221035</subfield>
+  </datafield>
+</record>

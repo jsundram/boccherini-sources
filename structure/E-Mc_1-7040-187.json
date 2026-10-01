@@ -1,0 +1,19 @@
+{
+ "folder": "G185/E-Mc_1-7040-187",
+ "scan_id": "E-Mc_1-7040-187",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 1,
+  "gerard": [
+   "185"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790842633,
+ "verified": null
+}

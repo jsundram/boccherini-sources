@@ -1,0 +1,33 @@
+{
+ "_readme": [
+  "Hand-set thumbnails, for the few items the automatic picker cannot get right.",
+  "Keyed by folder name (the scan id shown at the foot of each card).",
+  "  page: 1-based page to show, counted over the item's pages in the order the builder",
+  "        reads them (jpg run in filename order; PDFs least-cover-like first).",
+  "  crop: [x0, y0, x1, y1] as fractions of that page, applied instead of the automatic crop.",
+  "  note: shown in the zoom caption.",
+  "Prefer fixing the heuristic when a case generalises. Use this when it does not."
+ ],
+ "btv1b10886816j": {
+  "page": 1,
+  "crop": [
+   0.5,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "note": "title page; the facing verso is blank",
+  "why": "A double-page opening, blank verso on the left. The automatic crop cannot isolate it: the empty page is framed by a ruled border and a gutter shadow, so it carries as much edge energy at the margins as the title block does."
+ },
+ "US-Wc_M452-A2-B68-op54": {
+  "page": 2,
+  "crop": [
+   0.46,
+   0.2,
+   0.94,
+   0.76
+  ],
+  "note": "title page, cropped to the leaf",
+  "why": "Photographed oblong on a cream mount against a dark table. The automatic crop kept the mount's proportions and came out portrait; the book itself is landscape."
+ }
+}

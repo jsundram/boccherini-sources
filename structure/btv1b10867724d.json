@@ -1,0 +1,23 @@
+{
+ "folder": "G217/btv1b10867724d",
+ "scan_id": "btv1b10867724d",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 1,
+  "gerard": [
+   "217"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628347,
+ "verified": {
+  "date": "2026-09-29",
+  "how": "first page, by eye",
+  "found": "Manuscript, not print. Violoncello part of the April 1789 quartettino (G 217)."
+ }
+}

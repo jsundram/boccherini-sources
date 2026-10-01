@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000nca a2200000 u 4500</leader>
+  <controlfield tag="001">sources/1001382259</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260805091354.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">[p. 12, at left above the 1st stave:] Andantino con un poco di Motto [!]</subfield>
+    <subfield code="d">[at left of the 1st stave:] QUARTETTO V|o</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bB</subfield>
+    <subfield code="o">2/4</subfield>
+    <subfield code="p">848''CCC/{6.3CF}48CC/q8C'84BA''q8C{633'BAG}/q8A{668GFF}8-''F/4F{8DF}/4F</subfield>
+    <subfield code="r">F</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">[at left underneath the 13th stave:] Allegro</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bB</subfield>
+    <subfield code="o">c/</subfield>
+    <subfield code="p">''8{A'''C}/{''FACF}{'A''FC'A}8/F4FFF8F+/F4FFF8F/</subfield>
+    <subfield code="r">F</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">3</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">[p. 14, at left above the 1st stave:] Tempo di Menuetto</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bB</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">8{(AB''C)}/q8D{8C'B}''q8C{8'BA}q8B{8AG}/2G8{(GAB)}/q8''C{8'BA}q8B{8AG}q8A{8GF}/2F</subfield>
+    <subfield code="r">F</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23856</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23857</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23858</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23881</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23859</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23882</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23860</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23861</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23862</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23863</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23864</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23865</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23866</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23867</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23868</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23883</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23869</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23870</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23871</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23872</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23873</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23874</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23875</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23876</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23877</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23878</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23879</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/23880</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="m">vl (2), vla, b</subfield>
+    <subfield code="n">[op. 8/5]</subfield>
+    <subfield code="n">GerB 169</subfield>
+    <subfield code="r">F</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[without title]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">[op. 8/5]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">[title page, all parts, former shelfmark at top:] "No: 8 Н"</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Stamp of the "Державна публічна бібліотека УРСР" (dt.: Staatliche Öffentliche Bibliothek der Ukrainischen SSR; heute UA-Knbuv) with the inventory number "121068" on every part.</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Further small stamp "Вс. Б-ка України" of the "Всенародна бібліотека України" (dt.: Nationalbibliothek der Ukraine; heute UA-Knbuv) on every title page.</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The first page of vl 1 contains the publisher’s catalogue for 1778; it is therefore possible that this is a reprint from the old printing blocks from 1769.</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, b</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">121068</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23856</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23857</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23858</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23881</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23859</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23882</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23860</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23861</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23862</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23863</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23864</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23865</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23866</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23867</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23868</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23883</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23869</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23870</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23871</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23872</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23873</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23874</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23875</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23876</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23877</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23878</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23879</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/23880</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">b</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, b</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-08-05 09:13:54 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">169</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="7">
+    <subfield code="a">IvčenkoR 2004</subfield>
+    <subfield code="n">no. 241</subfield>
+    <subfield code="0">publications/30000179</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rozumovs'kyj, Oleksij Kyrylovyč, Graf</subfield>
+    <subfield code="d">1748-1822</subfield>
+    <subfield code="0">people/30105061</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">6 Quartets - vl (2), vla, vlc; op. 6</subfield>
+    <subfield code="w">sources/990005861</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">A-Wgm</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Gesellschaft der Musikfreunde in Wien, Archiv</subfield>
+    <subfield code="x">institutions/30000388</subfield>
+    <subfield code="3">holdings/23856</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">A-Wnh</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Österreichische Nationalbibliothek, Sammlung Anthony van Hoboken</subfield>
+    <subfield code="x">institutions/30000399</subfield>
+    <subfield code="3">holdings/23857</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">B-Bc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek</subfield>
+    <subfield code="x">institutions/30000438</subfield>
+    <subfield code="3">holdings/23858</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">B-Br</subfield>
+    <subfield code="c">Mus. 14.809 C</subfield>
+    <subfield code="e">Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR)</subfield>
+    <subfield code="x">institutions/30000440</subfield>
+    <subfield code="3">holdings/23881</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">B-Gc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Koninklijk Muziekconservatorium, Muziekbibliotheek</subfield>
+    <subfield code="x">institutions/30000444</subfield>
+    <subfield code="3">holdings/23859</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">B-MAR</subfield>
+    <subfield code="c">Sans cote 1/10</subfield>
+    <subfield code="e">Abbaye de Maredsous, Bibliothèque</subfield>
+    <subfield code="x">institutions/30004573</subfield>
+    <subfield code="3">holdings/23882</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">CH-BEk</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Hochschule der Künste Bern, Musikbibliothek</subfield>
+    <subfield code="x">institutions/30000222</subfield>
+    <subfield code="3">holdings/23860</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">CH-EN</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Kloster Engelberg, Musikbibliothek</subfield>
+    <subfield code="x">institutions/30000007</subfield>
+    <subfield code="3">holdings/23861</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">CH-Gc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Bibliothèque CMG-HEM</subfield>
+    <subfield code="q">2 Ex., davon 1 Ex. unvollständig</subfield>
+    <subfield code="x">institutions/30000234</subfield>
+    <subfield code="3">holdings/23862</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">CH-Gpu</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Bibliothèque de Genève</subfield>
+    <subfield code="q">vl I</subfield>
+    <subfield code="x">institutions/30000516</subfield>
+    <subfield code="3">holdings/23863</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">CZ-Pnm</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Národní muzeum - České muzeum hudby, Sbírka hudebněhistorického oddělení</subfield>
+    <subfield code="x">institutions/30000029</subfield>
+    <subfield code="3">holdings/23864</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">D-Kl</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel</subfield>
+    <subfield code="x">institutions/30000836</subfield>
+    <subfield code="3">holdings/23865</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">D-Mbs</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Bayerische Staatsbibliothek</subfield>
+    <subfield code="q">vl I</subfield>
+    <subfield code="x">institutions/30000882</subfield>
+    <subfield code="3">holdings/23866</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">DK-Kk</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant</subfield>
+    <subfield code="x">institutions/30001344</subfield>
+    <subfield code="3">holdings/23867</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">DK-Km</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Musikmuseet</subfield>
+    <subfield code="x">institutions/30001346</subfield>
+    <subfield code="3">holdings/23868</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">E-Mn</subfield>
+    <subfield code="c">Mp/2392|8</subfield>
+    <subfield code="e">Biblioteca Nacional de España</subfield>
+    <subfield code="x">institutions/30001386</subfield>
+    <subfield code="3">holdings/23883</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">F-C</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Bibliothèque-musée Inguimbertine</subfield>
+    <subfield code="x">institutions/30001435</subfield>
+    <subfield code="3">holdings/23869</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">F-Pc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Bibliothèque du Conservatoire</subfield>
+    <subfield code="q">2 Ex., 2. Ex.: vl I, vl II</subfield>
+    <subfield code="x">institutions/30001480</subfield>
+    <subfield code="3">holdings/23870</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">GB-Ckc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Rowe Music Library, King's College, University of Cambridge</subfield>
+    <subfield code="x">institutions/30001541</subfield>
+    <subfield code="3">holdings/23871</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">GB-Lbl</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">The British Library</subfield>
+    <subfield code="x">institutions/30001581</subfield>
+    <subfield code="3">holdings/23872</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">I-Gl</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Biblioteca del Conservatorio di musica Niccolò Paganini</subfield>
+    <subfield code="x">institutions/30001802</subfield>
+    <subfield code="3">holdings/23873</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">I-Mc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Biblioteca del Conservatorio Statale di Musica Giuseppe Verdi</subfield>
+    <subfield code="x">institutions/30000238</subfield>
+    <subfield code="3">holdings/23874</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">I-Nc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Biblioteca del Conservatorio di Musica S. Pietro a Majella</subfield>
+    <subfield code="x">institutions/30000223</subfield>
+    <subfield code="3">holdings/23875</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">I-Vc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Biblioteca del Conservatorio di Musica Benedetto Marcello</subfield>
+    <subfield code="x">institutions/30001975</subfield>
+    <subfield code="3">holdings/23876</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">NL-Uim</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Universiteit Utrecht - Instituut voor Muziekwetenschap</subfield>
+    <subfield code="x">institutions/30002045</subfield>
+    <subfield code="3">holdings/23877</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">S-L</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Universitetsbiblioteket</subfield>
+    <subfield code="x">institutions/30000153</subfield>
+    <subfield code="3">holdings/23878</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">S-Skma</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Musik- och teaterbiblioteket</subfield>
+    <subfield code="x">institutions/30002153</subfield>
+    <subfield code="3">holdings/23879</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">UA-Knbuv</subfield>
+    <subfield code="c">Rozum 000241</subfield>
+    <subfield code="d">No: 8 Н</subfield>
+    <subfield code="e">Nacional'na biblioteka Ukrajiny imeni V. I. Vernads'koho (NBUV), viddil muzyčnych fondiv</subfield>
+    <subfield code="x">institutions/30078247</subfield>
+    <subfield code="3">holdings/51090696</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">US-NH</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Yale University, Music Library</subfield>
+    <subfield code="x">institutions/30002351</subfield>
+    <subfield code="3">holdings/23880</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">https://DMGA.FAUST-HOSTING.DE/objekt_start.fau?prj=dmga&amp;dm=Quellenbestand&amp;ref=25382</subfield>
+    <subfield code="x">Other</subfield>
+    <subfield code="z">Mikrofilm im Deutschen Musikgeschichtlichen Archiv (D-Kdma) vorhanden</subfield>
+    <subfield code="3">holdings/23877</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-05 09:43:38</subfield>
+    <subfield code="0">1001382250</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-05 09:55:19</subfield>
+    <subfield code="0">1001382253</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-05 10:32:29</subfield>
+    <subfield code="0">1001382255</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-05 10:39:55</subfield>
+    <subfield code="0">1001382258</subfield>
+  </datafield>
+</record>

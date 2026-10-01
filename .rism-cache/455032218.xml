@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000nda a2200000 u 4500</leader>
+  <controlfield tag="001">sources/455032218</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412043521.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Menuetto. Con moto</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xFCG</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">4''CCD/'B{8.'Bt6''C}4'B/''C{8DCD'B}/{''C'AEA''CE}/4''CCD/'B{8.'Bt6''C}4'B/</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="k">Excerpts</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">GerB 206/3</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[all parts, f.1r, at left:] Menuetto con moto</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, vlc</subfield>
+    <subfield code="b">f.1r, 1r, 1r, 1r</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl 1</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl 2</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, vl 2, vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-01-16 11:55:44 UTC (Update linked values)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Instrumental pieces</subfield>
+    <subfield code="0">standard_terms/25243</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2=" ">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">206/3</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="a"/>
+    <subfield code="t">2 Quartets</subfield>
+    <subfield code="w">sources/455032216</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-MÜu</subfield>
+    <subfield code="c">Nk Ms.mus. 16</subfield>
+    <subfield code="e">Universitäts- und Landesbibliothek</subfield>
+    <subfield code="x">institutions/30000186</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; A; GerB 206</subfield>
+    <subfield code="0">works/33170</subfield>
+    <subfield code="4">excerpts</subfield>
+  </datafield>
+</record>

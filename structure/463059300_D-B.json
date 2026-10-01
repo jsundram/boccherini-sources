@@ -1,0 +1,21 @@
+{
+ "folder": "G217/463059300_D-B",
+ "scan_id": "463059300_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": "4 parts · 23,5 x 32 cm 4 parts",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 1,
+  "gerard": [
+   "217"
+  ],
+  "source_ids": [
+   "463059300"
+  ]
+ },
+ "source_mtime": 1790811509,
+ "verified": null
+}

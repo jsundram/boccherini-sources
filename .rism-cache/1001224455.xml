@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/1001224455</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412072529.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">clav, vl, vla, b</subfield>
+    <subfield code="m">pf, vl, vla, b</subfield>
+    <subfield code="n">GerB 259</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[6 Quatuors pour le Clavecin ou Pfte, Viol., Viole et Basse obligé.]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">parts</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">b missing.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Provisorische Titelaufnahme nach einer Katalogkarte.</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-09-09 05:24:37 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-03-26 15:29:43 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">259</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-Dl</subfield>
+    <subfield code="c">Mus.3490-Q-1</subfield>
+    <subfield code="e">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)</subfield>
+    <subfield code="x">institutions/30000042</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://digital.slub-dresden.de/id405724535-00000020/1517</subfield>
+    <subfield code="x">Other</subfield>
+    <subfield code="z">Katalogkarte</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, cemb, vl, vla, vlc; GerB 259</subfield>
+    <subfield code="0">works/47055</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="b">brief</subfield>
+    <subfield code="c">not_examined</subfield>
+  </datafield>
+</record>

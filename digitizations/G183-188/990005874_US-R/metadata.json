@@ -1,0 +1,186 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/20348",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/24036",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "part(s)",
+ "all_sigla": [
+  "A-Wgm",
+  "B-Bc",
+  "DK-Km",
+  "F-AU",
+  "F-C",
+  "F-MH",
+  "F-Pn",
+  "GB-Lbl",
+  "I-MOe",
+  "I-Nc",
+  "US-R",
+  "US-Wc"
+ ],
+ "source": "https://rism.online/sources/990005874",
+ "source_id": "990005874",
+ "title": "6 Quartets",
+ "full_title": "Sei quartetti per due violini, alto e basso ... libro quinto di quartetti ... opera XXVI. [Paris, La Chevardière; Lyon, Castaud; Bruxelles, Godefroy (gravé par Mme Oger)]",
+ "key": null,
+ "scoring": "vl (2), vla, b",
+ "gerard": "183",
+ "gerard_numbers": [
+  "183",
+  "184",
+  "185",
+  "186",
+  "187",
+  "188"
+ ],
+ "catalogs": [
+  "GerB 183",
+  "GerB 184",
+  "GerB 185",
+  "GerB 186",
+  "GerB 187",
+  "GerB 188"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": null
+ },
+ "physical": [],
+ "extent": [
+  "part(s)"
+ ],
+ "notes": [],
+ "incipits": 0,
+ "gerard_label": "183-188",
+ "holdings": {
+  "holdings/24026": {
+   "siglum": "A-Wgm",
+   "institution": "Gesellschaft der Musikfreunde in Wien, Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000388",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24027": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24028": {
+   "siglum": "DK-Km",
+   "institution": "Musikmuseet",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001346",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24029": {
+   "siglum": "F-AU",
+   "institution": "Bibliothèque municipale Jacques Lacarrière",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001426",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24030": {
+   "siglum": "F-C",
+   "institution": "Bibliothèque-musée Inguimbertine",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001435",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24031": {
+   "siglum": "F-MH",
+   "institution": "Bibliothèque municipale",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001468",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24032": {
+   "siglum": "F-Pn",
+   "institution": "Bibliothèque nationale de France, Département de la Musique",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001488",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24033": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24034": {
+   "siglum": "I-MOe",
+   "institution": "Biblioteca Estense Universitaria",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001837",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24035": {
+   "siglum": "I-Nc",
+   "institution": "Biblioteca del Conservatorio di Musica S. Pietro a Majella",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000223",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24036": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/51004700": {
+   "siglum": "US-Wc",
+   "institution": "The Library of Congress, Music Division",
+   "shelfmark": "M452.A2 B67 Case",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002492",
+   "source_type": "Print",
+   "extent": "part(s)"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005874"
+ ],
+ "rism_relation": "copy",
+ "publisher": "La Chevardière (and 2 other imprints)",
+ "publication_place": "Paris",
+ "publisher_established_by": "Imprint at the end of the RISM title; RISM leaves 260 $b empty."
+}

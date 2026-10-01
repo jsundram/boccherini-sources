@@ -1,0 +1,37 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b108868494",
+ "title": "Six Quartettino pour deux violons, alto et basse. Composés par Luigi Boccherini. Oeuvre 40. [Y. Gérard 236 à 241]",
+ "shelfmark": "VMA-3887 (8)",
+ "institution": "Bibliothèque nationale de France, département Musique, VMA-3887 (8)",
+ "siglum": "F-Pn",
+ "medium": "print",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1798",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108868494/manifest.json",
+ "pages": 27,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "236",
+ "gerard_numbers": [
+  "236",
+  "237",
+  "238",
+  "239",
+  "240",
+  "241"
+ ],
+ "gerard_label": "236-241",
+ "opus": "Op. 40 (publ. oeuvre 40)",
+ "gerard_established_by": "Title: 'Six Quartettino ... Oeuvre 40 ... Gérard 236'.",
+ "rism_related": [
+  "https://rism.online/sources/990005885"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same print of the same works (GerB 236, 237, 238, 239, 240, 241), matched on the Gérard set. They describe the edition, not this copy.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 27
+ }
+}

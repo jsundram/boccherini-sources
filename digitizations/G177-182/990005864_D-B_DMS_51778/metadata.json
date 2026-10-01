@@ -1,0 +1,229 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB00001E2E00000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/23909",
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "DMS 51778",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "part(s)",
+ "all_sigla": [
+  "B-Bc",
+  "B-Br",
+  "B-Gc",
+  "D-B",
+  "D-Dl",
+  "DK-Kk",
+  "F-Pmeyer",
+  "FIN-A",
+  "GB-Lbl",
+  "I-MOe",
+  "NL-At",
+  "RUS-SPsc",
+  "S-Sm",
+  "S-Uu",
+  "US-R"
+ ],
+ "source": "https://rism.online/sources/990005864",
+ "source_id": "990005864",
+ "title": "6 Quartets",
+ "full_title": "Six quartetto ou divertissement pour deux violons, taille et basse ... œuvre VIII [Amsterdam, J. J. Hummel]",
+ "key": null,
+ "scoring": "vl (2), vla, b",
+ "gerard": "178",
+ "gerard_numbers": [
+  "177",
+  "178",
+  "179",
+  "180",
+  "181",
+  "182"
+ ],
+ "catalogs": [
+  "GerB 178",
+  "GerB 179",
+  "GerB 181",
+  "GerB 180",
+  "GerB 177",
+  "GerB 182"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "324"
+ ],
+ "published": {
+  "place": "Amsterdam",
+  "publisher": "J. J. Hummel",
+  "date": "[1774]"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts",
+  "part(s)"
+ ],
+ "notes": [],
+ "incipits": 0,
+ "gerard_label": "177-182",
+ "holdings": {
+  "holdings/23906": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23907": {
+   "siglum": "B-Br",
+   "institution": "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR)",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000440",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23908": {
+   "siglum": "B-Gc",
+   "institution": "Koninklijk Muziekconservatorium, Muziekbibliotheek",
+   "shelfmark": "DS-569",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000444",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23909": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "DMS 51778",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/51032381": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 559",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23910": {
+   "siglum": "D-Dl",
+   "institution": "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)",
+   "shelfmark": "Mus.3490.P.7",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000042",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23911": {
+   "siglum": "DK-Kk",
+   "institution": "Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001344",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23912": {
+   "siglum": "F-Pmeyer",
+   "institution": "Collection André Meyer",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001487",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23913": {
+   "siglum": "FIN-A",
+   "institution": "Sibelius-museo, Arkisto",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002168",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23914": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "h.42.i.(1.)",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23915": {
+   "siglum": "I-MOe",
+   "institution": "Biblioteca Estense Universitaria",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001837",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23916": {
+   "siglum": "NL-At",
+   "institution": "Toonkunst-Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002021",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23917": {
+   "siglum": "RUS-SPsc",
+   "institution": "Rossijskaja nacional'naja biblioteka",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000181",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23918": {
+   "siglum": "S-Sm",
+   "institution": "Musikmuseet",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000254",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23919": {
+   "siglum": "S-Uu",
+   "institution": "Universitetsbibliotek, Carolina Rediviva",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000253",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23920": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "part(s)"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005864"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 36
+ }
+}

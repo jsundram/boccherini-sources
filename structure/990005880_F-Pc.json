@@ -1,0 +1,94 @@
+{
+ "folder": "G201-206/990005880_F-Pc",
+ "scan_id": "990005880_F-Pc",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 90,
+ "rism": {
+  "extent": "part(s) 4 parts part(s)",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 6,
+  "gerard": [
+   "201",
+   "202",
+   "203",
+   "204",
+   "205",
+   "206"
+  ],
+  "source_ids": [
+   "990005880"
+  ]
+ },
+ "source_mtime": 1790628343,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "990005880_F-Pc:004",
+    "part": "violin 1"
+   },
+   {
+    "page": 34,
+    "label": "990005880_F-Pc:034",
+    "part": "viola"
+   },
+   {
+    "page": 59,
+    "label": "990005880_F-Pc:059",
+    "part": "violin 2"
+   },
+   {
+    "page": 65,
+    "label": "990005880_F-Pc:065",
+    "part": "violin 1"
+   },
+   {
+    "page": 66,
+    "label": "990005880_F-Pc:066",
+    "part": "violin 2"
+   },
+   {
+    "page": 72,
+    "label": "990005880_F-Pc:072",
+    "part": "violin 1"
+   },
+   {
+    "page": 73,
+    "label": "990005880_F-Pc:073",
+    "part": "violin 2"
+   },
+   {
+    "page": 74,
+    "label": "990005880_F-Pc:074",
+    "part": "violin 1"
+   },
+   {
+    "page": 75,
+    "label": "990005880_F-Pc:075",
+    "part": "violin 2"
+   },
+   {
+    "page": 82,
+    "label": "990005880_F-Pc:082",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 34,
+    "label": "990005880_F-Pc:034",
+    "numeral": 4,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 10,
+  "n_work_starts": 1
+ },
+ "disagreements": [
+  "RISM says 4 parts; 10 part-book starts were read (one either way is usually a mis-split; two is not)"
+ ],
+ "verified": null
+}

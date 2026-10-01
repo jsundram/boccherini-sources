@@ -1,0 +1,46 @@
+{
+ "source": "private-photography",
+ "medium": "manuscript",
+ "form": "quartet",
+ "title": "Vma ms 1067 (6) — Quatuor, Op. 64 no. 2",
+ "composer": "Boccherini, Luigi (1743-1805)",
+ "date_statement": "Composed 1797; this copy [between 1810 and 1840] per RISM",
+ "opus": "Op. 64",
+ "opus_number": 2,
+ "gerard": "249",
+ "gerard_numbers": [
+  "249"
+ ],
+ "gerard_label": "249",
+ "key": "D",
+ "siglum": "F-Pn",
+ "institution": "Bibliothèque nationale de France, Département de la Musique",
+ "shelfmark": "Vma ms 1067 (6)",
+ "holding": "VMA MS-1067 (1-6)",
+ "pages": 21,
+ "parts": [
+  "violin1",
+  "violin2",
+  "viola",
+  "cello"
+ ],
+ "files": {
+  "all": "840022760_F-Pn.pdf"
+ },
+ "source_id": "840022760",
+ "rism_relation": "copy",
+ "rism_related": [
+  "https://rism.online/sources/840022760"
+ ],
+ "rism_volume_record": "https://rism.online/sources/840013692",
+ "photographed_by": "Melissa",
+ "photographed_on": "2026-04-09",
+ "photographed_at": "Bibliothèque nationale de France, Département de la Musique, Paris",
+ "irreplaceable": true,
+ "derived_from_photographs": true,
+ "note": "Volume position 6 of 6.",
+ "arrived_as": "pdf",
+ "arrived_as_note": "Supplied as a finished PDF, not collated here from page images, so there are no filenames whose meaning could be lost. `page_index` does not apply.",
+ "parts_note": "Violino 1°, Violino 2°, Alto, Violoncello — each with a wrapper and five leaves, per page-index.md.",
+ "gerard_corroborated_by": "RISM 840022760 catalogues this exact copy with GerB 249, and the title page names \"Opera 64\". Filed 2026-09-29."
+}

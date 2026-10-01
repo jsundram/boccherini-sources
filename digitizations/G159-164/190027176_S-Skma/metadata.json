@@ -1,0 +1,102 @@
+{
+ "kind": "digitized",
+ "url": "https://sok.statensmusikverk.se/Record/XrefMVMTB511804",
+ "note": null,
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "S-Skma",
+ "shelfmark": "W 4-R",
+ "former_shelfmark": null,
+ "institution": "Musik- och teaterbiblioteket",
+ "source_type": null,
+ "holding_extent": null,
+ "all_sigla": [],
+ "found_by_hand": true,
+ "source": "https://rism.online/sources/190027176",
+ "source_id": "190027176",
+ "title": "Quartets",
+ "full_title": "[without title]",
+ "key": "c",
+ "scoring": "vl (2), vla, b",
+ "gerard": "159",
+ "gerard_numbers": [
+  "159",
+  "160",
+  "161",
+  "162",
+  "163",
+  "164"
+ ],
+ "catalogs": [
+  "GerB 159"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": null
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [],
+ "incipits": 1,
+ "gerard_label": "159-164",
+ "holdings": {
+  "_0": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "W 4-R",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts"
+  }
+ },
+ "corrected": true,
+ "correction_note": "S-Skma W 4-R. RISM splits this one physical volume into six records (190027176-190027181), one per quartet, and both RISM and the Swedish catalogue call it a Musikhandskrift. It is in fact the Hummel print of opera prima (Amsterdam, J. J. Hummel) -- cf. RISM 990005852, which catalogues that edition. Recorded here as a correction, not asserted in RISM. — Catalogued as manuscript; identified as the Hummel print. Collection: Utile Dulci.",
+ "established_by": "downloaded and examined by hand, 2026-09-27",
+ "livraison": null,
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "159"
+  },
+  {
+   "n": 2,
+   "gerard": "160"
+  },
+  {
+   "n": 3,
+   "gerard": "161"
+  },
+  {
+   "n": 4,
+   "gerard": "162"
+  },
+  {
+   "n": 5,
+   "gerard": "163"
+  },
+  {
+   "n": 6,
+   "gerard": "164"
+  }
+ ],
+ "unidentified_works": 0,
+ "gerard_numbers_rism": [
+  "159"
+ ],
+ "suggested_filename": "S-Skma_W_4-R.pdf",
+ "rism_related": [
+  "https://rism.online/sources/190027176"
+ ],
+ "rism_relation": "copy"
+}

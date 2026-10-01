@@ -1,0 +1,30 @@
+{
+ "folder": "G213_232_235/btv1b10877495x",
+ "scan_id": "btv1b10877495x",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 64,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 3,
+  "gerard": [
+   "213",
+   "232",
+   "235"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628348,
+ "observed": {
+  "part_books": [],
+  "work_starts": [],
+  "n_part_books": 0,
+  "n_work_starts": 0
+ },
+ "disagreements": [
+  "nothing read — faint engraving, or not a printed part-book at all"
+ ],
+ "verified": null
+}

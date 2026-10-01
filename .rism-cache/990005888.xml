@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ncm a2200000 u 4500</leader>
+  <controlfield tag="001">sources/990005888</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412071454.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">B 3146</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/24226</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/24227</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, b</subfield>
+    <subfield code="n">GerB 177</subfield>
+    <subfield code="n">GerB 178</subfield>
+    <subfield code="n">GerB 181</subfield>
+    <subfield code="n">GerB 182</subfield>
+    <subfield code="n">GerB 179</subfield>
+    <subfield code="n">GerB 180</subfield>
+    <subfield code="r">F; E; c; E|b; F; D</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sei quartetti [F, E, c, Es, F, D] per due violini, viola e basso. [Venezia, Antonio Zatta &amp; figli]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">part(s)</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="510" ind1="2" ind2=" ">
+    <subfield code="a">A/I</subfield>
+    <subfield code="c">B 3146</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/24226</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/24227</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2018-04-11 14:26:14 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2019-03-05 14:17:43 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-11-29 14:29:35 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2023-05-10 10:11:16 UTC (Add 650: Quartets (inst.))</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2023-05-10 12:44:08 UTC (StandardTitle change id from 4337233 to 3900008)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2024-01-29 11:09:49 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-03-26 15:29:31 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">180</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">179</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">182</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">181</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">178</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">177</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Stamperia Zatta</subfield>
+    <subfield code="c">Venezia</subfield>
+    <subfield code="0">institutions/40011635</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="775" ind1=" " ind2=" ">
+    <subfield code="w">sources/990005887</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">A-Wgm</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Gesellschaft der Musikfreunde in Wien, Archiv</subfield>
+    <subfield code="x">institutions/30000388</subfield>
+    <subfield code="3">holdings/24226</subfield>
+  </datafield>
+  <datafield tag="852" ind1="1" ind2="0">
+    <subfield code="a">I-Nc</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Biblioteca del Conservatorio di Musica S. Pietro a Majella</subfield>
+    <subfield code="x">institutions/30000223</subfield>
+    <subfield code="3">holdings/24227</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; F; GerB 178</subfield>
+    <subfield code="0">works/33306</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; E; GerB 179</subfield>
+    <subfield code="0">works/33303</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; E|b; GerB 181</subfield>
+    <subfield code="0">works/33305</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; F; GerB 180</subfield>
+    <subfield code="0">works/33292</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; D; GerB 177</subfield>
+    <subfield code="0">works/33307</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; c; GerB 182</subfield>
+    <subfield code="0">works/33304</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

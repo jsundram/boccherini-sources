@@ -1,0 +1,77 @@
+{
+ "folder": "G165-170/bne-97478462-d18",
+ "scan_id": "bne-97478462-d18",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 62,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "165",
+   "166",
+   "167",
+   "168",
+   "169",
+   "170"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790578378,
+ "observed": {
+  "part_books": [
+   {
+    "page": 12,
+    "label": "BNE_97478462-d18:12",
+    "part": "violin 1"
+   },
+   {
+    "page": 22,
+    "label": "BNE_97478462-d18:22",
+    "part": "violin 2"
+   },
+   {
+    "page": 36,
+    "label": "BNE_97478462-d18:36",
+    "part": "viola"
+   },
+   {
+    "page": 42,
+    "label": "BNE_97478462-d18:42",
+    "part": "violin 1"
+   },
+   {
+    "page": 44,
+    "label": "BNE_97478462-d18:44",
+    "part": "viola"
+   },
+   {
+    "page": 54,
+    "label": "BNE_97478462-d18:54",
+    "part": "bass"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 3,
+    "label": "BNE_97478462-d18:03",
+    "numeral": 1,
+    "tempo": "grave",
+    "candidates": []
+   },
+   {
+    "page": 12,
+    "label": "BNE_97478462-d18:12",
+    "numeral": 2,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 6,
+  "n_work_starts": 2
+ },
+ "disagreements": [],
+ "verified": null
+}

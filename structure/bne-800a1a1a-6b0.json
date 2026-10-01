@@ -1,0 +1,75 @@
+{
+ "folder": "G189-194/bne-800a1a1a-6b0",
+ "scan_id": "bne-800a1a1a-6b0",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 60,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "189",
+   "190",
+   "191",
+   "192",
+   "193",
+   "194"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790581617,
+ "observed": {
+  "part_books": [
+   {
+    "page": 10,
+    "label": "BNE_800a1a1a-6b0:10",
+    "part": "violin 1"
+   },
+   {
+    "page": 21,
+    "label": "BNE_800a1a1a-6b0:21",
+    "part": "violin 2"
+   },
+   {
+    "page": 58,
+    "label": "BNE_800a1a1a-6b0:58",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 24,
+    "label": "BNE_800a1a1a-6b0:24",
+    "numeral": 5,
+    "tempo": "moderato",
+    "candidates": [
+     "189",
+     "192"
+    ]
+   },
+   {
+    "page": 26,
+    "label": "BNE_800a1a1a-6b0:26",
+    "numeral": 4,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 30,
+    "label": "BNE_800a1a1a-6b0:30",
+    "numeral": 7,
+    "tempo": "moderato",
+    "candidates": [
+     "189",
+     "192"
+    ]
+   }
+  ],
+  "n_part_books": 3,
+  "n_work_starts": 3
+ },
+ "disagreements": [],
+ "verified": null
+}

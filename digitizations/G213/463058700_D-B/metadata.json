@@ -1,0 +1,70 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0001500D00000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 587",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 24,5 x 33 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/463058700",
+ "source_id": "463058700",
+ "title": "Quartets",
+ "full_title": "[title page, vla:] Mese di Novembre. 1787. | Quartetto. | Per due Violini, Viola, e Violoncello Obbligato. | Composto da Luigi Boccherini | Professor di Musica all'attual Servizio di S. M. Cattolico [!] | e Compositor di Camera di S. M. il Re di Prussiana.",
+ "key": "A",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "213",
+ "gerard_numbers": [
+  "213"
+ ],
+ "catalogs": [
+  "GerB 213"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1787 (ca.)"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Ausführlicher Titel auf der vla-Stimme, die übrigen Stimmen mit Kurztitel \"Mese di DecNovembre 1787. | Quartetto. | [Instrumentenbezeichnung]\".",
+  "Auf der Titelseite der vla oben rechts Vermerk mit roter Tinte \"Bene 15 Junio | 96\", laut Thouret von der Hand Friedrich Wilhelms II."
+ ],
+ "incipits": 0,
+ "gerard_label": "213",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 587",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 24,5 x 33 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/463058700"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 41
+ }
+}

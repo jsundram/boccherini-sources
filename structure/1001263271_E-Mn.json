@@ -1,0 +1,92 @@
+{
+ "folder": "G201-206/1001263271_E-Mn",
+ "scan_id": "1001263271_E-Mn",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 66,
+ "rism": {
+  "extent": "4 parts 4 parts",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 1,
+  "gerard": [
+   "201"
+  ],
+  "source_ids": [
+   "1001263271"
+  ]
+ },
+ "source_mtime": 1790560488,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "E-Mn_Mp_2393_2:04",
+    "part": "violin 1"
+   },
+   {
+    "page": 24,
+    "label": "E-Mn_Mp_2393_2:24",
+    "part": "violin 2"
+   },
+   {
+    "page": 38,
+    "label": "E-Mn_Mp_2393_2:38",
+    "part": "viola"
+   },
+   {
+    "page": 52,
+    "label": "E-Mn_Mp_2393_2:52",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 24,
+    "label": "E-Mn_Mp_2393_2:24",
+    "numeral": 2,
+    "tempo": "allegretto",
+    "candidates": []
+   },
+   {
+    "page": 26,
+    "label": "E-Mn_Mp_2393_2:26",
+    "numeral": 1,
+    "tempo": "largo",
+    "candidates": []
+   },
+   {
+    "page": 44,
+    "label": "E-Mn_Mp_2393_2:44",
+    "numeral": 1,
+    "tempo": "allegro bizarro",
+    "candidates": []
+   },
+   {
+    "page": 48,
+    "label": "E-Mn_Mp_2393_2:48",
+    "numeral": 6,
+    "tempo": "allegro vivo",
+    "candidates": []
+   },
+   {
+    "page": 58,
+    "label": "E-Mn_Mp_2393_2:58",
+    "numeral": 4,
+    "tempo": "allegro bizarro",
+    "candidates": []
+   },
+   {
+    "page": 59,
+    "label": "E-Mn_Mp_2393_2:59",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 6
+ },
+ "disagreements": [],
+ "verified": null
+}

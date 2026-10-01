@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000nda a2200000 u 4500</leader>
+  <controlfield tag="001">sources/1001382200</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260805071847.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">[f. 1r, at left of the 1st stave:] Qvartetto | Larghetto</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bBEA</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">4'G''CD/qq{6DEF}r2E4D/Cq8D{C'nB''CD}/q8C2.'nB/</subfield>
+    <subfield code="r">c</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">[at left above the 7th stave:] Moderato</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bBEA</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">8'''C{8''BA}/{6GAGF}{8EE}{8.F3EF}/{8.G6E8C'''C''BA}/{6GAGF}{8EE}</subfield>
+    <subfield code="r">c</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="m">vl (2), vla, b</subfield>
+    <subfield code="n">[op. 15/6]</subfield>
+    <subfield code="n">GerB 182</subfield>
+    <subfield code="r">c</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[cover title b, f. 1r:] Qvarttetto [crossed out: El] Dis | Violino Primo | Violino Secundo | Alto Violla | et | Basso | [at foot right:] dell Segr. Luigi Boccherini</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">[op. 15/6]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">b part as cover.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">[cover title b, former shelfmark at top, also on every part:] "No: 7 Н"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">[cover title b, at top right:] "6" and a further small stamp "Вс. Б-ка України" of the "Всенародна бібліотека України" (dt.: Nationalbibliothek der Ukraine; heute UA-Knbuv).</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Stamp of the "Державна публічна бібліотека УРСР" (dt.: Staatliche Öffentliche Bibliothek der Ukrainischen SSR; heute UA-Knbuv) with the inventory number "121067" on every part.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, b</subfield>
+    <subfield code="b">1, 1, 1, 2 f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">121067</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">b</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, b</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-08-04 11:43:23 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-08-05 07:18:47 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">182</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">6 Quartets - vl (2), vla, b; [op. 15]</subfield>
+    <subfield code="w">sources/1001382168</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">UA-Knbuv</subfield>
+    <subfield code="c">Rozum 000240</subfield>
+    <subfield code="d">No: 7 Н</subfield>
+    <subfield code="e">Nacional'na biblioteka Ukrajiny imeni V. I. Vernads'koho (NBUV), viddil muzyčnych fondiv</subfield>
+    <subfield code="x">institutions/30078247</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-04 11:38:04</subfield>
+    <subfield code="0">1001382173</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-04 11:59:55</subfield>
+    <subfield code="0">1001382182</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-04 12:56:50</subfield>
+    <subfield code="0">1001382194</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-04 13:05:25</subfield>
+    <subfield code="0">1001382196</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-08-04 13:31:49</subfield>
+    <subfield code="0">1001382198</subfield>
+  </datafield>
+</record>

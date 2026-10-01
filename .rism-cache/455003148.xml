@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000nda a2200000 u 4500</leader>
+  <controlfield tag="001">sources/455003148</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20240625150735.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Allegro</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xF</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">4.'G{8GGG}/4.A{8AAA}/4''EC'A/2G4F/4.G{8GGG}/4.A{8A''CG}/4EC'A/4.G{8ABA}/</subfield>
+    <subfield code="r">G</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Andantino</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bBEAD</subfield>
+    <subfield code="o">c</subfield>
+    <subfield code="p">8.6{'FF}4''C{8.6CD}/{8C'B}2B{8.6EE}/2B{8.6B''C8'BA}/2.A{8.6AF}/48.6''C{'AF}''C{'AF}/C{,B'C}C{ED}/2C-/</subfield>
+    <subfield code="r">f</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">3</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Minuetto.</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xFCG</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">4''CCE/4.D8'B4''C/'A''ED/2.'B/4BB''C/4.'B8A4G/FAF/2F4E/</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">4</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Allegro</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bBE</subfield>
+    <subfield code="o">6/8</subfield>
+    <subfield code="p">{8'B''DF}{DFB}/{FB'''D}48''BG/FCED/{8'GB''D}{'B''DG}/{DGB}48GF/EDDC/</subfield>
+    <subfield code="r">B|b</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">GerB deest</subfield>
+    <subfield code="r">G</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[title page, f.85r:] 13|e Quatuor | [heading, f.85v:] 13|e Quatuor.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">score: f.85r-90v</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2018-08-29 16:40:53 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2024-06-25 15:07:35 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">deest</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">14 Quartets - vl (2), vla, vlc</subfield>
+    <subfield code="w">sources/455003135</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-F</subfield>
+    <subfield code="c">Mus Hs 1727</subfield>
+    <subfield code="e">Universitätsbibliothek Johann Christian Senckenberg. Abteilung Musik und Theater</subfield>
+    <subfield code="x">institutions/30000125</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

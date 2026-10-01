@@ -1,0 +1,65 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "3c3f765a-6103-49a3-b8d9-8442f2825bb9",
+ "title": "Notated Music / Printed Music Sei quartetti per due violini, alto e basso / composed by Signor Luigi Bocherini, di Lucca, camera virtuoso and composer of HRH Don Luigi, Infante di Spagnia; opera XXVI, fifth book of quartetti Boccherini, Luigi (1743-1805) — [1785] See the work Details Add to my BNE D",
+ "year": "1785",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "183",
+ "gerard_numbers": [
+  "183",
+  "184",
+  "185",
+  "186",
+  "187",
+  "188"
+ ],
+ "gerard_label": "183-188",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=3c3f765a-6103-49a3-b8d9-8442f2825bb9&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=3c3f765a-6103-49a3-b8d9-8442f2825bb9",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_3c3f765a-610.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "183"
+  },
+  {
+   "n": 2,
+   "gerard": "184"
+  },
+  {
+   "n": 3,
+   "gerard": "185"
+  },
+  {
+   "n": 4,
+   "gerard": "186"
+  },
+  {
+   "n": 5,
+   "gerard": "187"
+  },
+  {
+   "n": 6,
+   "gerard": "188"
+  }
+ ],
+ "corrected": true,
+ "printed_opus": "XXVI (Le Duc, Paris); Gerard normalizes to Op. 22",
+ "publisher": "Le Duc, Paris",
+ "shelfmark": "Mp/2392|9",
+ "established_by": "identified by hand from the scan, 2026-09-28",
+ "correction_note": "Op. 22 (G 183-188), the Paris edition issued as 'libro quinto di quartetti ... opera XXVI'. This is the Le Duc issue -- RISM source 990005875, which records an E-Mn copy at Mp/2392|9, very likely this one. RISM 990005874 is the earlier La Chevardiere issue of the same edition, confirming the publisher succession La Chevardiere -> Le Duc (-> Imbault). 'Opera XXVI' is the publisher's number; Op. 22 is Gerard's.",
+ "rism_related": [
+  "https://rism.online/sources/990005875",
+  "https://rism.online/sources/990005874"
+ ],
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "siglum_derived_from": "BNE Digital is E-Mn",
+ "shelfmark_note": "per RISM, unconfirmed",
+ "rism_relation": "copy"
+}

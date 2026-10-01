@@ -1,0 +1,21 @@
+{
+ "folder": "G210/1001161583_D-B",
+ "scan_id": "1001161583_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": "score: 15 p. · 22 x 32 cm score: 15 p.",
+  "parts_declared": null,
+  "form_declared": "score",
+  "works_declared": 1,
+  "gerard": [
+   "210"
+  ],
+  "source_ids": [
+   "1001161583"
+  ]
+ },
+ "source_mtime": 1790811490,
+ "verified": null
+}

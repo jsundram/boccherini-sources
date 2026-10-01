@@ -1,0 +1,37 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b10076417z",
+ "title": "\"IV Quartetto per due Violini, alto e Violoncello. Op. VI. 1769 [...] Luigi Boccherini\". Y. Gérard 168",
+ "shelfmark": "MS-200",
+ "institution": "Bibliothèque nationale de France, département Musique, VMA MS-200",
+ "siglum": "F-Pn",
+ "medium": "manuscript",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "19 -19",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10076417z/manifest.json",
+ "pages": 16,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "168",
+ "gerard_numbers": [
+  "168"
+ ],
+ "gerard_label": "168",
+ "opus": "Op. 8 no. 4",
+ "gerard_established_by": "Gallica's own title cites 'Y. Gérard 168'.",
+ "rism_related": [
+  "https://rism.online/sources/1001049158",
+  "https://rism.online/sources/240732",
+  "https://rism.online/sources/301002453",
+  "https://rism.online/sources/450023935",
+  "https://rism.online/sources/702000605",
+  "https://rism.online/sources/702003016"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same manuscript of the same works (GerB 168), matched on the Gérard set. They describe the edition, not this copy.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 16
+ }
+}

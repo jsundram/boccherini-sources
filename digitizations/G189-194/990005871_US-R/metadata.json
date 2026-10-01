@@ -1,0 +1,255 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/20184",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/24016",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "4 parts · 32,3 x 22,8 cm",
+ "all_sigla": [
+  "B-Ac",
+  "B-Bc",
+  "B-Br",
+  "D-B",
+  "D-BNba",
+  "D-Mbs",
+  "F-Pmeyer",
+  "FIN-A",
+  "GB-Lbl",
+  "I-Mc",
+  "I-Vc",
+  "J-Tk",
+  "NL-At",
+  "RUS-SPk",
+  "RUS-SPsc",
+  "US-R"
+ ],
+ "source": "https://rism.online/sources/990005871",
+ "source_id": "990005871",
+ "title": "6 Quartets",
+ "full_title": "Six Quatuors Concertants A Deux Violons Alto et Basse. Composés Par Luigi Boccherini, Œuvre XI. [Berlin: Chés  J. J. Hummel avec Privilége du Roi; Amsterdam: au Grand Magazin de Musique et aux Adresses ordinaires]",
+ "key": null,
+ "scoring": "vl (2), vla, b",
+ "gerard": "191",
+ "gerard_numbers": [
+  "189",
+  "190",
+  "191",
+  "192",
+  "193",
+  "194"
+ ],
+ "catalogs": [
+  "GerB 191",
+  "GerB 194",
+  "GerB 192",
+  "GerB 190",
+  "GerB 189",
+  "GerB 193"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "170"
+ ],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1779]"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [],
+ "incipits": 0,
+ "gerard_label": "189-194",
+ "holdings": {
+  "holdings/24002": {
+   "siglum": "B-Ac",
+   "institution": "Koninklijk Conservatorium - Artesis Hogeschool, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000428",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24003": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24004": {
+   "siglum": "B-Br",
+   "institution": "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR)",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000440",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/51032107": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 561",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/51032106": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 560",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24005": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "55 Apr 1",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24006": {
+   "siglum": "D-BNba",
+   "institution": "Beethoven-Haus, Forschungszentrum Beethoven-Archiv",
+   "shelfmark": "C BOCC / 4,1",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000692",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24007": {
+   "siglum": "D-Mbs",
+   "institution": "Bayerische Staatsbibliothek",
+   "shelfmark": "2 Mus.pr. 1784#Beibd.2",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000882",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24008": {
+   "siglum": "F-Pmeyer",
+   "institution": "Collection André Meyer",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001487",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24009": {
+   "siglum": "FIN-A",
+   "institution": "Sibelius-museo, Arkisto",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002168",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24010": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "h.42.u.(4.)",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/51032105": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "h.42.i.(2.)",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24011": {
+   "siglum": "I-Mc",
+   "institution": "Biblioteca del Conservatorio Statale di Musica Giuseppe Verdi",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000238",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24012": {
+   "siglum": "I-Vc",
+   "institution": "Biblioteca del Conservatorio di Musica Benedetto Marcello",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001975",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24013": {
+   "siglum": "J-Tk",
+   "institution": "Kunitachi Ongaku Daigaku",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30004431",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24014": {
+   "siglum": "NL-At",
+   "institution": "Toonkunst-Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002021",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24017": {
+   "siglum": "RUS-SPk",
+   "institution": "Sankt-Peterburgskaja gosudarstvennaja konservatorija imeni N. A. Rimskogo-Korsakova, Naučnaja muzykal'naja biblioteka",
+   "shelfmark": "Инв. № 217291",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002520",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24015": {
+   "siglum": "RUS-SPsc",
+   "institution": "Rossijskaja nacional'naja biblioteka",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000181",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  },
+  "holdings/24016": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "4 parts · 32,3 x 22,8 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005871"
+ ],
+ "rism_relation": "copy",
+ "publisher": "Chés  J. J. Hummel avec Privilége du Roi (and 1 other imprint)",
+ "publication_place": "Berlin",
+ "publisher_established_by": "Imprint at the end of the RISM title; RISM leaves 260 $b empty."
+}

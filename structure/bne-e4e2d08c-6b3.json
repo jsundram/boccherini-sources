@@ -1,0 +1,52 @@
+{
+ "folder": "G201-206/bne-e4e2d08c-6b3",
+ "scan_id": "bne-e4e2d08c-6b3",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 90,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "201",
+   "202",
+   "203",
+   "204",
+   "205",
+   "206"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790580876,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "BNE_e4e2d08c-6b3:004",
+    "part": "violin 1"
+   },
+   {
+    "page": 35,
+    "label": "BNE_e4e2d08c-6b3:035",
+    "part": "violin 2"
+   },
+   {
+    "page": 60,
+    "label": "BNE_e4e2d08c-6b3:060",
+    "part": "viola"
+   },
+   {
+    "page": 82,
+    "label": "BNE_e4e2d08c-6b3:082",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 4,
+  "n_work_starts": 0
+ },
+ "disagreements": [],
+ "verified": null
+}

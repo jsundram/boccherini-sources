@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/850508291</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20221016141228.0</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, b</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Basso | Quartetto I | Per | Due Violini Viola, e Basso | Del Sig.r Francesco Bogherini</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 parts</subfield>
+    <subfield code="c">22 x 29 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">vla missing</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, b</subfield>
+    <subfield code="b"/>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">b</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, b</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bogherini, Francesco</subfield>
+    <subfield code="0">people/30069639</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; GerB 160</subfield>
+    <subfield code="w">sources/850508292</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; GerB 164</subfield>
+    <subfield code="w">sources/850508294</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; GerB 159</subfield>
+    <subfield code="w">sources/850508296</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; GerB 161</subfield>
+    <subfield code="w">sources/850508293</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; GerB 163</subfield>
+    <subfield code="w">sources/850508297</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; GerB 162</subfield>
+    <subfield code="w">sources/850508295</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Rsg</subfield>
+    <subfield code="c">ms. mus. C.74 a-f</subfield>
+    <subfield code="e">Archivio musicale della Basilica di San Giovanni in Laterano</subfield>
+    <subfield code="x">institutions/30001913</subfield>
+  </datafield>
+</record>

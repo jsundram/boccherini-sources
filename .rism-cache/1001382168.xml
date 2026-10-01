@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/1001382168</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260910072627.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, b</subfield>
+    <subfield code="n">[op. 15]</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[without title]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[after 1772]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">34,3 x 21,5 (22) cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">[op. 15]</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, b</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="591" ind1=" " ind2=" ">
+    <subfield code="a">121062-121067</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">b</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, b</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-08-04 11:57:07 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-08-10 07:33:35 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-09-04 08:00:44 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-09-10 07:26:27 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="7">
+    <subfield code="a">IvčenkoR 2004</subfield>
+    <subfield code="n">no. 240</subfield>
+    <subfield code="0">publications/30000179</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rozumovs'kyj, Oleksij Kyrylovyč, Graf</subfield>
+    <subfield code="d">1748-1822</subfield>
+    <subfield code="0">people/30105061</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; [op. 15/2]; GerB 178</subfield>
+    <subfield code="w">sources/1001382173</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; [op. 15/3]; GerB 179</subfield>
+    <subfield code="w">sources/1001382182</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; [op. 15/5]; GerB 181</subfield>
+    <subfield code="w">sources/1001382194</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; [op. 15/4]; GerB 180</subfield>
+    <subfield code="w">sources/1001382196</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; [op. 15/1]; GerB 177</subfield>
+    <subfield code="w">sources/1001382198</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; [op. 15/6]; GerB 182</subfield>
+    <subfield code="w">sources/1001382200</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">UA-Knbuv</subfield>
+    <subfield code="c">Rozum 000240</subfield>
+    <subfield code="d">No: 7 Н</subfield>
+    <subfield code="e">Nacional'na biblioteka Ukrajiny imeni V. I. Vernads'koho (NBUV), viddil muzyčnych fondiv</subfield>
+    <subfield code="x">institutions/30078247</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,72 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0001C5D800000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 593",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 23,5 x 32 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/463059300",
+ "source_id": "463059300",
+ "title": "Quartets",
+ "full_title": "[title page, p. 1:]  Quartettino | per | Due Violini, | Viola, e Violoncello. | di | Luisi [!] Boccherini | Compositor di Camera di S. M. Prussiana | [on top, by other hand:] 1789. [space] mese di Aprile",
+ "key": "C",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "217",
+ "gerard_numbers": [
+  "217"
+ ],
+ "catalogs": [
+  "GerB 217"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1790-1800 (ca.)"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Durchlaufende bibliothekarische Bleistiftpaginierung (einschl. Titelumschlag) 1-20.",
+  "Titelumschlag und 4 Stimmen.",
+  "Vgl. auch KHM 592 (Stimmenabschrift des Berliner Kopisten Schober)."
+ ],
+ "incipits": 0,
+ "gerard_label": "217",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 593",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 23,5 x 32 cm",
+   "watermark": "1) [ascending lion with sword] [countermark: letters \"ES\":] E S"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/463059300"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 21
+ }
+}

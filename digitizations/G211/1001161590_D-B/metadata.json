@@ -1,0 +1,72 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0003048900000000",
+ "note": "Digitalisat",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 583",
+ "former_shelfmark": "h.39.",
+ "source_type": "Manuscript copy",
+ "holding_extent": "score: 22 p. · 22 x 32 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/1001161590",
+ "source_id": "1001161590",
+ "title": "Quartets",
+ "full_title": "[cover title, p. 1:] Opera 1a | Quartettino V°. | Per due Violini, Viola, è Violoncello, Composto per S. A. Rle. | Dn. Luigi Infante di Spagna. | da Luigi Boccherini, Virtuoso di Camera, è Compositore di Musica. | della Prefata S. A. Rle.",
+ "key": "e",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "211",
+ "gerard_numbers": [
+  "211"
+ ],
+ "catalogs": [
+  "GerB 211"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1781 (ca)"
+ },
+ "physical": [],
+ "extent": [
+  "score: 22 p."
+ ],
+ "notes": [
+  "Notenpapier mit 10 Systemen",
+  "p. [23-24] nur rastriert",
+  "Etikett mit Aufdruck \"h.39.\" auf dem Titelblatt aufgeklebt (oben rechts)"
+ ],
+ "incipits": 0,
+ "gerard_label": "211",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 583",
+   "former_shelfmark": "h.39.",
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "score: 22 p. · 22 x 32 cm",
+   "watermark": "R. ROMANI; tree stars in crowned shield"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/1001161590"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 25
+ }
+}

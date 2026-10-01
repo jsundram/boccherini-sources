@@ -1,0 +1,360 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/20350",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/24066",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "4 parts · 34,5 x 27 cm",
+ "all_sigla": [
+  "A-Wgm",
+  "B-Bc",
+  "B-Gc",
+  "CH-Gamoudruz",
+  "D-B",
+  "D-BDHlebermann",
+  "D-BNba",
+  "D-Dl",
+  "DK-Km",
+  "E-Mn",
+  "F-AU",
+  "F-MH",
+  "F-Pc",
+  "F-Pn",
+  "GB-Er",
+  "GB-Lbl",
+  "I-Fc",
+  "I-MOe",
+  "I-Mc",
+  "I-Mcom",
+  "I-PAc",
+  "J-Tk",
+  "NL-At",
+  "NL-Uim",
+  "RUS-SPk",
+  "S-Skma",
+  "US-AAu",
+  "US-R",
+  "US-Wc"
+ ],
+ "source": "https://rism.online/sources/990005876",
+ "source_id": "990005876",
+ "title": "6 Quartets",
+ "full_title": "Sei Quartetti Concertanti Per Due Violini Alto é Violoncello Composti Da Luigi Boccherini Compositore e Virtuoso di Camera Di S. A. R. Don Luigi Jnfante D'Jspagna. Opera 27. - Paris: Chéz le S|r Sieber [or Sieber père], musicien, rue St honoré à l'hôtel D'Aligre Ancien Grand Conseil ou l'on trouve plusieurs nouveau Ouvrages, A.P.D.R.",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "191",
+ "gerard_numbers": [
+  "189",
+  "190",
+  "191",
+  "192",
+  "193",
+  "194"
+ ],
+ "catalogs": [
+  "GerB 191",
+  "GerB 194",
+  "GerB 192",
+  "GerB 190",
+  "GerB 189",
+  "GerB 193"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "436",
+  "s. No."
+ ],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1777]"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts",
+  "4 x 13 p."
+ ],
+ "notes": [
+  "Inscription on vl 1: \"Sieber\"",
+  "LC copy is not the 1777 edition; rather, it is a reissue [1807-1815] using the same plates."
+ ],
+ "incipits": 0,
+ "gerard_label": "189-194",
+ "holdings": {
+  "holdings/24041": {
+   "siglum": "A-Wgm",
+   "institution": "Gesellschaft der Musikfreunde in Wien, Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000388",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24042": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24043": {
+   "siglum": "B-Gc",
+   "institution": "Koninklijk Muziekconservatorium, Muziekbibliotheek",
+   "shelfmark": "A-1716",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000444",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24044": {
+   "siglum": "CH-Gamoudruz",
+   "institution": "Collection M. Emile Amoudruz",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000514",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24045": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24046": {
+   "siglum": "D-BDHlebermann",
+   "institution": "Privatsammlung Walter Lebermann",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000676",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24047": {
+   "siglum": "D-BNba",
+   "institution": "Beethoven-Haus, Forschungszentrum Beethoven-Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000692",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24048": {
+   "siglum": "D-Dl",
+   "institution": "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000042",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24049": {
+   "siglum": "DK-Km",
+   "institution": "Musikmuseet",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001346",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24067": {
+   "siglum": "E-Mn",
+   "institution": "Biblioteca Nacional de España",
+   "shelfmark": "Mp/2392|10",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001386",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24050": {
+   "siglum": "F-AU",
+   "institution": "Bibliothèque municipale Jacques Lacarrière",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001426",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24051": {
+   "siglum": "F-MH",
+   "institution": "Bibliothèque municipale",
+   "shelfmark": "MN 4862,2 /A,C",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001468",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24052": {
+   "siglum": "F-Pc",
+   "institution": "Bibliothèque du Conservatoire",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001480",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24053": {
+   "siglum": "F-Pn",
+   "institution": "Bibliothèque nationale de France, Département de la Musique",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001488",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24054": {
+   "siglum": "GB-Er",
+   "institution": "Reid Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001565",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24055": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24056": {
+   "siglum": "I-Fc",
+   "institution": "Biblioteca del Conservatorio di musica Luigi Cherubini",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001778",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24057": {
+   "siglum": "I-Mc",
+   "institution": "Biblioteca del Conservatorio Statale di Musica Giuseppe Verdi",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000238",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24058": {
+   "siglum": "I-Mcom",
+   "institution": "Biblioteca Sormani",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001824",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24059": {
+   "siglum": "I-MOe",
+   "institution": "Biblioteca Estense Universitaria",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001837",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24060": {
+   "siglum": "I-PAc",
+   "institution": "Sezione musicale della Biblioteca Palatina",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001861",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24061": {
+   "siglum": "J-Tk",
+   "institution": "Kunitachi Ongaku Daigaku",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30004431",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24062": {
+   "siglum": "NL-At",
+   "institution": "Toonkunst-Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002021",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24063": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24068": {
+   "siglum": "RUS-SPk",
+   "institution": "Sankt-Peterburgskaja gosudarstvennaja konservatorija imeni N. A. Rimskogo-Korsakova, Naučnaja muzykal'naja biblioteka",
+   "shelfmark": "Инв. № 36085",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002520",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24064": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24065": {
+   "siglum": "US-AAu",
+   "institution": "University of Michigan, Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002177",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24066": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/51004701": {
+   "siglum": "US-Wc",
+   "institution": "The Library of Congress, Music Division",
+   "shelfmark": "M452.A2 B67 Case",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002492",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005876"
+ ],
+ "rism_relation": "copy"
+}

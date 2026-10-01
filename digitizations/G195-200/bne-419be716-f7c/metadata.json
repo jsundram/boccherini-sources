@@ -1,0 +1,60 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "419be716-f7cb-4475-8d01-8f47720be47a",
+ "title": "Notated Music / Printed Music Six quatuors a deux violons, viole et basse obligés / composed by Luigi Boccherini, musicien de la chambre de HRH Don Louis Infant d'Espagne &c &c ; oeuvre XXXII Boccherini, Luigi (1743-1805) — [ca. 1785] See the work Details Add to my BNE Digital",
+ "year": "1785",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "195",
+ "gerard_numbers": [
+  "195",
+  "196",
+  "197",
+  "198",
+  "199",
+  "200"
+ ],
+ "gerard_label": "195-200",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=419be716-f7cb-4475-8d01-8f47720be47a&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=419be716-f7cb-4475-8d01-8f47720be47a",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_419be716-f7c.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "195"
+  },
+  {
+   "n": 2,
+   "gerard": "196"
+  },
+  {
+   "n": 3,
+   "gerard": "197"
+  },
+  {
+   "n": 4,
+   "gerard": "198"
+  },
+  {
+   "n": 5,
+   "gerard": "199"
+  },
+  {
+   "n": 6,
+   "gerard": "200"
+  }
+ ],
+ "corrected": true,
+ "established_by": "identified by hand from the scan, 2026-09-28",
+ "correction_note": "Op. 26, complete and in Gerard order. RISM records an E-Mn copy of this edition as source 990005879, shelfmark Mp/2392|11 -- very likely this same copy, though BNE's viewer id gives no shelfmark to confirm it.",
+ "rism_related": [
+  "https://rism.online/sources/990005879"
+ ],
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "siglum_derived_from": "BNE Digital is E-Mn",
+ "rism_relation": "copy"
+}

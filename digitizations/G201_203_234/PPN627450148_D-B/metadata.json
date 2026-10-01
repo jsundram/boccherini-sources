@@ -1,0 +1,34 @@
+{
+ "source": "sbb",
+ "portal": "SBB",
+ "ppn": "PPN627450148",
+ "volume": null,
+ "siglum": "D-B",
+ "title": "Douze Quatuors Pour Deux Violons, Alto et Violoncelle : Œuvre 39.; ... Livraison Livraison 1. 1815 | Volume DMS 51778 | In: Douze Quatuors Pour Deux Violons, Alto et Violoncelle",
+ "gerard": "201",
+ "gerard_numbers": [
+  "201",
+  "203",
+  "234"
+ ],
+ "gerard_label": "201, 203, 234",
+ "medium": "print",
+ "form": "quartet",
+ "year": "1815",
+ "url": "https://digital-beta.staatsbibliothek-berlin.de/werkansicht?PPN=PPN627450148",
+ "mets": "https://content.staatsbibliothek-berlin.de/dc/PPN627450148.mets.xml",
+ "pages": 52,
+ "found_by_hand": false,
+ "found_via": "saved SBB search page",
+ "opus": "Pleyel oeuvre 39, livr. 1",
+ "gerard_established_by": "SBB title: 'Œuvre 39 ... Livraison 1'. Pleyel's 'Douze quatuors, oeuvre 39' in four livraisons of three. The livraison-to-Gerard mapping is the one established by hand from the Berlin, Munich and Rochester copies and recorded in corrections.json under 990005884.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 52
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005884"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same print of the same works (GerB 201, 203, 234), matched on the title; the Gérard numbers differ because RISM numbers this edition as a whole while this folder carries the livraison's own. They describe the edition, not this copy."
+}

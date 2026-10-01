@@ -1,0 +1,39 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b108677212",
+ "title": "Mese di febbraro. 1789 // quartettino // per due violini, viola e violoncello obbligato // di luigi Boccherini // compositor di camera di S. M. Prussiana",
+ "shelfmark": "D-11157",
+ "institution": "Bibliothèque nationale de France, département Musique, D-11157",
+ "siglum": "F-Pn",
+ "medium": "manuscript",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1790-1810",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108677212/manifest.json",
+ "pages": 20,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "216",
+ "gerard_numbers": [
+  "216"
+ ],
+ "gerard_label": "216",
+ "opus": "Op. 42 no. 1",
+ "gerard_established_by": "Prior-pass download filenames in boccherini-quartet-data/manuscripts, matched to this ark by Gallica title and page count. RISM records no GerB number for this source.",
+ "rism_related": [
+  "https://rism.online/sources/840013702"
+ ],
+ "rism_related_established_by": "Shelfmark join: RISM records 1 source(s) at F-Pn D-11157, the shelfmark this folder carries. RISM links no scan for them, so this is the record, not the copy.",
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 20
+ },
+ "record_type": "manuscript",
+ "medium_established_by": "Corrected 2026-09-29. Labelled 'print' by the Gallica classifier; the page is plainly handwritten — 'Mese di Febbraro 1789 / quartettino ... Violino Primo' in a hand, with F-Pn stamps. RISM agrees: source 840013702 is a Manuscript copy at D-11157. OCR read nothing off it, which was the symptom that surfaced it.",
+ "contents_verified": {
+  "date": "2026-09-29",
+  "how": "first page, by eye",
+  "found": "Manuscript, not print. Violino Primo part of the Feb 1789 quartettino (G 216)."
+ }
+}

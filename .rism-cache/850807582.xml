@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndm a2200000 u 4500</leader>
+  <controlfield tag="001">sources/850807582</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20250313085833.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="b">ita</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Quartetti I. | Per due Violini, Viola, e | Violoncello | Del Sige Luigi Boccherini</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[1750-1799]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">225 x 295 mm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Contiene 6 quartetti: Quartetto n. 1 in re maggiore, Gerard 161 ; n. 2 in mi maggiore, Gerard 163 ; n. 3 in si bemolle maggiore, Gerard 160 ; n. 4 in mi bemolle maggiore, Gerard 162 ; n. 5 in do minore, Gerard 159 ; n. 6 in do maggiore, Gerard 164</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Si tratta di sei trii, suddivisi in sei fascicoli di quattro parti ciascuno (vl1, vl2: 2 c. ; 1 c. per n. 6, vla: 1 c.; 2 c. per n.2 e n.5, vlc: 2 c.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Sul frontespizio di ogni fascicolo, che coincide con quello della parte del vlc, in basso a destra: "Ad uso del Cav[alie]r Antonio Sérmolli"; in alto a sinsitra si trova l'incipit musicale</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Corrisponde a Rism AI, B3100-3114</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, vl 2, vla, vlc</subfield>
+    <subfield code="b">10, 10, 10, 10 f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">abbreviated</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-09-24 17:51:53 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-08-23 16:14:10 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2023-02-01 17:50:00 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-03-13 08:58:33 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Sermolli, Antonio</subfield>
+    <subfield code="0">people/41022775</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-MTc</subfield>
+    <subfield code="c">A3a-f</subfield>
+    <subfield code="e">Biblioteca comunale Leandro Magnani</subfield>
+    <subfield code="x">institutions/30004845</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/PTA0000147</subfield>
+    <subfield code="x">Other</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">import</subfield>
+  </datafield>
+</record>

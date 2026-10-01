@@ -1,0 +1,90 @@
+{
+ "folder": "G201-206/btv1b90663033",
+ "scan_id": "btv1b90663033",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 90,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "201",
+   "202",
+   "203",
+   "204",
+   "205",
+   "206"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628356,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "btv1b90663033:004",
+    "part": "violin 1"
+   },
+   {
+    "page": 34,
+    "label": "btv1b90663033:034",
+    "part": "viola"
+   },
+   {
+    "page": 59,
+    "label": "btv1b90663033:059",
+    "part": "violin 2"
+   },
+   {
+    "page": 65,
+    "label": "btv1b90663033:065",
+    "part": "violin 1"
+   },
+   {
+    "page": 66,
+    "label": "btv1b90663033:066",
+    "part": "violin 2"
+   },
+   {
+    "page": 72,
+    "label": "btv1b90663033:072",
+    "part": "violin 1"
+   },
+   {
+    "page": 73,
+    "label": "btv1b90663033:073",
+    "part": "violin 2"
+   },
+   {
+    "page": 74,
+    "label": "btv1b90663033:074",
+    "part": "violin 1"
+   },
+   {
+    "page": 75,
+    "label": "btv1b90663033:075",
+    "part": "violin 2"
+   },
+   {
+    "page": 82,
+    "label": "btv1b90663033:082",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 34,
+    "label": "btv1b90663033:034",
+    "numeral": 4,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 10,
+  "n_work_starts": 1
+ },
+ "disagreements": [],
+ "verified": null
+}

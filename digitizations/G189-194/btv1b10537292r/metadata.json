@@ -1,0 +1,42 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b10537292r",
+ "title": "Opera I. 1777. // Sei Quartetti // Per 2. Violini, Viola, e Violoncello obbto. // Composti per S.A.Rle. Don. Luigi Infante di Spagna ec. // Da Luigi Boccherini // Virtuoso di Camera, e Compositore di S.A.Rle. // Opera I. 1777 (manuscrit autographe)",
+ "shelfmark": "MS-1292",
+ "institution": "Bibliothèque nationale de France, département Musique, MS-1292",
+ "siglum": "F-Pn",
+ "medium": "autograph",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": true,
+ "date": "1776-1778",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537292r/manifest.json",
+ "pages": 118,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "189",
+ "gerard_numbers": [
+  "189",
+  "190",
+  "191",
+  "192",
+  "193",
+  "194"
+ ],
+ "gerard_label": "189-194",
+ "opus": "Op. 24 nos. 1-6",
+ "gerard_established_by": "Prior-pass download filenames in boccherini-quartet-data/manuscripts, matched to this ark by Gallica title and page count. RISM records no GerB number for this source.",
+ "rism_related": [
+  "https://rism.online/sources/840013689",
+  "https://rism.online/sources/840022738",
+  "https://rism.online/sources/840022739",
+  "https://rism.online/sources/840022740",
+  "https://rism.online/sources/840022741",
+  "https://rism.online/sources/840022742"
+ ],
+ "rism_related_established_by": "Shelfmark join: RISM records 6 source(s) at F-Pn MS-1292, the shelfmark this folder carries. RISM links no scan for them, so this is the record, not the copy.",
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 118
+ }
+}

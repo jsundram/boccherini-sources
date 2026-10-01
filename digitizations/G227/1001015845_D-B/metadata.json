@@ -1,0 +1,71 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0002031100000000",
+ "note": "Digitalisat",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 603",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 24,5 x 33,5 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/1001015845",
+ "source_id": "1001015845",
+ "title": "Quartets",
+ "full_title": "[title page, vla:]  Mese di Aprile. 1794. | Quartettino. | Per due Violini, Viola, e Violoncello. | di Luigi Boccherini | Compositore di Camera di S. M. il Rè di Prussia",
+ "key": "A",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "227",
+ "gerard_numbers": [
+  "227"
+ ],
+ "catalogs": [
+  "GerB 227"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1794 (ca.)"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Durchlaufende bibliothekarische Bleistiftpaginierung 1-24.",
+  "Vollständiger Titel auf der vla-Stimme, die anderen Stimmen mit verkürzten Titelblättern: \"Mese di Aprile 1794. | Quartettino | [Stimmenbezeichnung] | di Boccherini.\"",
+  "Berliner Abschrift; das Autograph lt. GerB in F-Pc."
+ ],
+ "incipits": 0,
+ "gerard_label": "227",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 603",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 24,5 x 33,5 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/1001015845"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 25
+ }
+}

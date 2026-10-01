@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/463056900</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20240625143108.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">op.22</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[title page, vla:] 6. Quartetti | Per due Violini, Viola, e Violoncello Obbligato | Fatto per Servizio | di S. A. R.le D.n Luigi Infante di Spagna. | da Luigi Boccherini, Virtuoso di Camera, e Compositore di Musica | di S. A. R.le [on top, right, by other hand:] Opera 3.za 1775</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1776-1800 (18.4q)</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">24,5 x 32,5/33 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op.22</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Durchlaufende bibliothekarische Bleistiftpaginierung.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Berliner Stimmensatz der Quartette op. 22, vermutlich kopiert nach den von einem spanischen Kopisten angefertigten Stimmensätzen der einzelnen Quartette KHM 563-668. Ein weiterer Stimmensatz, ebenfalls von Schober geschrieben, unter der Signatur KHM 570.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Vollständiger Titel auf der vla-Stimme. Die übrigen Stimmen mit verkürztem Titelblatt "Opera 3.za 1775. | 6. Quartetti | [Stimmenbezeichnung] | di Boccherini".</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Auf dem Titelblatt der vla-Stimme von anderen Händen oben mittig "Viola", oben rechts klein "XXVI."</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, vl 2, vla, vlc</subfield>
+    <subfield code="b">28, 28, 28, 28p.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-10-19 14:39:42 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2024-06-25 14:31:08 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Copyist Schober</subfield>
+    <subfield code="d">18.sc</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/20000134</subfield>
+    <subfield code="4">scr</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.22,1; GerB 183</subfield>
+    <subfield code="w">sources/463056901</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.22,2; GerB 184</subfield>
+    <subfield code="w">sources/463056902</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.22,3; GerB 185</subfield>
+    <subfield code="w">sources/463056903</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.22,5; GerB 187</subfield>
+    <subfield code="w">sources/463056905</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.22,6; GerB 188</subfield>
+    <subfield code="w">sources/463056906</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.22,4; GerB 186</subfield>
+    <subfield code="w">sources/463056904</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-B</subfield>
+    <subfield code="c">KHM 569</subfield>
+    <subfield code="e">Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung</subfield>
+    <subfield code="x">institutions/30000655</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

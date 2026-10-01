@@ -1,0 +1,103 @@
+{
+ "folder": "G201-206/bne-495569cd-001",
+ "scan_id": "bne-495569cd-001",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 66,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "201",
+   "202",
+   "203",
+   "204",
+   "205",
+   "206"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790581176,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "BNE_495569cd-001:04",
+    "part": "violin 1"
+   },
+   {
+    "page": 24,
+    "label": "BNE_495569cd-001:24",
+    "part": "violin 2"
+   },
+   {
+    "page": 38,
+    "label": "BNE_495569cd-001:38",
+    "part": "viola"
+   },
+   {
+    "page": 52,
+    "label": "BNE_495569cd-001:52",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 24,
+    "label": "BNE_495569cd-001:24",
+    "numeral": 2,
+    "tempo": "allegretto",
+    "candidates": [
+     "206"
+    ]
+   },
+   {
+    "page": 26,
+    "label": "BNE_495569cd-001:26",
+    "numeral": 1,
+    "tempo": "largo",
+    "candidates": []
+   },
+   {
+    "page": 44,
+    "label": "BNE_495569cd-001:44",
+    "numeral": 1,
+    "tempo": "allegro bizarro",
+    "candidates": [
+     "204"
+    ]
+   },
+   {
+    "page": 48,
+    "label": "BNE_495569cd-001:48",
+    "numeral": 6,
+    "tempo": "allegro vivo",
+    "candidates": [
+     "203"
+    ]
+   },
+   {
+    "page": 58,
+    "label": "BNE_495569cd-001:58",
+    "numeral": 4,
+    "tempo": "allegro bizarro",
+    "candidates": [
+     "204"
+    ]
+   },
+   {
+    "page": 59,
+    "label": "BNE_495569cd-001:59",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 6
+ },
+ "disagreements": [],
+ "verified": null
+}

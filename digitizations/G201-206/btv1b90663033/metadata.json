@@ -1,0 +1,37 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b90663033",
+ "title": "Sei Quartetti per due violini, viola e violoncello... opera XXXIII. [G 201]",
+ "shelfmark": "AC E4-133",
+ "institution": "Bibliothèque nationale de France, département Musique, AC E4-133",
+ "siglum": "F-Pc",
+ "medium": "print",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1782",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90663033/manifest.json",
+ "pages": 103,
+ "siglum_derived_from": "RISM assigns the Ancien Conservatoire collection to F-Pc, not F-Pn. Gallica's 'département Musique' misled the earlier derivation: BnF Musique holds the former Conservatoire material, but RISM keeps it under the Conservatoire siglum.",
+ "duplicate_of": "G201-206/990005880_F-Pc",
+ "duplicate_note": "Same Gallica ark btv1b90663033, identical images (001.jpg md5 matches). The RISM-linked copy at G201-206/990005880_F-Pc is canonical; this folder arrived separately from the Gallica search. Op. 32, G 201-206.",
+ "gerard": "201",
+ "gerard_numbers": [
+  "201",
+  "202",
+  "203",
+  "204",
+  "205",
+  "206"
+ ],
+ "gerard_label": "201-206",
+ "rism_related": [
+  "https://rism.online/sources/990005880"
+ ],
+ "rism_related_established_by": "Shelfmark join: RISM records 1 source(s) at F-Pc AC E4-133, the shelfmark this folder carries. RISM links no scan for them, so this is the record, not the copy.",
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 103
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b10886821q",
+ "title": "Sei Quartetti per due violini, alto e violoncello..., da Luigi Boccherini, opera X, libro terzo de quartetti [Y. Gérard, 171-176]",
+ "shelfmark": "VMA-3887 (3)",
+ "institution": "Bibliothèque nationale de France, département Musique, VMA-3887 (3)",
+ "siglum": "F-Pn",
+ "medium": "print",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1790",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10886821q/manifest.json",
+ "pages": 30,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "171",
+ "gerard_numbers": [
+  "171",
+  "172",
+  "173",
+  "174",
+  "175",
+  "176"
+ ],
+ "gerard_label": "171-176",
+ "opus": "Op. 9 (publ. opera X)",
+ "gerard_established_by": "Title: 'opera X ... libro terzo'. The 'libro N di quartetti' series is Boccherini's own numbering and is corroborated by RISM records that carry GerB numbers: libro primo=990005852 (G159), secondo=990005861 (G165-170), terzo=990005866 (G171), quarto=VMA-3887(4) which cites Gerard 177 itself, quinto=990005874 (G183).",
+ "rism_related": [
+  "https://rism.online/sources/990005865",
+  "https://rism.online/sources/990005866",
+  "https://rism.online/sources/990005867",
+  "https://rism.online/sources/990005868"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same print of the same works (GerB 171, 172, 173, 174, 175, 176), matched on the Gérard set. They describe the edition, not this copy.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 30
+ }
+}

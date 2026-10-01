@@ -1,0 +1,24 @@
+{
+ "folder": "G159/PPN1935497081_D-B",
+ "scan_id": "PPN1935497081_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 1,
+  "gerard": [
+   "159"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790811412,
+ "verified": {
+  "date": "2026-09-29",
+  "how": "Berlin's own digital catalogue",
+  "found": "SBB catalogues PPN1935497081 as 'Quartette; vl (2), vla, b; c-Moll; G 159' — the Gerard number is Berlin's, not inferred",
+  "by": "claim.py"
+ }
+}

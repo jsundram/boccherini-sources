@@ -1,0 +1,32 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b52502472b",
+ "title": "Mese di Ottobre. 1794. // Quartettino (manuscrit en partie autographe)",
+ "shelfmark": "RES-507 (17)",
+ "institution": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, RES-507 (17)",
+ "siglum": "F-Po",
+ "medium": "autograph",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": true,
+ "date": "1794",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502472b/manifest.json",
+ "pages": 20,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "230",
+ "gerard_numbers": [
+  "230"
+ ],
+ "gerard_label": "230",
+ "opus": "Op. 48 no. 5",
+ "gerard_established_by": "Prior-pass download filenames in boccherini-quartet-data/manuscripts, matched to this ark by Gallica title and page count. RISM records no GerB number for this source.",
+ "rism_related": [
+  "https://rism.online/sources/840013725"
+ ],
+ "rism_related_established_by": "Shelfmark join: RISM records 1 source(s) at F-Po RES-507 (17), the shelfmark this folder carries. RISM links no scan for them, so this is the record, not the copy.",
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 20
+ }
+}

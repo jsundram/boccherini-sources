@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000nda a2200000 u 4500</leader>
+  <controlfield tag="001">sources/1001386345</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260914092450.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Menuetto</subfield>
+    <subfield code="d">Con moto</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xFCG</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">4''CCD/'B+8.6{Bt''C}4'B/''C8{DCD'B}/{''C'AEA''CE}/</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">455072525</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="k">Excerpts</subfield>
+    <subfield code="m">vl (2), vla, vlc (2)</subfield>
+    <subfield code="n">op. 33,6 [32,6]</subfield>
+    <subfield code="n">GerB 206</subfield>
+    <subfield code="r">A</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[p. 1, heading:] Luigi Boccherini [at righ:] Nichts ist reizender als die Menuette v. N 6. | (der Biograph) [at left:] Op. 33, No 6. | Menuetto con moto</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">score: p. 1-2</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 33,6 [32,6]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Auf p. 1 oben mit Bleistift "Pennat." und unten rechts mit Tinte "Bennat." notiert.</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-09-14 09:12:35 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Instrumental pieces</subfield>
+    <subfield code="0">standard_terms/25243</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">206</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bennat, Franz</subfield>
+    <subfield code="d">1844-1917</subfield>
+    <subfield code="j">Conjectural</subfield>
+    <subfield code="0">people/41008806</subfield>
+    <subfield code="4">scr</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - Excerpts; vl (2), vla, vlc</subfield>
+    <subfield code="w">sources/1001386347</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-Mbs</subfield>
+    <subfield code="c">Mus.ms. 5691</subfield>
+    <subfield code="e">Bayerische Staatsbibliothek</subfield>
+    <subfield code="x">institutions/30000882</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-09-10 10:06:23</subfield>
+    <subfield code="0">1001386006</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-09-10 15:43:06</subfield>
+    <subfield code="0">1001386071</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-09-10 15:59:20</subfield>
+    <subfield code="0">1001386073</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-09-14 10:41:47</subfield>
+    <subfield code="0">1001386075</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2026-09-14 11:05:28</subfield>
+    <subfield code="0">1001386336</subfield>
+  </datafield>
+</record>

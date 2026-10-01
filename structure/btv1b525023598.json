@@ -1,0 +1,19 @@
+{
+ "folder": "G231/btv1b525023598",
+ "scan_id": "btv1b525023598",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 1,
+  "gerard": [
+   "231"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628352,
+ "verified": null
+}

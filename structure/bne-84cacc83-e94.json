@@ -1,0 +1,42 @@
+{
+ "folder": "G177-182/bne-84cacc83-e94",
+ "scan_id": "bne-84cacc83-e94",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 56,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "177",
+   "178",
+   "179",
+   "180",
+   "181",
+   "182"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790579475,
+ "observed": {
+  "part_books": [
+   {
+    "page": 28,
+    "label": "BNE_84cacc83-e94-V2:12",
+    "part": "violin 2"
+   },
+   {
+    "page": 39,
+    "label": "BNE_84cacc83-e94-VA:07",
+    "part": "viola"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 2,
+  "n_work_starts": 0
+ },
+ "disagreements": [],
+ "verified": null
+}

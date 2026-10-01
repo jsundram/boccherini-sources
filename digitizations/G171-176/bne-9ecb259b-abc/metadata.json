@@ -1,0 +1,63 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "9ecb259b-abc9-4cf0-9c41-c106c6fd3cf3",
+ "title": "Notated Music / Printed Music Sei quartetti per due violini, alto, e violoncello, opera Boccherini, Luigi (1743-1805) — [1777] See the work Details Add to my BNE Digital",
+ "year": "1777",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "171",
+ "gerard_numbers": [
+  "171",
+  "172",
+  "173",
+  "174",
+  "175",
+  "176"
+ ],
+ "gerard_label": "171-176",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=9ecb259b-abc9-4cf0-9c41-c106c6fd3cf3&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=9ecb259b-abc9-4cf0-9c41-c106c6fd3cf3",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_9ecb259b-abc.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "171"
+  },
+  {
+   "n": 2,
+   "gerard": "172"
+  },
+  {
+   "n": 3,
+   "gerard": "173"
+  },
+  {
+   "n": 4,
+   "gerard": "174"
+  },
+  {
+   "n": 5,
+   "gerard": "175"
+  },
+  {
+   "n": 6,
+   "gerard": "176"
+  }
+ ],
+ "corrected": true,
+ "established_by": "identified by hand from the scan, incipits verified, 2026-09-28",
+ "correction_note": "The London Bremner edition of Op. 9. Four parts (vl 1, vl 2, vla, vlc), complete and in Gerard order; incipits checked against RISM. RISM catalogues this edition as source 990005866 and records an E-Mn copy at shelfmark M/680-683, very likely this copy. The title page reads 'opera X', which is Bremner's own number; Op. 9 is the normalized modern number the Gerard catalogue uses for these works. No conflict -- publisher opus numbers and Gerard's differ throughout this repertoire.",
+ "shelfmark": "M/680-683",
+ "rism_related": [
+  "https://rism.online/sources/990005866"
+ ],
+ "printed_opus": "X (Bremner); Gerard normalizes to Op. 9",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "siglum_derived_from": "BNE Digital is E-Mn",
+ "shelfmark_note": "per RISM, unconfirmed",
+ "rism_relation": "copy"
+}

@@ -1,0 +1,44 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "e4e2d08c-6b39-4972-948e-3a6d2cf2715e",
+ "title": "Sei quartetti per due violini, viola e violoncello, opera XXXIII",
+ "year": "1782",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "201",
+ "gerard_numbers": [
+  "201",
+  "202",
+  "203",
+  "204",
+  "205",
+  "206"
+ ],
+ "gerard_label": "201-206",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=e4e2d08c-6b39-4972-948e-3a6d2cf2715e&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=e4e2d08c-6b39-4972-948e-3a6d2cf2715e",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_e4e2d08c-6b3.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "publisher": "Artaria & Co.",
+ "publication_place": "Wien",
+ "opus": "Op. 32 (published as opera XXXIII)",
+ "shelfmark": "Mp/2393|1",
+ "rism_related": [
+  "https://rism.online/sources/990005880"
+ ],
+ "plate_numbers": [
+  "34",
+  "s. No."
+ ],
+ "files": {
+  "all": "BNE_e4e2d08c-6b3.pdf"
+ },
+ "established_by": "Hand-identified ('Opus 32 - Artaria'). RISM 990005880 is the same print -- '... opera XXXIII [Wien, Artaria & Co.]', [1782-1783] -- at E-Mn Mp/2393|1.",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "rism_links_this_copy": false,
+ "rism_related_raw": "https://rism.online/sources/990005880",
+ "rism_relation": "copy"
+}

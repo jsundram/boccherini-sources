@@ -1,0 +1,81 @@
+{
+ "folder": "G171-176/990005865_D-B",
+ "scan_id": "990005865_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 61,
+ "rism": {
+  "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm 4 parts: 52 p. 4 parts: [2]+13, [2]+13, 13, 13 p. 4 x 13 p.",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 6,
+  "gerard": [
+   "171",
+   "172",
+   "173",
+   "174",
+   "175",
+   "176"
+  ],
+  "source_ids": [
+   "990005865"
+  ]
+ },
+ "source_mtime": 1790632262,
+ "observed": {
+  "part_books": [
+   {
+    "page": 15,
+    "label": "990005865_D-B:15",
+    "part": "violin 1"
+   },
+   {
+    "page": 17,
+    "label": "990005865_D-B:17",
+    "part": "viola"
+   },
+   {
+    "page": 21,
+    "label": "990005865_D-B:21",
+    "part": "violin 2"
+   },
+   {
+    "page": 44,
+    "label": "990005865_D-B:44",
+    "part": "viola"
+   },
+   {
+    "page": 48,
+    "label": "990005865_D-B:48",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 14,
+    "label": "990005865_D-B:14",
+    "numeral": 4,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 20,
+    "label": "990005865_D-B:20",
+    "numeral": 2,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 47,
+    "label": "990005865_D-B:47",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 5,
+  "n_work_starts": 3
+ },
+ "disagreements": [],
+ "verified": null
+}

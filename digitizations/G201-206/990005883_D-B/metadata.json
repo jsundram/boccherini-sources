@@ -1,0 +1,132 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB00001F4800000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/24128",
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "DMS 51778",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "4 parts · 34,5 x 27 cm",
+ "all_sigla": [
+  "B-Bc",
+  "D-B",
+  "D-BNba",
+  "DK-Km",
+  "NL-Uim",
+  "US-DN"
+ ],
+ "source": "https://rism.online/sources/990005883",
+ "source_id": "990005883",
+ "title": "6 Quartets",
+ "full_title": "[title page, vl 1:] SIX | QUATUORS | POUR | Deux Violons Alto Et Basse | Composés | Par | Luigi Boccherini | Œuvre XXXIII. | Prix. 9.|t|t |  A Paris | chez SIEBER Musicien rue honoré, la Porte Cochère entre les rues | des Vieilles Etuvés et D'orléans, N.|o 85.",
+ "key": null,
+ "scoring": "vl (2), vla, b",
+ "gerard": "201",
+ "gerard_numbers": [
+  "201",
+  "202",
+  "203",
+  "204",
+  "205",
+  "206"
+ ],
+ "catalogs": [
+  "GerB 201",
+  "GerB 202",
+  "GerB 203",
+  "GerB 204",
+  "GerB 205",
+  "GerB 206"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "445",
+  "s. No."
+ ],
+ "published": {
+  "place": "Paris",
+  "publisher": null,
+  "date": "[1785]"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "See also RISM ID no. 1001263274 (plate number 445) and 1001263271 (publisher: \"aux adresse ordinaires de Musique\")."
+ ],
+ "incipits": 0,
+ "gerard_label": "201-206",
+ "holdings": {
+  "holdings/24127": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "V.26.717",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24128": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "DMS 51778",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24129": {
+   "siglum": "D-BNba",
+   "institution": "Beethoven-Haus, Forschungszentrum Beethoven-Archiv",
+   "shelfmark": "C BOCC / 4,5",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000692",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24130": {
+   "siglum": "DK-Km",
+   "institution": "Musikmuseet",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001346",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24134": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "ODZ 3234 dl 1-12 [cello]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/24136": {
+   "siglum": "US-DN",
+   "institution": "University of North Texas (UNT), Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002265",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005883"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 66
+ }
+}

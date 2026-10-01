@@ -1,0 +1,9252 @@
+{
+ "about": "Derivation record for the archival PDFs in this folder. Every page is one photograph, cropped to the quadrilateral in `crop_quad` (clockwise from top left, in the photograph's own pixels after EXIF orientation), perspective-corrected onto a rectangle, then tone-mapped. Editing `crop_quad` and re-running `render` and `pdf` reproduces the page with a different crop; nothing else is needed.",
+ "collection": {
+  "shelfmark": "F-Pn, Vma ms 1067",
+  "repository": "Biblioth\u00e8que nationale de France, D\u00e9partement de la Musique",
+  "city": "Paris",
+  "photographer": "Melissa",
+  "photo_date": "2026-04-09",
+  "source_dir": "_Melissa - BNF Scans - RAW"
+ },
+ "generated": "2026-09-29T16:28:33-04:00",
+ "pipeline": {
+  "script": "bnf_scans.py",
+  "leaf_detector": "macOS Vision VNDetectDocumentSegmentationRequest (vision_corners.py), refined by ruling-based squaring",
+  "geometry": {
+   "pad_percent": 0.3,
+   "margin_percent": 1.2,
+   "target_aspect": 0.74
+  },
+  "tone": {
+   "flatten": 0.85,
+   "black": 0.05,
+   "contrast": 1.06,
+   "sharpen": 0.35,
+   "targets": {
+    "paper_L": 215.00901794433594,
+    "paper_a": 128.0,
+    "paper_b": 132.0,
+    "ink_L": 58.22110939025879
+   }
+  },
+  "output": {
+   "max_height_px": 4200,
+   "jpeg_quality": 92,
+   "dpi": 300,
+   "covers_included": true
+  }
+ },
+ "quartets": [
+  {
+   "id": "1067-1",
+   "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+   "title": "Quartettino N.o 1",
+   "opus": "Op. 48",
+   "gerard": null,
+   "dated": "Madrid, giugno 1794",
+   "parts": {
+    "Violino 1\u00b0": "49-53",
+    "Violino 2\u00b0": "70-74",
+    "Alto": "91-95",
+    "Violoncello": "112-116"
+   }
+  },
+  {
+   "id": "1067-2",
+   "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+   "title": "Quartettino N.o 2",
+   "opus": "Op. 48",
+   "gerard": null,
+   "dated": "Madrid, agosto 1794",
+   "parts": {
+    "Violino 1\u00b0": "54-58",
+    "Violino 2\u00b0": "75-79",
+    "Alto": "96-100",
+    "Violoncello": "117-121"
+   }
+  },
+  {
+   "id": "1067-3",
+   "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+   "title": "Quartettino N.o 3",
+   "opus": "Op. 48",
+   "gerard": null,
+   "dated": "Madrid, ottobre 1794",
+   "parts": {
+    "Violino 1\u00b0": "59-63",
+    "Violino 2\u00b0": "80-84",
+    "Alto": "101-105",
+    "Violoncello": "122-126"
+   }
+  },
+  {
+   "id": "1067-4",
+   "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+   "title": "Quartettino N.o 4",
+   "opus": "Op. 48",
+   "gerard": null,
+   "dated": "Madrid, decembre 1794",
+   "parts": {
+    "Violino 1\u00b0": "64-68",
+    "Violino 2\u00b0": "85-89",
+    "Alto": "106-110",
+    "Violoncello": "127-131"
+   }
+  },
+  {
+   "id": "1067-5",
+   "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+   "title": "Quartetto N.o 5",
+   "opus": "Op. 64 Number 1",
+   "gerard": "G.248",
+   "dated": "Madrid, 1797",
+   "parts": {
+    "Violino 1\u00b0": "41-47",
+    "Violino 2\u00b0": "3-9",
+    "Alto": "10-16",
+    "Violoncello": "17-23"
+   }
+  },
+  {
+   "id": "1067-6",
+   "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+   "title": "N.o 6 \u2014 Premier morceau du dernier quatuor",
+   "opus": "Op. 64 Number 2",
+   "gerard": "G.249",
+   "dated": "Madrid, 1797",
+   "parts": {
+    "Violino 1\u00b0": "24-28",
+    "Violino 2\u00b0": "29-32",
+    "Alto": "33-36",
+    "Violoncello": "37-40"
+   }
+  }
+ ],
+ "pages": [
+  {
+   "page": 3,
+   "photo": "Photo Apr 09 2026, 10 56 35.jpg",
+   "sha256": "deae6892d2a7f4fc1e07413682aac0a002907b3293a0c2b81f9b0d379436fa38",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     446.2499893605709,
+     535.5
+    ],
+    [
+     3629.499943256378,
+     535.5
+    ],
+    [
+     4105.499914884567,
+     4931.0625
+    ],
+    [
+     476.00000354647636,
+     5221.125
+    ]
+   ],
+   "crop_quad": [
+    [
+     421.1492919921875,
+     497.0869140625
+    ],
+    [
+     3649.859130859375,
+     494.4964599609375
+    ],
+    [
+     4118.9716796875,
+     4946.70458984375
+    ],
+    [
+     441.142578125,
+     5229.5634765625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.38,
+   "ruling_fan_after": 0.35,
+   "override": null,
+   "rendered": "003.jpg",
+   "rendered_size": [
+    3161,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 10,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "photo": "Photo Apr 09 2026, 10 56 51.jpg",
+   "sha256": "dff7638ebd551f5f6e75e8da8af359acd9bdd72567e3853a47717997644f680d",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     602.4375
+    ],
+    [
+     3778.2498865127563,
+     624.75
+    ],
+    [
+     3837.7499148845673,
+     4953.375
+    ],
+    [
+     505.74998581409454,
+     4998.0
+    ]
+   ],
+   "crop_quad": [
+    [
+     504.47735595703125,
+     594.084228515625
+    ],
+    [
+     3790.198486328125,
+     574.6549682617188
+    ],
+    [
+     3830.81103515625,
+     4954.32666015625
+    ],
+    [
+     452.27532958984375,
+     5046.3203125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.36,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.7,
+   "ruling_fan_after": 0.24,
+   "override": null,
+   "rendered": "004.jpg",
+   "rendered_size": [
+    3175,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 11,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "photo": "Photo Apr 09 2026, 10 57 56.jpg",
+   "sha256": "c101ebf31f3d75dc8f04e24ba3a2139463cf91b3f9ffd662736c6670c5d1db3f",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     580.125
+    ],
+    [
+     3927.0000851154327,
+     669.375
+    ],
+    [
+     4045.9998865127563,
+     5243.4375
+    ],
+    [
+     505.74998581409454,
+     5377.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     439.7230224609375,
+     548.8616943359375
+    ],
+    [
+     3964.640869140625,
+     627.95654296875
+    ],
+    [
+     4053.647705078125,
+     5254.96484375
+    ],
+    [
+     483.2761535644531,
+     5407.41455078125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.21,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "005.jpg",
+   "rendered_size": [
+    3149,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 12,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "photo": "Photo Apr 09 2026, 10 58 12.jpg",
+   "sha256": "fee16d6a50615db1ca8880c24fa27bdb65ddd90f38879ebd8687881ac3d2955f",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9474,
+   "leaf_quad": [
+    [
+     505.74998581409454,
+     847.875
+    ],
+    [
+     3659.2500851154327,
+     825.5625
+    ],
+    [
+     3778.2498865127563,
+     5020.3125
+    ],
+    [
+     595.0000283718109,
+     5154.1875
+    ]
+   ],
+   "crop_quad": [
+    [
+     462.9660949707031,
+     859.497314453125
+    ],
+    [
+     3668.552734375,
+     761.6404418945312
+    ],
+    [
+     3779.827880859375,
+     5048.572265625
+    ],
+    [
+     545.5365600585938,
+     5142.77197265625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.12,
+   "ruling_fan_after": 0.16,
+   "override": null,
+   "rendered": "006.jpg",
+   "rendered_size": [
+    3163,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 13,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "photo": "Photo Apr 09 2026, 10 59 12.jpg",
+   "sha256": "890ec1e847af8f142d1bfb2571e4beb1b30a36d7fc396c88d08ef6cfe3ec6b69",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     416.5000070929527,
+     557.8125
+    ],
+    [
+     3837.7499148845673,
+     714.0
+    ],
+    [
+     3837.7499148845673,
+     5087.25
+    ],
+    [
+     505.74998581409454,
+     5243.4375
+    ]
+   ],
+   "crop_quad": [
+    [
+     393.8304748535156,
+     496.4828186035156
+    ],
+    [
+     3860.9384765625,
+     673.8656616210938
+    ],
+    [
+     3860.8046875,
+     5089.96728515625
+    ],
+    [
+     468.3468017578125,
+     5308.5205078125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.14,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.63,
+   "ruling_fan_after": 0.31,
+   "override": null,
+   "rendered": "007.jpg",
+   "rendered_size": [
+    3133,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 14,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "photo": "Photo Apr 09 2026, 11 00 27.jpg",
+   "sha256": "c50b6c08a9734fc7253915c78abac1332659548d342fa9ca11e66947b8d49206",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9234,
+   "leaf_quad": [
+    [
+     565.2500141859055,
+     825.5625
+    ],
+    [
+     3688.999971628189,
+     870.1875
+    ],
+    [
+     3748.5,
+     4975.6875
+    ],
+    [
+     565.2500141859055,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     547.6310424804688,
+     810.8465576171875
+    ],
+    [
+     3707.10888671875,
+     818.7361450195312
+    ],
+    [
+     3763.13671875,
+     4976.24560546875
+    ],
+    [
+     515.00537109375,
+     5082.27734375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.36,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "008.jpg",
+   "rendered_size": [
+    3200,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 15,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "photo": "Photo Apr 09 2026, 11 00 46.jpg",
+   "sha256": "9818d7f8fd8670b8c1048463cedd0548629c9320b045e060016f934bf43b4701",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     1048.6875
+    ],
+    [
+     3421.249971628189,
+     1071.0
+    ],
+    [
+     3629.499943256378,
+     4953.375
+    ],
+    [
+     535.5,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     460.1485595703125,
+     996.863525390625
+    ],
+    [
+     3391.654541015625,
+     1005.58349609375
+    ],
+    [
+     3659.803955078125,
+     4932.69482421875
+    ],
+    [
+     580.4219360351562,
+     5186.71728515625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -1.09,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.65,
+   "ruling_fan_after": 0.06,
+   "override": null,
+   "rendered": "009.jpg",
+   "rendered_size": [
+    3118,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 16,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "photo": "Photo Apr 09 2026, 11 03 23.jpg",
+   "sha256": "357ace3bf53a3281efd55ee2f68ba95934fd05c1b2000af540968d4e34190b54",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     416.5000070929527,
+     1004.0625
+    ],
+    [
+     3391.5000851154327,
+     981.75
+    ],
+    [
+     3599.750056743622,
+     5020.3125
+    ],
+    [
+     476.00000354647636,
+     5154.1875
+    ]
+   ],
+   "crop_quad": [
+    [
+     389.0488586425781,
+     975.30615234375
+    ],
+    [
+     3415.970947265625,
+     960.0918579101562
+    ],
+    [
+     3610.86865234375,
+     5006.6669921875
+    ],
+    [
+     456.33648681640625,
+     5159.41259765625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.21,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "010.jpg",
+   "rendered_size": [
+    3160,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 18,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "photo": "Photo Apr 09 2026, 11 04 33.jpg",
+   "sha256": "588c247e711f1b8cec256ab9ed67118e3f6ba9f388d51ad94423863b7d3ef99d",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8824,
+   "leaf_quad": [
+    [
+     565.2500141859055,
+     1048.6875
+    ],
+    [
+     3599.750056743622,
+     1048.6875
+    ],
+    [
+     3688.999971628189,
+     5109.5625
+    ],
+    [
+     565.2500141859055,
+     5198.8125
+    ]
+   ],
+   "crop_quad": [
+    [
+     554.1026000976562,
+     1022.3567504882812
+    ],
+    [
+     3612.86767578125,
+     1007.6719360351562
+    ],
+    [
+     3688.69091796875,
+     5151.24365234375
+    ],
+    [
+     514.7164916992188,
+     5191.64111328125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.3,
+   "ruling_fan_after": 0.34,
+   "override": null,
+   "rendered": "011.jpg",
+   "rendered_size": [
+    3155,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 19,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "photo": "Photo Apr 09 2026, 11 05 20.jpg",
+   "sha256": "a971e2b5d8bbfdbec23b764b208a850f28959e4f9692271a583234d0ac6dec2d",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9438,
+   "leaf_quad": [
+    [
+     416.5000070929527,
+     736.3125
+    ],
+    [
+     3748.5,
+     758.625
+    ],
+    [
+     3837.7499148845673,
+     5064.9375
+    ],
+    [
+     624.7499787211418,
+     5265.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     379.9498596191406,
+     723.186279296875
+    ],
+    [
+     3774.864990234375,
+     747.21044921875
+    ],
+    [
+     3872.351806640625,
+     5053.083984375
+    ],
+    [
+     595.424560546875,
+     5291.751953125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.27,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "012.jpg",
+   "rendered_size": [
+    3166,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 20,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "photo": "Photo Apr 09 2026, 11 07 09.jpg",
+   "sha256": "b0077f70489175cb1b7b5c016fdea84f3ee3a22f244bf6b08da693b233b00271",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9801,
+   "leaf_quad": [
+    [
+     446.2499893605709,
+     847.875
+    ],
+    [
+     3748.5,
+     870.1875
+    ],
+    [
+     3867.500056743622,
+     5288.0625
+    ],
+    [
+     416.5000070929527,
+     5377.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     431.61614990234375,
+     823.439453125
+    ],
+    [
+     3774.65185546875,
+     829.1954345703125
+    ],
+    [
+     3866.74755859375,
+     5308.5810546875
+    ],
+    [
+     384.5743713378906,
+     5382.53662109375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.19,
+   "ruling_fan_after": 0.32,
+   "override": null,
+   "rendered": "013.jpg",
+   "rendered_size": [
+    3177,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 21,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "photo": "Photo Apr 09 2026, 11 07 26.jpg",
+   "sha256": "2f57e8c4f4cbdeca0f50aa85c48644b1e81eac6b6a1dbf5144c365b7b6d9a900",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9762,
+   "leaf_quad": [
+    [
+     535.5,
+     535.5
+    ],
+    [
+     3867.500056743622,
+     669.375
+    ],
+    [
+     3867.500056743622,
+     5087.25
+    ],
+    [
+     476.00000354647636,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     537.7280883789062,
+     482.0341796875
+    ],
+    [
+     3891.61865234375,
+     651.4364013671875
+    ],
+    [
+     3905.9248046875,
+     5096.3662109375
+    ],
+    [
+     331.5362548828125,
+     5171.232421875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": false,
+   "ruling_tilt_before": null,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": null,
+   "ruling_fan_after": 0.44,
+   "override": null,
+   "rendered": "014.jpg",
+   "rendered_size": [
+    3192,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 22,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "photo": "Photo Apr 09 2026, 11 08 39.jpg",
+   "sha256": "f3400ab091376ef3c2bf052a6c0792a93f2c37241d0356050762d65248f2dfe3",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     416.5000070929527,
+     513.1875
+    ],
+    [
+     3956.749971628189,
+     557.8125
+    ],
+    [
+     4016.25,
+     5243.4375
+    ],
+    [
+     386.7499929070473,
+     5377.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     387.09442138671875,
+     472.98822021484375
+    ],
+    [
+     3979.540283203125,
+     523.4277954101562
+    ],
+    [
+     4027.380859375,
+     5273.4345703125
+    ],
+    [
+     332.3284606933594,
+     5355.99462890625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.58,
+   "ruling_fan_after": 0.7,
+   "override": null,
+   "rendered": "015.jpg",
+   "rendered_size": [
+    3183,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 23,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "photo": "Photo Apr 09 2026, 11 08 55.jpg",
+   "sha256": "48918136f5290e9ade1a0f993270d167962da5967969ab55ca028f7837621081",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     691.6875
+    ],
+    [
+     3808.000028371811,
+     736.3125
+    ],
+    [
+     3897.249943256378,
+     5087.25
+    ],
+    [
+     565.2500141859055,
+     5176.5
+    ]
+   ],
+   "crop_quad": [
+    [
+     498.2928161621094,
+     618.3536987304688
+    ],
+    [
+     3845.911865234375,
+     681.2423706054688
+    ],
+    [
+     3955.650146484375,
+     5073.11572265625
+    ],
+    [
+     626.0521240234375,
+     5199.90576171875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.77,
+   "ruling_fan_after": 0.55,
+   "override": null,
+   "rendered": "016.jpg",
+   "rendered_size": [
+    3132,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 24,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "photo": "Photo Apr 09 2026, 11 10 41.jpg",
+   "sha256": "7781fb792288a58e9690efc291ca519f6dc7d71e836e700e6e2989b9b838aa44",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     505.74998581409454,
+     557.8125
+    ],
+    [
+     3778.2498865127563,
+     557.8125
+    ],
+    [
+     3897.249943256378,
+     4908.75
+    ],
+    [
+     595.0000283718109,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     568.1240844726562,
+     457.3046569824219
+    ],
+    [
+     3818.194580078125,
+     618.9711303710938
+    ],
+    [
+     3808.475341796875,
+     4942.2421875
+    ],
+    [
+     547.2161254882812,
+     4999.21044921875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 2.13,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.08,
+   "ruling_fan_after": 0.36,
+   "override": null,
+   "rendered": "017.jpg",
+   "rendered_size": [
+    3094,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 26,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "photo": "Photo Apr 09 2026, 11 11 37.jpg",
+   "sha256": "da7d09e1868ea3c47d9ae33345748cb95b97f78cc56dbf667de95a2348699b08",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8785,
+   "leaf_quad": [
+    [
+     416.5000070929527,
+     736.3125
+    ],
+    [
+     3688.999971628189,
+     803.25
+    ],
+    [
+     3629.499943256378,
+     5176.5
+    ],
+    [
+     327.24999645352364,
+     5198.8125
+    ]
+   ],
+   "crop_quad": [
+    [
+     380.76910400390625,
+     832.8837280273438
+    ],
+    [
+     3499.864501953125,
+     733.0814208984375
+    ],
+    [
+     3693.60546875,
+     5103.4716796875
+    ],
+    [
+     492.2735595703125,
+     5232.0361328125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -2.76,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.01,
+   "ruling_fan_after": 0.24,
+   "override": null,
+   "rendered": "018.jpg",
+   "rendered_size": [
+    3034,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 27,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "photo": "Photo Apr 09 2026, 11 11 51.jpg",
+   "sha256": "ec0ed5619325a8a0995205bd85ec53ffe7d2225215974e1115940ca69d605b19",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8987,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     691.6875
+    ],
+    [
+     3778.2498865127563,
+     647.0625
+    ],
+    [
+     3956.749971628189,
+     4953.375
+    ],
+    [
+     654.4999929070473,
+     5042.625
+    ]
+   ],
+   "crop_quad": [
+    [
+     631.836181640625,
+     631.5244750976562
+    ],
+    [
+     3786.178466796875,
+     618.08349609375
+    ],
+    [
+     3972.0380859375,
+     4965.02783203125
+    ],
+    [
+     610.6714477539062,
+     5066.7314453125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.33,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "019.jpg",
+   "rendered_size": [
+    3122,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 28,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 20,
+   "photo": "Photo Apr 09 2026, 11 12 52.jpg",
+   "sha256": "1f067fa25ac5c94fad8aad76bd8538b03e691c85c7be001495a5dac97c461276",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     327.24999645352364,
+     513.1875
+    ],
+    [
+     3778.2498865127563,
+     602.4375
+    ],
+    [
+     3778.2498865127563,
+     5221.125
+    ],
+    [
+     357.0000106394291,
+     5377.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     286.9727478027344,
+     491.3201599121094
+    ],
+    [
+     3800.1796875,
+     547.4981689453125
+    ],
+    [
+     3764.41162109375,
+     5227.42724609375
+    ],
+    [
+     344.318603515625,
+     5377.90283203125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.04,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.4,
+   "ruling_fan_after": 0.36,
+   "override": null,
+   "rendered": "020.jpg",
+   "rendered_size": [
+    3052,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 29,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "photo": "Photo Apr 09 2026, 11 13 05.jpg",
+   "sha256": "0c06cdd75dafb6e8dd55e828ee3aa3ed50428a22713c8e2faed80d2d19497280",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     416.5000070929527,
+     535.5
+    ],
+    [
+     3748.5,
+     624.75
+    ],
+    [
+     3808.000028371811,
+     5109.5625
+    ],
+    [
+     357.0000106394291,
+     5176.5
+    ]
+   ],
+   "crop_quad": [
+    [
+     387.9427490234375,
+     489.59979248046875
+    ],
+    [
+     3758.607421875,
+     617.2431640625
+    ],
+    [
+     3810.659912109375,
+     5113.78857421875
+    ],
+    [
+     361.1657409667969,
+     5256.7587890625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.4,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.65,
+   "ruling_fan_after": 0.19,
+   "override": null,
+   "rendered": "021.jpg",
+   "rendered_size": [
+    3101,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 30,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "photo": "Photo Apr 09 2026, 11 14 19.jpg",
+   "sha256": "30a9463df23df5a39cfd5ffd5a72f7e3d933e9326f5d58116c61af629b0808bc",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     446.2499893605709,
+     714.0
+    ],
+    [
+     3718.7501134872437,
+     714.0
+    ],
+    [
+     3837.7499148845673,
+     5064.9375
+    ],
+    [
+     505.74998581409454,
+     5176.5
+    ]
+   ],
+   "crop_quad": [
+    [
+     434.20330810546875,
+     673.8412475585938
+    ],
+    [
+     3746.640380859375,
+     655.37255859375
+    ],
+    [
+     3841.8349609375,
+     5077.09619140625
+    ],
+    [
+     472.3157653808594,
+     5203.1474609375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.2,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.72,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "022.jpg",
+   "rendered_size": [
+    3142,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 31,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 23,
+   "photo": "Photo Apr 09 2026, 11 14 34.jpg",
+   "sha256": "f359c2497f4870e026001b5d677ecabec87c3427b4dd6683f59df94fe386cdeb",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.923,
+   "leaf_quad": [
+    [
+     565.2500141859055,
+     780.9375
+    ],
+    [
+     3659.2500851154327,
+     825.5625
+    ],
+    [
+     3778.2498865127563,
+     4998.0
+    ],
+    [
+     624.7499787211418,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     496.34619140625,
+     853.0241088867188
+    ],
+    [
+     3480.212890625,
+     776.6087646484375
+    ],
+    [
+     3811.912109375,
+     4880.94677734375
+    ],
+    [
+     794.507080078125,
+     5208.31787109375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -2.86,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.7,
+   "ruling_fan_after": 0.04,
+   "override": null,
+   "rendered": "023.jpg",
+   "rendered_size": [
+    2987,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 32,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 24,
+   "photo": "Photo Apr 09 2026, 11 18 25.jpg",
+   "sha256": "66494c6f6065d5fc3620c7199db01472ceed5e7d53288ddc4d3c8b4975b29761",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     892.5
+    ],
+    [
+     3718.7501134872437,
+     914.8125
+    ],
+    [
+     3748.5,
+     5020.3125
+    ],
+    [
+     624.7499787211418,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     585.9832153320312,
+     828.6172485351562
+    ],
+    [
+     3770.697998046875,
+     895.383056640625
+    ],
+    [
+     3751.961181640625,
+     5064.14404296875
+    ],
+    [
+     579.5805053710938,
+     5073.583984375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.55,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.71,
+   "ruling_fan_after": 0.0,
+   "override": null,
+   "rendered": "024.jpg",
+   "rendered_size": [
+    3180,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 2,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 25,
+   "photo": "Photo Apr 09 2026, 11 19 01.jpg",
+   "sha256": "c467b376664b9326d8c3c2f8c20ac8f734786edc4a097cbbb7842469c31d4bef",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     386.7499929070473,
+     513.1875
+    ],
+    [
+     3956.749971628189,
+     580.125
+    ],
+    [
+     3927.0000851154327,
+     5221.125
+    ],
+    [
+     327.24999645352364,
+     5265.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     345.3870849609375,
+     513.7764282226562
+    ],
+    [
+     3951.02001953125,
+     531.2929077148438
+    ],
+    [
+     3913.059814453125,
+     5232.99658203125
+    ],
+    [
+     302.93463134765625,
+     5300.0810546875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.4,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.58,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "025.jpg",
+   "rendered_size": [
+    3200,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 3,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "photo": "Photo Apr 09 2026, 11 19 17.jpg",
+   "sha256": "3f04b03015060798c106bfa7070b73f27f65d6a37dea9be2528e8502fa19e703",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     602.4375
+    ],
+    [
+     3927.0000851154327,
+     624.75
+    ],
+    [
+     3927.0000851154327,
+     5087.25
+    ],
+    [
+     535.5,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     534.7731323242188,
+     556.666015625
+    ],
+    [
+     3938.962158203125,
+     611.4354858398438
+    ],
+    [
+     3946.029296875,
+     5091.03125
+    ],
+    [
+     519.545654296875,
+     5143.63525390625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.14,
+   "ruling_fan_after": 0.13,
+   "override": null,
+   "rendered": "026.jpg",
+   "rendered_size": [
+    3170,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 4,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "photo": "Photo Apr 09 2026, 11 20 09.jpg",
+   "sha256": "6747dc106c3d4b0f2f561a9c8bbcc86df03a37f699987d63079ca62132f4808e",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     357.0000106394291,
+     602.4375
+    ],
+    [
+     3897.249943256378,
+     714.0
+    ],
+    [
+     3837.7499148845673,
+     5288.0625
+    ],
+    [
+     327.24999645352364,
+     5355.0
+    ]
+   ],
+   "crop_quad": [
+    [
+     325.59954833984375,
+     563.2363891601562
+    ],
+    [
+     3892.896484375,
+     650.9229125976562
+    ],
+    [
+     3825.165771484375,
+     5293.25439453125
+    ],
+    [
+     310.611572265625,
+     5340.09423828125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.24,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "027.jpg",
+   "rendered_size": [
+    3165,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 5,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "photo": "Photo Apr 09 2026, 11 20 20.jpg",
+   "sha256": "f553e9e12f2f06c87fb2907ef9ff9cc6e3a6533f0b263e862327908a78f4e814",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     505.74998581409454,
+     602.4375
+    ],
+    [
+     3867.500056743622,
+     647.0625
+    ],
+    [
+     3956.749971628189,
+     5131.875
+    ],
+    [
+     535.5,
+     5265.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     496.3115234375,
+     535.3638305664062
+    ],
+    [
+     3891.591064453125,
+     627.2642211914062
+    ],
+    [
+     3994.167236328125,
+     5133.1181640625
+    ],
+    [
+     532.2581176757812,
+     5296.79541015625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.22,
+   "ruling_fan_after": 0.31,
+   "override": null,
+   "rendered": "028.jpg",
+   "rendered_size": [
+    3116,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 6,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "photo": "Photo Apr 09 2026, 11 22 15.jpg",
+   "sha256": "050cec1758e9099e8a63751dcfb82d9db101abf00e9d2b8dbc1f695ba0226fa0",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     565.2500141859055,
+     714.0
+    ],
+    [
+     3748.5,
+     691.6875
+    ],
+    [
+     3986.5001134872437,
+     5042.625
+    ],
+    [
+     595.0000283718109,
+     5154.1875
+    ]
+   ],
+   "crop_quad": [
+    [
+     534.1519775390625,
+     663.30419921875
+    ],
+    [
+     3761.5458984375,
+     655.3255615234375
+    ],
+    [
+     3984.588623046875,
+     5053.9033203125
+    ],
+    [
+     574.3901977539062,
+     5176.83984375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.21,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "029.jpg",
+   "rendered_size": [
+    3134,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 8,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 30,
+   "photo": "Photo Apr 09 2026, 11 23 12.jpg",
+   "sha256": "1b8ba360be912a26cd70058061d0981ff51fe889acb62f2838cbbf311e8d7692",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     669.375
+    ],
+    [
+     3956.749971628189,
+     736.3125
+    ],
+    [
+     3986.5001134872437,
+     5288.0625
+    ],
+    [
+     476.00000354647636,
+     5332.6875
+    ]
+   ],
+   "crop_quad": [
+    [
+     497.37078857421875,
+     673.110595703125
+    ],
+    [
+     3957.2958984375,
+     672.41650390625
+    ],
+    [
+     3996.44482421875,
+     5321.01708984375
+    ],
+    [
+     425.7694091796875,
+     5331.7421875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "030.jpg",
+   "rendered_size": [
+    3178,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 9,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 31,
+   "photo": "Photo Apr 09 2026, 11 23 22.jpg",
+   "sha256": "cab642609b9656a02aaa82fb79b41caa376074261723ecdd6ffa6a699bf289ab",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     535.5
+    ],
+    [
+     3837.7499148845673,
+     647.0625
+    ],
+    [
+     3927.0000851154327,
+     4998.0
+    ],
+    [
+     535.5,
+     5042.625
+    ]
+   ],
+   "crop_quad": [
+    [
+     542.0875244140625,
+     498.3409118652344
+    ],
+    [
+     3862.22900390625,
+     594.3726806640625
+    ],
+    [
+     3944.900146484375,
+     5003.59326171875
+    ],
+    [
+     515.8945922851562,
+     5078.47900390625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.41,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.45,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "031.jpg",
+   "rendered_size": [
+    3161,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 10,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 32,
+   "photo": "Photo Apr 09 2026, 11 23 43.jpg",
+   "sha256": "bfccdbf91b736a6f080d4d0e0ede85ebbba5013e5f5c65f3582b18140f0fe80e",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     386.7499929070473,
+     647.0625
+    ],
+    [
+     3837.7499148845673,
+     647.0625
+    ],
+    [
+     4016.25,
+     5221.125
+    ],
+    [
+     416.5000070929527,
+     5399.625
+    ]
+   ],
+   "crop_quad": [
+    [
+     365.54766845703125,
+     626.846923828125
+    ],
+    [
+     3873.894287109375,
+     537.4060668945312
+    ],
+    [
+     4027.297119140625,
+     5296.11328125
+    ],
+    [
+     335.741943359375,
+     5415.3154296875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.54,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.91,
+   "ruling_fan_after": 0.38,
+   "override": null,
+   "rendered": "032.jpg",
+   "rendered_size": [
+    3174,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 11,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 33,
+   "photo": "Photo Apr 09 2026, 11 25 23.jpg",
+   "sha256": "ae32549ea44c16a455cd185ffcef73c8d1e93e8c2426c343a21a8f0b93a37620",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     736.3125
+    ],
+    [
+     3808.000028371811,
+     780.9375
+    ],
+    [
+     3897.249943256378,
+     4998.0
+    ],
+    [
+     714.0000212788582,
+     5087.25
+    ]
+   ],
+   "crop_quad": [
+    [
+     626.0231323242188,
+     683.724609375
+    ],
+    [
+     3831.4580078125,
+     756.361083984375
+    ],
+    [
+     3924.2861328125,
+     4999.75927734375
+    ],
+    [
+     701.0702514648438,
+     5133.654296875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.23,
+   "ruling_fan_after": 0.38,
+   "override": null,
+   "rendered": "033.jpg",
+   "rendered_size": [
+    3113,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 13,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 34,
+   "photo": "Photo Apr 09 2026, 11 26 35.jpg",
+   "sha256": "83f0d8a2063c387ba9dcd0fa6cd4350bcd9224aa84625c20b6dcf9fc7c7f443d",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9025,
+   "leaf_quad": [
+    [
+     267.75,
+     669.375
+    ],
+    [
+     3718.7501134872437,
+     736.3125
+    ],
+    [
+     3688.999971628189,
+     5176.5
+    ],
+    [
+     357.0000106394291,
+     5288.0625
+    ]
+   ],
+   "crop_quad": [
+    [
+     253.2698211669922,
+     666.8123779296875
+    ],
+    [
+     3731.304931640625,
+     670.4730224609375
+    ],
+    [
+     3679.272216796875,
+     5214.09326171875
+    ],
+    [
+     294.02459716796875,
+     5277.8935546875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.41,
+   "ruling_fan_after": 0.37,
+   "override": null,
+   "rendered": "034.jpg",
+   "rendered_size": [
+    3155,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 14,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 35,
+   "photo": "Photo Apr 09 2026, 11 26 48.jpg",
+   "sha256": "f06b23d37c9cc7d5370ebdb64d6a7d13d0f5ce257cd5956293de472e180e28fc",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9661,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     691.6875
+    ],
+    [
+     3837.7499148845673,
+     714.0
+    ],
+    [
+     3956.749971628189,
+     5154.1875
+    ],
+    [
+     535.5,
+     5265.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     479.8463439941406,
+     647.9476928710938
+    ],
+    [
+     3871.045166015625,
+     682.2561645507812
+    ],
+    [
+     3988.17431640625,
+     5144.55908203125
+    ],
+    [
+     503.8262939453125,
+     5274.9423828125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.21,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "035.jpg",
+   "rendered_size": [
+    3183,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 15,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 36,
+   "photo": "Photo Apr 09 2026, 11 27 50.jpg",
+   "sha256": "9188c62409314988b203c444ea95969a81549a2a119f76e71d9617fc45753c62",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     714.0000212788582,
+     736.3125
+    ],
+    [
+     3837.7499148845673,
+     870.1875
+    ],
+    [
+     3837.7499148845673,
+     5064.9375
+    ],
+    [
+     565.2500141859055,
+     5109.5625
+    ]
+   ],
+   "crop_quad": [
+    [
+     668.1224975585938,
+     699.0948486328125
+    ],
+    [
+     3860.43359375,
+     756.9404296875
+    ],
+    [
+     3847.2001953125,
+     5114.43505859375
+    ],
+    [
+     547.2240600585938,
+     5096.84765625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.83,
+   "ruling_fan_after": 0.31,
+   "override": null,
+   "rendered": "036.jpg",
+   "rendered_size": [
+    3121,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 16,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 37,
+   "photo": "Photo Apr 09 2026, 11 28 36.jpg",
+   "sha256": "ca1e9cbe5937ba8e8609f193215d10561e0e96a97bd6e045ad384920e0776180",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     557.8125
+    ],
+    [
+     3927.0000851154327,
+     624.75
+    ],
+    [
+     3986.5001134872437,
+     5176.5
+    ],
+    [
+     535.5,
+     5265.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     538.4183959960938,
+     517.1475219726562
+    ],
+    [
+     3926.366455078125,
+     632.7964477539062
+    ],
+    [
+     4013.233154296875,
+     5172.943359375
+    ],
+    [
+     512.4771118164062,
+     5322.68798828125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.27,
+   "ruling_fan_after": 0.32,
+   "override": null,
+   "rendered": "037.jpg",
+   "rendered_size": [
+    3105,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 18,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 38,
+   "photo": "Photo Apr 09 2026, 11 29 02.jpg",
+   "sha256": "1ca0dfe62f56054553ea86b2d2db39ff389f1f47117149f887db630e5fd2994c",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9738,
+   "leaf_quad": [
+    [
+     386.7499929070473,
+     423.9375
+    ],
+    [
+     3956.749971628189,
+     513.1875
+    ],
+    [
+     3956.749971628189,
+     5176.5
+    ],
+    [
+     416.5000070929527,
+     5265.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     369.3274230957031,
+     412.01220703125
+    ],
+    [
+     4009.715087890625,
+     430.9285888671875
+    ],
+    [
+     3951.271240234375,
+     5210.44384765625
+    ],
+    [
+     388.17950439453125,
+     5264.310546875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.61,
+   "ruling_fan_after": 0.53,
+   "override": null,
+   "rendered": "038.jpg",
+   "rendered_size": [
+    3148,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 19,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 39,
+   "photo": "Photo Apr 09 2026, 11 29 12.jpg",
+   "sha256": "00b8bc104d2ff9e61c00e0f8657c94ad24d6294286c0136c3b5e125e64f787ef",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9372,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     624.75
+    ],
+    [
+     3837.7499148845673,
+     647.0625
+    ],
+    [
+     3897.249943256378,
+     5109.5625
+    ],
+    [
+     535.5,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     554.1461791992188,
+     593.494140625
+    ],
+    [
+     3864.904541015625,
+     650.242919921875
+    ],
+    [
+     3916.10888671875,
+     5119.31884765625
+    ],
+    [
+     530.5194091796875,
+     5153.1904296875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.0,
+   "ruling_fan_after": 0.1,
+   "override": null,
+   "rendered": "039.jpg",
+   "rendered_size": [
+    3122,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 20,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 40,
+   "photo": "Photo Apr 09 2026, 11 32 06.jpg",
+   "sha256": "e73d1fa2273a89b215be4c0ef4933ea701ff8ecf141b75db6108971d6b7bcc89",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     602.4375
+    ],
+    [
+     3778.2498865127563,
+     669.375
+    ],
+    [
+     3808.000028371811,
+     5064.9375
+    ],
+    [
+     476.00000354647636,
+     5109.5625
+    ]
+   ],
+   "crop_quad": [
+    [
+     451.8547668457031,
+     591.812744140625
+    ],
+    [
+     3793.253662109375,
+     575.2010498046875
+    ],
+    [
+     3816.1767578125,
+     5094.521484375
+    ],
+    [
+     437.3291931152344,
+     5112.17138671875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.16,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "040.jpg",
+   "rendered_size": [
+    3129,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 21,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 41,
+   "photo": "Photo Apr 09 2026, 11 32 19.jpg",
+   "sha256": "51ed1f3dbd29f69d1a0ec0925292bb6cd9b65fb69d8396a2606fa7bec646473e",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     780.9375
+    ],
+    [
+     3808.000028371811,
+     780.9375
+    ],
+    [
+     3867.500056743622,
+     5109.5625
+    ],
+    [
+     595.0000283718109,
+     5176.5
+    ]
+   ],
+   "crop_quad": [
+    [
+     489.5494079589844,
+     754.46240234375
+    ],
+    [
+     3821.9580078125,
+     736.2098388671875
+    ],
+    [
+     3880.97900390625,
+     5112.8759765625
+    ],
+    [
+     557.3809814453125,
+     5172.8857421875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.15,
+   "ruling_fan_after": 0.25,
+   "override": null,
+   "rendered": "041.jpg",
+   "rendered_size": [
+    3185,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 2,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 42,
+   "photo": "Photo Apr 09 2026, 11 32 43.jpg",
+   "sha256": "4eb00f20609acf1770d00447c2e6a33c5adf20e7f35480265de3d2c1d455cbd0",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     624.75
+    ],
+    [
+     3867.500056743622,
+     669.375
+    ],
+    [
+     3837.7499148845673,
+     5131.875
+    ],
+    [
+     416.5000070929527,
+     5154.1875
+    ]
+   ],
+   "crop_quad": [
+    [
+     426.85052490234375,
+     597.8424682617188
+    ],
+    [
+     3854.8525390625,
+     603.339111328125
+    ],
+    [
+     3894.97314453125,
+     5136.70166015625
+    ],
+    [
+     402.0640869140625,
+     5203.18017578125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.45,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.49,
+   "ruling_fan_after": 0.0,
+   "override": null,
+   "rendered": "042.jpg",
+   "rendered_size": [
+    3187,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 3,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "photo": "Photo Apr 09 2026, 11 33 21.jpg",
+   "sha256": "125623f67df7d6a38ceff884498fcf7ca79aeff2711e1b98bab147f707346c14",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     416.5000070929527,
+     513.1875
+    ],
+    [
+     3778.2498865127563,
+     602.4375
+    ],
+    [
+     3867.500056743622,
+     5064.9375
+    ],
+    [
+     416.5000070929527,
+     5154.1875
+    ]
+   ],
+   "crop_quad": [
+    [
+     374.6938781738281,
+     480.878173828125
+    ],
+    [
+     3802.794677734375,
+     568.4122314453125
+    ],
+    [
+     3883.836181640625,
+     5075.7578125
+    ],
+    [
+     352.6396484375,
+     5185.2578125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "043.jpg",
+   "rendered_size": [
+    3180,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 4,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 44,
+   "photo": "Photo Apr 09 2026, 11 33 56.jpg",
+   "sha256": "7a49556d2b56009935c296a3011bb2c054e72bb17d486883c5f63ea621f3b978",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     446.2499893605709,
+     691.6875
+    ],
+    [
+     3808.000028371811,
+     780.9375
+    ],
+    [
+     3837.7499148845673,
+     5243.4375
+    ],
+    [
+     416.5000070929527,
+     5265.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     431.1178283691406,
+     666.851806640625
+    ],
+    [
+     3857.921630859375,
+     725.6078491210938
+    ],
+    [
+     3799.709228515625,
+     5222.8603515625
+    ],
+    [
+     379.9430236816406,
+     5282.99755859375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.19,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.42,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "044.jpg",
+   "rendered_size": [
+    3162,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 5,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 45,
+   "photo": "Photo Apr 09 2026, 11 34 14.jpg",
+   "sha256": "7b6f8c25e082a11d47d2055337d47b287621a5d7e08d01620d58874c5223d170",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8793,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     647.0625
+    ],
+    [
+     3897.249943256378,
+     780.9375
+    ],
+    [
+     3897.249943256378,
+     5064.9375
+    ],
+    [
+     565.2500141859055,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     664.4118041992188,
+     601.09521484375
+    ],
+    [
+     3897.462158203125,
+     751.9114379882812
+    ],
+    [
+     3923.2705078125,
+     5083.07568359375
+    ],
+    [
+     552.2386474609375,
+     5147.3037109375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.05,
+   "ruling_fan_after": 0.09,
+   "override": null,
+   "rendered": "045.jpg",
+   "rendered_size": [
+    3133,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 6,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "photo": "Photo Apr 09 2026, 11 35 10.jpg",
+   "sha256": "d8e4cd5b07e68cc12f838e04e80687223dd29fb5dcf78e1e7d69cc637dbb31c0",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     386.7499929070473,
+     535.5
+    ],
+    [
+     3897.249943256378,
+     624.75
+    ],
+    [
+     3986.5001134872437,
+     5221.125
+    ],
+    [
+     386.7499929070473,
+     5399.625
+    ]
+   ],
+   "crop_quad": [
+    [
+     358.74981689453125,
+     516.099853515625
+    ],
+    [
+     3922.093017578125,
+     578.0178833007812
+    ],
+    [
+     4011.967041015625,
+     5209.46337890625
+    ],
+    [
+     358.750244140625,
+     5401.79248046875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.0,
+   "ruling_fan_after": 0.0,
+   "override": null,
+   "rendered": "046.jpg",
+   "rendered_size": [
+    3193,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 7,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "photo": "Photo Apr 09 2026, 11 35 23.jpg",
+   "sha256": "67e949b9a2d98b1ff24eb3ab0966aa1640bcd595f6a0eca822b4e20e7cdf2e2e",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     446.2499893605709,
+     446.25
+    ],
+    [
+     3956.749971628189,
+     557.8125
+    ],
+    [
+     3927.0000851154327,
+     5131.875
+    ],
+    [
+     416.5000070929527,
+     5243.4375
+    ]
+   ],
+   "crop_quad": [
+    [
+     408.9843444824219,
+     388.88287353515625
+    ],
+    [
+     3965.357421875,
+     515.647705078125
+    ],
+    [
+     3994.394287109375,
+     5153.94921875
+    ],
+    [
+     429.58489990234375,
+     5288.26953125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.43,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.75,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "047.jpg",
+   "rendered_size": [
+    3144,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 8,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "photo": "Photo Apr 09 2026, 11 36 39.jpg",
+   "sha256": "f84c875ada64c3ac7c721d1c921e15d923ba4af11e3c9b3439393848edd9c884",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "manual",
+   "detector_confidence": null,
+   "leaf_quad": [
+    [
+     3718.7501134872437,
+     3012.1875
+    ],
+    [
+     3778.2498865127563,
+     5042.625
+    ],
+    [
+     714.0000212788582,
+     5020.3125
+    ],
+    [
+     743.7499716281891,
+     4395.5625
+    ]
+   ],
+   "crop_quad": [
+    [
+     702.9,
+     795.7
+    ],
+    [
+     3679.8,
+     805.1
+    ],
+    [
+     3775.0,
+     5023.0
+    ],
+    [
+     677.7,
+     5034.4
+    ]
+   ],
+   "pad_percent": 2.5,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": false,
+   "ruling_tilt_before": null,
+   "ruling_tilt_after": null,
+   "ruling_fan_before": null,
+   "ruling_fan_after": null,
+   "override": {
+    "page": 48,
+    "pad": 2.5,
+    "corners": [
+     [
+      702.9,
+      795.7
+     ],
+     [
+      3679.8,
+      805.1
+     ],
+     [
+      3775.0,
+      5023.0
+     ],
+     [
+      677.7,
+      5034.4
+     ]
+    ]
+   },
+   "rendered": "048.jpg",
+   "rendered_size": [
+    3073,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 1,
+     "part": "Violino 1\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 1,
+     "part": "Violino 1\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 1,
+     "part": "Violino 1\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 1,
+     "part": "Violino 1\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 1,
+     "part": "Violino 1\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 1,
+     "part": "Violino 1\u00b0",
+     "kind": "cover"
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "photo": "Photo Apr 09 2026, 11 37 03.jpg",
+   "sha256": "344919c8e1aed77516cd552f7236a6eb38897163cec3a3d639eda3beb2b5a4f0",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     870.1875
+    ],
+    [
+     3688.999971628189,
+     870.1875
+    ],
+    [
+     3778.2498865127563,
+     4998.0
+    ],
+    [
+     297.50001418590546,
+     4998.0
+    ]
+   ],
+   "crop_quad": [
+    [
+     211.9748077392578,
+     802.3563842773438
+    ],
+    [
+     3672.372314453125,
+     823.2037963867188
+    ],
+    [
+     3844.0888671875,
+     4979.078125
+    ],
+    [
+     355.6982116699219,
+     5074.75927734375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -1.36,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.24,
+   "ruling_fan_after": 0.19,
+   "override": null,
+   "rendered": "049.jpg",
+   "rendered_size": [
+    3465,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 2,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "photo": "Photo Apr 09 2026, 11 37 20.jpg",
+   "sha256": "e87b92f2c9054503725e22cced3cb5e6bb93cf082c98d6496eff684e38215c41",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     505.74998581409454,
+     580.125
+    ],
+    [
+     3837.7499148845673,
+     691.6875
+    ],
+    [
+     3808.000028371811,
+     5154.1875
+    ],
+    [
+     386.7499929070473,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     438.25732421875,
+     555.48828125
+    ],
+    [
+     3846.76416015625,
+     538.7760009765625
+    ],
+    [
+     3815.66357421875,
+     5246.9951171875
+    ],
+    [
+     372.93902587890625,
+     5114.7705078125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.38,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.66,
+   "ruling_fan_after": 0.0,
+   "override": null,
+   "rendered": "050.jpg",
+   "rendered_size": [
+    3113,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 3,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 51,
+   "photo": "Photo Apr 09 2026, 11 37 30.jpg",
+   "sha256": "6a7fda1969a396d7ec1d8cc367dc04f148c9ddc9d4ece0eb1c01fce68eb95e9d",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     602.4375
+    ],
+    [
+     3808.000028371811,
+     647.0625
+    ],
+    [
+     3837.7499148845673,
+     5109.5625
+    ],
+    [
+     446.2499893605709,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     456.05908203125,
+     565.950439453125
+    ],
+    [
+     3816.35595703125,
+     623.3433837890625
+    ],
+    [
+     3865.185546875,
+     5106.56591796875
+    ],
+    [
+     426.31787109375,
+     5136.3681640625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.15,
+   "override": null,
+   "rendered": "051.jpg",
+   "rendered_size": [
+    3161,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 4,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 52,
+   "photo": "Photo Apr 09 2026, 11 37 44.jpg",
+   "sha256": "d757bdebf7c450e9d76a2ab83fe574bdd6c3023b2fb860b68a17e7cc38a08411",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     647.0625
+    ],
+    [
+     3867.500056743622,
+     691.6875
+    ],
+    [
+     3897.249943256378,
+     5243.4375
+    ],
+    [
+     386.7499929070473,
+     5243.4375
+    ]
+   ],
+   "crop_quad": [
+    [
+     463.00982666015625,
+     615.271484375
+    ],
+    [
+     3859.95458984375,
+     642.7177124023438
+    ],
+    [
+     3886.17431640625,
+     5239.9990234375
+    ],
+    [
+     364.4992980957031,
+     5251.35498046875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.18,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "052.jpg",
+   "rendered_size": [
+    3153,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 5,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "photo": "Photo Apr 09 2026, 11 38 04.jpg",
+   "sha256": "867da17ffc4e10cb1b2039d18642dd38d5878af066e37dabc90bffda2fe4c17e",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     624.75
+    ],
+    [
+     3808.000028371811,
+     691.6875
+    ],
+    [
+     3808.000028371811,
+     4998.0
+    ],
+    [
+     535.5,
+     4975.6875
+    ]
+   ],
+   "crop_quad": [
+    [
+     561.7150268554688,
+     594.528076171875
+    ],
+    [
+     3823.4375,
+     649.270263671875
+    ],
+    [
+     3838.630859375,
+     4997.33837890625
+    ],
+    [
+     555.2017211914062,
+     5004.30322265625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.2,
+   "ruling_tilt_after": -0.04,
+   "ruling_fan_before": 0.72,
+   "ruling_fan_after": 0.45,
+   "override": null,
+   "rendered": "053.jpg",
+   "rendered_size": [
+    3145,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 6,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "photo": "Photo Apr 09 2026, 11 38 19.jpg",
+   "sha256": "171ba45d994081fc7738f623aa06cb7d342a552e3de7eef8b4d3a31d04f2a662",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     416.5000070929527,
+     602.4375
+    ],
+    [
+     3778.2498865127563,
+     580.125
+    ],
+    [
+     3867.500056743622,
+     5064.9375
+    ],
+    [
+     446.2499893605709,
+     5131.875
+    ]
+   ],
+   "crop_quad": [
+    [
+     402.1393737792969,
+     530.486328125
+    ],
+    [
+     3771.86767578125,
+     560.6250610351562
+    ],
+    [
+     3860.364013671875,
+     5067.69287109375
+    ],
+    [
+     453.89422607421875,
+     5146.3935546875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.41,
+   "ruling_fan_after": 0.36,
+   "override": null,
+   "rendered": "054.jpg",
+   "rendered_size": [
+    3126,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 2,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 55,
+   "photo": "Photo Apr 09 2026, 11 38 40.jpg",
+   "sha256": "d09357e347aa1d1d5986d0e79e65bf633a2cc9a5fcd4a6c7c3f061e223bec5ed",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     647.0625
+    ],
+    [
+     3748.5,
+     736.3125
+    ],
+    [
+     3778.2498865127563,
+     5020.3125
+    ],
+    [
+     416.5000070929527,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     524.7913208007812,
+     640.237548828125
+    ],
+    [
+     3746.2431640625,
+     695.5262451171875
+    ],
+    [
+     3800.1181640625,
+     5020.6396484375
+    ],
+    [
+     414.6221008300781,
+     5060.3369140625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.15,
+   "ruling_fan_after": 0.12,
+   "override": null,
+   "rendered": "055.jpg",
+   "rendered_size": [
+    3179,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 3,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 56,
+   "photo": "Photo Apr 09 2026, 11 38 55.jpg",
+   "sha256": "f91cd0d59cb5a0f0d049fde0eebf5c4535b19653e2db32bcf1988be49ea51b02",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9742,
+   "leaf_quad": [
+    [
+     535.5,
+     647.0625
+    ],
+    [
+     3778.2498865127563,
+     602.4375
+    ],
+    [
+     3927.0000851154327,
+     4975.6875
+    ],
+    [
+     565.2500141859055,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     503.87994384765625,
+     613.4951782226562
+    ],
+    [
+     3772.458984375,
+     576.4320068359375
+    ],
+    [
+     3926.23779296875,
+     4982.85986328125
+    ],
+    [
+     558.8772583007812,
+     5042.0869140625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.17,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "056.jpg",
+   "rendered_size": [
+    3160,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 4,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 57,
+   "photo": "Photo Apr 09 2026, 11 39 35.jpg",
+   "sha256": "354aabc9ff6ada71f6295d99aedeea126dd7870ffc1eaaaad254ed60fec2530d",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     580.125
+    ],
+    [
+     3837.7499148845673,
+     624.75
+    ],
+    [
+     3867.500056743622,
+     5064.9375
+    ],
+    [
+     446.2499893605709,
+     5087.25
+    ]
+   ],
+   "crop_quad": [
+    [
+     511.859619140625,
+     552.503173828125
+    ],
+    [
+     3849.589111328125,
+     561.8380126953125
+    ],
+    [
+     3872.345703125,
+     5087.21337890625
+    ],
+    [
+     423.66326904296875,
+     5078.39599609375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.15,
+   "ruling_fan_after": 0.15,
+   "override": null,
+   "rendered": "057.jpg",
+   "rendered_size": [
+    3155,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 5,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 58,
+   "photo": "Photo Apr 09 2026, 11 39 47.jpg",
+   "sha256": "2b6fa6ddc32353c9ac2bbb459d3e94fec49014ecd8d87724fc6fc453b88bed50",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     780.9375
+    ],
+    [
+     3718.7501134872437,
+     758.625
+    ],
+    [
+     3808.000028371811,
+     5042.625
+    ],
+    [
+     535.5,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     577.9002075195312,
+     755.705322265625
+    ],
+    [
+     3711.66943359375,
+     736.5960083007812
+    ],
+    [
+     3801.924072265625,
+     5048.21240234375
+    ],
+    [
+     550.798095703125,
+     5036.90478515625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.28,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "058.jpg",
+   "rendered_size": [
+    3126,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 6,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 59,
+   "photo": "Photo Apr 09 2026, 11 40 27.jpg",
+   "sha256": "7896c2d04f94423b59ba917d0230cb4da5e116d6630d7b19919528bb820c92ee",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     714.0000212788582,
+     1004.0625
+    ],
+    [
+     3421.249971628189,
+     1004.0625
+    ],
+    [
+     3569.9999148845673,
+     4730.25
+    ],
+    [
+     714.0000212788582,
+     4797.1875
+    ]
+   ],
+   "crop_quad": [
+    [
+     679.6315307617188,
+     954.1182250976562
+    ],
+    [
+     3431.14013671875,
+     994.1018676757812
+    ],
+    [
+     3568.087646484375,
+     4685.572265625
+    ],
+    [
+     701.855712890625,
+     4865.08544921875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -1.01,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.34,
+   "ruling_fan_after": 0.15,
+   "override": null,
+   "rendered": "059.jpg",
+   "rendered_size": [
+    3113,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 2,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 60,
+   "photo": "Photo Apr 09 2026, 11 40 42.jpg",
+   "sha256": "c40d9f1ff001ff0cf81e14029ad69017669bf01d61795df48ddc44ad205e8128",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     357.0000106394291,
+     423.9375
+    ],
+    [
+     3808.000028371811,
+     513.1875
+    ],
+    [
+     3778.2498865127563,
+     5042.625
+    ],
+    [
+     297.50001418590546,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     339.12249755859375,
+     390.1717529296875
+    ],
+    [
+     3823.485107421875,
+     416.41998291015625
+    ],
+    [
+     3791.20751953125,
+     5090.95556640625
+    ],
+    [
+     285.1818542480469,
+     5079.81494140625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.22,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.47,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "060.jpg",
+   "rendered_size": [
+    3142,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 3,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 61,
+   "photo": "Photo Apr 09 2026, 11 40 54.jpg",
+   "sha256": "2ca7bc797dd19f4af9bd7ec42bd28ac9591bc3458dc084d7d69448ae91af2e8c",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     743.7499716281891,
+     669.375
+    ],
+    [
+     3808.000028371811,
+     691.6875
+    ],
+    [
+     3927.0000851154327,
+     4953.375
+    ],
+    [
+     595.0000283718109,
+     4908.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     730.8638305664062,
+     652.3142700195312
+    ],
+    [
+     3826.55078125,
+     673.5824584960938
+    ],
+    [
+     3932.91455078125,
+     4973.78515625
+    ],
+    [
+     570.9287719726562,
+     4916.59326171875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.22,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "061.jpg",
+   "rendered_size": [
+    3172,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 4,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 62,
+   "photo": "Photo Apr 09 2026, 11 41 06.jpg",
+   "sha256": "83113c37eee0d9ca71f040dc7be3dfa977c2b7e65ccbf17154587ede40676269",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     624.75
+    ],
+    [
+     3778.2498865127563,
+     691.6875
+    ],
+    [
+     3837.7499148845673,
+     5109.5625
+    ],
+    [
+     386.7499929070473,
+     5109.5625
+    ]
+   ],
+   "crop_quad": [
+    [
+     505.0174255371094,
+     594.3036499023438
+    ],
+    [
+     3824.47509765625,
+     575.397216796875
+    ],
+    [
+     3844.091552734375,
+     5173.27294921875
+    ],
+    [
+     322.56280517578125,
+     5115.376953125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.75,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.98,
+   "ruling_fan_after": 0.17,
+   "override": null,
+   "rendered": "062.jpg",
+   "rendered_size": [
+    3156,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 5,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 63,
+   "photo": "Photo Apr 09 2026, 11 41 16.jpg",
+   "sha256": "6cbc07734c23a1db2bc108118b61d4e61f477eb967d9ed76b05326c3407a75ad",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     602.4375
+    ],
+    [
+     3808.000028371811,
+     647.0625
+    ],
+    [
+     3897.249943256378,
+     5042.625
+    ],
+    [
+     446.2499893605709,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     573.3279418945312,
+     570.1865234375
+    ],
+    [
+     3822.73974609375,
+     626.42431640625
+    ],
+    [
+     3925.7841796875,
+     5048.556640625
+    ],
+    [
+     497.0384826660156,
+     5045.62158203125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.2,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.62,
+   "ruling_fan_after": 0.37,
+   "override": null,
+   "rendered": "063.jpg",
+   "rendered_size": [
+    3158,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 6,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 64,
+   "photo": "Photo Apr 09 2026, 11 41 28.jpg",
+   "sha256": "7a74882536ad8307f4c4c19e68c6c34b1bfdb4829748214fdd8a4429f13bf740",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9885,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     937.125
+    ],
+    [
+     3629.499943256378,
+     914.8125
+    ],
+    [
+     3778.2498865127563,
+     5042.625
+    ],
+    [
+     565.2500141859055,
+     5042.625
+    ]
+   ],
+   "crop_quad": [
+    [
+     465.9833984375,
+     887.773681640625
+    ],
+    [
+     3554.41259765625,
+     855.1210327148438
+    ],
+    [
+     3814.113525390625,
+     5050.515625
+    ],
+    [
+     662.9952392578125,
+     5114.7978515625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -1.28,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.21,
+   "ruling_fan_after": 0.35,
+   "override": null,
+   "rendered": "064.jpg",
+   "rendered_size": [
+    3114,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 2,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 65,
+   "photo": "Photo Apr 09 2026, 11 41 46.jpg",
+   "sha256": "e57ffc945d463d36bf90b975bcd3e4b4e9376b71f8bb6532be6d2bd5c7f71d37",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     669.375
+    ],
+    [
+     3808.000028371811,
+     691.6875
+    ],
+    [
+     3927.0000851154327,
+     5064.9375
+    ],
+    [
+     476.00000354647636,
+     5176.5
+    ]
+   ],
+   "crop_quad": [
+    [
+     516.010009765625,
+     646.529052734375
+    ],
+    [
+     3804.231201171875,
+     620.07373046875
+    ],
+    [
+     3945.576416015625,
+     5088.55224609375
+    ],
+    [
+     471.8349304199219,
+     5173.4658203125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.0,
+   "ruling_fan_after": 0.0,
+   "override": null,
+   "rendered": "065.jpg",
+   "rendered_size": [
+    3163,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 3,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 66,
+   "photo": "Photo Apr 09 2026, 11 42 09.jpg",
+   "sha256": "71a0b58e16db109d1d5bfddbf48e35a813c37bb8aad43cfd845bee44292d95ab",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9058,
+   "leaf_quad": [
+    [
+     773.4999858140945,
+     914.8125
+    ],
+    [
+     3629.499943256378,
+     981.75
+    ],
+    [
+     3659.2500851154327,
+     4841.8125
+    ],
+    [
+     654.4999929070473,
+     4841.8125
+    ]
+   ],
+   "crop_quad": [
+    [
+     698.5173950195312,
+     885.970458984375
+    ],
+    [
+     3637.171142578125,
+     910.1600952148438
+    ],
+    [
+     3703.878173828125,
+     4847.70458984375
+    ],
+    [
+     699.2625732421875,
+     4874.41015625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.48,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.99,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "066.jpg",
+   "rendered_size": [
+    3156,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 4,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 67,
+   "photo": "Photo Apr 09 2026, 11 42 25.jpg",
+   "sha256": "f9441a70c9e6cbac724902422832f53082eefc3518ebd55a005a65aaac898f19",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     490.875
+    ],
+    [
+     3808.000028371811,
+     602.4375
+    ],
+    [
+     3808.000028371811,
+     4953.375
+    ],
+    [
+     416.5000070929527,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     490.8628845214844,
+     480.064453125
+    ],
+    [
+     3832.461181640625,
+     540.7706298828125
+    ],
+    [
+     3806.60986328125,
+     5011.130859375
+    ],
+    [
+     383.3182678222656,
+     5010.341796875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.63,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.87,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "067.jpg",
+   "rendered_size": [
+    3163,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 5,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 68,
+   "photo": "Photo Apr 09 2026, 11 42 41.jpg",
+   "sha256": "ed8ea9d478498f5e9a71cbd8a530223bb6f2c19541b647c06546e93deda4863a",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9012,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     780.9375
+    ],
+    [
+     3718.7501134872437,
+     825.5625
+    ],
+    [
+     3927.0000851154327,
+     5020.3125
+    ],
+    [
+     624.7499787211418,
+     5109.5625
+    ]
+   ],
+   "crop_quad": [
+    [
+     745.89208984375,
+     700.7537231445312
+    ],
+    [
+     3765.928466796875,
+     870.6952514648438
+    ],
+    [
+     3844.687255859375,
+     5004.5869140625
+    ],
+    [
+     556.157958984375,
+     5249.9208984375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 1.03,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.33,
+   "ruling_fan_after": 0.36,
+   "override": null,
+   "rendered": "068.jpg",
+   "rendered_size": [
+    3063,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 6,
+     "part": "Violino 1\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 69,
+   "photo": "Photo Apr 09 2026, 11 43 15.jpg",
+   "sha256": "84e5a98d7a3f40d3b6c796f533fb6e4682c3a03b22264d2570d12059bf403c1e",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "manual",
+   "detector_confidence": null,
+   "leaf_quad": [
+    [
+     654.1944373548031,
+     758.2265625
+    ],
+    [
+     3627.8054988384247,
+     758.2265625
+    ],
+    [
+     2854.666751742363,
+     2564.58984375
+    ],
+    [
+     1605.75,
+     2542.2890625
+    ]
+   ],
+   "crop_quad": [
+    [
+     764.5,
+     735.8
+    ],
+    [
+     3639.7,
+     735.8
+    ],
+    [
+     3720.4,
+     4789.2
+    ],
+    [
+     745.5,
+     4789.2
+    ]
+   ],
+   "pad_percent": 2.5,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": false,
+   "ruling_tilt_before": null,
+   "ruling_tilt_after": null,
+   "ruling_fan_before": null,
+   "ruling_fan_after": null,
+   "override": {
+    "page": 69,
+    "pad": 2.5,
+    "corners": [
+     [
+      764.5,
+      735.8
+     ],
+     [
+      3639.7,
+      735.8
+     ],
+     [
+      3720.4,
+      4789.2
+     ],
+     [
+      745.5,
+      4789.2
+     ]
+    ]
+   },
+   "rendered": "069.jpg",
+   "rendered_size": [
+    3086,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 7,
+     "part": "Violino 2\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 7,
+     "part": "Violino 2\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 7,
+     "part": "Violino 2\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 7,
+     "part": "Violino 2\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 9,
+     "part": "Violino 2\u00b0",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 7,
+     "part": "Violino 2\u00b0",
+     "kind": "cover"
+    }
+   ]
+  },
+  {
+   "page": 70,
+   "photo": "Photo Apr 09 2026, 11 43 56.jpg",
+   "sha256": "a3f5e2b4f110e7d01be7e0489d0009627e163dd340e4b9b6b98fb11fab01437e",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     647.0625
+    ],
+    [
+     3718.7501134872437,
+     669.375
+    ],
+    [
+     3778.2498865127563,
+     4975.6875
+    ],
+    [
+     535.5,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     504.291015625,
+     598.8401489257812
+    ],
+    [
+     3750.10498046875,
+     628.6898193359375
+    ],
+    [
+     3834.4912109375,
+     4976.072265625
+    ],
+    [
+     494.1519470214844,
+     5042.02099609375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.18,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.43,
+   "ruling_fan_after": 0.28,
+   "override": null,
+   "rendered": "070.jpg",
+   "rendered_size": [
+    3153,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 8,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 71,
+   "photo": "Photo Apr 09 2026, 11 44 12.jpg",
+   "sha256": "a699e69a14889473d84c6ea02553f13143655c17a9ec64b5c2d262296e7ef2dc",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     602.4375
+    ],
+    [
+     3748.5,
+     714.0
+    ],
+    [
+     3808.000028371811,
+     4998.0
+    ],
+    [
+     476.00000354647636,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     517.4594116210938,
+     596.7109375
+    ],
+    [
+     3756.84521484375,
+     623.7705078125
+    ],
+    [
+     3817.470703125,
+     5007.6669921875
+    ],
+    [
+     450.4809265136719,
+     5074.267578125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "071.jpg",
+   "rendered_size": [
+    3137,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 9,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 72,
+   "photo": "Photo Apr 09 2026, 11 44 21.jpg",
+   "sha256": "5102667fdef44e7efc41113586c41e74774a3ee10ceee48c262f63f12d161730",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9373,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     557.8125
+    ],
+    [
+     3927.0000851154327,
+     535.5
+    ],
+    [
+     4164.999943256378,
+     5042.625
+    ],
+    [
+     595.0000283718109,
+     5087.25
+    ]
+   ],
+   "crop_quad": [
+    [
+     641.9560546875,
+     511.220458984375
+    ],
+    [
+     3936.94091796875,
+     498.2258605957031
+    ],
+    [
+     4184.494140625,
+     5038.79443359375
+    ],
+    [
+     587.6396484375,
+     5123.314453125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.0,
+   "ruling_fan_after": 0.15,
+   "override": null,
+   "rendered": "072.jpg",
+   "rendered_size": [
+    3167,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 10,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 73,
+   "photo": "Photo Apr 09 2026, 11 44 38.jpg",
+   "sha256": "68bf7916410b6373960bb2bdb497e3ea66e6d75501323e8d6d923e3def93f5a1",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     594.7222505807877,
+     624.421875
+    ],
+    [
+     3835.958248257637,
+     735.92578125
+    ],
+    [
+     3865.6945011615753,
+     5106.87890625
+    ],
+    [
+     475.77778132259846,
+     5151.48046875
+    ]
+   ],
+   "crop_quad": [
+    [
+     533.4080200195312,
+     645.725341796875
+    ],
+    [
+     3840.99072265625,
+     656.3827514648438
+    ],
+    [
+     3851.66015625,
+     5124.25
+    ],
+    [
+     466.0628356933594,
+     5132.83935546875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.21,
+   "ruling_fan_after": 0.29,
+   "override": null,
+   "rendered": "073.jpg",
+   "rendered_size": [
+    3145,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 11,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 74,
+   "photo": "Photo Apr 09 2026, 11 44 52.jpg",
+   "sha256": "1d1286d604e51a26c835b2dd680c1bf05175912b7dbc6edc5640a4605bd126cc",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9449,
+   "leaf_quad": [
+    [
+     654.1944373548031,
+     780.52734375
+    ],
+    [
+     3687.2777494192123,
+     914.33203125
+    ],
+    [
+     3776.4859976768494,
+     4950.7734375
+    ],
+    [
+     624.4583120644093,
+     5062.27734375
+    ]
+   ],
+   "crop_quad": [
+    [
+     605.9603881835938,
+     750.372314453125
+    ],
+    [
+     3698.492431640625,
+     886.7996215820312
+    ],
+    [
+     3782.7568359375,
+     4955.16357421875
+    ],
+    [
+     600.0939331054688,
+     5085.51904296875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.18,
+   "ruling_fan_after": 0.14,
+   "override": null,
+   "rendered": "074.jpg",
+   "rendered_size": [
+    3146,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 12,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 75,
+   "photo": "Photo Apr 09 2026, 11 45 08.jpg",
+   "sha256": "fe41c5cd08e520682fda7e41ad67a92f0a8fbff4eb87251ecc4ff074fbd63a41",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     736.3125
+    ],
+    [
+     3718.7501134872437,
+     714.0
+    ],
+    [
+     3808.000028371811,
+     4953.375
+    ],
+    [
+     654.4999929070473,
+     4953.375
+    ]
+   ],
+   "crop_quad": [
+    [
+     487.3598937988281,
+     698.9552612304688
+    ],
+    [
+     3743.260498046875,
+     682.9462890625
+    ],
+    [
+     3807.11181640625,
+     4950.54248046875
+    ],
+    [
+     508.2220153808594,
+     4991.7109375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.12,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.44,
+   "ruling_fan_after": 0.6,
+   "override": null,
+   "rendered": "075.jpg",
+   "rendered_size": [
+    3222,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 8,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 76,
+   "photo": "Photo Apr 09 2026, 11 45 49.jpg",
+   "sha256": "29e354b9906c5258cda81c89a1cc4ded1b341ea1726e53eaeb30c2922e8dc11c",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9053,
+   "leaf_quad": [
+    [
+     565.2500141859055,
+     691.6875
+    ],
+    [
+     3659.2500851154327,
+     803.25
+    ],
+    [
+     3688.999971628189,
+     4908.75
+    ],
+    [
+     505.74998581409454,
+     4975.6875
+    ]
+   ],
+   "crop_quad": [
+    [
+     544.49951171875,
+     699.640869140625
+    ],
+    [
+     3673.4033203125,
+     721.9534912109375
+    ],
+    [
+     3712.457763671875,
+     4939.72216796875
+    ],
+    [
+     486.9579772949219,
+     4972.94775390625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "076.jpg",
+   "rendered_size": [
+    3150,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 9,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 77,
+   "photo": "Photo Apr 09 2026, 11 45 58.jpg",
+   "sha256": "cc70400f3080fe6b9f7e8baa79f1920e05ce390ad553f9469ef59d783fed0741",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8461,
+   "leaf_quad": [
+    [
+     773.4999858140945,
+     825.5625
+    ],
+    [
+     3748.5,
+     847.875
+    ],
+    [
+     3837.7499148845673,
+     4908.75
+    ],
+    [
+     743.7499716281891,
+     4908.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     716.777099609375,
+     780.517333984375
+    ],
+    [
+     3770.5732421875,
+     802.6740112304688
+    ],
+    [
+     3858.52880859375,
+     4921.35693359375
+    ],
+    [
+     719.8731079101562,
+     4982.58544921875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.33,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.06,
+   "ruling_fan_after": 0.31,
+   "override": null,
+   "rendered": "077.jpg",
+   "rendered_size": [
+    3132,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 10,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 78,
+   "photo": "Photo Apr 09 2026, 11 46 17.jpg",
+   "sha256": "fc4917d8ddc3b861054ccec5f4169128de314f66e352041738fa4381f89255f2",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.4583120644093,
+     602.12109375
+    ],
+    [
+     3776.4859976768494,
+     713.625
+    ],
+    [
+     3865.6945011615753,
+     5039.9765625
+    ],
+    [
+     446.0416560322046,
+     5084.578125
+    ]
+   ],
+   "crop_quad": [
+    [
+     539.839599609375,
+     607.6592407226562
+    ],
+    [
+     3775.27099609375,
+     617.7034301757812
+    ],
+    [
+     3871.52197265625,
+     5041.2294921875
+    ],
+    [
+     420.5984802246094,
+     5075.26318359375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.37,
+   "ruling_fan_after": 0.3,
+   "override": null,
+   "rendered": "078.jpg",
+   "rendered_size": [
+    3164,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 11,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 79,
+   "photo": "Photo Apr 09 2026, 11 46 26.jpg",
+   "sha256": "1fdc0eb47118a67c7e0af1668dee0f8e3683d2beaa94976f38ca21cfcf31f6d2",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     713.6666879355907,
+     624.421875
+    ],
+    [
+     3865.6945011615753,
+     669.0234375
+    ],
+    [
+     3895.4304988384247,
+     4950.7734375
+    ],
+    [
+     654.1944373548031,
+     4950.7734375
+    ]
+   ],
+   "crop_quad": [
+    [
+     676.5926513671875,
+     565.3505859375
+    ],
+    [
+     3889.785400390625,
+     618.3616943359375
+    ],
+    [
+     3912.0859375,
+     4957.87841796875
+    ],
+    [
+     660.4437255859375,
+     4967.7734375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.22,
+   "ruling_fan_after": 0.35,
+   "override": null,
+   "rendered": "079.jpg",
+   "rendered_size": [
+    3113,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 12,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 80,
+   "photo": "Photo Apr 09 2026, 11 46 40.jpg",
+   "sha256": "2ae855a0ebe937e5bee67135df1e340c2d680670550afef36988f7df91d2aa6a",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     832.6111252903938,
+     802.828125
+    ],
+    [
+     3835.958248257637,
+     802.828125
+    ],
+    [
+     3954.9027494192123,
+     4906.171875
+    ],
+    [
+     832.6111252903938,
+     4883.87109375
+    ]
+   ],
+   "crop_quad": [
+    [
+     784.5735473632812,
+     748.34130859375
+    ],
+    [
+     3863.445556640625,
+     748.1371459960938
+    ],
+    [
+     3962.98291015625,
+     4913.50439453125
+    ],
+    [
+     821.7233276367188,
+     4963.5712890625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.22,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.77,
+   "ruling_fan_after": 0.38,
+   "override": null,
+   "rendered": "080.jpg",
+   "rendered_size": [
+    3123,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 8,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 81,
+   "photo": "Photo Apr 09 2026, 11 46 53.jpg",
+   "sha256": "81ae57e6101ab3793867fbd2487d8050c54fe032ee90050ae17cbf582c830c3e",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     594.7222505807877,
+     691.32421875
+    ],
+    [
+     3776.4859976768494,
+     758.2265625
+    ],
+    [
+     3835.958248257637,
+     5017.67578125
+    ],
+    [
+     535.25,
+     5062.27734375
+    ]
+   ],
+   "crop_quad": [
+    [
+     539.4213256835938,
+     698.5663452148438
+    ],
+    [
+     3758.53564453125,
+     636.6026611328125
+    ],
+    [
+     3839.155029296875,
+     5089.60302734375
+    ],
+    [
+     518.3553466796875,
+     5040.0
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.37,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.68,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "081.jpg",
+   "rendered_size": [
+    3130,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 9,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 82,
+   "photo": "Photo Apr 09 2026, 11 47 10.jpg",
+   "sha256": "bee564431cffb446bb20dc22d7cffe201e82197ea26509d5b92a948add377d5c",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8674,
+   "leaf_quad": [
+    [
+     833.0000141859055,
+     1026.375
+    ],
+    [
+     3688.999971628189,
+     1048.6875
+    ],
+    [
+     3808.000028371811,
+     4931.0625
+    ],
+    [
+     803.25,
+     4975.6875
+    ]
+   ],
+   "crop_quad": [
+    [
+     812.831298828125,
+     981.9200439453125
+    ],
+    [
+     3701.44580078125,
+     1024.2034912109375
+    ],
+    [
+     3816.542724609375,
+     4937.29736328125
+    ],
+    [
+     782.0657958984375,
+     4998.71044921875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.05,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.24,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "082.jpg",
+   "rendered_size": [
+    3143,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 10,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 83,
+   "photo": "Photo Apr 09 2026, 11 47 24.jpg",
+   "sha256": "7ea9954730ed3f699d75f4369ad94bb81e5ce502869f0bf2c7d31c4841a23e91",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9701,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     870.1875
+    ],
+    [
+     3718.7501134872437,
+     892.5
+    ],
+    [
+     3778.2498865127563,
+     5087.25
+    ],
+    [
+     565.2500141859055,
+     5109.5625
+    ]
+   ],
+   "crop_quad": [
+    [
+     552.061279296875,
+     889.2892456054688
+    ],
+    [
+     3729.99755859375,
+     785.2251586914062
+    ],
+    [
+     3779.9775390625,
+     5145.82763671875
+    ],
+    [
+     563.09619140625,
+     5108.61083984375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.4,
+   "ruling_fan_after": 0.33,
+   "override": null,
+   "rendered": "083.jpg",
+   "rendered_size": [
+    3137,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 11,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 84,
+   "photo": "Photo Apr 09 2026, 11 47 34.jpg",
+   "sha256": "581b75c5509f307ee817ae1d7223475c7b8fd69350be4052797a3d65b7effaa2",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     773.4999858140945,
+     803.25
+    ],
+    [
+     3778.2498865127563,
+     780.9375
+    ],
+    [
+     3897.249943256378,
+     4864.125
+    ],
+    [
+     773.4999858140945,
+     4886.4375
+    ]
+   ],
+   "crop_quad": [
+    [
+     764.62353515625,
+     760.7047119140625
+    ],
+    [
+     3779.341796875,
+     758.4181518554688
+    ],
+    [
+     3859.648681640625,
+     4872.40234375
+    ],
+    [
+     766.2183227539062,
+     4906.0615234375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "084.jpg",
+   "rendered_size": [
+    3112,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 12,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 85,
+   "photo": "Photo Apr 09 2026, 11 47 47.jpg",
+   "sha256": "a9f6825e6bd4e0c74e6a8a41e5682eae8954e17427716fe4be911246272ca17f",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     773.4999858140945,
+     758.625
+    ],
+    [
+     3748.5,
+     736.3125
+    ],
+    [
+     3837.7499148845673,
+     4774.875
+    ],
+    [
+     833.0000141859055,
+     4819.5
+    ]
+   ],
+   "crop_quad": [
+    [
+     741.0859375,
+     668.4005126953125
+    ],
+    [
+     3755.09912109375,
+     680.9796752929688
+    ],
+    [
+     3872.6533203125,
+     4766.91162109375
+    ],
+    [
+     834.1643676757812,
+     4881.2548828125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.63,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.97,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "085.jpg",
+   "rendered_size": [
+    3070,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 8,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 86,
+   "photo": "Photo Apr 09 2026, 11 47 59.jpg",
+   "sha256": "6450ecea17e030b3b27b1f64ce917ce4a1d90e8e61a472eae1fd6271319fb8bf",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     714.0
+    ],
+    [
+     3599.750056743622,
+     803.25
+    ],
+    [
+     3718.7501134872437,
+     5131.875
+    ],
+    [
+     386.7499929070473,
+     5221.125
+    ]
+   ],
+   "crop_quad": [
+    [
+     436.017333984375,
+     711.5466918945312
+    ],
+    [
+     3643.06298828125,
+     704.9375
+    ],
+    [
+     3762.931640625,
+     5177.81298828125
+    ],
+    [
+     321.69940185546875,
+     5204.97021484375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.22,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.45,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "086.jpg",
+   "rendered_size": [
+    3119,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 9,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 87,
+   "photo": "Photo Apr 09 2026, 11 48 11.jpg",
+   "sha256": "cf36e104198e544fa80a1ecc86074211d32843d0aa54ece3617e68da1c9e6c12",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9398,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     624.75
+    ],
+    [
+     3748.5,
+     669.375
+    ],
+    [
+     3837.7499148845673,
+     4886.4375
+    ],
+    [
+     624.7499787211418,
+     4931.0625
+    ]
+   ],
+   "crop_quad": [
+    [
+     584.0816650390625,
+     567.1205444335938
+    ],
+    [
+     3775.862548828125,
+     627.054931640625
+    ],
+    [
+     3834.93408203125,
+     4883.12353515625
+    ],
+    [
+     611.7029418945312,
+     5003.30419921875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.43,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.84,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "087.jpg",
+   "rendered_size": [
+    3108,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 10,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 88,
+   "photo": "Photo Apr 09 2026, 11 48 33.jpg",
+   "sha256": "9ac891f2dff966b4ceab22a913ad77dcfdc7d46d58a78a87b265a6269a0aee16",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     714.0
+    ],
+    [
+     3629.499943256378,
+     780.9375
+    ],
+    [
+     3659.2500851154327,
+     4886.4375
+    ],
+    [
+     535.5,
+     4886.4375
+    ]
+   ],
+   "crop_quad": [
+    [
+     571.27685546875,
+     723.3450317382812
+    ],
+    [
+     3665.3359375,
+     695.2080688476562
+    ],
+    [
+     3663.66943359375,
+     4916.384765625
+    ],
+    [
+     496.0660705566406,
+     4883.6611328125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.33,
+   "ruling_fan_after": 0.27,
+   "override": null,
+   "rendered": "088.jpg",
+   "rendered_size": [
+    3144,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 11,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 89,
+   "photo": "Photo Apr 09 2026, 11 48 46.jpg",
+   "sha256": "169949434d2e993abdc766d2e6d83441ad156e33e9b0c322e8a5465d2d5c04e2",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9871,
+   "leaf_quad": [
+    [
+     743.7499716281891,
+     736.3125
+    ],
+    [
+     3778.2498865127563,
+     736.3125
+    ],
+    [
+     3897.249943256378,
+     4908.75
+    ],
+    [
+     743.7499716281891,
+     4886.4375
+    ]
+   ],
+   "crop_quad": [
+    [
+     720.5675048828125,
+     666.9586181640625
+    ],
+    [
+     3804.3427734375,
+     711.4692993164062
+    ],
+    [
+     3895.5439453125,
+     4909.22412109375
+    ],
+    [
+     711.0951538085938,
+     4955.23095703125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.55,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.07,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "089.jpg",
+   "rendered_size": [
+    3109,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 12,
+     "part": "Violino 2\u00b0",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 90,
+   "photo": "Photo Apr 09 2026, 11 49 03.jpg",
+   "sha256": "851263b0808f13b21cb4eeaf1b8fd1c7fa2520770536183cc8b35ea029699718",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "manual",
+   "detector_confidence": null,
+   "leaf_quad": [
+    [
+     535.25,
+     735.92578125
+    ],
+    [
+     2824.9304988384247,
+     1895.56640625
+    ],
+    [
+     2824.9304988384247,
+     2676.09375
+    ],
+    [
+     1486.8054988384247,
+     2676.09375
+    ]
+   ],
+   "crop_quad": [
+    [
+     602.7,
+     725.0
+    ],
+    [
+     3679.8,
+     720.9
+    ],
+    [
+     3691.6,
+     4927.5
+    ],
+    [
+     635.4,
+     4916.8
+    ]
+   ],
+   "pad_percent": 2.5,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": false,
+   "ruling_tilt_before": null,
+   "ruling_tilt_after": null,
+   "ruling_fan_before": null,
+   "ruling_fan_after": null,
+   "override": {
+    "page": 90,
+    "pad": 2.5,
+    "corners": [
+     [
+      602.7,
+      725.0
+     ],
+     [
+      3679.8,
+      720.9
+     ],
+     [
+      3691.6,
+      4927.5
+     ],
+     [
+      635.4,
+      4916.8
+     ]
+    ]
+   },
+   "rendered": "090.jpg",
+   "rendered_size": [
+    3122,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 13,
+     "part": "Alto",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 13,
+     "part": "Alto",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 13,
+     "part": "Alto",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 13,
+     "part": "Alto",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 17,
+     "part": "Alto",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 12,
+     "part": "Alto",
+     "kind": "cover"
+    }
+   ]
+  },
+  {
+   "page": 91,
+   "photo": "Photo Apr 09 2026, 11 49 16.jpg",
+   "sha256": "2c4b88ab508fe42a845d944db72f4e59951586e8e70b265020e218e0398e4928",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     743.4027494192123,
+     646.72265625
+    ],
+    [
+     3776.4859976768494,
+     669.0234375
+    ],
+    [
+     3865.6945011615753,
+     4928.47265625
+    ],
+    [
+     654.1944373548031,
+     4928.47265625
+    ]
+   ],
+   "crop_quad": [
+    [
+     658.0187377929688,
+     598.67333984375
+    ],
+    [
+     3803.558349609375,
+     658.9208984375
+    ],
+    [
+     3993.056884765625,
+     4930.0771484375
+    ],
+    [
+     632.527587890625,
+     5050.2216796875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": false,
+   "ruling_tilt_before": null,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": null,
+   "ruling_fan_after": 0.63,
+   "override": null,
+   "rendered": "091.jpg",
+   "rendered_size": [
+    3139,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 14,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 92,
+   "photo": "Photo Apr 09 2026, 11 49 32.jpg",
+   "sha256": "767aef0cc0c69b8785acf52ffd6a39ba609dae07fad6fa7975be9027ba0a656b",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.25,
+     758.2265625
+    ],
+    [
+     3687.2777494192123,
+     780.52734375
+    ],
+    [
+     3717.0140023231506,
+     4973.07421875
+    ],
+    [
+     475.77778132259846,
+     4995.375
+    ]
+   ],
+   "crop_quad": [
+    [
+     509.4796142578125,
+     710.4379272460938
+    ],
+    [
+     3701.385986328125,
+     693.6083984375
+    ],
+    [
+     3705.1025390625,
+     5056.09912109375
+    ],
+    [
+     436.1523742675781,
+     4972.76513671875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.63,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.87,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "092.jpg",
+   "rendered_size": [
+    3153,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 15,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 93,
+   "photo": "Photo Apr 09 2026, 11 49 44.jpg",
+   "sha256": "b2fff33577d72266f78ee5419083e6a0de648ef92d7a4c66679f627a432854e9",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8591,
+   "leaf_quad": [
+    [
+     773.1388747096062,
+     914.33203125
+    ],
+    [
+     3598.0695011615753,
+     914.33203125
+    ],
+    [
+     3746.75,
+     4839.26953125
+    ],
+    [
+     654.1944373548031,
+     4861.5703125
+    ]
+   ],
+   "crop_quad": [
+    [
+     722.4899291992188,
+     875.4290771484375
+    ],
+    [
+     3629.479736328125,
+     884.9154052734375
+    ],
+    [
+     3772.5947265625,
+     4839.8603515625
+    ],
+    [
+     660.1043090820312,
+     4876.4716796875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.19,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "093.jpg",
+   "rendered_size": [
+    3183,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 16,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 94,
+   "photo": "Photo Apr 09 2026, 11 50 00.jpg",
+   "sha256": "fad8f88541fc0e3880e555d6bf75a341206dea8d04506ebd6d8880f5029f5ff3",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     654.1944373548031,
+     914.33203125
+    ],
+    [
+     3568.333248257637,
+     958.93359375
+    ],
+    [
+     3598.0695011615753,
+     4839.26953125
+    ],
+    [
+     594.7222505807877,
+     4839.26953125
+    ]
+   ],
+   "crop_quad": [
+    [
+     630.2818603515625,
+     892.516845703125
+    ],
+    [
+     3562.892333984375,
+     902.3642578125
+    ],
+    [
+     3570.8642578125,
+     4837.14404296875
+    ],
+    [
+     569.1777954101562,
+     4837.1875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.3,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "094.jpg",
+   "rendered_size": [
+    3169,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 17,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 95,
+   "photo": "Photo Apr 09 2026, 11 50 11.jpg",
+   "sha256": "7e13df46c2bd28524050419dbabb0fbe9809f6ba7333079197ae3f4876afe92c",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     743.4027494192123,
+     780.52734375
+    ],
+    [
+     3746.75,
+     802.828125
+    ],
+    [
+     3776.4859976768494,
+     4816.96875
+    ],
+    [
+     713.6666879355907,
+     4816.96875
+    ]
+   ],
+   "crop_quad": [
+    [
+     722.3191528320312,
+     741.26025390625
+    ],
+    [
+     3775.2294921875,
+     774.448486328125
+    ],
+    [
+     3798.3173828125,
+     4822.888671875
+    ],
+    [
+     695.9161376953125,
+     4828.416015625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.0,
+   "ruling_fan_after": 0.0,
+   "override": null,
+   "rendered": "095.jpg",
+   "rendered_size": [
+    3184,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 18,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 96,
+   "photo": "Photo Apr 09 2026, 11 50 37.jpg",
+   "sha256": "27f497980b98cb2b73ccc21b5ae8cdb185e78b66b9baecfd5a7136faefac1c47",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     952.0000070929527,
+     780.9375
+    ],
+    [
+     3808.000028371811,
+     758.625
+    ],
+    [
+     4016.25,
+     4841.8125
+    ],
+    [
+     833.0000141859055,
+     4864.125
+    ]
+   ],
+   "crop_quad": [
+    [
+     852.1382446289062,
+     751.8455810546875
+    ],
+    [
+     3783.39013671875,
+     697.5470581054688
+    ],
+    [
+     4090.492431640625,
+     4865.37158203125
+    ],
+    [
+     698.8206176757812,
+     4896.76904296875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.44,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.82,
+   "ruling_fan_after": 0.47,
+   "override": null,
+   "rendered": "096.jpg",
+   "rendered_size": [
+    3196,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 14,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 97,
+   "photo": "Photo Apr 09 2026, 11 51 02.jpg",
+   "sha256": "2ad233bec89c84c3c233986f1b3be937583a7cc70af76869109d2f3cbe88eb41",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     736.3125
+    ],
+    [
+     3629.499943256378,
+     825.5625
+    ],
+    [
+     3688.999971628189,
+     4998.0
+    ],
+    [
+     446.2499893605709,
+     5042.625
+    ]
+   ],
+   "crop_quad": [
+    [
+     492.107421875,
+     709.3046264648438
+    ],
+    [
+     3652.347900390625,
+     729.1968994140625
+    ],
+    [
+     3700.53515625,
+     5043.2685546875
+    ],
+    [
+     417.7206115722656,
+     5023.31005859375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.4,
+   "ruling_fan_after": 0.28,
+   "override": null,
+   "rendered": "097.jpg",
+   "rendered_size": [
+    3142,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 15,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 98,
+   "photo": "Photo Apr 09 2026, 11 51 15.jpg",
+   "sha256": "bc9e33e86a5cf4ea260a4754898fcd9f61b934e04744a78fcca901eb3fa0ef7b",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8538,
+   "leaf_quad": [
+    [
+     743.7499716281891,
+     736.3125
+    ],
+    [
+     3897.249943256378,
+     736.3125
+    ],
+    [
+     3986.5001134872437,
+     5020.3125
+    ],
+    [
+     743.7499716281891,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     716.6253051757812,
+     686.66796875
+    ],
+    [
+     3923.54931640625,
+     714.9063720703125
+    ],
+    [
+     3992.20947265625,
+     5019.73779296875
+    ],
+    [
+     714.8032836914062,
+     5040.21435546875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.17,
+   "ruling_fan_after": 0.11,
+   "override": null,
+   "rendered": "098.jpg",
+   "rendered_size": [
+    3152,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 16,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 99,
+   "photo": "Photo Apr 09 2026, 11 51 30.jpg",
+   "sha256": "ce587bad2a65d1d826c033dfd3349cc21ee56dc19b284a6f71ce4bd66030bab3",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     602.4375
+    ],
+    [
+     3778.2498865127563,
+     647.0625
+    ],
+    [
+     3748.5,
+     5042.625
+    ],
+    [
+     416.5000070929527,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     426.0557556152344,
+     582.4347534179688
+    ],
+    [
+     3792.151123046875,
+     551.1512451171875
+    ],
+    [
+     3785.560302734375,
+     5089.3388671875
+    ],
+    [
+     383.8750915527344,
+     5061.90478515625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.64,
+   "ruling_fan_after": 0.47,
+   "override": null,
+   "rendered": "099.jpg",
+   "rendered_size": [
+    3158,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 17,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 100,
+   "photo": "Photo Apr 09 2026, 11 51 39.jpg",
+   "sha256": "aabcef34efe14368c1bc942103d149ca089476e11bb69a6b0ff99b06edd1e476",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9829,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     691.6875
+    ],
+    [
+     3808.000028371811,
+     736.3125
+    ],
+    [
+     3867.500056743622,
+     5042.625
+    ],
+    [
+     535.5,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     578.0074462890625,
+     648.693359375
+    ],
+    [
+     3822.267822265625,
+     704.0325927734375
+    ],
+    [
+     3891.131591796875,
+     5040.4111328125
+    ],
+    [
+     559.9176025390625,
+     5115.0224609375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.17,
+   "ruling_fan_after": 0.15,
+   "override": null,
+   "rendered": "100.jpg",
+   "rendered_size": [
+    3144,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 18,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 101,
+   "photo": "Photo Apr 09 2026, 11 51 50.jpg",
+   "sha256": "7b1bb61f9036853d5fc01c8aff6f188c0d68d680394862f326b1e8567bf71b80",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     714.0000212788582,
+     914.8125
+    ],
+    [
+     3659.2500851154327,
+     914.8125
+    ],
+    [
+     3808.000028371811,
+     5087.25
+    ],
+    [
+     595.0000283718109,
+     5154.1875
+    ]
+   ],
+   "crop_quad": [
+    [
+     645.0863647460938,
+     863.4390258789062
+    ],
+    [
+     3675.27685546875,
+     881.7904663085938
+    ],
+    [
+     3832.38818359375,
+     5091.87451171875
+    ],
+    [
+     467.75653076171875,
+     5174.673828125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.32,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "101.jpg",
+   "rendered_size": [
+    3156,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 14,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 102,
+   "photo": "Photo Apr 09 2026, 11 52 11.jpg",
+   "sha256": "bf54907cd30658f1c0bf134952aac00e865dca78b14ed170104f13a5f4919a3a",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     647.0625
+    ],
+    [
+     3808.000028371811,
+     691.6875
+    ],
+    [
+     3837.7499148845673,
+     5020.3125
+    ],
+    [
+     476.00000354647636,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     520.8482055664062,
+     625.828125
+    ],
+    [
+     3811.625732421875,
+     630.3428955078125
+    ],
+    [
+     3820.6572265625,
+     5065.08984375
+    ],
+    [
+     427.7279968261719,
+     5035.66552734375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.19,
+   "override": null,
+   "rendered": "102.jpg",
+   "rendered_size": [
+    3180,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 15,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 103,
+   "photo": "Photo Apr 09 2026, 11 52 25.jpg",
+   "sha256": "1427d606f4422f98aed45c187bb6826c8bcd494413c58be0c5a5ef79a0d3cefa",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     595.0000283718109,
+     803.25
+    ],
+    [
+     3748.5,
+     825.5625
+    ],
+    [
+     3808.000028371811,
+     5020.3125
+    ],
+    [
+     595.0000283718109,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     589.5693359375,
+     754.4806518554688
+    ],
+    [
+     3768.78125,
+     776.4805908203125
+    ],
+    [
+     3824.2587890625,
+     5023.517578125
+    ],
+    [
+     584.3271484375,
+     5057.8505859375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.23,
+   "ruling_fan_after": 0.25,
+   "override": null,
+   "rendered": "103.jpg",
+   "rendered_size": [
+    3159,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 16,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 104,
+   "photo": "Photo Apr 09 2026, 11 52 40.jpg",
+   "sha256": "47e7dc98a7d88906e321224c19b522dea3875249e83dba72a60009755eae9422",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9531,
+   "leaf_quad": [
+    [
+     386.7499929070473,
+     624.75
+    ],
+    [
+     3629.499943256378,
+     714.0
+    ],
+    [
+     3659.2500851154327,
+     5109.5625
+    ],
+    [
+     297.50001418590546,
+     5198.8125
+    ]
+   ],
+   "crop_quad": [
+    [
+     299.220947265625,
+     647.852294921875
+    ],
+    [
+     3638.19580078125,
+     605.6189575195312
+    ],
+    [
+     3721.898681640625,
+     5159.392578125
+    ],
+    [
+     224.01429748535156,
+     5176.7333984375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.0,
+   "ruling_fan_after": 0.1,
+   "override": null,
+   "rendered": "104.jpg",
+   "rendered_size": [
+    3168,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 17,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 105,
+   "photo": "Photo Apr 09 2026, 11 52 50.jpg",
+   "sha256": "06a226d3a53c9dd481c475b64cac91fcc382d0935b1175713eca2aa498ef2a5b",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     624.75
+    ],
+    [
+     3927.0000851154327,
+     602.4375
+    ],
+    [
+     3986.5001134872437,
+     5064.9375
+    ],
+    [
+     595.0000283718109,
+     5064.9375
+    ]
+   ],
+   "crop_quad": [
+    [
+     621.3397216796875,
+     566.4175415039062
+    ],
+    [
+     3981.3466796875,
+     575.2379760742188
+    ],
+    [
+     4032.84375,
+     5073.6494140625
+    ],
+    [
+     612.796142578125,
+     5095.8544921875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": -0.12,
+   "ruling_fan_before": 0.58,
+   "ruling_fan_after": 0.44,
+   "override": null,
+   "rendered": "105.jpg",
+   "rendered_size": [
+    3160,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 18,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 106,
+   "photo": "Photo Apr 09 2026, 11 53 13.jpg",
+   "sha256": "936411b0a17189d729c7f89f2de12ca1c5411b6b2acc59b0e170dbb6a1c399e4",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.4583120644093,
+     758.2265625
+    ],
+    [
+     3717.0140023231506,
+     735.92578125
+    ],
+    [
+     3806.2222505807877,
+     4906.171875
+    ],
+    [
+     654.1944373548031,
+     4995.375
+    ]
+   ],
+   "crop_quad": [
+    [
+     553.7214965820312,
+     675.5291748046875
+    ],
+    [
+     3744.248046875,
+     711.2587890625
+    ],
+    [
+     3837.46484375,
+     4907.7431640625
+    ],
+    [
+     677.6893920898438,
+     5006.18359375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.87,
+   "ruling_fan_after": 0.5,
+   "override": null,
+   "rendered": "106.jpg",
+   "rendered_size": [
+    3134,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 14,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 107,
+   "photo": "Photo Apr 09 2026, 11 53 38.jpg",
+   "sha256": "ea986c259fe8ff752e0698781a8f6044c9d6972e2f8fed4be86cbd34a0519e1e",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     505.51387470960617,
+     646.72265625
+    ],
+    [
+     3717.0140023231506,
+     691.32421875
+    ],
+    [
+     3806.2222505807877,
+     4995.375
+    ],
+    [
+     446.0416560322046,
+     5039.9765625
+    ]
+   ],
+   "crop_quad": [
+    [
+     472.8363342285156,
+     666.62353515625
+    ],
+    [
+     3703.6103515625,
+     550.9020385742188
+    ],
+    [
+     3804.384765625,
+     5046.029296875
+    ],
+    [
+     414.9033203125,
+     5027.18994140625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": false,
+   "ruling_tilt_before": null,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": null,
+   "ruling_fan_after": 0.03,
+   "override": null,
+   "rendered": "107.jpg",
+   "rendered_size": [
+    3147,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 15,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 108,
+   "photo": "Photo Apr 09 2026, 11 53 48.jpg",
+   "sha256": "2a6fe7f58dc4e0f5228cd892a707afd82dd0b7bcb6fcedfb964f2c3b3f736012",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     564.9861252903938,
+     780.52734375
+    ],
+    [
+     3657.541751742363,
+     802.828125
+    ],
+    [
+     3717.0140023231506,
+     4906.171875
+    ],
+    [
+     594.7222505807877,
+     4928.47265625
+    ]
+   ],
+   "crop_quad": [
+    [
+     549.6392822265625,
+     734.9100341796875
+    ],
+    [
+     3680.9384765625,
+     763.0035400390625
+    ],
+    [
+     3735.328125,
+     4926.97802734375
+    ],
+    [
+     550.0217895507812,
+     4975.388671875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.12,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.59,
+   "ruling_fan_after": 0.36,
+   "override": null,
+   "rendered": "108.jpg",
+   "rendered_size": [
+    3163,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 16,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 109,
+   "photo": "Photo Apr 09 2026, 11 54 09.jpg",
+   "sha256": "dd9615f1cdf69770a0f2f7daf9f80363961a1732befa86e23db0eaf994d906ff",
+   "photo_size": [
+    4282,
+    5709
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     564.9861252903938,
+     602.12109375
+    ],
+    [
+     3806.2222505807877,
+     713.625
+    ],
+    [
+     3717.0140023231506,
+     4973.07421875
+    ],
+    [
+     475.77778132259846,
+     4995.375
+    ]
+   ],
+   "crop_quad": [
+    [
+     516.7862548828125,
+     595.7738037109375
+    ],
+    [
+     3799.98388671875,
+     606.0806884765625
+    ],
+    [
+     3741.39599609375,
+     4991.763671875
+    ],
+    [
+     430.1130676269531,
+     4982.2197265625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.39,
+   "ruling_fan_after": 0.21,
+   "override": null,
+   "rendered": "109.jpg",
+   "rendered_size": [
+    3164,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 17,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 110,
+   "photo": "Photo Apr 09 2026, 11 54 23.jpg",
+   "sha256": "0f6923273c194ed761fc919d28525a67dc4dd75572ecd499bfc2e358b98cbb0e",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9634,
+   "leaf_quad": [
+    [
+     505.74998581409454,
+     535.5
+    ],
+    [
+     3718.7501134872437,
+     647.0625
+    ],
+    [
+     3837.7499148845673,
+     4998.0
+    ],
+    [
+     386.7499929070473,
+     5042.625
+    ]
+   ],
+   "crop_quad": [
+    [
+     444.22955322265625,
+     488.0868835449219
+    ],
+    [
+     3746.18896484375,
+     583.9735717773438
+    ],
+    [
+     3902.31689453125,
+     4996.79296875
+    ],
+    [
+     427.47314453125,
+     5132.94384765625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.93,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.77,
+   "ruling_fan_after": 0.0,
+   "override": null,
+   "rendered": "110.jpg",
+   "rendered_size": [
+    3150,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 18,
+     "part": "Alto",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 111,
+   "photo": "Photo Apr 09 2026, 11 54 40.jpg",
+   "sha256": "818201152eaef67c9ff5ab35b20f0a4982ecd8f538b61855890690afe5b754d6",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "manual",
+   "detector_confidence": null,
+   "leaf_quad": [
+    [
+     1517.2499574422836,
+     1762.6875
+    ],
+    [
+     3688.999971628189,
+     758.625
+    ],
+    [
+     2885.749971628189,
+     2521.3125
+    ],
+    [
+     1517.2499574422836,
+     2521.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     742.9,
+     735.6
+    ],
+    [
+     3710.9,
+     706.7
+    ],
+    [
+     3807.5,
+     4942.3
+    ],
+    [
+     686.2,
+     4923.2
+    ]
+   ],
+   "pad_percent": 2.5,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": false,
+   "ruling_tilt_before": null,
+   "ruling_tilt_after": null,
+   "ruling_fan_before": null,
+   "ruling_fan_after": null,
+   "override": {
+    "page": 111,
+    "pad": 2.5,
+    "corners": [
+     [
+      742.9,
+      735.6
+     ],
+     [
+      3710.9,
+      706.7
+     ],
+     [
+      3807.5,
+      4942.3
+     ],
+     [
+      686.2,
+      4923.2
+     ]
+    ]
+   },
+   "rendered": "111.jpg",
+   "rendered_size": [
+    3091,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 19,
+     "part": "Violoncello",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 19,
+     "part": "Violoncello",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 19,
+     "part": "Violoncello",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 19,
+     "part": "Violoncello",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-5",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - BnF Vma ms 1067 (5).pdf",
+     "pdf_page": 25,
+     "part": "Violoncello",
+     "kind": "cover"
+    },
+    {
+     "quartet": "1067-6",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - BnF Vma ms 1067 (6).pdf",
+     "pdf_page": 17,
+     "part": "Violoncello",
+     "kind": "cover"
+    }
+   ]
+  },
+  {
+   "page": 112,
+   "photo": "Photo Apr 09 2026, 11 55 05.jpg",
+   "sha256": "48119e966f179f933b22122265b4dd1a7b71cf0b14de3cad9afd818f0fd2a096",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     833.0000141859055,
+     714.0
+    ],
+    [
+     3837.7499148845673,
+     780.9375
+    ],
+    [
+     3897.249943256378,
+     5109.5625
+    ],
+    [
+     654.4999929070473,
+     5109.5625
+    ]
+   ],
+   "crop_quad": [
+    [
+     831.310546875,
+     687.05419921875
+    ],
+    [
+     3856.365478515625,
+     732.7442626953125
+    ],
+    [
+     3930.93798828125,
+     5109.962890625
+    ],
+    [
+     653.83056640625,
+     5126.15283203125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.41,
+   "ruling_fan_after": 0.23,
+   "override": null,
+   "rendered": "112.jpg",
+   "rendered_size": [
+    3008,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 20,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 113,
+   "photo": "Photo Apr 09 2026, 11 55 29.jpg",
+   "sha256": "00862b191d5e56ab199b2c7395a37a1e924802a9b3f0bda6c70479b5547fc7b0",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9863,
+   "leaf_quad": [
+    [
+     565.2500141859055,
+     736.3125
+    ],
+    [
+     3688.999971628189,
+     892.5
+    ],
+    [
+     3718.7501134872437,
+     4998.0
+    ],
+    [
+     476.00000354647636,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     523.8076782226562,
+     707.318603515625
+    ],
+    [
+     3668.643798828125,
+     714.3923950195312
+    ],
+    [
+     3687.29345703125,
+     5029.7353515625
+    ],
+    [
+     447.1651611328125,
+     5005.13134765625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.19,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "113.jpg",
+   "rendered_size": [
+    3119,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 21,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 114,
+   "photo": "Photo Apr 09 2026, 11 55 40.jpg",
+   "sha256": "81ca0f435ca91b579b210e29fb48e4910f091237d043470b6d9716770b9746e6",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     602.4375
+    ],
+    [
+     3808.000028371811,
+     624.75
+    ],
+    [
+     3837.7499148845673,
+     5020.3125
+    ],
+    [
+     535.5,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     503.81982421875,
+     560.9032592773438
+    ],
+    [
+     3840.69873046875,
+     588.7832641601562
+    ],
+    [
+     3826.376953125,
+     5033.33544921875
+    ],
+    [
+     512.413818359375,
+     5072.4423828125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.37,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.66,
+   "ruling_fan_after": 0.1,
+   "override": null,
+   "rendered": "114.jpg",
+   "rendered_size": [
+    3125,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 22,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 115,
+   "photo": "Photo Apr 09 2026, 11 55 54.jpg",
+   "sha256": "e552e88a59741aed9049721cd2b7443061ff0f882444e2aa89bb0789cbbfb587",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9814,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     602.4375
+    ],
+    [
+     3688.999971628189,
+     624.75
+    ],
+    [
+     3718.7501134872437,
+     5042.625
+    ],
+    [
+     416.5000070929527,
+     5087.25
+    ]
+   ],
+   "crop_quad": [
+    [
+     474.89349365234375,
+     565.0404052734375
+    ],
+    [
+     3788.395263671875,
+     544.6202392578125
+    ],
+    [
+     3879.518310546875,
+     5051.62841796875
+    ],
+    [
+     400.3490295410156,
+     5088.3515625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.5,
+   "ruling_fan_after": 0.52,
+   "override": null,
+   "rendered": "115.jpg",
+   "rendered_size": [
+    3165,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 23,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 116,
+   "photo": "Photo Apr 09 2026, 11 56 05.jpg",
+   "sha256": "2cd3212ed4103a61b6f55305b2f4e5104e8b8c9b84a7eec16d3dc270d67b2679",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9815,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     691.6875
+    ],
+    [
+     3778.2498865127563,
+     736.3125
+    ],
+    [
+     3837.7499148845673,
+     5020.3125
+    ],
+    [
+     535.5,
+     5087.25
+    ]
+   ],
+   "crop_quad": [
+    [
+     524.4412841796875,
+     655.3970336914062
+    ],
+    [
+     3777.37353515625,
+     738.2909545898438
+    ],
+    [
+     3847.48779296875,
+     5036.17236328125
+    ],
+    [
+     456.143798828125,
+     5118.15576171875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.43,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "116.jpg",
+   "rendered_size": [
+    3192,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-1",
+     "pdf": "Boccherini - Opus 48 Number 1 - Manuscript - BnF Vma ms 1067 (1).pdf",
+     "pdf_page": 24,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 117,
+   "photo": "Photo Apr 09 2026, 11 56 16.jpg",
+   "sha256": "066f9360e3562faf461b9528a661222255bae4f0a8c857b8834f4f22b1a13174",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     669.375
+    ],
+    [
+     3748.5,
+     669.375
+    ],
+    [
+     3778.2498865127563,
+     4931.0625
+    ],
+    [
+     535.5,
+     4931.0625
+    ]
+   ],
+   "crop_quad": [
+    [
+     625.7144165039062,
+     623.6212768554688
+    ],
+    [
+     3759.840576171875,
+     649.1201171875
+    ],
+    [
+     3803.702392578125,
+     4937.08935546875
+    ],
+    [
+     528.0296630859375,
+     4986.80908203125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "117.jpg",
+   "rendered_size": [
+    3118,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 20,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 118,
+   "photo": "Photo Apr 09 2026, 11 56 30.jpg",
+   "sha256": "0ab4dbf0c1172dba58ea3d625fe0c509bfa87fdf4d7dc7fcfd4f396daa8399d5",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9219,
+   "leaf_quad": [
+    [
+     565.2500141859055,
+     714.0
+    ],
+    [
+     3718.7501134872437,
+     847.875
+    ],
+    [
+     3748.5,
+     5020.3125
+    ],
+    [
+     505.74998581409454,
+     5042.625
+    ]
+   ],
+   "crop_quad": [
+    [
+     543.4434204101562,
+     716.216552734375
+    ],
+    [
+     3733.313232421875,
+     655.3265380859375
+    ],
+    [
+     3741.3251953125,
+     5095.2666015625
+    ],
+    [
+     477.32354736328125,
+     5029.07080078125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.59,
+   "ruling_fan_after": 0.71,
+   "override": null,
+   "rendered": "118.jpg",
+   "rendered_size": [
+    3104,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 21,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 119,
+   "photo": "Photo Apr 09 2026, 11 56 41.jpg",
+   "sha256": "b0e0d0889484a82a4d4c18079b162118023e43e08f64ba04db2a76341c65d0c3",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.8899,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     714.0
+    ],
+    [
+     3837.7499148845673,
+     736.3125
+    ],
+    [
+     3837.7499148845673,
+     5087.25
+    ],
+    [
+     565.2500141859055,
+     5109.5625
+    ]
+   ],
+   "crop_quad": [
+    [
+     598.8217163085938,
+     669.5955200195312
+    ],
+    [
+     3866.153076171875,
+     716.9732666015625
+    ],
+    [
+     3869.100341796875,
+     5094.830078125
+    ],
+    [
+     555.8995361328125,
+     5136.42626953125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.4,
+   "ruling_fan_after": 0.31,
+   "override": null,
+   "rendered": "119.jpg",
+   "rendered_size": [
+    3131,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 22,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 120,
+   "photo": "Photo Apr 09 2026, 11 56 53.jpg",
+   "sha256": "a34b810ad0e2c00f94185a2c820348f4d4b84858a10d338a8669c6eb9529fa34",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     505.74998581409454,
+     513.1875
+    ],
+    [
+     3718.7501134872437,
+     714.0
+    ],
+    [
+     3718.7501134872437,
+     4975.6875
+    ],
+    [
+     386.7499929070473,
+     4998.0
+    ]
+   ],
+   "crop_quad": [
+    [
+     474.22021484375,
+     517.0108642578125
+    ],
+    [
+     3733.913330078125,
+     532.3017578125
+    ],
+    [
+     3741.57763671875,
+     5012.68701171875
+    ],
+    [
+     344.1629943847656,
+     4988.75537109375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.87,
+   "ruling_fan_after": 0.38,
+   "override": null,
+   "rendered": "120.jpg",
+   "rendered_size": [
+    3129,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 23,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 121,
+   "photo": "Photo Apr 09 2026, 11 57 02.jpg",
+   "sha256": "f9a4164a225cbbc470b300b80ab6171252b5425186dec09aeca1914f8480477c",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9857,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     580.125
+    ],
+    [
+     3808.000028371811,
+     580.125
+    ],
+    [
+     3837.7499148845673,
+     4998.0
+    ],
+    [
+     505.74998581409454,
+     4975.6875
+    ]
+   ],
+   "crop_quad": [
+    [
+     555.057373046875,
+     540.2763671875
+    ],
+    [
+     3830.555908203125,
+     563.9635620117188
+    ],
+    [
+     3854.22412109375,
+     5001.92578125
+    ],
+    [
+     513.3475952148438,
+     4997.0703125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.16,
+   "ruling_fan_after": 0.23,
+   "override": null,
+   "rendered": "121.jpg",
+   "rendered_size": [
+    3131,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-2",
+     "pdf": "Boccherini - Opus 48 Number 2 - Manuscript - BnF Vma ms 1067 (2).pdf",
+     "pdf_page": 24,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 122,
+   "photo": "Photo Apr 09 2026, 11 57 24.jpg",
+   "sha256": "c35f298670736c9266ca553109f3fc66c3c3d4046f337b1599c872193ac0b5f7",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9821,
+   "leaf_quad": [
+    [
+     535.5,
+     535.5
+    ],
+    [
+     3659.2500851154327,
+     557.8125
+    ],
+    [
+     3718.7501134872437,
+     4864.125
+    ],
+    [
+     505.74998581409454,
+     4886.4375
+    ]
+   ],
+   "crop_quad": [
+    [
+     429.3893737792969,
+     496.3335266113281
+    ],
+    [
+     3718.99072265625,
+     527.8812866210938
+    ],
+    [
+     3715.737548828125,
+     4855.27783203125
+    ],
+    [
+     474.9223327636719,
+     4964.23876953125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.21,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.65,
+   "ruling_fan_after": 0.44,
+   "override": null,
+   "rendered": "122.jpg",
+   "rendered_size": [
+    3126,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 20,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 123,
+   "photo": "Photo Apr 09 2026, 11 57 39.jpg",
+   "sha256": "646732d53e0069c9ce690d13812f6d58d2fcf47c26403c5d303bf809b858ae6a",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     535.5
+    ],
+    [
+     3748.5,
+     714.0
+    ],
+    [
+     3718.7501134872437,
+     4975.6875
+    ],
+    [
+     416.5000070929527,
+     5020.3125
+    ]
+   ],
+   "crop_quad": [
+    [
+     520.3120727539062,
+     492.939453125
+    ],
+    [
+     3780.88818359375,
+     592.6846923828125
+    ],
+    [
+     3736.77783203125,
+     5034.96826171875
+    ],
+    [
+     401.1475524902344,
+     5007.89208984375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.2,
+   "ruling_fan_after": 0.16,
+   "override": null,
+   "rendered": "123.jpg",
+   "rendered_size": [
+    3100,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 21,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 124,
+   "photo": "Photo Apr 09 2026, 11 57 51.jpg",
+   "sha256": "fc272ae6715a1b17866700163610fa03f35143a8350f079f5e77153a3e02772e",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     654.4999929070473,
+     714.0
+    ],
+    [
+     3718.7501134872437,
+     780.9375
+    ],
+    [
+     3748.5,
+     4975.6875
+    ],
+    [
+     535.5,
+     4998.0
+    ]
+   ],
+   "crop_quad": [
+    [
+     579.0068359375,
+     687.185302734375
+    ],
+    [
+     3736.52685546875,
+     764.1444091796875
+    ],
+    [
+     3743.98193359375,
+     4988.04345703125
+    ],
+    [
+     518.8070678710938,
+     5029.10595703125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.0,
+   "ruling_fan_after": 0.01,
+   "override": null,
+   "rendered": "124.jpg",
+   "rendered_size": [
+    3137,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 22,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 125,
+   "photo": "Photo Apr 09 2026, 11 58 04.jpg",
+   "sha256": "357099022e11f5c74585c6ce8307cebc0e86d38caf0ef3117d0719bd33b806ac",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9428,
+   "leaf_quad": [
+    [
+     476.00000354647636,
+     602.4375
+    ],
+    [
+     3659.2500851154327,
+     714.0
+    ],
+    [
+     3659.2500851154327,
+     4841.8125
+    ],
+    [
+     476.00000354647636,
+     4908.75
+    ]
+   ],
+   "crop_quad": [
+    [
+     474.1602478027344,
+     585.53662109375
+    ],
+    [
+     3659.60888671875,
+     610.5112915039062
+    ],
+    [
+     3633.43701171875,
+     4909.07373046875
+    ],
+    [
+     452.7715148925781,
+     4893.36279296875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.16,
+   "ruling_fan_after": 0.18,
+   "override": null,
+   "rendered": "125.jpg",
+   "rendered_size": [
+    3113,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 23,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 126,
+   "photo": "Photo Apr 09 2026, 11 58 15.jpg",
+   "sha256": "681d48b255efc012ae93e4c31c21844807148104f1421d900217854be15fa51b",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9017,
+   "leaf_quad": [
+    [
+     535.5,
+     647.0625
+    ],
+    [
+     3688.999971628189,
+     691.6875
+    ],
+    [
+     3778.2498865127563,
+     4931.0625
+    ],
+    [
+     505.74998581409454,
+     4975.6875
+    ]
+   ],
+   "crop_quad": [
+    [
+     520.0835571289062,
+     609.09130859375
+    ],
+    [
+     3722.921875,
+     656.9047241210938
+    ],
+    [
+     3780.662841796875,
+     4931.81787109375
+    ],
+    [
+     529.0767822265625,
+     5017.02197265625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.1,
+   "ruling_fan_after": 0.19,
+   "override": null,
+   "rendered": "126.jpg",
+   "rendered_size": [
+    3129,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-3",
+     "pdf": "Boccherini - Opus 48 Number 3 - Manuscript - BnF Vma ms 1067 (3).pdf",
+     "pdf_page": 24,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 127,
+   "photo": "Photo Apr 09 2026, 11 58 28.jpg",
+   "sha256": "774a2b12da721012761cf30768340924ea8719919020b86c49f78f5a3f8d32e7",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     535.5,
+     535.5
+    ],
+    [
+     3778.2498865127563,
+     602.4375
+    ],
+    [
+     3778.2498865127563,
+     4953.375
+    ],
+    [
+     535.5,
+     4975.6875
+    ]
+   ],
+   "crop_quad": [
+    [
+     547.5357055664062,
+     447.7058410644531
+    ],
+    [
+     3838.8076171875,
+     609.062255859375
+    ],
+    [
+     3723.57666015625,
+     4945.6796875
+    ],
+    [
+     538.9717407226562,
+     5011.7138671875
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.44,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.17,
+   "ruling_fan_after": 0.16,
+   "override": null,
+   "rendered": "127.jpg",
+   "rendered_size": [
+    3064,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 20,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 128,
+   "photo": "Photo Apr 09 2026, 11 58 48.jpg",
+   "sha256": "32ee2d7a54141faea93d4168c5c0dbe91ece215eeca969693e054a803d26a843",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     892.5
+    ],
+    [
+     3599.750056743622,
+     1004.0625
+    ],
+    [
+     3510.4998865127563,
+     4908.75
+    ],
+    [
+     624.7499787211418,
+     4886.4375
+    ]
+   ],
+   "crop_quad": [
+    [
+     614.5885620117188,
+     852.1265869140625
+    ],
+    [
+     3650.427490234375,
+     896.1168212890625
+    ],
+    [
+     3523.03369140625,
+     4899.6015625
+    ],
+    [
+     549.927001953125,
+     4928.20849609375
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.63,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.03,
+   "ruling_fan_after": 0.14,
+   "override": null,
+   "rendered": "128.jpg",
+   "rendered_size": [
+    3130,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 21,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 129,
+   "photo": "Photo Apr 09 2026, 11 58 59.jpg",
+   "sha256": "73d4aa62aba3124caee4fd17ec02d804f3e83b2d8a7875f7be47ba1f70b99271",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.9121,
+   "leaf_quad": [
+    [
+     684.2500070929527,
+     825.5625
+    ],
+    [
+     3718.7501134872437,
+     780.9375
+    ],
+    [
+     3867.500056743622,
+     5020.3125
+    ],
+    [
+     624.7499787211418,
+     4998.0
+    ]
+   ],
+   "crop_quad": [
+    [
+     651.0131225585938,
+     798.651611328125
+    ],
+    [
+     3735.57568359375,
+     747.4119873046875
+    ],
+    [
+     3885.5888671875,
+     5033.72412109375
+    ],
+    [
+     629.5609130859375,
+     5027.06689453125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.16,
+   "ruling_fan_after": 0.2,
+   "override": null,
+   "rendered": "129.jpg",
+   "rendered_size": [
+    3133,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 22,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 130,
+   "photo": "Photo Apr 09 2026, 11 59 18.jpg",
+   "sha256": "d51021985686da821bd6da4f866396cb79eaf1a9f65d2711d7c5624b25071ebc",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     624.7499787211418,
+     780.9375
+    ],
+    [
+     3688.999971628189,
+     780.9375
+    ],
+    [
+     3778.2498865127563,
+     4886.4375
+    ],
+    [
+     624.7499787211418,
+     4931.0625
+    ]
+   ],
+   "crop_quad": [
+    [
+     575.3264770507812,
+     838.346923828125
+    ],
+    [
+     3514.105224609375,
+     670.3472290039062
+    ],
+    [
+     3819.36328125,
+     4970.27001953125
+    ],
+    [
+     750.79541015625,
+     4904.76416015625
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": -0.38,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 1.98,
+   "ruling_fan_after": 0.23,
+   "override": null,
+   "rendered": "130.jpg",
+   "rendered_size": [
+    3020,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 23,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "page": 131,
+   "photo": "Photo Apr 09 2026, 11 59 27.jpg",
+   "sha256": "e7a8d06236e358fc6f1ea235e1ae6634bc24b9a299bd1a337f46307352f4d545",
+   "photo_size": [
+    4284,
+    5712
+   ],
+   "detector": "vision",
+   "detector_confidence": 0.99,
+   "leaf_quad": [
+    [
+     684.2500070929527,
+     825.5625
+    ],
+    [
+     3778.2498865127563,
+     847.875
+    ],
+    [
+     3778.2498865127563,
+     4998.0
+    ],
+    [
+     654.4999929070473,
+     4998.0
+    ]
+   ],
+   "crop_quad": [
+    [
+     657.8331909179688,
+     791.417236328125
+    ],
+    [
+     3783.993408203125,
+     832.5693359375
+    ],
+    [
+     3798.94873046875,
+     4996.6455078125
+    ],
+    [
+     661.730712890625,
+     5036.29345703125
+    ]
+   ],
+   "pad_percent": 0.3,
+   "rotate_degrees": 0.0,
+   "squared_against_ruling": true,
+   "ruling_tilt_before": 0.0,
+   "ruling_tilt_after": 0.0,
+   "ruling_fan_before": 0.4,
+   "ruling_fan_after": 0.22,
+   "override": null,
+   "rendered": "131.jpg",
+   "rendered_size": [
+    3135,
+    4200
+   ],
+   "appears_in": [
+    {
+     "quartet": "1067-4",
+     "pdf": "Boccherini - Opus 48 Number 4 - Manuscript - BnF Vma ms 1067 (4).pdf",
+     "pdf_page": 24,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  }
+ ]
+}

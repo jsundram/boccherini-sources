@@ -1,0 +1,75 @@
+{
+ "folder": "G204-206/990005884_D-Mbs_livr4",
+ "scan_id": "990005884_D-Mbs_livr4",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 48,
+ "rism": {
+  "extent": "15, 3 x 13 p. 17, 12, 9, 13 p. 19, 13, 13, 11 p. 3 x 13, 11 p. parts",
+  "parts_declared": null,
+  "form_declared": "parts",
+  "works_declared": 3,
+  "gerard": [
+   "204",
+   "205",
+   "206"
+  ],
+  "source_ids": [
+   "990005884"
+  ]
+ },
+ "source_mtime": 1790628343,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "990005884_D-Mbs_livr4:04",
+    "part": "violin 1"
+   },
+   {
+    "page": 17,
+    "label": "990005884_D-Mbs_livr4:17",
+    "part": "violin 2"
+   },
+   {
+    "page": 28,
+    "label": "990005884_D-Mbs_livr4:28",
+    "part": "viola"
+   },
+   {
+    "page": 38,
+    "label": "990005884_D-Mbs_livr4:38",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 6,
+    "label": "990005884_D-Mbs_livr4:06",
+    "numeral": 7,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 18,
+    "label": "990005884_D-Mbs_livr4:18",
+    "numeral": 7,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 20,
+    "label": "990005884_D-Mbs_livr4:20",
+    "numeral": 7,
+    "tempo": "allegro comodo",
+    "candidates": [
+     "205"
+    ]
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 3
+ },
+ "disagreements": [],
+ "verified": null
+}

@@ -1,0 +1,681 @@
+
+  { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/manifest",
+    "@type" : "sc:Manifest",
+    "@context" : "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "logo" : "https:\/\/ngcs-beta.staatsbibliothek-berlin.de\/dc\/logo-small",
+    "label" : "Quartette; vl (2), vla, b; c-Moll; G 159[cover title, p. I:] Quadro. 10. | Bocherini | [with pencil: \"28 Mai 13\"]Quartette, Vl 1 Vl 2 Va B GerB 159",
+    "metadata" : 
+    [ 
+      { "label" : "Titel",
+        "value" : 
+        [ 
+          { "@value" : "Quartette; vl (2), vla, b; c-Moll; G 159" },
+          
+          { "@value" : "[cover title, p. I:] Quadro. 10. | Bocherini | [with pencil: \"28 Mai 13\"]" },
+          
+          { "@value" : "Quartette, Vl 1 Vl 2 Va B GerB 159" } ] },
+      
+      { "label" : "Alternativer Titel",
+        "value" : 
+        [ 
+          { "@value" : "[cover title, p. I:] Quadro. 10. | Bocherini | [with pencil: \"28 Mai 13\"]" },
+          
+          { "@value" : "Quartette, Vl 1 Vl 2 Va B GerB 159" } ] },
+      
+      { "label" : "Projekt",
+        "value" : 
+        [ 
+          { "@value" : "Musikhandschriften digital" },
+          
+          { "@value" : "Sing-Akademie digital" } ] },
+      
+      { "label" : "_digitalOrigin",
+        "value" : "reformatted digital" },
+      
+      { "label" : "_electronicEdition",
+        "value" : "[Electronic ed.]" },
+      
+      { "label" : "_placeOfElectronicOrigin",
+        "value" : "Berlin" },
+      
+      { "label" : "Ausgabe",
+        "value" : "Abschrift" },
+      
+      { "label" : "Bemerkung",
+        "value" : 
+        [ 
+          { "@value" : "P_Sondermat_Hss_Sing-Akademie" },
+          
+          { "@value" : "Original ist Dauerleihgabe der Sing-Akademie zu Berlin an Staatsbibliothek zu Berlin" } ] },
+      
+      { "label" : "Bemerkung",
+        "value" : "4 Stimmen" },
+      
+      { "label" : "Digitalisierer",
+        "value" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Germany" },
+      
+      { "label" : "Digitalisierungsdatum",
+        "value" : "2025" },
+      
+      { "label" : "Entstehungsjahr",
+        "value" : "1770" },
+      
+      { "label" : "Entstehungszeit",
+        "value" : "1770" },
+      
+      { "label" : "Entstehungszeit",
+        "value" : "1780" },
+      
+      { "label" : "Entstehungszeit",
+        "value" : "1770\/1780 (ca.)" },
+      
+      { "label" : "Förderer",
+        "value" : "Deutsche Forschungsgemeinschaft" },
+      
+      { "label" : "has_fulltext",
+        "value" : false },
+      
+      { "label" : "Kategorie",
+        "value" : 
+        [ 
+          { "@value" : "Sing-Akademie zu Berlin" },
+          
+          { "@value" : "Musiknoten" },
+          
+          { "@value" : "Musikhandschriften" } ] },
+      
+      { "label" : "Lizenz",
+        "value" : "Public Domain Mark 1.0" },
+      
+      { "label" : "MediumType",
+        "value" : "text" },
+      
+      { "label" : "Persistente URL",
+        "value" : "https:\/\/resolver.staatsbibliothek-berlin.de\/SBB000394A100000000" },
+      
+      { "label" : "PhysicalLocation",
+        "value" : "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany" },
+      
+      { "label" : "Signatur",
+        "value" : "SA 3364" },
+      
+      { "label" : "Sprache",
+        "value" : "ger" },
+      
+      { "label" : "StaBiKat (ppn digital)",
+        "value" : "PPN1935497081" },
+      
+      { "label" : "Titelblatt",
+        "value" : "PHYS_0001" },
+      
+      { "label" : "Umfang",
+        "value" : "4 Stimmen" },
+      
+      { "label" : "Zusätzliche Suchbegriffe",
+        "value" : "Quartette (inst.)" } ],
+    "structures" : 
+    [ 
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-1",
+        "@type" : "sc:Range",
+        "label" : "Quartette; vl (2), vla, b; c-Moll; G 159",
+        "ranges" : 
+        [ 
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-2",
+            "label" : "Titelumschlag",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-1" },
+          
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-3",
+            "label" : "Violino Primo",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-1" },
+          
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-4",
+            "label" : "Violino Secondo",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-1" },
+          
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-5",
+            "label" : "Viola",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-1" },
+          
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-6",
+            "label" : "Basso",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-1" },
+          
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-7",
+            "label" : "Umschlag (hinten)",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-1" },
+          
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-8",
+            "label" : "colour_checker",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-1" } ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-2",
+        "@type" : "sc:Range",
+        "label" : "Titelumschlag",
+        "canvases" : 
+        [ "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0001\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0002\/canvas" ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-3",
+        "@type" : "sc:Range",
+        "label" : "Violino Primo",
+        "canvases" : 
+        [ "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0003\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0004\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0005\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0006\/canvas" ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-4",
+        "@type" : "sc:Range",
+        "label" : "Violino Secondo",
+        "canvases" : 
+        [ "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0007\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0008\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0009\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0010\/canvas" ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-5",
+        "@type" : "sc:Range",
+        "label" : "Viola",
+        "canvases" : 
+        [ "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0011\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0012\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0013\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0014\/canvas" ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-6",
+        "@type" : "sc:Range",
+        "label" : "Basso",
+        "canvases" : 
+        [ "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0015\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0016\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0017\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0018\/canvas" ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-7",
+        "@type" : "sc:Range",
+        "label" : "Umschlag (hinten)",
+        "canvases" : 
+        [ "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0019\/canvas",
+          "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0020\/canvas" ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081\/range\/range-8",
+        "@type" : "sc:Range",
+        "label" : "Farbinformation",
+        "canvases" : 
+        [ "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0021\/canvas" ] } ],
+    "sequences" : 
+    [ 
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081#sequence-1",
+        "@type" : "sc:Sequence",
+        "label" : "Current order",
+        "viewingDirection" : "left-to-right",
+        "canvases" : 
+        [ 
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0001\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "I [1]",
+            "height" : 4198,
+            "width" : 2738,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0001\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0001\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4198,
+                  "width" : 2738,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0001",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0001\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0002\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "II [2]",
+            "height" : 4198,
+            "width" : 2738,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0002\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0002\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4198,
+                  "width" : 2738,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0002",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0002\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0003\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "1 [3]",
+            "height" : 4134,
+            "width" : 2590,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0003\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0003\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4134,
+                  "width" : 2590,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0003",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0003\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0004\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "2 [4]",
+            "height" : 4133,
+            "width" : 2607,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0004\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0004\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2607,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0004",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0004\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0005\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "2 [5]",
+            "height" : 4134,
+            "width" : 2590,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0005\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0005\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4134,
+                  "width" : 2590,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0005",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0005\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0006\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "2 [6]",
+            "height" : 4134,
+            "width" : 2574,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0006\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0006\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4134,
+                  "width" : 2574,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0006",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0006\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0007\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "3 [7]",
+            "height" : 4134,
+            "width" : 2591,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0007\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0007\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4134,
+                  "width" : 2591,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0007",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0007\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0008\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "4 [8]",
+            "height" : 4133,
+            "width" : 2607,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0008\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0008\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2607,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0008",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0008\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0009\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "4 [9]",
+            "height" : 4133,
+            "width" : 2590,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0009\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0009\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2590,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0009",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0009\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0010\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "4 [10]",
+            "height" : 4133,
+            "width" : 2595,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0010\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0010\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2595,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0010",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0010\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0011\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "5 [11]",
+            "height" : 4133,
+            "width" : 2571,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0011\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0011\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2571,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0011",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0011\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0012\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "6 [12]",
+            "height" : 4134,
+            "width" : 2595,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0012\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0012\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4134,
+                  "width" : 2595,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0012",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0012\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0013\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "6 [13]",
+            "height" : 4134,
+            "width" : 2590,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0013\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0013\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4134,
+                  "width" : 2590,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0013",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0013\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0014\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "6 [14]",
+            "height" : 4133,
+            "width" : 2573,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0014\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0014\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2573,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0014",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0014\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0015\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "7 [15]",
+            "height" : 4134,
+            "width" : 2591,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0015\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0015\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4134,
+                  "width" : 2591,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0015",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0015\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0016\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "8 [16]",
+            "height" : 4133,
+            "width" : 2611,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0016\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0016\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2611,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0016",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0016\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0017\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "8 [17]",
+            "height" : 4133,
+            "width" : 2601,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0017\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0017\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2601,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0017",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0017\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0018\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "8 [18]",
+            "height" : 4133,
+            "width" : 2611,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0018\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0018\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2611,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0018",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0018\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0019\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "III [19]",
+            "height" : 4198,
+            "width" : 2738,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0019\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0019\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4198,
+                  "width" : 2738,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0019",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0019\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0020\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : "IV [20]",
+            "height" : 4198,
+            "width" : 2694,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0020\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0020\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4198,
+                  "width" : 2694,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0020",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0020\/canvas" } ] },
+          
+          { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0021\/canvas",
+            "@type" : "sc:Canvas",
+            "label" : " -  [21]",
+            "height" : 4133,
+            "width" : 2612,
+            "images" : 
+            [ 
+              { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0021\/annotation",
+                "@type" : "oa:Annotation",
+                "motivation" : "sc:painting",
+                "resource" : 
+                { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0021\/full\/full\/0\/default.png",
+                  "@type" : "dctypes:Image",
+                  "format" : "",
+                  "height" : 4133,
+                  "width" : 2612,
+                  "service" : 
+                  { "@context" : "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0021",
+                    "profile" : "http:\/\/iiif.io\/api\/image\/2\/level1.json" } },
+                "on" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/1935497081-0021\/canvas" } ] } ] } ] }

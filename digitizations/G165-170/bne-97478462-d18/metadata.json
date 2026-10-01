@@ -1,0 +1,55 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "97478462-d183-4d32-9be3-71e3f509383d",
+ "title": "VI quartetti per due violini, alto, e violoncello, dedicati a S.A.R. Dn. Luigi, infante di Spagna — opera VIª, secondo libro di quartetti",
+ "composer": "Boccherini, Luigi (1743-1805)",
+ "year": "1769",
+ "date_statement": "[1769]",
+ "publisher": "Venier",
+ "publication_place": "Paris",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "165",
+ "gerard_numbers": [
+  "165",
+  "166",
+  "167",
+  "168",
+  "169",
+  "170"
+ ],
+ "gerard_label": "165-170",
+ "opus": "Op. 8 (published as opera VI, secondo libro di quartetti)",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "shelfmark": "Mp/2392|8",
+ "siglum_derived_from": "BNE Digital is E-Mn",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=97478462-d183-4d32-9be3-71e3f509383d&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=97478462-d183-4d32-9be3-71e3f509383d",
+ "rism_related": [
+  "https://rism.online/sources/990005861",
+  "https://rism.online/sources/1001382250",
+  "https://rism.online/sources/1001382253",
+  "https://rism.online/sources/1001382255",
+  "https://rism.online/sources/1001382258",
+  "https://rism.online/sources/1001382259",
+  "https://rism.online/sources/1001382260"
+ ],
+ "rism_constituents": {
+  "165": "https://rism.online/sources/1001382250",
+  "166": "https://rism.online/sources/1001382253",
+  "167": "https://rism.online/sources/1001382255",
+  "168": "https://rism.online/sources/1001382258",
+  "169": "https://rism.online/sources/1001382259",
+  "170": "https://rism.online/sources/1001382260"
+ },
+ "rism_links_this_copy": false,
+ "downloaded_by_hand": true,
+ "files": {
+  "all": "BNE_97478462-d18.pdf"
+ },
+ "established_by": "Identified by hand (note: 'this is opus 8 - venier paris edition'). RISM 990005861 is the same print -- 'VI. QUARTETTI [D, c, Eb, g, F, A] ... Dedicati a S.A.R.D. Dn LUIGI Infante di Spagna', [1769] -- and records the E-Mn holding at Mp/2392|8, with six constituent records for GerB 165-170. RISM's 260 gives no publisher, so Venier/Paris rests on the hand identification, not on RISM. Filed 2026-09-28.",
+ "rism_related_raw": "https://rism.online/sources/990005861",
+ "rism_relation": "copy"
+}

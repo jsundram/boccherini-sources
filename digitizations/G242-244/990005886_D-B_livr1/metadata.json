@@ -1,0 +1,254 @@
+{
+ "kind": "digitized",
+ "url": "https://digital-beta.staatsbibliothek-berlin.de/werkansicht?PPN=PPN627503233",
+ "note": null,
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "shelfmark": "DMS 51778",
+ "former_shelfmark": null,
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "source_type": null,
+ "holding_extent": null,
+ "all_sigla": [],
+ "found_by_hand": true,
+ "source": "https://rism.online/sources/990005886",
+ "source_id": "990005886",
+ "title": "6 Quartets",
+ "full_title": "Six quartetti à deux violons, alto et violoncelle ... en deux livraisons, 1ère [2ème] parties ([oder:] ... gravés sur le manuscrit de l'auteur, 1|e (2|e) partie) ... op. 58 [Paris, Sieber père]",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "242",
+ "gerard_numbers": [
+  "242",
+  "243",
+  "244"
+ ],
+ "catalogs": [
+  "GerB 242",
+  "GerB 243",
+  "GerB 244",
+  "GerB 245",
+  "GerB 246",
+  "GerB 247"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "1634",
+  "(1635)"
+ ],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1803c]"
+ },
+ "physical": [],
+ "extent": [
+  "13, 13, 10, 10 p.",
+  "4 parts",
+  "part(s)"
+ ],
+ "notes": [],
+ "incipits": 0,
+ "gerard_label": "242-244",
+ "holdings": {
+  "holdings/24203": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24204": {
+   "siglum": "B-Gc",
+   "institution": "Koninklijk Muziekconservatorium, Muziekbibliotheek",
+   "shelfmark": "A-1716(3)",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000444",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24205": {
+   "siglum": "CH-Gamoudruz",
+   "institution": "Collection M. Emile Amoudruz",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000514",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24206": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "DMS 51778",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24207": {
+   "siglum": "DK-Km",
+   "institution": "Musikmuseet",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001346",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24208": {
+   "siglum": "E-Mp",
+   "institution": "Palacio Real, Biblioteca",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001387",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24209": {
+   "siglum": "F-MH",
+   "institution": "Bibliothèque municipale",
+   "shelfmark": "MN 4861,8",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001468",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24210": {
+   "siglum": "F-Pc",
+   "institution": "Bibliothèque du Conservatoire",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001480",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24211": {
+   "siglum": "F-Pn",
+   "institution": "Bibliothèque nationale de France, Département de la Musique",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001488",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24212": {
+   "siglum": "GB-Lam",
+   "institution": "Royal Academy of Music, Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000263",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24213": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24214": {
+   "siglum": "I-PAc",
+   "institution": "Sezione musicale della Biblioteca Palatina",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001861",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24215": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24216": {
+   "siglum": "S-Smf",
+   "institution": "Stiftelsen Musikkulturens främjande",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002154",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24217": {
+   "siglum": "US-AAu",
+   "institution": "University of Michigan, Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002177",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/24218": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/51004706": {
+   "siglum": "US-Wc",
+   "institution": "The Library of Congress, Music Division",
+   "shelfmark": "M452.A2 B67 Case",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002492",
+   "source_type": "Print",
+   "extent": "part(s)"
+  }
+ },
+ "correction_note": "Op. 58, 'Six quartetti ... en deux livraisons, 1ere [2eme] parties' (Sieber, Paris). RISM has ONE record for all six quartets and zero incipits for any of them. Berlin's copy is scanned as two volumes under a MultivolumeWork anchor (PPN627503063) whose own IIIF manifest has an empty canvases list -- which reads as 'not scanned' unless you follow the METS to its children. Each livraison holds THREE quartets, not six: assigning the whole G 242-247 span to both was wrong, and made two different books look like duplicates. — '1re Partie'. Quartets I-III of Op. 58, in four part-books bound in sequence.",
+ "corrected": true,
+ "established_by": "Read off the scans, 2026-09-29. Title pages: livraison 1 is 'Op 58. 1re Partie', livraison 2 is 'Op 58. 2e Partie', both 'en deux Livraisons'. Quartet headings in the Violino I book of livraison 2 run IV. QUATUOR (p5), V. QUATUOR (p11), VI. QUATUOR (p17), then the Violino Secondo book restarts at IV (p23) -- so each livraison holds three quartets in four part-books, not six. Livraison 1 shows III. Quartetto at p14.",
+ "livraison": 1,
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "242"
+  },
+  {
+   "n": 2,
+   "gerard": "243"
+  },
+  {
+   "n": 3,
+   "gerard": "244"
+  }
+ ],
+ "unidentified_works": 0,
+ "gerard_numbers_rism": [
+  "242",
+  "243",
+  "244",
+  "245",
+  "246",
+  "247"
+ ],
+ "suggested_filename": "D-B_DMS_51778.pdf",
+ "rism_related": [
+  "https://rism.online/sources/990005886"
+ ],
+ "rism_relation": "copy",
+ "publisher": "Sieber père",
+ "publication_place": "Paris",
+ "publisher_established_by": "Imprint at the end of the RISM title; RISM leaves 260 $b empty.",
+ "contents_verified": {
+  "date": "2026-09-29",
+  "how": "head-strip contact sheet, all 52 pages",
+  "found": "Title page 'Op 58. 1re Partie'. Four part-books in sequence — Violino I, Violino II, Viola, Violoncello — each running I. / II. / III. Quartetto. Three quartets, not six. Ends on a colour target."
+ }
+}

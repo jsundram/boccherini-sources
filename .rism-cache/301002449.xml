@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/301002449</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20230611040452.0</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[title page, vl 1:] Six QUATUOR | a. | Deux Violons, Taille e Basse obliges | DEDIES | A MONSIEUR | PATRIC ALSTROMER | Conseiller du Commerce de Sa Majesté | Le Roi de Suede | Par JEAN JULIEN HUMMEL. | Composes Par | Composés Par | LUIGI BOCCHERINI. | OPERA SECONDA</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1780 (1780p)</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">34,5 x 23 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Stempel auf der Titelseite und in allen Stimmen: "VON REHDIGERSCHE STADTBIBLIOTHEK BRESLAU"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Auf der Titelseite unten rechts: "de Kracker"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Alte Signaturen auf der Titelseite</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Stadtbibliothek, Breslau</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, vlc</subfield>
+    <subfield code="b">16, 8, 12, 12p.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-08-11 08:40:01 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Alströmer, Patrik</subfield>
+    <subfield code="d">1733-1804</subfield>
+    <subfield code="0">people/30026892</subfield>
+    <subfield code="4">dte</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Kracker</subfield>
+    <subfield code="0">people/30041387</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hummel, Johann Julius</subfield>
+    <subfield code="d">1728-1798</subfield>
+    <subfield code="0">people/30029928</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Konung av Sverige</subfield>
+    <subfield code="0">people/30034368</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Stadtbibliothek</subfield>
+    <subfield code="c">Breslau</subfield>
+    <subfield code="0">institutions/30020119</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.8/2; GerB 166</subfield>
+    <subfield code="w">sources/301002450</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.8/1; GerB 165</subfield>
+    <subfield code="w">sources/301002451</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.8/3; GerB 167</subfield>
+    <subfield code="w">sources/301002452</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.8/4; GerB 168</subfield>
+    <subfield code="w">sources/301002453</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.8/5; GerB 169</subfield>
+    <subfield code="w">sources/301002454</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.8/6; GerB 170</subfield>
+    <subfield code="w">sources/301002455</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">PL-WRu</subfield>
+    <subfield code="c">61343 Muz.</subfield>
+    <subfield code="d">N|o 13.18.</subfield>
+    <subfield code="d">Mus. Oa 3</subfield>
+    <subfield code="e">Biblioteka Uniwersytecka</subfield>
+    <subfield code="x">institutions/30002111</subfield>
+  </datafield>
+</record>

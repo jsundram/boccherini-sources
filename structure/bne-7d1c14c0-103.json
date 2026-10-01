@@ -1,0 +1,78 @@
+{
+ "folder": "G165-170/bne-7d1c14c0-103",
+ "scan_id": "bne-7d1c14c0-103",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 66,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "165",
+   "166",
+   "167",
+   "168",
+   "169",
+   "170"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790574816,
+ "observed": {
+  "part_books": [
+   {
+    "page": 3,
+    "label": "BNE_7d1c14c0-103:03",
+    "part": "violin 1"
+   },
+   {
+    "page": 22,
+    "label": "BNE_7d1c14c0-103:22",
+    "part": "violin 2"
+   },
+   {
+    "page": 38,
+    "label": "BNE_7d1c14c0-103:38",
+    "part": "viola"
+   },
+   {
+    "page": 54,
+    "label": "BNE_7d1c14c0-103:54",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 3,
+    "label": "BNE_7d1c14c0-103:03",
+    "numeral": 7,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 11,
+    "label": "BNE_7d1c14c0-103:11",
+    "numeral": 7,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 24,
+    "label": "BNE_7d1c14c0-103:24",
+    "numeral": 2,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 3
+ },
+ "disagreements": [],
+ "verified": {
+  "date": "2026-09-29",
+  "how": "title page, by eye",
+  "found": "Engraved Hummel print, Op. 8 (opera seconda), dedicated to Patrick Alströmer. RISM calls the linked records manuscripts; they describe another copy."
+ }
+}

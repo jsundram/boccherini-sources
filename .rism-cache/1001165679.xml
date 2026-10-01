@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ncm a2200000 u 4500</leader>
+  <controlfield tag="001">sources/1001165679</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412040723.0</controlfield>
+  <datafield tag="028" ind1="2" ind2="0">
+    <subfield code="a">F. S. 24232</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+    <subfield code="3">holdings/51034147</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quintet</subfield>
+    <subfield code="k">Excerpts</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">op. 11</subfield>
+    <subfield code="n">GerB 275/3</subfield>
+    <subfield code="o">Arr</subfield>
+    <subfield code="0">standard_titles/3919608</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[caption title, vl 1:] MENUETT. [at right:] L. Boccherini.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[s. l.]</subfield>
+    <subfield code="b">[s. n.]</subfield>
+    <subfield code="c">[s. a.]</subfield>
+    <subfield code="e">in Wien</subfield>
+    <subfield code="f">Druck von A. Eckel</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">23 x 14 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 11</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">At the title page of each part oval stamp „Kapuziner-Kloster | St. Josef | PRAG-NEUSTADT“.</subfield>
+    <subfield code="3">holdings/51034147</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">CZ-Pu 59 C 302</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, vlc</subfield>
+    <subfield code="b">1, 1, 1, 1 p.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Print</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="3">holdings/51034147</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-03-26 15:29:10 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Minuets</subfield>
+    <subfield code="0">standard_terms/25192</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">275/3</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weiss, Barnabas</subfield>
+    <subfield code="d">1815-1899</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30030488</subfield>
+    <subfield code="3">holdings/51034147</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">A. Eckel</subfield>
+    <subfield code="c">Wien</subfield>
+    <subfield code="0">institutions/30078067</subfield>
+    <subfield code="4">prt</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Klášter kapucínů u sv. Josefa</subfield>
+    <subfield code="c">Praha</subfield>
+    <subfield code="g">Ascertained</subfield>
+    <subfield code="0">institutions/30000651</subfield>
+    <subfield code="3">holdings/51034147</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">CZ-Pu</subfield>
+    <subfield code="c">59 C 302</subfield>
+    <subfield code="e">Národní knihovna České republiky</subfield>
+    <subfield code="x">institutions/30000083</subfield>
+    <subfield code="3">holdings/51034147</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">https://aleph.nkp.cz/F/?func=direct&amp;doc_number=001873323&amp;local_base=NKC</subfield>
+    <subfield code="x">Other</subfield>
+    <subfield code="z">Bibliographical record</subfield>
+    <subfield code="3">holdings/51034147</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quintets, vl (2), vla, vlc (2); E; GerB 275</subfield>
+    <subfield code="0">works/33290</subfield>
+    <subfield code="4">arr</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quintets, vl (2), vla, vlc (2); E; GerB 275</subfield>
+    <subfield code="0">works/33290</subfield>
+    <subfield code="4">excerpts</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

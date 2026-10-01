@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndm a2200000 u 4500</leader>
+  <controlfield tag="001">sources/240734</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412040414.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Andantino con poco molto</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bB</subfield>
+    <subfield code="o">2/4</subfield>
+    <subfield code="p">''8C4C8C/{6.C3F}4C8C/qC'B4A''6qC'{BAG}/qG{GF8F}</subfield>
+    <subfield code="q">Incipits based on US-WS SCM [253]Salem ms</subfield>
+    <subfield code="r">F</subfield>
+    <subfield code="z">vl (2), vla, vlc</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Allegro</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bB</subfield>
+    <subfield code="o">c/</subfield>
+    <subfield code="p">''{8A'''C}/{''FACF}'{A''FC'A}/8F4FFF8F/</subfield>
+    <subfield code="r">F</subfield>
+    <subfield code="z">vl (2), vla, vlc</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">3</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Tempo di Minuetto-Trio</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bB</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">'({8AB''C})/qD{C'B}''qC{'BA}qB{AG}/2G({8GAB})/''qC'{BA}</subfield>
+    <subfield code="r">F</subfield>
+    <subfield code="z">vl (2), vla, vlc</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)905233400</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MORIA</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="d">OCLCO</subfield>
+    <subfield code="d">OCLCF</subfield>
+    <subfield code="d">MORIA</subfield>
+    <subfield code="d">OCLCQ</subfield>
+    <subfield code="d">MORIA</subfield>
+    <subfield code="d">OCL</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">Op. 8/5</subfield>
+    <subfield code="n">GerB 169</subfield>
+    <subfield code="r">F</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Quartetto à Violino Primo, Violino Secondo, Viola e Violoncello, no. 6 / dell Signr. Boccherini ...</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[copied in 1776]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 manuscript parts ;</subfield>
+    <subfield code="c">33 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">Op. 8/5</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">[Crossed out:] Joh. Gebhard Cunow, N. 1776. Carl Gotthold Reichel.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Andantino con poco molto. F maj. 88 m. Pts: Vln I, II; Vla; Vcl.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Allegro. F maj. 156 m. Pts: Vln I, II; Vla; Vcl.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Tempo di Minuetto-Trio. F maj--B-flat maj. 91 m (Tempo di Min. Da Capo). Pts: Vln I, II; Vla; Vcl.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Copyist: Johann Gebhard Cunow.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Instrumentation: 2 violins, viola, cello</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Use restricted by the terms of the Moravian Music Foundation Research Policies.</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">From the Moravian Church, Southern Province, Salem Congregation (Salem Collegium Musicum Collection SCM [253] Salem ms).</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vla</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vlc</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2018-02-08 13:28:33 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2018-08-17 08:29:55 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2019-12-19 09:53:09 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-02-25 17:47:45 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-02-26 21:03:53 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-02-21 17:34:47 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-05-19 08:44:35 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">169</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Cunow, Johann Gebhart</subfield>
+    <subfield code="d">1760-1829</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30036434</subfield>
+    <subfield code="4">scr</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Reichel, Carl Gotthold</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30036458</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Moravian Music Foundation</subfield>
+    <subfield code="c">Bethlehem, PA</subfield>
+    <subfield code="g">Ascertained</subfield>
+    <subfield code="0">institutions/30002214</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Salem Collegium Musicum</subfield>
+    <subfield code="c">Salem</subfield>
+    <subfield code="g">Ascertained</subfield>
+    <subfield code="0">institutions/51000607</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">US-WS</subfield>
+    <subfield code="c">SCM [253] Salem ms</subfield>
+    <subfield code="e">Moravian Music Foundation, Archie K. Davis Center</subfield>
+    <subfield code="x">institutions/30002512</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">https://moravianmusic.on.worldcat.org/oclc/905233400</subfield>
+    <subfield code="x">Other</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; F; GerB 169</subfield>
+    <subfield code="0">works/33152</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="b">full</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

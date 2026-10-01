@@ -1,0 +1,72 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0002E89A00000000",
+ "note": "Digitalisat",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 610",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "score: 15 p. · 16 x 22 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/1001137012",
+ "source_id": "1001137012",
+ "title": "Quartettino",
+ "full_title": "[cover title, p. 1:] Mese di Marzo. 1796. | Quartettino. | Per due Violini, Viola, e Violoncello obb.to | Di Luigi Boccherini. | Compositor di Camera di S. M. il Re di Prussia.",
+ "key": "D",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "237",
+ "gerard_numbers": [
+  "237"
+ ],
+ "catalogs": [
+  "GerB 237"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1796"
+ },
+ "physical": [],
+ "extent": [
+  "score: 15 p."
+ ],
+ "notes": [
+  "Notenpapier mit 8 Systemen",
+  "p. [16] nur rastriert",
+  "Vermerk auf p. 12, am unteren Rand: \"Copirt von Schober | den 21. Maj 1796.\""
+ ],
+ "incipits": 1,
+ "gerard_label": "237",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 610",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "score: 15 p. · 16 x 22 cm",
+   "watermark": "tree stars in crowned shield"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/1001137012"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 17
+ }
+}

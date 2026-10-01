@@ -1,0 +1,116 @@
+{
+ "folder": "G171-176/990005865_US-R",
+ "scan_id": "990005865_US-R",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 54,
+ "rism": {
+  "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm 4 parts: 52 p. 4 parts: [2]+13, [2]+13, 13, 13 p. 4 x 13 p.",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 6,
+  "gerard": [
+   "171",
+   "172",
+   "173",
+   "174",
+   "175",
+   "176"
+  ],
+  "source_ids": [
+   "990005865"
+  ]
+ },
+ "source_mtime": 1790495812,
+ "observed": {
+  "part_books": [
+   {
+    "page": 2,
+    "label": "39087009315245.cello:02",
+    "part": "cello"
+   },
+   {
+    "page": 30,
+    "label": "39087009315245.violin1:04",
+    "part": "violin 1"
+   },
+   {
+    "page": 42,
+    "label": "39087009315245.violin2:02",
+    "part": "violin 2"
+   },
+   {
+    "page": 44,
+    "label": "39087009315245.violin2:04",
+    "part": "violin 1"
+   },
+   {
+    "page": 47,
+    "label": "39087009315245.violin2:07",
+    "part": "violin 2"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 17,
+    "label": "39087009315245.viola:04",
+    "numeral": 5,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 23,
+    "label": "39087009315245.viola:10",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 25,
+    "label": "39087009315245.viola:12",
+    "numeral": 5,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 37,
+    "label": "39087009315245.violin1:11",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 39,
+    "label": "39087009315245.violin1:13",
+    "numeral": 5,
+    "tempo": "andante",
+    "candidates": []
+   },
+   {
+    "page": 42,
+    "label": "39087009315245.violin2:02",
+    "numeral": 5,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 51,
+    "label": "39087009315245.violin2:11",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 53,
+    "label": "39087009315245.violin2:13",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 5,
+  "n_work_starts": 8
+ },
+ "disagreements": [],
+ "verified": null
+}

@@ -1,0 +1,21 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b9009885z",
+ "title": "Première Symphonie à [sic] quatre parties obligées, sçavoir deux violons, alto viola et basse continue, deux cors de chasse ad libitum.... [G 500]",
+ "shelfmark": "VM7-1533",
+ "institution": "Bibliothèque nationale de France, département Musique, VM7-1533",
+ "siglum": "F-Pn",
+ "medium": "print",
+ "form": "not-a-quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1757",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9009885z/manifest.json",
+ "pages": 14,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "not_quartet_reason": "'Première Symphonie a quatre parties obligées ... [G 500]' -- a symphony, not a quartet.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 14
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "kind": "digitized",
+ "url": "http://bdh-rd.bne.es/viewer.vm?id=0000053756&page=1",
+ "note": "Digital copy",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/51060786",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "shelfmark": "Mp/2393|2",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "4 parts",
+ "all_sigla": [
+  "B-Bc",
+  "E-Mn",
+  "RUS-SPk"
+ ],
+ "unresolved": true,
+ "source": "https://rism.online/sources/1001263271",
+ "source_id": "1001263271",
+ "title": "6 Quartets",
+ "full_title": "[title page, vl 1:] SIX | QUATUORS | POUR | Deux Violons Alto Et Basse | Composés | Par | Luigi Boccherini | Œuvre XXXIII. | Prix. 9.|t|t | aux adresse ordinaires de Musique",
+ "key": null,
+ "scoring": "vl (2), vla, b",
+ "gerard": "201",
+ "catalogs": [
+  "GerB 201",
+  "GerB 202",
+  "GerB 203",
+  "GerB 204",
+  "GerB 205",
+  "GerB 206"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "[without plate number]"
+ ],
+ "published": {
+  "place": "[Paris?]",
+  "publisher": null,
+  "date": "[ca. 1785]"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Record based on digitized copy at E-Mn.",
+  "Compare with RISM ID no. 990005883 (Paris: Sieber, without plate number) and RISM ID no. 1001263274 (Paris: Sieber, plate number 445)",
+  "Title page only in vl 1. Impressum: aux adresses ordinaires de Musique"
+ ],
+ "incipits": 0,
+ "holdings": {
+  "holdings/51060787": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "BV-12-2126 onderdeel-14",
+   "former_shelfmark": "C1/1",
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "4 parts"
+  },
+  "holdings/51060786": {
+   "siglum": "E-Mn",
+   "institution": "Biblioteca Nacional de España",
+   "shelfmark": "Mp/2393|2",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001386",
+   "source_type": "Print",
+   "extent": "4 parts"
+  },
+  "holdings/51060793": {
+   "siglum": "RUS-SPk",
+   "institution": "Sankt-Peterburgskaja gosudarstvennaja konservatorija imeni N. A. Rimskogo-Korsakova, Naučnaja muzykal'naja biblioteka",
+   "shelfmark": "Инв. № 36085",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002520",
+   "source_type": "Print",
+   "extent": "4 parts"
+  }
+ },
+ "downloaded_by_hand": true,
+ "suggested_filename": "E-Mn_Mp_2393_2.pdf",
+ "why_manual": "The server accepts the TCP connection then never completes the TLS handshake for us, so no request is ever sent. Likely an egress-IP block; try it from your own machine.",
+ "bne_digital_ident": "495569cd-001a-4bb5-82b3-f3f34c30168b",
+ "bne_digital_url": "https://bnedigital.bne.es/bd/es/viewer?id=495569cd-001a-4bb5-82b3-f3f34c30168b&page=1",
+ "rism_related": [
+  "https://rism.online/sources/1001263271"
+ ],
+ "rism_relation": "copy"
+}

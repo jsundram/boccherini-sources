@@ -1,0 +1,47 @@
+{
+ "folder": "G159-164/PPN627398162_D-B",
+ "scan_id": "PPN627398162_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 66,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "159",
+   "160",
+   "161",
+   "162",
+   "163",
+   "164"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790811415,
+ "observed": {
+  "part_books": [
+   {
+    "page": 27,
+    "label": "PPN627398162_D-B:27",
+    "part": "violin 2"
+   },
+   {
+    "page": 45,
+    "label": "PPN627398162_D-B:45",
+    "part": "viola"
+   },
+   {
+    "page": 62,
+    "label": "PPN627398162_D-B:62",
+    "part": "bass"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 3,
+  "n_work_starts": 0
+ },
+ "disagreements": [],
+ "verified": null
+}

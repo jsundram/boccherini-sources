@@ -1,0 +1,281 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/17977",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/23765",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "4 parts · 34,5 x 27 cm",
+ "all_sigla": [
+  "A-Wgm",
+  "B-Bc",
+  "CH-EN",
+  "D-B",
+  "D-BNba",
+  "D-Dl",
+  "F-MH",
+  "F-Pc",
+  "F-Pn",
+  "F-Rc",
+  "F-Sim",
+  "GB-Lam",
+  "GB-Lbl",
+  "I-PAc",
+  "NL-Uim",
+  "RUS-SPk",
+  "RUS-SPsc",
+  "S-Skma",
+  "US-DN",
+  "US-NYp",
+  "US-R"
+ ],
+ "source": "https://rism.online/sources/990005853",
+ "source_id": "990005853",
+ "title": "6 Quartets",
+ "full_title": "Sei Quartetti Per Due Violini, Alto e Violoncello obbligati. Dedicati A ueri dilettanti e Conoscitori di Musica. Composti dall. Sig-or: Luigi Boccherini Di Lucca. Opera I|a. Mis au jour jour par M. Boyer. - Paris: Chez Naderman, rue Richelieu, a la clef d'Or, Passage du Caffé de foy; Chez Mad-e. Le Menu, rue du Roulle, à la Clef d'Or, A.P.D.R.",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "159",
+ "gerard_numbers": [
+  "159",
+  "160",
+  "161",
+  "162",
+  "163",
+  "164"
+ ],
+ "catalogs": [
+  "GerB 159",
+  "GerB 160",
+  "GerB 161",
+  "GerB 162",
+  "GerB 163",
+  "GerB 164"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "515"
+ ],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1785]"
+ },
+ "physical": [],
+ "extent": [
+  "13, 13, 12, 13 p.",
+  "4 parts"
+ ],
+ "notes": [
+  "Label: \"Библиотека Императорcкаго Русскаго Музыкальнаго Общества. Ззапа ... Шшкаф № 24. Полка № 2. № 3\"",
+  "Stamp on vl 1.: \"Императорcкое Русское Музыкальное Общество. С. П.  Отделение",
+  "Inscription on every part: \"Chez Jmbault M-d. de Musique rue St honoré No. 200, au mont d'or, entre la rue des poulies et la maison d'Aligre. Et Péristile du Théâtre de l'opéra Comique rue Favart No. 461\""
+ ],
+ "incipits": 0,
+ "gerard_label": "159-164",
+ "holdings": {
+  "holdings/23747": {
+   "siglum": "A-Wgm",
+   "institution": "Gesellschaft der Musikfreunde in Wien, Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000388",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23748": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23749": {
+   "siglum": "CH-EN",
+   "institution": "Kloster Engelberg, Musikbibliothek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000007",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23750": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23751": {
+   "siglum": "D-BNba",
+   "institution": "Beethoven-Haus, Forschungszentrum Beethoven-Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000692",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23752": {
+   "siglum": "D-Dl",
+   "institution": "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000042",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23753": {
+   "siglum": "F-MH",
+   "institution": "Bibliothèque municipale",
+   "shelfmark": "MN 4861,1 /A-D",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001468",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23754": {
+   "siglum": "F-Pc",
+   "institution": "Bibliothèque du Conservatoire",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001480",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23755": {
+   "siglum": "F-Pn",
+   "institution": "Bibliothèque nationale de France, Département de la Musique",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001488",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23756": {
+   "siglum": "F-Rc",
+   "institution": "Bibliothèque du Conservatoire",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001498",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/51038396": {
+   "siglum": "F-Sim",
+   "institution": "Bibliothèque de l'Institut de Musicologie",
+   "shelfmark": "Rm 226",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001502",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm",
+   "provenance": "Akad. Gesangverein"
+  },
+  "holdings/23757": {
+   "siglum": "GB-Lam",
+   "institution": "Royal Academy of Music, Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000263",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23758": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23759": {
+   "siglum": "I-PAc",
+   "institution": "Sezione musicale della Biblioteca Palatina",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001861",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23760": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23766": {
+   "siglum": "RUS-SPk",
+   "institution": "Sankt-Peterburgskaja gosudarstvennaja konservatorija imeni N. A. Rimskogo-Korsakova, Naučnaja muzykal'naja biblioteka",
+   "shelfmark": "Инв. № 3299136085",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002520",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23761": {
+   "siglum": "RUS-SPsc",
+   "institution": "Rossijskaja nacional'naja biblioteka",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000181",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23762": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23763": {
+   "siglum": "US-DN",
+   "institution": "University of North Texas (UNT), Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002265",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23764": {
+   "siglum": "US-NYp",
+   "institution": "New York Public Library for the Performing Arts, Music Division",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000321",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  },
+  "holdings/23765": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "4 parts · 34,5 x 27 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005853"
+ ],
+ "rism_relation": "copy"
+}

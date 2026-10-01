@@ -1,0 +1,444 @@
+{
+ "_readme": [
+  "Hand-established facts that override RISM, keyed by RISM source id.",
+  "RISM's own values are kept alongside as *_rism so nothing is lost, and anything",
+  "corrected here is labelled as a hand identification wherever it is displayed.",
+  "",
+  "A source-level block applies to every copy. A `holdings` block keyed by siglum",
+  "applies to one copy only -- which matters for a publication issued in instalments,",
+  "where two libraries hold different music under the same RISM record. Where one",
+  "library holds two copies, key by '<siglum> <shelfmark>'.",
+  "",
+  "`found_by_hand: true` on a holding registers a copy RISM links no scan for: the",
+  "folder and its sidecars are created so the download can be dropped in.",
+  "",
+  "contents: the works in the physical object, in order. 'gerard': null means",
+  "not yet identified."
+ ],
+ "990005884": {
+  "note": "Pleyel's 'Douze quatuors ... oeuvre 39': twelve Boccherini quartets issued in four livraisons of three. RISM catalogues the whole publication as one record with one Gerard number. Berlin's copies all carry the same shelfmark DMS 51778 and are distinguished only by livraison, each scanned under its own SBB PPN. Munich holds all four livraisons (MDZ bsb11363152-55), which is the only complete set found; livraison 4 is held nowhere else in this collection.",
+  "holdings": {
+   "D-B livr1": {
+    "livraison": 1,
+    "established_by": "examined by hand from the scan, 2026-09-27",
+    "shelfmark": "DMS 51778",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "234"
+     },
+     {
+      "n": 2,
+      "gerard": "201"
+     },
+     {
+      "n": 3,
+      "gerard": "203"
+     }
+    ],
+    "holding": "holdings/24144",
+    "note": "Berlin's copy behind RISM's own link (SBB00001F4A00000000). Shelfmark DMS 51778."
+   },
+   "D-B livr2": {
+    "livraison": 2,
+    "found_by_hand": true,
+    "shelfmark": "DMS 51778",
+    "url": "https://digital-beta.staatsbibliothek-berlin.de/werkansicht?PPN=PPN627491782",
+    "iiif": "https://content.staatsbibliothek-berlin.de/dc/PPN627491782/manifest",
+    "mets": "https://content.staatsbibliothek-berlin.de/dc/PPN627491782.mets.xml",
+    "established_by": "found at Berlin and examined by hand, 2026-09-27",
+    "note": "METS gives shelfLocator DMS 51778, dated 1798. RISM links no scan for it.",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "233"
+     },
+     {
+      "n": 2,
+      "gerard": "215"
+     },
+     {
+      "n": 3,
+      "gerard": "214"
+     }
+    ]
+   },
+   "D-B livr3": {
+    "livraison": 3,
+    "found_by_hand": true,
+    "shelfmark": "DMS 51778",
+    "url": "https://digital-beta.staatsbibliothek-berlin.de/werkansicht?PPN=PPN627492592",
+    "iiif": "https://content.staatsbibliothek-berlin.de/dc/PPN627492592/manifest",
+    "mets": "https://content.staatsbibliothek-berlin.de/dc/PPN627492592.mets.xml",
+    "established_by": "found at Berlin and examined by hand, 2026-09-27",
+    "note": "METS gives shelfLocator DMS 51778, dated 1799. RISM links no scan for it.",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "232"
+     },
+     {
+      "n": 2,
+      "gerard": "213"
+     },
+     {
+      "n": 3,
+      "gerard": "235"
+     }
+    ]
+   },
+   "US-R": {
+    "livraison": 3,
+    "established_by": "livraison number read off the cover, 2026-09-27",
+    "note": "Same instalment as Berlin's livraison 3, so its contents are almost certainly G 232, 213, 235 — worth a spot check against the Berlin scan before it is treated as settled.",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": null
+     },
+     {
+      "n": 2,
+      "gerard": null
+     },
+     {
+      "n": 3,
+      "gerard": null
+     }
+    ],
+    "holding": "holdings/24174"
+   },
+   "D-Mbs livr1": {
+    "livraison": 1,
+    "found_by_hand": true,
+    "siglum": "D-Mbs",
+    "url": "https://www.digitale-sammlungen.de/en/view/bsb11363152",
+    "iiif": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11363152/manifest",
+    "established_by": "found in an MDZ search page; livraison 4 contents supplied by hand, 2026-09-28",
+    "note": "Munich copy, MDZ bsb11363152, Pleyel Paris 1798. Livraison 1 of four.",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "234"
+     },
+     {
+      "n": 2,
+      "gerard": "201"
+     },
+     {
+      "n": 3,
+      "gerard": "203"
+     }
+    ]
+   },
+   "D-Mbs livr2": {
+    "livraison": 2,
+    "found_by_hand": true,
+    "siglum": "D-Mbs",
+    "url": "https://www.digitale-sammlungen.de/en/view/bsb11363153",
+    "iiif": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11363153/manifest",
+    "established_by": "found in an MDZ search page; livraison 4 contents supplied by hand, 2026-09-28",
+    "note": "Munich copy, MDZ bsb11363153, Pleyel Paris 1798. Livraison 2 of four.",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "233"
+     },
+     {
+      "n": 2,
+      "gerard": "215"
+     },
+     {
+      "n": 3,
+      "gerard": "214"
+     }
+    ]
+   },
+   "D-Mbs livr3": {
+    "livraison": 3,
+    "found_by_hand": true,
+    "siglum": "D-Mbs",
+    "url": "https://www.digitale-sammlungen.de/en/view/bsb11363154",
+    "iiif": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11363154/manifest",
+    "established_by": "found in an MDZ search page; livraison 4 contents supplied by hand, 2026-09-28",
+    "note": "Munich copy, MDZ bsb11363154, Pleyel Paris 1798. Livraison 3 of four.",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "232"
+     },
+     {
+      "n": 2,
+      "gerard": "213"
+     },
+     {
+      "n": 3,
+      "gerard": "235"
+     }
+    ]
+   },
+   "D-Mbs livr4": {
+    "livraison": 4,
+    "found_by_hand": true,
+    "siglum": "D-Mbs",
+    "url": "https://www.digitale-sammlungen.de/en/view/bsb11363155",
+    "iiif": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11363155/manifest",
+    "established_by": "found in an MDZ search page; livraison 4 contents supplied by hand, 2026-09-28",
+    "note": "Munich copy, MDZ bsb11363155, Pleyel Paris 1798. Livraison 4 of four.",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "204"
+     },
+     {
+      "n": 2,
+      "gerard": "205"
+     },
+     {
+      "n": 3,
+      "gerard": "206"
+     }
+    ]
+   }
+  }
+ },
+ "990005886": {
+  "note": "Op. 58, 'Six quartetti ... en deux livraisons, 1ere [2eme] parties' (Sieber, Paris). RISM has ONE record for all six quartets and zero incipits for any of them. Berlin's copy is scanned as two volumes under a MultivolumeWork anchor (PPN627503063) whose own IIIF manifest has an empty canvases list -- which reads as 'not scanned' unless you follow the METS to its children. Each livraison holds THREE quartets, not six: assigning the whole G 242-247 span to both was wrong, and made two different books look like duplicates.",
+  "holdings": {
+   "D-B livr1": {
+    "livraison": 1,
+    "found_by_hand": true,
+    "shelfmark": "DMS 51778",
+    "url": "https://digital-beta.staatsbibliothek-berlin.de/werkansicht?PPN=PPN627503233",
+    "iiif": "https://content.staatsbibliothek-berlin.de/dc/PPN627503233/manifest",
+    "mets": "https://content.staatsbibliothek-berlin.de/dc/PPN627503233.mets.xml",
+    "established_by": "Read off the scans, 2026-09-29. Title pages: livraison 1 is 'Op 58. 1re Partie', livraison 2 is 'Op 58. 2e Partie', both 'en deux Livraisons'. Quartet headings in the Violino I book of livraison 2 run IV. QUATUOR (p5), V. QUATUOR (p11), VI. QUATUOR (p17), then the Violino Secondo book restarts at IV (p23) -- so each livraison holds three quartets in four part-books, not six. Livraison 1 shows III. Quartetto at p14.",
+    "note": "'1re Partie'. Quartets I-III of Op. 58, in four part-books bound in sequence.",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "242"
+     },
+     {
+      "n": 2,
+      "gerard": "243"
+     },
+     {
+      "n": 3,
+      "gerard": "244"
+     }
+    ],
+    "gerard_order_note": "Gerard numbers follow the print's own order: Op. 58 is G 242-247 and the parts are numbered I-VI, so I-III are G 242-244 and IV-VI are G 245-247. RISM publishes no incipits for Op. 58, so the order cannot be confirmed against one; if that changes, this is the assumption to re-check."
+   },
+   "D-B livr2": {
+    "livraison": 2,
+    "found_by_hand": true,
+    "shelfmark": "DMS 51778",
+    "url": "https://digital-beta.staatsbibliothek-berlin.de/werkansicht?PPN=PPN627503292",
+    "iiif": "https://content.staatsbibliothek-berlin.de/dc/PPN627503292/manifest",
+    "mets": "https://content.staatsbibliothek-berlin.de/dc/PPN627503292.mets.xml",
+    "established_by": "Read off the scans, 2026-09-29. Title pages: livraison 1 is 'Op 58. 1re Partie', livraison 2 is 'Op 58. 2e Partie', both 'en deux Livraisons'. Quartet headings in the Violino I book of livraison 2 run IV. QUATUOR (p5), V. QUATUOR (p11), VI. QUATUOR (p17), then the Violino Secondo book restarts at IV (p23) -- so each livraison holds three quartets in four part-books, not six. Livraison 1 shows III. Quartetto at p14.",
+    "note": "'2e Partie'. Quartets IV-VI of Op. 58, in four part-books bound in sequence.",
+    "contents": [
+     {
+      "n": 4,
+      "gerard": "245"
+     },
+     {
+      "n": 5,
+      "gerard": "246"
+     },
+     {
+      "n": 6,
+      "gerard": "247"
+     }
+    ],
+    "gerard_order_note": "Gerard numbers follow the print's own order: Op. 58 is G 242-247 and the parts are numbered I-VI, so I-III are G 242-244 and IV-VI are G 245-247. RISM publishes no incipits for Op. 58, so the order cannot be confirmed against one; if that changes, this is the assumption to re-check."
+   }
+  }
+ },
+ "190027176": {
+  "note": "S-Skma W 4-R. RISM splits this one physical volume into six records (190027176-190027181), one per quartet, and both RISM and the Swedish catalogue call it a Musikhandskrift. It is in fact the Hummel print of opera prima (Amsterdam, J. J. Hummel) -- cf. RISM 990005852, which catalogues that edition. Recorded here as a correction, not asserted in RISM.",
+  "holdings": {
+   "S-Skma": {
+    "found_by_hand": true,
+    "shelfmark": "W 4-R",
+    "url": "https://sok.statensmusikverk.se/Record/XrefMVMTB511804",
+    "established_by": "downloaded and examined by hand, 2026-09-27",
+    "note": "Catalogued as manuscript; identified as the Hummel print. Collection: Utile Dulci.",
+    "medium_correction": "print, not manuscript",
+    "contents": [
+     {
+      "n": 1,
+      "gerard": "159"
+     },
+     {
+      "n": 2,
+      "gerard": "160"
+     },
+     {
+      "n": 3,
+      "gerard": "161"
+     },
+     {
+      "n": 4,
+      "gerard": "162"
+     },
+     {
+      "n": 5,
+      "gerard": "163"
+     },
+     {
+      "n": 6,
+      "gerard": "164"
+     }
+    ]
+   }
+  }
+ },
+ "1001054992": {
+  "note": "NOT an autograph and cannot be one. RISM's own 260 dates this source 'Trieste, 1905' while its 593 calls it 'Possible autograph manuscript' -- two fields of one record contradicting each other. Boccherini died in 1805. UdK's catalogue gives the full story: a copy made in Trieste and inscribed 'Al Celebre Quartetto Joachim, Omaggio di Alberto Castelli, 30./12./05', held in the Joseph Joachim-Nachlass, 4 parts of 7pp each, 33x26cm, shelved in the Raramagazin. UdK hedges it as 'fragliches Autograph' the same way RISM does.",
+  "established_by": "UdK Primo record read by hand, 2026-09-28; confirmed against RISM 260 $c",
+  "holdings": {
+   "D-Bhm": {
+    "shelfmark": "RH 0322",
+    "medium_correction": "1905 copy, not autograph and not an 18th-century manuscript",
+    "note": "Worth reporting to RISM: the 'Possible autograph manuscript' designation is contradicted by the record's own publication date. If Castelli copied from an exemplar now lost the text may still carry weight, but as a witness it is a 20th-century copy, not a source close to Boccherini."
+   }
+  }
+ },
+ "301002449": {
+  "note": "The Alstromer-dedicated edition of Op. 8. RISM catalogues it with NO Gerard number and NO incipits at PL-WRu (61343 Muz., manuscript copy) and B-Bc (6430, manuscript copy); BNE holds the printed edition those copies derive from. Identified by hand from the BNE copy: the six quartets are G 165-170 but the first two are transposed in the print's order -- Quartetto I is G 166 and Quartetto II is G 165, thereafter sequential.",
+  "established_by": "identified from the BNE print copy by hand, 2026-09-28",
+  "contents": [
+   {
+    "n": 1,
+    "gerard": "166"
+   },
+   {
+    "n": 2,
+    "gerard": "165"
+   },
+   {
+    "n": 3,
+    "gerard": "167"
+   },
+   {
+    "n": 4,
+    "gerard": "168"
+   },
+   {
+    "n": 5,
+    "gerard": "169"
+   },
+   {
+    "n": 6,
+    "gerard": "170"
+   }
+  ],
+  "holdings": {
+   "PL-WRu": {
+    "shelfmark": "61343 Muz.",
+    "note": "Manuscript copy of the Alstromer print; contents established from BNE's copy of the edition."
+   }
+  }
+ },
+ "702003012": {
+  "note": "The Alstromer-dedicated edition of Op. 8. RISM catalogues it with NO Gerard number and NO incipits at PL-WRu (61343 Muz., manuscript copy) and B-Bc (6430, manuscript copy); BNE holds the printed edition those copies derive from. Identified by hand from the BNE copy: the six quartets are G 165-170 but the first two are transposed in the print's order -- Quartetto I is G 166 and Quartetto II is G 165, thereafter sequential.",
+  "established_by": "identified from the BNE print copy by hand, 2026-09-28",
+  "contents": [
+   {
+    "n": 1,
+    "gerard": "166"
+   },
+   {
+    "n": 2,
+    "gerard": "165"
+   },
+   {
+    "n": 3,
+    "gerard": "167"
+   },
+   {
+    "n": 4,
+    "gerard": "168"
+   },
+   {
+    "n": 5,
+    "gerard": "169"
+   },
+   {
+    "n": 6,
+    "gerard": "170"
+   }
+  ],
+  "holdings": {
+   "B-Bc": {
+    "shelfmark": "6430",
+    "note": "Manuscript copy of the Alstromer print; contents established from BNE's copy of the edition."
+   }
+  }
+ },
+ "463057700": {
+  "note": "D-B KHM 577, a manuscript copy of the complete Op. 32 in one volume. RISM records no GerB number for it, so the harvester files it under `unidentified/`. Berlin's own digital catalogue names it '6 Quartette; vl (2), vla, vlc; G 201-206; op.32' (PPN84753183X), which supplies the six numbers RISM omits.",
+  "established_by": "RISM's own child records settle it: 463057701-706 are 'KHM 577 (1)' through '(6)', '1. Quartetto' through '6. Quartetto', carrying GerB 201, 202, 203, 204, 205, 206 in that order. Berlin's digital catalogue (PPN84753183X) agrees, naming the volume '6 Quartette ... G 201-206; op.32'. The parent record 463057700 carries no GerB number, which is why the harvester files it under `unidentified/` without this entry.",
+  "contents": [
+   {
+    "n": 1,
+    "gerard": "201"
+   },
+   {
+    "n": 2,
+    "gerard": "202"
+   },
+   {
+    "n": 3,
+    "gerard": "203"
+   },
+   {
+    "n": 4,
+    "gerard": "204"
+   },
+   {
+    "n": 5,
+    "gerard": "205"
+   },
+   {
+    "n": 6,
+    "gerard": "206"
+   }
+  ],
+  "holdings": {
+   "D-B KHM 577": {
+    "shelfmark": "KHM 577",
+    "note": "161 images. The only manuscript witness to Op. 32 in this collection -- every other Op. 32 item held is a print."
+   }
+  },
+  "rism_constituents": {
+   "201": "https://rism.online/sources/463057701",
+   "202": "https://rism.online/sources/463057702",
+   "203": "https://rism.online/sources/463057703",
+   "204": "https://rism.online/sources/463057704",
+   "205": "https://rism.online/sources/463057705",
+   "206": "https://rism.online/sources/463057706"
+  }
+ },
+ "225003122": {
+  "note": "D-LEm 'Becker III.12.4', catalogued as '2 Quartets' with no GerB number, so the harvester files it under `unidentified/`. RISM's two companion records at the same shelfmark supply the numbers.",
+  "established_by": "Shelfmark join against RISM: 225003123 (GerB 202, 'score: p.1-10') and 225003124 (GerB 204, 'score: p.11-22') are both D-LEm Becker III.12.4 -- the same shelfmark and the two halves of the same 28-image volume.",
+  "contents": [
+   {
+    "n": 1,
+    "gerard": "202"
+   },
+   {
+    "n": 2,
+    "gerard": "204"
+   }
+  ],
+  "holdings": {
+   "D-LEm Becker III.12.4": {
+    "shelfmark": "Becker III.12.4"
+   }
+  }
+ }
+}

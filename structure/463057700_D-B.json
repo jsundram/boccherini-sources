@@ -1,0 +1,26 @@
+{
+ "folder": "G201-206/463057700_D-B",
+ "scan_id": "463057700_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": "4 parts · 24,5 x 33,5 cm 4 parts",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 6,
+  "gerard": [
+   "201",
+   "202",
+   "203",
+   "204",
+   "205",
+   "206"
+  ],
+  "source_ids": [
+   "463057700"
+  ]
+ },
+ "source_mtime": 1790811465,
+ "verified": null
+}

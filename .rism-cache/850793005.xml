@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndm a2200000 u 4500</leader>
+  <controlfield tag="001">sources/850793005</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20221016155029.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="b">ita</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2="1">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1=" " ind2=" ">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="r">D</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">1.o tempo del 2. quartetto op. 64 [G 249]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[1940-1960]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">6 parts</subfield>
+    <subfield code="c">325x235 mm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">6 parti (3, 3, 3, [3!, 2, [3! p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Parti di vl1,vl2,vla(2),vlc(2)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Copie autografe di Pina Carmirelli con indicazioni di esecuzione e ditegggiature.</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">abbreviated</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2019-04-10 09:21:00 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2019-06-07 19:28:04 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2019-07-26 12:22:55 UTC (StandardTerm change id from 3901999 to 25205)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2019-10-10 17:41:18 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-04-06 15:22:53 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-07-14 15:11:19 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-09-24 18:18:03 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2021-08-23 16:02:52 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Carmirelli, Pina</subfield>
+    <subfield code="d">1914-1993</subfield>
+    <subfield code="0">people/40200558</subfield>
+    <subfield code="4">scr</subfield>
+  </datafield>
+  <datafield tag="730" ind1=" " ind2=" ">
+    <subfield code="a">Quartetti. 4 Archi. N.91. G 249. re maggiore</subfield>
+    <subfield code="g">ICCU</subfield>
+    <subfield code="0">standard_titles/5178157</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">I-Mcv</subfield>
+    <subfield code="c">[no indication]</subfield>
+    <subfield code="e">Biblioteca della Casa di riposo per musicisti Fondazione Giuseppe Verdi</subfield>
+    <subfield code="x">institutions/51002491</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="u">http://id.sbn.it/bid/LO11286718</subfield>
+    <subfield code="x">Other</subfield>
+    <subfield code="z">Original catalogue entry</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">import</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/301002442</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20230611040452.0</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[title page, vlc:] VI. | Quadro | a | Violino Primo | Violino Secondo | Viola | e | Basso | Del Sigl: Bocherini, L.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">3 parts</subfield>
+    <subfield code="c">35 x 22 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Stempel auf der Titelseite und in allen Stimmen: "Von Rehdigersche Stadtbibliothek Breslau"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Auf der Titelseite: "de Kracker."</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Alte Signaturen auf der Titelseite</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">vl 2 missing</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="561" ind1=" " ind2=" ">
+    <subfield code="a">Stadtbibliothek, Breslau</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, vla, vlc</subfield>
+    <subfield code="b">12, 8, 12</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-08-11 08:40:01 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Kracker</subfield>
+    <subfield code="0">people/30041387</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="a">Stadtbibliothek</subfield>
+    <subfield code="c">Breslau</subfield>
+    <subfield code="0">institutions/30020119</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.2/3; GerB 161</subfield>
+    <subfield code="w">sources/301002443</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.2/2; GerB 164</subfield>
+    <subfield code="w">sources/301002444</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.2/4; GerB 162</subfield>
+    <subfield code="w">sources/301002445</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.2/1; GerB 159</subfield>
+    <subfield code="w">sources/301002446</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.2/5; GerB 163</subfield>
+    <subfield code="w">sources/301002447</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op.2/2; GerB 160</subfield>
+    <subfield code="w">sources/301002448</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">PL-WRu</subfield>
+    <subfield code="c">61342 Muz.</subfield>
+    <subfield code="d">N|o 7.12.</subfield>
+    <subfield code="d">Mus. Oa 2</subfield>
+    <subfield code="e">Biblioteka Uniwersytecka</subfield>
+    <subfield code="x">institutions/30002111</subfield>
+  </datafield>
+</record>

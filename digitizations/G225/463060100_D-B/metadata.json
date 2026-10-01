@@ -1,0 +1,71 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0001C5FD00000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 601",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 24 x 32,5 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/463060100",
+ "source_id": "463060100",
+ "title": "Quartets",
+ "full_title": "[title page, vla:] Quartettino | Per due Violini, Viola, e Violoncello Obbligato. | di Luigi Boccherini | Compositor di Camera di S. M. il Rè di Prussia | [on top:] Mese di Decembre. 1792.",
+ "key": "E|b",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "225",
+ "gerard_numbers": [
+  "225"
+ ],
+ "catalogs": [
+  "GerB 225"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1792 (ca.)"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Vollständiger Titel auf der vla-Stimme, die anderen Stimmen mit verkürzten Titelblättern: \"Mese di Decembre 1792. | Quartettino | [Stimmenbezeichnung] | di Boccherini.\"",
+  "Berliner Abschrift; anders als im Falle von op. 44,1 (KHM 596/597) ist das Partiturautograph heute nicht mehr erhalten.",
+  "Durchlaufende bibliothekarische Bleistiftpaginierung 1-24."
+ ],
+ "incipits": 0,
+ "gerard_label": "225",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 601",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 24 x 32,5 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/463060100"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 25
+ }
+}

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/1001300904</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20240822094300.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">455065989</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">6 Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">op. 33</subfield>
+    <subfield code="n">GerB No. 207-212</subfield>
+    <subfield code="0">standard_titles/3901438</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[collection title page, all parts:] 1781 | [indication of part] | Quartettino | [no. of quartet] | A due Violini, Viole | Violoncello. | Boccherini. [at the top at left:] Opera 33 [at the top at right:] Opera piccola</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">[1790-1810]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">21 x 30 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 33</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Auf der vl 1 p.1 oben links handschriftlich angemerkt: "Cet oeuvre de 6 quatuors est inédie, le manuscrit autographe se trouve dan la bibliothéque de Mr G. V. Lasseré".</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In den einzelnen Quartetten sind Korrekturen resp. Änderungen mit rotem Kreidestift eingefügt, teilweise was Überschriften "Quartettino" betrifft oder Satzbezeichnungen "Minuetto" in "Menueuuto" geändert, aber auch Noten resp. Pausenwerte korrigiert, besonders oft wurde Viertelpausen. Enebso taucht die Tempobezeichnugn "Andate Lentarello" auf, die in den Drucken nicht vorhanden ist, sondernWomöglich Eingriffe für eine Druckfassung.</subfield>
+  </datafield>
+  <datafield tag="541" ind1="1" ind2=" ">
+    <subfield code="e">M 62/677</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, vlc</subfield>
+    <subfield code="b">31, 31, 31, 31p.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="592" ind1=" " ind2=" ">
+    <subfield code="a">R [heart] ROMANI [countermark: shield with 3 stars]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2024-07-26 08:29:31 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2024-08-22 09:43:00 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">No. 207-212</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Lasserré, Georges-Victor</subfield>
+    <subfield code="d">1856-1924</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30028040</subfield>
+    <subfield code="4">asn</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Romani</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30031073</subfield>
+    <subfield code="4">ppm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 33/1; GerB 207</subfield>
+    <subfield code="w">sources/1001300919</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 33/2; GerB 208</subfield>
+    <subfield code="w">sources/1001300921</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 33/3; GerB 209</subfield>
+    <subfield code="w">sources/1001300922</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 33/4; GerB 210</subfield>
+    <subfield code="w">sources/1001300942</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 33/5; GerB 211</subfield>
+    <subfield code="w">sources/1001300944</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; op. 33/6; GerB 212</subfield>
+    <subfield code="w">sources/1001300946</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-Mbs</subfield>
+    <subfield code="c">Mus.ms. 5512</subfield>
+    <subfield code="e">Bayerische Staatsbibliothek</subfield>
+    <subfield code="x">institutions/30000882</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="u">https://muscat.rism.info/system/digital_objects/attachments/000/023/152/original/05512_wm_R_ROMANI_countermark_shield_with_3_stars_kleiner.jpg</subfield>
+    <subfield code="y">05512_wm_R ROMANI countermark shield with 3 stars</subfield>
+    <subfield code="7">0</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="u">https://muscat.rism.info/system/digital_objects/attachments/000/023/153/original/05512_wm_R_ROMANI_countermark_shield_with_3_stars_IMG_4666_kleiner.jpg</subfield>
+    <subfield code="y">05512_wm_R ROMANI countermark shield with 3 stars_</subfield>
+    <subfield code="7">0</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+  <datafield tag="981" ind1=" " ind2=" ">
+    <subfield code="d">2024-07-26 10:16:06</subfield>
+    <subfield code="0">1001300786</subfield>
+  </datafield>
+</record>

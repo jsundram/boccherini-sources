@@ -1,0 +1,41 @@
+{
+ "source": "sbb",
+ "portal": "SBB",
+ "ppn": "PPN627430511",
+ "volume": null,
+ "siglum": "D-B",
+ "title": "Sei Divertimenti Per due Violini Alto e Violoncello : Opera XI. ; Libro quarto di Quartetti. 1790 | Monograph DMS 51778",
+ "gerard": "177",
+ "gerard_numbers": [
+  "177",
+  "178",
+  "179",
+  "180",
+  "181",
+  "182"
+ ],
+ "gerard_label": "177-182",
+ "medium": "print",
+ "form": "quartet",
+ "year": "1790",
+ "url": "https://digital-beta.staatsbibliothek-berlin.de/werkansicht?PPN=PPN627430511",
+ "mets": "https://content.staatsbibliothek-berlin.de/dc/PPN627430511.mets.xml",
+ "pages": 39,
+ "found_by_hand": false,
+ "found_via": "saved SBB search page",
+ "opus": "Op. 15 (publ. Opera XI)",
+ "gerard_established_by": "SBB title: 'Opera XI ... Libro quarto'. The 'libro N di quartetti' series is Boccherini's own numbering and is corroborated by RISM records that carry GerB numbers: libro primo=990005852 (G159), secondo=990005861 (G165-170), terzo=990005866 (G171), quarto=VMA-3887(4) which cites Gerard 177 itself, quinto=990005874 (G183).",
+ "rism_related": [
+  "https://rism.online/sources/990005864",
+  "https://rism.online/sources/990005872",
+  "https://rism.online/sources/990005873",
+  "https://rism.online/sources/990005887",
+  "https://rism.online/sources/990005888"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same print of the same works (GerB 177, 178, 179, 180, 181, 182), matched on the Gérard set. They describe the edition, not this copy.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 39
+ }
+}

@@ -1,0 +1,281 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/13410",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/23970",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "part(s)",
+ "all_sigla": [
+  "A-Wgm",
+  "B-Gc",
+  "CH-BEk",
+  "CH-Gc",
+  "DK-Kk",
+  "DK-Km",
+  "F-Lm",
+  "F-Pc",
+  "F-Pn",
+  "F-Sim",
+  "GB-Ckc",
+  "GB-Lbl",
+  "I-Gl",
+  "I-Nc",
+  "I-PAc",
+  "I-Vc",
+  "NL-Uim",
+  "S-Skma",
+  "S-Uu",
+  "US-NH",
+  "US-R"
+ ],
+ "source": "https://rism.online/sources/990005868",
+ "source_id": "990005868",
+ "title": "Quartets",
+ "full_title": "Sei quartetti per due violini, alto e violoncello ... libro terzo di quartetti ... opera X|a [Paris, Venier (gravés par Mme la Vve Leclair)]",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "171",
+ "gerard_numbers": [
+  "171",
+  "172",
+  "173",
+  "174",
+  "175",
+  "176"
+ ],
+ "catalogs": [
+  "GerB 171",
+  "GerB 172",
+  "GerB 173",
+  "GerB 174",
+  "GerB 175",
+  "GerB 176"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1772]"
+ },
+ "physical": [],
+ "extent": [
+  "1 score: 13 p.",
+  "4 x 13 p.",
+  "part(s)"
+ ],
+ "notes": [
+  "Year of publication from British Library catalogue."
+ ],
+ "incipits": 0,
+ "gerard_label": "171-176",
+ "holdings": {
+  "holdings/23952": {
+   "siglum": "A-Wgm",
+   "institution": "Gesellschaft der Musikfreunde in Wien, Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000388",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23953": {
+   "siglum": "B-Gc",
+   "institution": "Koninklijk Muziekconservatorium, Muziekbibliotheek",
+   "shelfmark": "DS-906bis",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000444",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23954": {
+   "siglum": "CH-BEk",
+   "institution": "Hochschule der Künste Bern, Musikbibliothek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000222",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23955": {
+   "siglum": "CH-Gc",
+   "institution": "Bibliothèque CMG-HEM",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000234",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23956": {
+   "siglum": "DK-Kk",
+   "institution": "Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001344",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23957": {
+   "siglum": "DK-Km",
+   "institution": "Musikmuseet",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001346",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23958": {
+   "siglum": "F-Lm",
+   "institution": "Médiathèque Jean Lévy",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001457",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23959": {
+   "siglum": "F-Pc",
+   "institution": "Bibliothèque du Conservatoire",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001480",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23960": {
+   "siglum": "F-Pn",
+   "institution": "Bibliothèque nationale de France, Département de la Musique",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001488",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/51038399": {
+   "siglum": "F-Sim",
+   "institution": "Bibliothèque de l'Institut de Musicologie",
+   "shelfmark": "Rm 228",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001502",
+   "source_type": "Print",
+   "extent": "part(s)",
+   "provenance": "Akad. Gesangverein"
+  },
+  "holdings/23961": {
+   "siglum": "GB-Ckc",
+   "institution": "Rowe Music Library, King's College, University of Cambridge",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001541",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/51047857": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "h.4262.m.(1.)",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23962": {
+   "siglum": "I-Gl",
+   "institution": "Biblioteca del Conservatorio di musica Niccolò Paganini",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001802",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23963": {
+   "siglum": "I-Nc",
+   "institution": "Biblioteca del Conservatorio di Musica S. Pietro a Majella",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000223",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23964": {
+   "siglum": "I-PAc",
+   "institution": "Sezione musicale della Biblioteca Palatina",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001861",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23965": {
+   "siglum": "I-Vc",
+   "institution": "Biblioteca del Conservatorio di Musica Benedetto Marcello",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001975",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23966": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23967": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23968": {
+   "siglum": "S-Uu",
+   "institution": "Universitetsbibliotek, Carolina Rediviva",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000253",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23969": {
+   "siglum": "US-NH",
+   "institution": "Yale University, Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002351",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23970": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "part(s)"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005868"
+ ],
+ "rism_relation": "copy",
+ "publisher": "Venier (gravés par Mme la Vve Leclair)",
+ "publication_place": "Paris",
+ "publisher_established_by": "Imprint at the end of the RISM title; RISM leaves 260 $b empty."
+}

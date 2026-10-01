@@ -1,0 +1,21 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "9e94ee06-c0c5-4eb7-877f-15b8aaca5dfb",
+ "title": "Notated Music / Printed Music Two quatuors for two violons, viola and violoncelle, oeuvre 39, 2e livraison / par Luigi Boccherini Boccherini, Luigi (1743-1805) — [1799] See the work Details Add to my BNE Digital",
+ "year": "1799",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": null,
+ "gerard_numbers": [],
+ "gerard_label": null,
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=9e94ee06-c0c5-4eb7-877f-15b8aaca5dfb&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=9e94ee06-c0c5-4eb7-877f-15b8aaca5dfb",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_9e94ee06-c0c.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "skipped": true,
+ "skip_reason": "Pleyel's oeuvre 39, 2e livraison (G 214, 215, 233). Deliberately not downloaded: better copies of the same livraison are already held, and BNE's scan is poor."
+}

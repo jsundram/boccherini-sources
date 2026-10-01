@@ -1,0 +1,57 @@
+{
+ "folder": "G214_215_233/btv1b9058392f",
+ "scan_id": "btv1b9058392f",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 60,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 3,
+  "gerard": [
+   "214",
+   "215",
+   "233"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628355,
+ "observed": {
+  "part_books": [
+   {
+    "page": 2,
+    "label": "btv1b9058392f:02",
+    "part": "violin 1"
+   },
+   {
+    "page": 27,
+    "label": "btv1b9058392f:27",
+    "part": "violin 2"
+   },
+   {
+    "page": 34,
+    "label": "btv1b9058392f:34",
+    "part": "viola"
+   },
+   {
+    "page": 55,
+    "label": "btv1b9058392f:55",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 8,
+    "label": "btv1b9058392f:08",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 1
+ },
+ "disagreements": [],
+ "verified": null
+}

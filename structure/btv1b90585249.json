@@ -1,0 +1,42 @@
+{
+ "folder": "G183-188/btv1b90585249",
+ "scan_id": "btv1b90585249",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 54,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "183",
+   "184",
+   "185",
+   "186",
+   "187",
+   "188"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628355,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "btv1b90585249:04",
+    "part": "violin 1"
+   },
+   {
+    "page": 26,
+    "label": "btv1b90585249:26",
+    "part": "violin 2"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 2,
+  "n_work_starts": 0
+ },
+ "disagreements": [],
+ "verified": null
+}

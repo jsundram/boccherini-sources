@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/530012022</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260902084707.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pleyel, Ignace</subfield>
+    <subfield code="d">1757-1831</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/24761</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">3 Quartets</subfield>
+    <subfield code="m">vl (2), vla, b</subfield>
+    <subfield code="0">standard_titles/3900950</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Pleyel, [Ignaz]: Trois quatuors concertans pour 2 vl., alto et basso, composes et dedies a son ami Luis[!] Bocherini par I. P. Op. 36.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Katalogisat nach BárdosG 1980.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, a-vla, b</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">b</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, b</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2023-09-11 14:41:32 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2026-09-02 08:47:07 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="7">
+    <subfield code="a">BárdosG 1980</subfield>
+    <subfield code="n">no. 1056</subfield>
+    <subfield code="0">publications/30028153</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+    <subfield code="4">dte</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Pleyel, Ignace</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; op.36/1; BenP 365</subfield>
+    <subfield code="w">sources/530012023</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Pleyel, Ignace</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; op.36/3; BenP 367</subfield>
+    <subfield code="w">sources/530012025</subfield>
+  </datafield>
+  <datafield tag="774" ind1="1" ind2="8">
+    <subfield code="a">Pleyel, Ignace</subfield>
+    <subfield code="t">Quartets - vl (2), vla, b; op.36/2; BenP 366</subfield>
+    <subfield code="w">sources/530012024</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">H-Gm</subfield>
+    <subfield code="c">XJM, I. 1.4.</subfield>
+    <subfield code="e">Rómer Flóris Művészeti és Történeti Múzeum</subfield>
+    <subfield code="x">institutions/30001696</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

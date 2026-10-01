@@ -1,0 +1,26 @@
+{
+ "folder": "G159-164/190027176_S-Skma",
+ "scan_id": "190027176_S-Skma",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": "4 parts",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 6,
+  "gerard": [
+   "159",
+   "160",
+   "161",
+   "162",
+   "163",
+   "164"
+  ],
+  "source_ids": [
+   "190027176"
+  ]
+ },
+ "source_mtime": 1790567376,
+ "verified": null
+}

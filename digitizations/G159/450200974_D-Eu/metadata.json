@@ -1,0 +1,65 @@
+{
+ "kind": "digitized",
+ "url": "https://nbn-resolving.org/urn:nbn:de:bvb:824-esl-viii-351-6",
+ "note": "Digitalisat",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-Eu",
+ "institution": "Universitätsbibliothek Eichstätt-Ingolstadt",
+ "shelfmark": "Esl VIII 351",
+ "former_shelfmark": "IX 49",
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts",
+ "all_sigla": [
+  "D-Eu"
+ ],
+ "unresolved": true,
+ "source": "https://rism.online/sources/450200974",
+ "source_id": "450200974",
+ "title": "Quartets",
+ "full_title": "[title, vlc:] N|r|o I. | Quartetto | à | Due Violini, | Viola, | e | Violoncello. | Del Sigre Luigi Boccherini",
+ "key": "c",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "159",
+ "catalogs": [
+  "GerB 159"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": null
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Op. 2/1"
+ ],
+ "incipits": 0,
+ "holdings": {
+  "_0": {
+   "siglum": "D-Eu",
+   "institution": "Universitätsbibliothek Eichstätt-Ingolstadt",
+   "shelfmark": "Esl VIII 351",
+   "former_shelfmark": "IX 49",
+   "institution_id": "institutions/30003828",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts"
+  }
+ },
+ "downloaded_by_hand": true,
+ "suggested_filename": "D-Eu_Esl_VIII_351.pdf",
+ "why_manual": "Anubis proof-of-work bot gate. The page returns a JavaScript challenge instead of the record, and `nbn-resolving.de` redirects to the same `.org` host. A browser solves it silently, so the link below works when you click it.",
+ "rism_related": [
+  "https://rism.online/sources/450200974"
+ ],
+ "rism_relation": "copy"
+}

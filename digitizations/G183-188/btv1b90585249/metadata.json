@@ -1,0 +1,38 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b90585249",
+ "title": "Sei Quartetti per due violini, alto e basso... opera XXVI. Libro quinto.... Gravé par Mme Oger. [G 183]",
+ "shelfmark": "VM7-1310",
+ "institution": "Bibliothèque nationale de France, département Musique, VM7-1310",
+ "siglum": "F-Pn",
+ "medium": "print",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1780",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90585249/manifest.json",
+ "pages": 54,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "183",
+ "gerard_numbers": [
+  "183",
+  "184",
+  "185",
+  "186",
+  "187",
+  "188"
+ ],
+ "gerard_label": "183-188",
+ "opus": "Op. 22 (publ. opera XXVI)",
+ "gerard_established_by": "Title: 'opera XXVI. Libro quinto'. The libro number decides, not the publisher's opus: RISM 990005874 is 'libro quinto' and carries G183. The 'libro N di quartetti' series is Boccherini's own numbering and is corroborated by RISM records that carry GerB numbers: libro primo=990005852 (G159), secondo=990005861 (G165-170), terzo=990005866 (G171), quarto=VMA-3887(4) which cites Gerard 177 itself, quinto=990005874 (G183).",
+ "rism_related": [
+  "https://rism.online/sources/990005874",
+  "https://rism.online/sources/990005875"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same print of the same works (GerB 183, 184, 185, 186, 187, 188), matched on the Gérard set. They describe the edition, not this copy.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 54
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "folder": "G159-164/bne-42b0a27a-b24",
+ "scan_id": "bne-42b0a27a-b24",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 63,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "159",
+   "160",
+   "161",
+   "162",
+   "163",
+   "164"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790577850,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "BNE_42b0a27a-b24.basso:04",
+    "part": "bass"
+   },
+   {
+    "page": 20,
+    "label": "BNE_42b0a27a-b24.viola:04",
+    "part": "viola"
+   },
+   {
+    "page": 35,
+    "label": "BNE_42b0a27a-b24.violin1:05",
+    "part": "violin 1"
+   },
+   {
+    "page": 50,
+    "label": "BNE_42b0a27a-b24.violin2:04",
+    "part": "violin 2"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 28,
+    "label": "BNE_42b0a27a-b24.viola:12",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 34,
+    "label": "BNE_42b0a27a-b24.violin1:04",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 36,
+    "label": "BNE_42b0a27a-b24.violin1:06",
+    "numeral": 7,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 42,
+    "label": "BNE_42b0a27a-b24.violin1:12",
+    "numeral": 7,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 50,
+    "label": "BNE_42b0a27a-b24.violin2:04",
+    "numeral": 7,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 5
+ },
+ "disagreements": [],
+ "verified": null
+}

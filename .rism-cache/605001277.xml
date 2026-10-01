@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/605001277</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20250226153940.0</controlfield>
+  <datafield tag="130" ind1="0" ind2=" ">
+    <subfield code="a">25 Quartets</subfield>
+    <subfield code="m">vl (4)</subfield>
+    <subfield code="0">standard_titles/4032260</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[cover] Violin=Quartetten | herausgegeben | von | G. Zanger. | Rud. Riessner | 9./6. [1]884</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">18830904-18840609</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">31 x 23,5 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op.16</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">State of preservation: gut</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Restriction of use: Benutzung nur nach Rücksprache</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, 3, 4</subfield>
+    <subfield code="b">9, 9, 9, 8p.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="592" ind1=" " ind2=" ">
+    <subfield code="a">[without watermark]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">4</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (4)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-02-01 08:11:24 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Riessner, Rudolph</subfield>
+    <subfield code="d">19.sc</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/30100177</subfield>
+    <subfield code="4">scr</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">L'vov, Aleksej Fëdorovič</subfield>
+    <subfield code="d">1798-1870</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30009061</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bach, Johann Sebastian</subfield>
+    <subfield code="d">1685-1750</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/2539</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Händel, Georg Friedrich</subfield>
+    <subfield code="d">1685-1759</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/36552</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Gluck, Christoph Willibald</subfield>
+    <subfield code="d">1714-1787</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/67338</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Mozart, Wolfgang Amadeus</subfield>
+    <subfield code="d">1756-1791</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/115324</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Weber, Carl Maria von</subfield>
+    <subfield code="d">1786-1826</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/117485</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rosetti</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/30002743</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Mendelssohn Bartholdy, Felix</subfield>
+    <subfield code="d">1809-1847</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/88790</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Schubert, Franz</subfield>
+    <subfield code="d">1797-1828</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/111603</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Verified</subfield>
+    <subfield code="0">people/30000391</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Zanger, Gustav</subfield>
+    <subfield code="d">1848-1929</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30080902</subfield>
+    <subfield code="4">arr</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">A-RAN</subfield>
+    <subfield code="c">130</subfield>
+    <subfield code="e">Pfarrarchiv</subfield>
+    <subfield code="x">institutions/30077398</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,50 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "84cacc83-e940-41d2-8781-8250c5c509ba",
+ "title": "Six quatuors pour deux violons, alto et basse, opera XI",
+ "year": "1785",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "177",
+ "gerard_numbers": [
+  "177",
+  "178",
+  "179",
+  "180",
+  "181",
+  "182"
+ ],
+ "gerard_label": "177-182",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=84cacc83-e940-41d2-8781-8250c5c509ba&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=84cacc83-e940-41d2-8781-8250c5c509ba",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_84cacc83-e94.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "publisher": "Welcker",
+ "publication_place": "London",
+ "opus": "Op. 15 (published as opera XI)",
+ "shelfmark": "M/676-679",
+ "rism_related": [
+  "https://rism.online/sources/990005873"
+ ],
+ "parts": [
+  "violin1",
+  "violin2",
+  "viola",
+  "cello"
+ ],
+ "complete": true,
+ "files": {
+  "violin1": "BNE_84cacc83-e94-V1.pdf",
+  "violin2": "BNE_84cacc83-e94-V2.pdf",
+  "viola": "BNE_84cacc83-e94-VA.pdf",
+  "cello": "BNE_84cacc83-e94-VC.pdf"
+ },
+ "established_by": "Hand-identified ('Opus 15 - London - Welcker'). RISM 990005873 is the same print -- 'Six quatuors pour deux violons, alto et basse ... opera XI [London, Welcker]' -- and records the E-Mn holding at M/676-679.",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "rism_links_this_copy": false,
+ "rism_related_raw": "https://rism.online/sources/990005873",
+ "rism_relation": "copy"
+}

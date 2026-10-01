@@ -1,0 +1,164 @@
+{
+ "folder": "G171/1001225288_US-R",
+ "scan_id": "1001225288_US-R",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 59,
+ "rism": {
+  "extent": "4 parts · 31 cm 4 parts 4 printed parts",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 1,
+  "gerard": [
+   "171"
+  ],
+  "source_ids": [
+   "1001225288"
+  ]
+ },
+ "source_mtime": 1790494390,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "39087009315211.cello:04",
+    "part": "cello"
+   },
+   {
+    "page": 19,
+    "label": "39087009315211.viola:04",
+    "part": "viola"
+   },
+   {
+    "page": 32,
+    "label": "39087009315211.violin1:02",
+    "part": "violin 1"
+   },
+   {
+    "page": 47,
+    "label": "39087009315211.violin2:03",
+    "part": "violin 2"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 6,
+    "label": "39087009315211.cello:06",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 8,
+    "label": "39087009315211.cello:08",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 10,
+    "label": "39087009315211.cello:10",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 12,
+    "label": "39087009315211.cello:12",
+    "numeral": 6,
+    "tempo": "andante",
+    "candidates": []
+   },
+   {
+    "page": 14,
+    "label": "39087009315211.cello:14",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 21,
+    "label": "39087009315211.viola:06",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 23,
+    "label": "39087009315211.viola:08",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 25,
+    "label": "39087009315211.viola:10",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 27,
+    "label": "39087009315211.viola:12",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 29,
+    "label": "39087009315211.viola:14",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 35,
+    "label": "39087009315211.violin1:05",
+    "numeral": 6,
+    "tempo": "grave",
+    "candidates": []
+   },
+   {
+    "page": 39,
+    "label": "39087009315211.violin1:09",
+    "numeral": 3,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 43,
+    "label": "39087009315211.violin1:13",
+    "numeral": 7,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 47,
+    "label": "39087009315211.violin2:03",
+    "numeral": 7,
+    "tempo": "allegro",
+    "candidates": [
+     "171"
+    ]
+   },
+   {
+    "page": 54,
+    "label": "39087009315211.violin2:10",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 58,
+    "label": "39087009315211.violin2:14",
+    "numeral": 7,
+    "tempo": "andante",
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 16
+ },
+ "disagreements": [],
+ "verified": null
+}

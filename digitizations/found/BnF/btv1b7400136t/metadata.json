@@ -1,0 +1,21 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b7400136t",
+ "title": "1773. // Opera Prima. // Divertimento Primo, per due Violini, // Flauto obbligato, Viola, due Violoncelli, e Basso di // Ripieno // Espressamente Composti per S.A.R. Dn Luigi Infante di Spagna // Da Luigi Boccherini, Virtuoso di Camera, e Compositore // di S.A.R (manuscrit autographe)",
+ "shelfmark": null,
+ "institution": "Bibliothèque nationale de France, département Musique, MS-1610 (1-6)",
+ "siglum": "F-Pn",
+ "medium": "autograph",
+ "form": "not-a-quartet",
+ "strings": true,
+ "is_autograph": true,
+ "date": "1773",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7400136t/manifest.json",
+ "pages": 335,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "not_quartet_reason": "'Divertimento Primo, per due Violini, Flauto obbligato, Viola, due Violoncelli, e Basso di Ripieno' -- divertimenti with flute, not string quartets. Autograph.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 335
+ }
+}

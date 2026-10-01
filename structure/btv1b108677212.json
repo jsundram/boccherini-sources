@@ -1,0 +1,23 @@
+{
+ "folder": "G216/btv1b108677212",
+ "scan_id": "btv1b108677212",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 1,
+  "gerard": [
+   "216"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628347,
+ "verified": {
+  "date": "2026-09-29",
+  "how": "first page, by eye",
+  "found": "Manuscript, not print. Violino Primo part of the Feb 1789 quartettino (G 216)."
+ }
+}

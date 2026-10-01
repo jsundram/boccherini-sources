@@ -1,0 +1,67 @@
+{
+ "kind": "digitized",
+ "url": "https://nbn-resolving.org/urn:nbn:de:bvb:824-esl-viii-353-8",
+ "note": "Digitalisat",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-Eu",
+ "institution": "Universitätsbibliothek Eichstätt-Ingolstadt",
+ "shelfmark": "Esl VIII 353",
+ "former_shelfmark": "IX 51",
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 26,5 x 37,5 cm",
+ "all_sigla": [
+  "D-Eu"
+ ],
+ "unresolved": true,
+ "source": "https://rism.online/sources/450200976",
+ "source_id": "450200976",
+ "title": "Quartets",
+ "full_title": "[title, vla:]  N:|r|o III. | Quartetto. | à | Due Violini, | Viola | e | Violoncello. | Del Sigre Luigi Boccherini",
+ "key": "D",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "161",
+ "catalogs": [
+  "GerB 161"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1775-1785 (ca. 1780)"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Besitzstempel: Bibl. R. Schlecht",
+  "Stempel: Bibl. Steger",
+  "Op. 2/3"
+ ],
+ "incipits": 0,
+ "holdings": {
+  "_0": {
+   "siglum": "D-Eu",
+   "institution": "Universitätsbibliothek Eichstätt-Ingolstadt",
+   "shelfmark": "Esl VIII 353",
+   "former_shelfmark": "IX 51",
+   "institution_id": "institutions/30003828",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 26,5 x 37,5 cm"
+  }
+ },
+ "downloaded_by_hand": true,
+ "suggested_filename": "D-Eu_Esl_VIII_353.pdf",
+ "why_manual": "Anubis proof-of-work bot gate. The page returns a JavaScript challenge instead of the record, and `nbn-resolving.de` redirects to the same `.org` host. A browser solves it silently, so the link below works when you click it.",
+ "rism_related": [
+  "https://rism.online/sources/450200976"
+ ],
+ "rism_relation": "copy"
+}

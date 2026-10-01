@@ -1,0 +1,54 @@
+{
+ "source": "rcsmm",
+ "portal": "Real Conservatorio Superior de Música de Madrid, Biblioteca",
+ "medium": "manuscript",
+ "form": "quartet",
+ "title": "Quartetto IIIº: per due violini, viola e violoncello obligato, fatto per servizzio di S.A.R.le D.n Luigi Ynfante di Spagna: opera 3ª",
+ "composer": "Boccherini, Luigi (1743-1805)",
+ "opus": "Op. 22",
+ "opus_number": 3,
+ "key": "E-flat",
+ "gerard": "185",
+ "gerard_numbers": [
+  "185"
+ ],
+ "gerard_label": "185",
+ "siglum": "E-Mc",
+ "institution": "Real Conservatorio Superior de Música de Madrid, Biblioteca",
+ "shelfmark": "1/7040-187",
+ "pages": 32,
+ "parts": [
+  "violin1",
+  "violin2",
+  "viola",
+  "cello"
+ ],
+ "files": {
+  "all": "E-Mc_1-7040-187.pdf"
+ },
+ "arrived_as": "pdf",
+ "arrived_as_note": "Supplied as a finished PDF by the library; no page-image filenames.",
+ "url": "https://rcsmm.eu/sites/default/files/2023-03/00000364700-1.pdf",
+ "card": "https://gestiona3.madrid.org/opaccons/cgi-bin/abnetcl?TITN=3647",
+ "date": "[1782]",
+ "date_statement": "Copied in Spain in 1782; the date 1775 appears on the originals. Possibly a copy of the autograph scores of 1775 (Gosálvez and Labrador).",
+ "dedication": "Fatto per servizzio di S.A.R.le D.n Luigi, Infante di Spagna, da Luigi Boccherini, virtuoso di camera e compositore di musica di S.A.R.le",
+ "printed_opus": "opera 3ª",
+ "printed_opus_note": "The title page reads \"opera 3ª\", Boccherini's own numbering for the set published as Op. 22. Do not read it as Op. 3.",
+ "digitized": "Real Conservatorio Superior de Música de Madrid, 2007",
+ "reference": "Gosálvez Lara, C. J. and Labrador López de Azcona, G., \"Fuentes españolas para el estudio de la obra de L. Boccherini (1743-1805): los fondos manuscritos del Real Conservatorio de Música de Madrid\", Revista de Musicología XXVII/2 (2004), pp. 743-762.",
+ "rism_relation": "copy",
+ "rism_related": [
+  "https://rism.online/sources/463056500",
+  "https://rism.online/sources/463056903",
+  "https://rism.online/sources/463057000",
+  "https://rism.online/sources/840022736",
+  "https://rism.online/sources/990005874",
+  "https://rism.online/sources/990005875"
+ ],
+ "rism_catalogues_this_copy": false,
+ "rism_catalogues_this_copy_note": "RISM records no E-Mc holding anywhere in the quartet corpus; the only Madrid sigla in it are E-Mn and E-Mp. There is no RISM source record for this copy, so `rism_related` lists RISM's records for the same work at other libraries.",
+ "established_by": "Identified from the library's own catalogue record (TITN 3647) and the title page: \"Quartetto IIIº\" of the set dated 1775, which is Op. 22 no. 3 in E-flat. The PDF's embedded title agrees. Filed 2026-10-01.",
+ "downloaded_by_hand": true,
+ "why_manual": "Not linked by RISM; the library publishes the PDF directly."
+}

@@ -1,0 +1,42 @@
+{
+ "source": "sbb",
+ "portal": "SBB",
+ "ppn": "PPN1935497081",
+ "volume": null,
+ "siglum": "D-B",
+ "title": "Quartette; vl (2), vla, b; c-Moll; G 159 1770/1780 (ca.) | Manuscript | Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Berlin, Germany SA 3364",
+ "gerard": "159",
+ "gerard_numbers": [
+  "159"
+ ],
+ "gerard_label": "159",
+ "medium": "manuscript",
+ "form": "quartet",
+ "year": "1770",
+ "url": "https://digital-beta.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1935497081",
+ "mets": "https://content.staatsbibliothek-berlin.de/dc/PPN1935497081.mets.xml",
+ "pages": 21,
+ "found_by_hand": false,
+ "found_via": "saved SBB search page",
+ "rism_related": [
+  "https://rism.online/sources/1001054992",
+  "https://rism.online/sources/103010",
+  "https://rism.online/sources/190009766",
+  "https://rism.online/sources/190024092",
+  "https://rism.online/sources/190027176",
+  "https://rism.online/sources/220011867"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same manuscript of the same works (GerB 159), matched on the Gérard set. They describe the edition, not this copy.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 21
+ },
+ "gerard_established_by": "SBB catalogues PPN1935497081 as 'Quartette; vl (2), vla, b; c-Moll; G 159' — the Gerard number is Berlin's, not inferred [claim.py, 2026-09-29]",
+ "contents_verified": {
+  "date": "2026-09-29",
+  "how": "Berlin's own digital catalogue",
+  "found": "SBB catalogues PPN1935497081 as 'Quartette; vl (2), vla, b; c-Moll; G 159' — the Gerard number is Berlin's, not inferred",
+  "by": "claim.py"
+ }
+}

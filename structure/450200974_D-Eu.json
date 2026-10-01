@@ -1,0 +1,21 @@
+{
+ "folder": "G159/450200974_D-Eu",
+ "scan_id": "450200974_D-Eu",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": "4 parts 4 parts",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 1,
+  "gerard": [
+   "159"
+  ],
+  "source_ids": [
+   "450200974"
+  ]
+ },
+ "source_mtime": 1790556963,
+ "verified": null
+}

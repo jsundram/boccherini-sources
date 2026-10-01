@@ -1,0 +1,78 @@
+
+  { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627449921\/manifest",
+    "@type" : "sc:Manifest",
+    "@context" : "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "logo" : "https:\/\/ngcs-beta.staatsbibliothek-berlin.de\/dc\/logo-small",
+    "label" : "Boccherini, Luigi: Douze Quatuors Pour Deux Violons, Alto et Violoncelle",
+    "metadata" : 
+    [ 
+      { "label" : "Autor",
+        "value" : "Boccherini, Luigi" },
+      
+      { "label" : "Titel",
+        "value" : "Douze Quatuors Pour Deux Violons, Alto et Violoncelle" },
+      
+      { "label" : "Titel",
+        "value" : "Œuvre 39. ; ... Livraison" },
+      
+      { "label" : "Ausgabe",
+        "value" : "[Stimmen]" },
+      
+      { "label" : "Digitalisierer ",
+        "value" : "Pleyel" },
+      
+      { "label" : "has_fulltext",
+        "value" : false },
+      
+      { "label" : "Kategorie",
+        "value" : 
+        [ 
+          { "@value" : "Musiknoten" },
+          
+          { "@value" : "Musikdrucke" } ] },
+      
+      { "label" : "Persistente URL",
+        "value" : "http:\/\/resolver.staatsbibliothek-berlin.de\/SBB00001F4A00000000" },
+      
+      { "label" : "PlaceOfPublication",
+        "value" : "Paris" },
+      
+      { "label" : "Schlagwörter",
+        "value" : "boccdouz" },
+      
+      { "label" : "StaBiKat (ppn digital)",
+        "value" : "PPN627449921" },
+      
+      { "label" : "StaBiKat (ppn original)",
+        "value" : "PPN627335063" },
+      
+      { "label" : "Titelblatt",
+        "value" : "" },
+      
+      { "label" : "Zusätzliche Suchbegriffe",
+        "value" : "op." } ],
+    "structures" : 
+    [ 
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627449921\/range\/range-1",
+        "@type" : "sc:Range",
+        "label" : "Douze Quatuors Pour Deux Violons, Alto et Violoncelle",
+        "ranges" : 
+        [ 
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627449921\/range\/range-2",
+            "label" : "Douze Quatuors Pour Deux Violons, Alto et Violoncelle  Œuvre 39.; ... Livraison Livraison 1",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627449921\/range\/range-1" } ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627449921\/range\/range-2",
+        "@type" : "sc:Range",
+        "label" : "Douze Quatuors Pour Deux Violons, Alto et Violoncelle  Œuvre 39.; ... Livraison Livraison 1",
+        "canvases" : 
+        [  ] } ],
+    "sequences" : 
+    [ 
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627449921#sequence-1",
+        "@type" : "sc:Sequence",
+        "label" : "Current order",
+        "viewingDirection" : "left-to-right",
+        "canvases" : 
+        [  ] } ] }

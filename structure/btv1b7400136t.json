@@ -1,0 +1,17 @@
+{
+ "folder": "found/BnF/btv1b7400136t",
+ "scan_id": "btv1b7400136t",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 0,
+  "gerard": [],
+  "source_ids": []
+ },
+ "source_mtime": 1790628354,
+ "verified": null
+}

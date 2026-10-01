@@ -1,0 +1,34 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b10877495x",
+ "title": "Douze Quatuors pour deux violons, viola et violoncelle... Œuvre 39. 3e Livraison",
+ "shelfmark": "E4-213 (3)",
+ "institution": "Bibliothèque nationale de France, département Musique, AC E4-213 (3)",
+ "siglum": "F-Pn",
+ "medium": "print",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10877495x/manifest.json",
+ "pages": 64,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "213",
+ "gerard_numbers": [
+  "213",
+  "232",
+  "235"
+ ],
+ "gerard_label": "213, 232, 235",
+ "opus": "Pleyel oeuvre 39, livr. 3",
+ "gerard_established_by": "Title: 'Œuvre 39. 3e Livraison'. Pleyel's 'Douze quatuors, oeuvre 39' in four livraisons of three. The livraison-to-Gerard mapping is the one established by hand from the Berlin, Munich and Rochester copies and recorded in corrections.json under 990005884.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 64
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005884"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same print of the same works (GerB 213, 232, 235), matched on the title; the Gérard numbers differ because RISM numbers this edition as a whole while this folder carries the livraison's own. They describe the edition, not this copy."
+}

@@ -1,0 +1,21 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b525017368",
+ "title": "Sinfonia a grande orchestra, // con due Violini Principale, due di Ripieno, Oboe, // Chitarra, Viola, Corni, Fagotto, Violoncello, // Obligati e Basso, da Luigi Boccherini compositore // di Camera che fu dal SS. Infte. Dn. Luigi Borbon, // è della Maesta di Guillelmo 2. Rè di Prussia. // Per il Sigre. Marchese di Benavente",
+ "shelfmark": "RES-510 (7)",
+ "institution": "Bibliothèque nationale de France, département Bibliothèque-musée de l'opéra, RES-510 (7)",
+ "siglum": "F-Po",
+ "medium": "print",
+ "form": "not-a-quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1799",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525017368/manifest.json",
+ "pages": 138,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "not_quartet_reason": "Sinfonia a grande orchestra -- an orchestral work, not a quartet.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 138
+ }
+}

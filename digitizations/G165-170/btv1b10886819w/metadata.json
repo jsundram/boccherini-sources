@@ -1,0 +1,40 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b10886819w",
+ "title": "VI Quartetti per due violini, alto e violoncello..., Luigi Boccherini, opera VI (a). Libro secondo de quartetti...",
+ "shelfmark": "VMA-3887 (2)",
+ "institution": "Bibliothèque nationale de France, département Musique, VMA-3887 (2)",
+ "siglum": "F-Pn",
+ "medium": "print",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1770-1800",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10886819w/manifest.json",
+ "pages": 30,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "165",
+ "gerard_numbers": [
+  "165",
+  "166",
+  "167",
+  "168",
+  "169",
+  "170"
+ ],
+ "gerard_label": "165-170",
+ "opus": "Op. 8 (publ. opera VI)",
+ "gerard_established_by": "Title: 'opera VI ... Libro secondo'. The 'libro N di quartetti' series is Boccherini's own numbering and is corroborated by RISM records that carry GerB numbers: libro primo=990005852 (G159), secondo=990005861 (G165-170), terzo=990005866 (G171), quarto=VMA-3887(4) which cites Gerard 177 itself, quinto=990005874 (G183).",
+ "rism_related": [
+  "https://rism.online/sources/990005857",
+  "https://rism.online/sources/990005858",
+  "https://rism.online/sources/990005859",
+  "https://rism.online/sources/990005860"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same print of the same works (GerB 165, 166, 167, 168, 169, 170), matched on the Gérard set. They describe the edition, not this copy.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 30
+ }
+}

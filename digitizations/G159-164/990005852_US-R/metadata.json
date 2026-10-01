@@ -1,0 +1,268 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/17975",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/23745",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "part(s)",
+ "all_sigla": [
+  "B-Bc",
+  "B-Br",
+  "D-B",
+  "D-BFb",
+  "DK-Dschoenbaum",
+  "DK-Kk",
+  "E-Mn",
+  "FIN-A",
+  "GB-Lbl",
+  "I-MOe",
+  "I-Vc",
+  "NL-At",
+  "NL-Uim",
+  "PL-Kj",
+  "RUS-Mrg",
+  "S-J",
+  "S-Skma",
+  "US-PHci",
+  "US-R",
+  "US-Wc"
+ ],
+ "source": "https://rism.online/sources/990005852",
+ "source_id": "990005852",
+ "title": "6 Quartets",
+ "full_title": "Six quatuors [c, B, D, Es, E, C] à deux violons, taille et basse obligés ... opera prima [Amsterdam, J. J. Hummel]",
+ "key": "c; B|b; D; E|b; E; C",
+ "scoring": "vl (2), t-vla, b",
+ "gerard": "159",
+ "gerard_numbers": [
+  "159",
+  "160",
+  "161",
+  "162",
+  "163",
+  "164"
+ ],
+ "catalogs": [
+  "GerB 159",
+  "GerB 160",
+  "GerB 161",
+  "GerB 162",
+  "GerB 163",
+  "GerB 164"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "136"
+ ],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1770]"
+ },
+ "physical": [],
+ "extent": [
+  "part(s)"
+ ],
+ "notes": [],
+ "incipits": 0,
+ "gerard_label": "159-164",
+ "holdings": {
+  "holdings/23727": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23728": {
+   "siglum": "B-Br",
+   "institution": "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR)",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000440",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23729": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23730": {
+   "siglum": "D-BFb",
+   "institution": "Fürst zu Bentheimsche Musikaliensammlung Burgsteinfurt",
+   "shelfmark": "B-Och 22",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000034",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23731": {
+   "siglum": "DK-Dschoenbaum",
+   "institution": "Privatbibliotek Dr. Camillo Schoenbaum",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001338",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23732": {
+   "siglum": "DK-Kk",
+   "institution": "Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001344",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23733": {
+   "siglum": "E-Mn",
+   "institution": "Biblioteca Nacional de España",
+   "shelfmark": "M/684-687",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001386",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23734": {
+   "siglum": "FIN-A",
+   "institution": "Sibelius-museo, Arkisto",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002168",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23735": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "h.42.u.(1.)",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23736": {
+   "siglum": "I-MOe",
+   "institution": "Biblioteca Estense Universitaria",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001837",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23737": {
+   "siglum": "I-Vc",
+   "institution": "Biblioteca del Conservatorio di Musica Benedetto Marcello",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001975",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23738": {
+   "siglum": "NL-At",
+   "institution": "Toonkunst-Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002021",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23739": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23740": {
+   "siglum": "PL-Kj",
+   "institution": "Biblioteka Jagiellońska",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002079",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23741": {
+   "siglum": "RUS-Mrg",
+   "institution": "Rossijskaja Gosudarstvennaja biblioteka",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002528",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23742": {
+   "siglum": "S-J",
+   "institution": "Per Brahegymnasiet, Biblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000200",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23743": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23744": {
+   "siglum": "US-PHci",
+   "institution": "The Curtis Institute of Music - Library and Archives",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002410",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23745": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23746": {
+   "siglum": "US-Wc",
+   "institution": "The Library of Congress, Music Division",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002492",
+   "source_type": "Print",
+   "extent": "part(s)"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005852"
+ ],
+ "rism_relation": "copy",
+ "publisher": "J. J. Hummel",
+ "publication_place": "Amsterdam",
+ "publisher_established_by": "Imprint at the end of the RISM title; RISM leaves 260 $b empty."
+}

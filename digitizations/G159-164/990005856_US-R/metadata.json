@@ -1,0 +1,246 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/18035",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/23812",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "part(s)",
+ "all_sigla": [
+  "B-Bc",
+  "CH-ZUkaoe",
+  "D-Dl",
+  "D-Mbs",
+  "GB-Ckc",
+  "GB-Ep",
+  "GB-Lam",
+  "GB-Lbl",
+  "GB-Lcm",
+  "GB-Lu",
+  "GB-Mp",
+  "I-Vc",
+  "S-SK",
+  "S-Skma",
+  "US-CHH",
+  "US-NH",
+  "US-PO",
+  "US-R"
+ ],
+ "source": "https://rism.online/sources/990005856",
+ "source_id": "990005856",
+ "title": "Quartets",
+ "full_title": "Six quartettos [c, B, D, Es, E, C] for two violins, a tenor and violoncello obligato ... opera prima [London, J. Welcker]",
+ "key": "c; B|b; D; E|b; E; C",
+ "scoring": "2 vl, t-vla, vlc",
+ "gerard": "159",
+ "gerard_numbers": [
+  "159",
+  "160",
+  "161",
+  "162",
+  "163",
+  "164"
+ ],
+ "catalogs": [
+  "GerB 159",
+  "GerB 160",
+  "GerB 161",
+  "GerB 162",
+  "GerB 163",
+  "GerB 164"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": null
+ },
+ "physical": [],
+ "extent": [
+  "part(s)"
+ ],
+ "notes": [],
+ "incipits": 0,
+ "gerard_label": "159-164",
+ "holdings": {
+  "holdings/23796": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/51087119": {
+   "siglum": "CH-ZUkaoe",
+   "institution": "Kulturarchiv Oberengadin",
+   "shelfmark": "KAOE ID-4230416",
+   "former_shelfmark": null,
+   "institution_id": "institutions/51009238",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23797": {
+   "siglum": "D-Dl",
+   "institution": "Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (SLUB)",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000042",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23798": {
+   "siglum": "D-Mbs",
+   "institution": "Bayerische Staatsbibliothek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000882",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23799": {
+   "siglum": "GB-Ckc",
+   "institution": "Rowe Music Library, King's College, University of Cambridge",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001541",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23800": {
+   "siglum": "GB-Ep",
+   "institution": "Public Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001564",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23801": {
+   "siglum": "GB-Lam",
+   "institution": "Royal Academy of Music, Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000263",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23802": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23803": {
+   "siglum": "GB-Lcm",
+   "institution": "Royal College of Music",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001582",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23804": {
+   "siglum": "GB-Lu",
+   "institution": "University of London, Senate House Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001602",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23805": {
+   "siglum": "GB-Mp",
+   "institution": "Henry Watson Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001615",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23806": {
+   "siglum": "I-Vc",
+   "institution": "Biblioteca del Conservatorio di Musica Benedetto Marcello",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001975",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23807": {
+   "siglum": "S-SK",
+   "institution": "Gamla biblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002158",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23808": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23809": {
+   "siglum": "US-CHH",
+   "institution": "University of North Carolina (UNC), Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002243",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23810": {
+   "siglum": "US-NH",
+   "institution": "Yale University, Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002351",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23811": {
+   "siglum": "US-PO",
+   "institution": "Vassar College, George Sherman Dickinson Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000312",
+   "source_type": "Print",
+   "extent": "part(s)"
+  },
+  "holdings/23812": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "part(s)"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005856"
+ ],
+ "rism_relation": "copy",
+ "publisher": "J. Welcker",
+ "publication_place": "London",
+ "publisher_established_by": "Imprint at the end of the RISM title; RISM leaves 260 $b empty."
+}

@@ -1,0 +1,50 @@
+{
+ "folder": "G171-176/bne-cfa0eaed-c37",
+ "scan_id": "bne-cfa0eaed-c37",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 30,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "171",
+   "172",
+   "173",
+   "174",
+   "175",
+   "176"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790581299,
+ "observed": {
+  "part_books": [
+   {
+    "page": 6,
+    "label": "BNE_cfa0eaed-c37:06",
+    "part": "violin 2"
+   },
+   {
+    "page": 19,
+    "label": "BNE_cfa0eaed-c37:19",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 4,
+    "label": "BNE_cfa0eaed-c37:04",
+    "numeral": 1,
+    "tempo": "larghetto",
+    "candidates": []
+   }
+  ],
+  "n_part_books": 2,
+  "n_work_starts": 1
+ },
+ "disagreements": [],
+ "verified": null
+}

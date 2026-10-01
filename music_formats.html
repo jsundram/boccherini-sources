@@ -1,0 +1,459 @@
+<title>Music Encoding Field Guide</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+:root{
+  --ground:#F4F6F5; --panel:#E9EDEB; --panel-2:#DFE5E2; --rule:#CFD8D4;
+  --ink:#151C1A; --ink-2:#47544F; --ink-3:#77837E;
+  --accent:#0F6E5C; --accent-soft:#D7E8E3;
+  --good:#0F6E5C; --warn:#9A6B10; --bad:#9E3A2C; --none:#8A928F;
+  --good-bg:#D7E8E3; --warn-bg:#F5E7C8; --bad-bg:#F2DAD5; --none-bg:#E4E7E6;
+  --sans:'IBM Plex Sans',system-ui,-apple-system,Arial,sans-serif;
+  --serif:'IBM Plex Serif',Georgia,'Times New Roman',serif;
+  --mono:'IBM Plex Mono',ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --ground:#101413; --panel:#191F1D; --panel-2:#212927; --rule:#2E3835;
+  --ink:#E7EDEA; --ink-2:#A7B3AE; --ink-3:#77837E;
+  --accent:#54C2A8; --accent-soft:#17312B;
+  --good:#54C2A8; --warn:#D9A94A; --bad:#E0796A; --none:#6E7975;
+  --good-bg:#17312B; --warn-bg:#332A14; --bad-bg:#37201C; --none-bg:#232A28;
+}}
+:root[data-theme="dark"]{
+  --ground:#101413; --panel:#191F1D; --panel-2:#212927; --rule:#2E3835;
+  --ink:#E7EDEA; --ink-2:#A7B3AE; --ink-3:#77837E;
+  --accent:#54C2A8; --accent-soft:#17312B;
+  --good:#54C2A8; --warn:#D9A94A; --bad:#E0796A; --none:#6E7975;
+  --good-bg:#17312B; --warn-bg:#332A14; --bad-bg:#37201C; --none-bg:#232A28;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font-family:var(--serif);
+  font-size:16px;line-height:1.6;margin:0;-webkit-text-size-adjust:100%}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:20px;padding-block:0 80px}
+a{color:var(--accent)}
+h1,h2,h3,.ui{font-family:var(--sans)}
+code,.mono{font-family:var(--mono)}
+
+/* masthead */
+.mast{padding-block:60px 30px;border-bottom:3px solid var(--ink)}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--accent);margin:0 0 16px}
+h1{font-weight:700;font-size:clamp(34px,6.5vw,60px);line-height:1.02;letter-spacing:-.025em;
+  margin:0;text-wrap:balance}
+.dek{font-size:clamp(17px,2.1vw,20px);color:var(--ink-2);max-width:60ch;margin:20px 0 0}
+.dek strong{color:var(--ink);font-weight:600}
+
+section{padding-block:52px 0}
+h2{font-weight:700;font-size:clamp(23px,3.6vw,32px);letter-spacing:-.015em;margin:0 0 8px}
+.lede{color:var(--ink-2);max-width:66ch;margin:0 0 26px}
+h3{font-weight:600;font-size:17px;margin:34px 0 10px;letter-spacing:-.005em}
+.tag{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ink-3);display:block;margin-bottom:8px}
+
+/* richness ladder */
+.ladder{display:flex;flex-direction:column;gap:1px;background:var(--rule);
+  border:1px solid var(--rule);border-radius:4px;overflow:hidden}
+.rung{background:var(--ground);display:grid;
+  grid-template-columns:132px 1fr 210px;gap:18px;padding:16px 18px;align-items:start}
+.rung:hover{background:var(--panel)}
+.rung .nm{font-family:var(--sans);font-weight:700;font-size:16px;letter-spacing:-.01em}
+.rung .kind{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--accent);display:block;margin-top:3px}
+.rung .desc{font-size:14.5px;color:var(--ink-2);line-height:1.55}
+.rung .desc b{color:var(--ink);font-weight:600}
+.dims{display:flex;flex-direction:column;gap:4px}
+.dim{display:grid;grid-template-columns:62px 1fr;gap:8px;align-items:center}
+.dim span{font-family:var(--mono);font-size:9.5px;letter-spacing:.07em;text-transform:uppercase;
+  color:var(--ink-3);text-align:right}
+.bar{display:flex;gap:2px}
+.bar i{width:13px;height:9px;border-radius:1.5px;background:var(--panel-2);display:block}
+.bar i.on{background:var(--accent)}
+
+/* matrix */
+.mtx-wrap{overflow-x:auto;border:1px solid var(--rule);border-radius:4px;background:var(--ground)}
+table.mtx{border-collapse:collapse;font-family:var(--sans);font-size:13px;min-width:720px;width:100%}
+table.mtx th,table.mtx td{border:1px solid var(--rule);padding:0;text-align:center}
+table.mtx thead th{background:var(--panel);font-weight:600;font-size:11px;padding:9px 6px;
+  letter-spacing:.02em;position:sticky;top:0}
+table.mtx tbody th{background:var(--panel);font-weight:600;text-align:left;padding:9px 12px;
+  font-size:12px;white-space:nowrap}
+.cell{width:100%;height:100%;min-height:42px;border:0;background:transparent;cursor:pointer;
+  font-family:var(--mono);font-size:15px;font-weight:600;display:flex;align-items:center;
+  justify-content:center;color:inherit;padding:11px 4px}
+.cell:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.c-good{background:var(--good-bg);color:var(--good)}
+.c-warn{background:var(--warn-bg);color:var(--warn)}
+.c-bad{background:var(--bad-bg);color:var(--bad)}
+.c-none{background:var(--none-bg);color:var(--none)}
+.c-self{background:transparent;color:var(--ink-3);cursor:default}
+.detail{margin-top:14px;padding:16px 18px;background:var(--panel);border-left:3px solid var(--accent);
+  border-radius:0 4px 4px 0;min-height:86px}
+.detail .hd{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--accent);margin-bottom:6px}
+.detail p{margin:0;font-size:14.5px;color:var(--ink-2);max-width:74ch}
+.detail p b{color:var(--ink);font-weight:600}
+.legend{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:14px;font-family:var(--sans);
+  font-size:12.5px;color:var(--ink-2)}
+.legend .k{display:flex;align-items:center;gap:6px}
+.legend .sw{width:22px;height:16px;border-radius:2px;border:1px solid var(--rule);
+  display:grid;place-items:center;font-family:var(--mono);font-size:11px;font-weight:600}
+
+/* generic tables */
+.tbl-wrap{overflow-x:auto}
+table.data{border-collapse:collapse;width:100%;font-size:14px;font-family:var(--sans);min-width:620px}
+table.data th{text-align:left;font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink-3);font-weight:600;padding:0 12px 8px;border-bottom:1px solid var(--rule)}
+table.data td{padding:12px;border-bottom:1px solid var(--rule);vertical-align:top;color:var(--ink-2)}
+table.data td:first-child{color:var(--ink);font-weight:600;white-space:nowrap}
+table.data tr:last-child td{border-bottom:0}
+table.data .mono{font-size:12px;color:var(--ink-3)}
+
+/* links block */
+.links{display:grid;grid-template-columns:repeat(auto-fit,minmax(248px,1fr));gap:1px;
+  background:var(--rule);border:1px solid var(--rule);border-radius:4px;overflow:hidden}
+.lk{background:var(--ground);padding:15px 17px}
+.lk h4{font-family:var(--sans);font-size:14.5px;font-weight:700;margin:0 0 3px}
+.lk .sub{font-size:12.5px;color:var(--ink-3);margin:0 0 9px;line-height:1.45}
+.lk a{display:block;font-family:var(--mono);font-size:11.5px;text-decoration:none;
+  padding:2px 0;color:var(--accent)}
+.lk a:hover{text-decoration:underline}
+.lk a::before{content:"↗ ";opacity:.55}
+
+/* rules list */
+.rules{counter-reset:r;list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:16px}
+.rules li{counter-increment:r;display:grid;grid-template-columns:34px 1fr;gap:14px;align-items:start}
+.rules li::before{content:counter(r);font-family:var(--mono);font-size:12px;font-weight:600;
+  color:var(--accent);background:var(--accent-soft);border-radius:3px;
+  width:28px;height:28px;display:grid;place-items:center;margin-top:1px}
+.rules b{font-family:var(--sans);font-weight:600;color:var(--ink)}
+.rules p{margin:2px 0 0;color:var(--ink-2);font-size:15px}
+
+.callout{background:var(--panel);border-left:3px solid var(--warn);padding:16px 18px;
+  border-radius:0 4px 4px 0;margin:24px 0 0}
+.callout p{margin:0;font-size:14.5px;color:var(--ink-2);max-width:74ch}
+.callout p+p{margin-top:9px}
+.callout b{color:var(--ink);font-weight:600}
+.cite{font-size:13px;color:var(--ink-3);font-style:italic}
+
+footer{margin-top:60px;padding-top:22px;border-top:3px solid var(--ink);font-size:13px;
+  color:var(--ink-3);line-height:1.65}
+
+@media (max-width:820px){
+  .rung{grid-template-columns:1fr;gap:10px}
+  .dims{flex-direction:row;flex-wrap:wrap;gap:10px 16px}
+  .dim{grid-template-columns:auto auto}
+  .dim span{text-align:left}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+<header class="mast">
+  <p class="eyebrow">Symbolic music · storage, conversion, rendering</p>
+  <h1>Music Encoding<br>Field Guide</h1>
+  <p class="dek">Eight formats ordered by what they can hold, an honest matrix of what
+  survives conversion between them, and the engines that draw them.
+  <strong>The short version: almost nothing is truly lossless</strong> — and the axis that
+  predicts where converters break is not richness but whether a format states things
+  outright or infers them from context.</p>
+</header>
+
+<section>
+  <h2>The richness axis</h2>
+  <p class="lede">Ordered from least to most expressive. But "richness" is really four
+  independent dimensions, and a format can sit high on one and at zero on another —
+  which is why a single ladder misleads if you read only the order.</p>
+  <div class="ladder" id="ladder"></div>
+  <div class="callout">
+    <p><b>Read the dimensions, not just the rung.</b> <code>**kern</code> is as semantically
+    explicit as MEI yet deliberately holds almost no layout — it exists for analysis, not
+    printing. MIDI sits at the bottom for notation while carrying performance detail nothing
+    above it records. "Richer" is only meaningful relative to the dimension you need.</p>
+  </div>
+</section>
+
+<section>
+  <h2>What survives conversion</h2>
+  <p class="lede">Rows convert <em>to</em> columns. Click any cell for the specifics.
+  Very few paths are verified lossless, and the ones that are come with a scope
+  condition attached.</p>
+  <div class="mtx-wrap"><table class="mtx" id="mtx"></table></div>
+  <div class="legend">
+    <span class="k"><span class="sw c-good">✓</span> verified lossless, within a stated scope</span>
+    <span class="k"><span class="sw c-warn">~</span> lossy in practice — measured or published</span>
+    <span class="k"><span class="sw c-bad">✕</span> structurally lossy — the target cannot hold it</span>
+    <span class="k"><span class="sw c-none">·</span> no practical tool path</span>
+  </div>
+  <div class="detail" id="detail">
+    <div class="hd">Select a cell</div>
+    <p>Each cell records what is actually known about that conversion — measured here,
+    reported in the literature, or true by construction — rather than what the formats
+    claim to support.</p>
+  </div>
+
+  <div class="callout">
+    <p><b>The strongest published result is a negative one.</b> Nápoles López, Vigliensoni
+    and Fujinaga converted four 100-file corpora across Humdrum, LilyPond, MEI and MusicXML
+    and found that discrepancies appeared in <b>every translation path tested</b>. In the
+    worst case close to <b>30% of notes landed at a different offset</b> and about
+    <b>5% lost articulations and ornaments</b>. Several files could not be parsed at all
+    after conversion.</p>
+    <p>They also name the asymmetry directly: <em>"translating symbolic music format A to B
+    can potentially lose more information than translating B to A."</em> Fidelity is a
+    property of a <b>direction</b>, not of a pair.</p>
+    <p class="cite">Nápoles López, Vigliensoni &amp; Fujinaga, “The effects of translation
+    between symbolic music formats,” Music Encoding Conference 2019 —
+    <a href="https://napulen.github.io/media/effects_of_translation/effects_of_translation.pdf" target="_blank" rel="noopener">PDF</a></p>
+  </div>
+</section>
+
+<section>
+  <h2>Rendering engines</h2>
+  <p class="lede">Storage and rendering are separate decisions. Choosing a format because
+  a renderer is convenient is how projects end up with the wrong archive.</p>
+  <div class="tbl-wrap">
+  <table class="data">
+    <thead><tr><th>Engine</th><th>Reads</th><th>Writes / draws</th><th>Reach for it when</th></tr></thead>
+    <tbody>
+      <tr><td>Verovio</td>
+        <td>MEI, MusicXML, <span class="mono">**kern</span>, Plaine&nbsp;&amp;&nbsp;Easie, MuseData, EsAC, ABC</td>
+        <td>SVG, MEI, MIDI, <b>Plaine &amp; Easie</b>, Humdrum, timemap — but <b>never MusicXML</b></td>
+        <td>Embedding notation in a page, rendering excerpts, anything digital-musicology. C++20 with JS/Python/Java/Swift/Go bindings. It writes P&amp;E as well as reading it, which is easy to miss. Its one output gap is MusicXML.</td></tr>
+      <tr><td>LilyPond</td><td><span class="mono">.ly</span> only</td><td>PDF, PNG, SVG, MIDI</td>
+        <td>Print-quality engraving is the deliverable. Batch, slow, and its input is a program rather than data.</td></tr>
+      <tr><td>abcm2ps</td><td>ABC</td><td>PostScript, SVG</td>
+        <td>ABC-native work. The de facto rendering reference for the ABC standard.</td></tr>
+      <tr><td>abcMIDI</td><td>ABC</td><td>MIDI (and back)</td>
+        <td>Checking what ABC <em>means</em>. <span class="mono">abc2midi</span> is the closest thing to a semantic reference implementation.</td></tr>
+      <tr><td>abcjs</td><td>ABC</td><td>SVG + audio, in browser</td>
+        <td>Interactive ABC on a web page, with playback and editing.</td></tr>
+      <tr><td>OpenSheetMusicDisplay</td><td>MusicXML, MEI</td><td>SVG (via VexFlow)</td>
+        <td>Dropping a MusicXML score into a web app without writing notation code.</td></tr>
+      <tr><td>VexFlow</td><td>its own JS API</td><td>Canvas, SVG</td>
+        <td>Drawing notation programmatically when you control every glyph. Low level.</td></tr>
+      <tr><td>MuseScore</td><td>MusicXML, MEI, MIDI, ABC, …</td><td>everything, plus GUI editing</td>
+        <td>Hand-editing, or batch conversion via its CLI. The pragmatic swiss-army knife.</td></tr>
+      <tr><td>music21</td><td>MusicXML, MEI, ABC, <span class="mono">**kern</span>, MIDI</td><td>analysis objects; writes MusicXML</td>
+        <td>Programmatic analysis in Python. A capable toolkit, but treat its importers as lossy — its MEI reader drops ornaments.</td></tr>
+      <tr><td>Verovio Humdrum Viewer</td><td><span class="mono">**kern</span></td><td>SVG, live in browser</td>
+        <td>Editing Humdrum with notation updating as you type.</td></tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section>
+  <h2>Standards &amp; source</h2>
+  <p class="lede">Primary specifications and the repositories that implement them.</p>
+  <div class="links" id="links"></div>
+</section>
+
+<section>
+  <h2>Eight working rules</h2>
+  <p class="lede">What the matrix above implies for building pipelines.</p>
+  <ol class="rules">
+    <li><div><b>One canonical internal model; convert only at the edges.</b>
+      <p>N converters, not N². Every format becomes a reader or a writer against one
+      in-memory representation you control.</p></div></li>
+    <li><div><b>Choose the canonical format by your hardest consumer.</b>
+      <p>Scholarly apparatus and provenance → MEI. Moving between notation apps → MusicXML.
+      Computational analysis → <code>**kern</code>. Not by whichever is easiest to emit.</p></div></li>
+    <li><div><b>Keep the source. Derived formats are caches.</b>
+      <p>If you can re-derive everything from the original encoding, a converter bug is an
+      afternoon. If you have migrated and discarded, it is an archaeology project.</p></div></li>
+    <li><div><b>Verify with a reader you did not write.</b>
+      <p>Writing both halves means validating code against its own assumptions — a closed
+      loop that can be confidently wrong. An independent reader is worth more than any
+      test you can author.</p></div></li>
+    <li><div><b>Round-trip tests beat unit tests for format work.</b>
+      <p>They surface the cases you would never have thought to write: sticky state that
+      leaks across a chord, a group delimiter that silently swallows the rest of a bar.</p></div></li>
+    <li><div><b>Lossiness is directional — make the downhill direction loud.</b>
+      <p>Terser→richer is safe elaboration. Richer→terser needs an explicit policy that
+      raises rather than truncates. Silent degradation is the failure mode that costs years.</p></div></li>
+    <li><div><b>Survey before you build — and check the API, not the docs.</b>
+      <p>Verovio <em>does</em> write Plaine &amp; Easie (<code>renderToPAE</code>); a
+      <code>dir()</code> would have shown it in one call. Roughly 40% of the converter
+      written for this page duplicated <code>renderToPAE</code>, <code>xml2abc</code> and
+      <code>musicxml2ly</code>. Head to head, the existing tools matched the hand-written
+      ones exactly.</p></div></li>
+    <li><div><b>MIDI is not a notation format.</b>
+      <p>It has no enharmonic spelling, no layout, no editorial layer. It is performance
+      data. Using it as an interchange format is the most common mistake in this space.</p></div></li>
+  </ol>
+</section>
+
+<footer>
+  Compiled while building a Plaine&nbsp;&amp;&nbsp;Easie → MusicXML/LilyPond/ABC converter
+  over RISM's 658 Boccherini quartet incipits; the “measured here” cells come from that work.
+  Format descriptions follow each standard's own documentation. Conversion findings beyond
+  this project are from Nápoles López, Vigliensoni &amp; Fujinaga (MEC 2019).
+  MNX status checked September 2026 — it is a 1.0 draft and explicitly not stable for
+  implementation, so confirm before betting on it.
+</footer>
+</div>
+
+<script>
+(function () {
+  var D = 3;
+  var FORMATS = [
+    {id:'midi', nm:'Standard MIDI', kind:'performance', dims:[2,0,0,3],
+     desc:'Note-on/note-off events with timing and velocity. <b>No enharmonic spelling</b> — C♯ and D♭ are the same byte — and no layout or editorial layer. Universal, and the wrong choice for notation.'},
+    {id:'pae', nm:'Plaine & Easie', kind:'identification', dims:[2,1,0,0],
+     desc:'A typewriter-era shorthand for catalogue incipits: clef, key, meter and an opening phrase. Duration and octave are <b>sticky</b> — a note\'s value lives in the stream, not the note. Adopted into MARC in 2004; RISM holds over a million.'},
+    {id:'abc', nm:'ABC', kind:'notation, text', dims:[3,2,0,1],
+     desc:'Designed to be typed by hand for folk tunes, and excellent at that. Full pitch and rhythm, decent notational detail, weak on complex multi-part scores. <b>No authoritative parser</b> — readers genuinely disagree.'},
+    {id:'kern', nm:'**kern (Humdrum)', kind:'analysis', dims:[3,1,2,0],
+     desc:'Column-oriented text built for computational musicology. Encodes <b>“contextually independent absolute values”</b>: accidentals are always explicit regardless of key signature, transposing instruments appear at concert pitch. Deliberately excludes print layout. Carries editorial marks for sic, invisible and interpreted symbols.'},
+    {id:'mnx', nm:'MNX', kind:'interchange (draft)', dims:[3,2,1,1],
+     desc:'The W3C Music Notation CG\'s next-generation proposal, and <b>JSON rather than XML</b>. Semantics first, with layout allowed to emerge dynamically; aims for “one and only one way” to express each concept. Still a <b>1.0 draft, explicitly not stable for implementation</b>.'},
+    {id:'ly', nm:'LilyPond', kind:'program', dims:[3,3,1,1],
+     desc:'Not a data format — a <b>Turing-complete language with embedded Scheme</b>. Produces the finest engraving available, and there is no reliable parser for it anywhere. Treat it strictly as an output target.'},
+    {id:'mxl', nm:'MusicXML', kind:'interchange', dims:[3,3,1,2],
+     desc:'The universal interchange format: every major notation app reads and writes it. Fully explicit and verbose — every note carries its own duration, octave, beam and tie. Optimised for <b>moving a score between programs</b>, not for archival nuance.'},
+    {id:'mei', nm:'MEI', kind:'archival / scholarly', dims:[3,3,3,2],
+     desc:'The richest of the set. Everything MusicXML holds, plus <b>standoff annotation, variant readings, editorial apparatus and provenance</b> — built for critical editions. Verbose, and the correct archival target for musicology.'}
+  ];
+  var DIMNAMES = ['semantic','notation','editorial','perform.'];
+
+  var ladder = document.getElementById('ladder');
+  ladder.innerHTML = FORMATS.map(function (f) {
+    var dims = f.dims.map(function (v, i) {
+      var pips = '';
+      for (var k = 0; k < D; k++) pips += '<i class="' + (k < v ? 'on' : '') + '"></i>';
+      return '<div class="dim"><span>' + DIMNAMES[i] + '</span><div class="bar">' + pips + '</div></div>';
+    }).join('');
+    return '<div class="rung"><div><div class="nm">' + f.nm + '</div>' +
+           '<span class="kind">' + f.kind + '</span></div>' +
+           '<div class="desc">' + f.desc + '</div>' +
+           '<div class="dims">' + dims + '</div></div>';
+  }).join('');
+
+  // --- conversion matrix -------------------------------------------------
+  var M = ['pae','abc','kern','midi','mxl','mei','ly','mnx'];
+  var SHORT = {pae:'P&E', abc:'ABC', kern:'**kern', midi:'MIDI', mxl:'MusicXML',
+               mei:'MEI', ly:'LilyPond', mnx:'MNX'};
+  // state: good | warn | bad | none ; note explains WHY, and on what evidence
+  var C = {};
+  function set(from, to, state, note) { C[from + '>' + to] = {s: state, n: note}; }
+
+  M.forEach(function (a) { M.forEach(function (b) {
+    if (a !== b) set(a, b, 'none', 'No maintained converter for this direction that I am aware of. Route through MEI or MusicXML instead.');
+  }); });
+
+  set('pae','mei','good','<b>Measured here.</b> Verovio\'s Plaine & Easie importer is RISM\'s own reference implementation. 658/658 incipits parsed with no losses detected; two sources carry a <b>dangling tie pointer emitted by Verovio itself</b>, which is an upstream bug rather than a conversion loss.');
+  set('pae','mxl','good','<b>The one gap in Verovio: it reads MusicXML but never writes it</b>, so this hop needs something else. Measured here: 658/658 exact. Written out, re-read by Verovio, identical note stream and all 181 trills. Independently confirmed: music21 — which drops every trill reading Verovio\'s MEI — reads this MusicXML with 181/181 trills and 337/337 grace notes. Scope: the grammar these incipits use; anything outside it raises rather than degrading.');
+  set('pae','ly','warn','<b>Measured here.</b> All 658 compile under LilyPond 2.24 to PDF, with 9 non-fatal engraver warnings on incipits whose final bar is metrically incomplete. Cannot be verified by round trip — <b>no LilyPond reader exists</b> — so compiling is the only available check.');
+  set('pae','abc','good','<b>Measured here: 632/658</b> against <code>abc2midi</code>, the ABC reference implementation — the ABC and Verovio\'s own MIDI rendering of the same P&E agree note-for-note, and <code>abcm2ps</code> renders it cleanly. <b>Test an ABC writer with abc2midi, never with an ABC importer:</b> through Verovio\'s importer the same files score 60/658, which grades the reader. Note the route P&E→MusicXML→<code>xml2abc</code> scores <b>identically</b> (197/200 each, head to head), so a hand-written ABC writer buys nothing.');
+  set('pae','pae','good','');
+  set('mei','pae','warn','<b>Verovio does this natively</b> — <code>renderToPAE()</code>, including from MusicXML input, so writing your own is redundant. Caveat measured here: its output puts <code>@data:</code> on its own line, and Verovio\'s <em>own</em> PAE reader then parses zero notes while reporting success. Join that line before re-reading. Either way P&E only holds what a catalogue incipit needs: tuplets are always N-in-the-space-of-2, so a true 5:4 cannot be written at all.');
+  set('mei','mxl','warn','Verovio and the MEI encoding-tools XSLT both do this. Expect loss of MEI-specific editorial apparatus, variant readings and provenance — MusicXML has nowhere to put them. Nápoles López et al. found discrepancies in this path.');
+  set('mxl','pae','warn','<b>Verovio does this natively</b> via <code>renderToPAE()</code> after loading MusicXML — measured here, byte-comparable to a hand-written writer. Subject to the same <code>@data:</code> newline caveat on re-reading.');
+  set('mxl','mei','warn','Verovio imports MusicXML natively. Notation survives well; nothing gains editorial structure that was not there. Measured here as a verification route, where it faithfully reproduced our note streams.');
+  set('mxl','ly','warn','<code>musicxml2ly</code>, shipped with LilyPond. Works well in practice — cross-checked here against a hand-written writer and agreeing on the same grace-note figures — but it is a one-way trip into a format nothing can read back.');
+  set('kern','mxl','warn','<code>humlib</code> / <code>hum2xml</code>. Nápoles López et al. measured this family of paths: in the worst case ~30% of notes landed at a different offset and ~5% lost articulations and ornaments.');
+  set('mxl','kern','warn','<code>humlib</code> / <code>musicxml2hum</code>. Layout detail has no home in **kern by design, so it is dropped deliberately rather than accidentally.');
+  set('kern','mei','warn','Verovio reads **kern directly and can emit MEI. Semantics carry across cleanly; **kern\'s analytic conventions do not all have MEI equivalents.');
+  set('mei','kern','warn','<code>mei2hum</code> in humlib. The direction that discards the most: MEI\'s layout and editorial layers have no **kern representation.');
+  set('kern','ly','warn','<code>hum2ly</code>. One of the paths in the MEC 2019 study where discrepancies were observed.');
+  set('ly','mei','warn','<code>ly2mei</code> / MEILER. Works on a constrained subset. LilyPond input is a program, so anything using Scheme, variables or conditionals is effectively untranslatable.');
+  set('ly','mxl','warn','<code>python-ly</code>, or LilyPond\'s own <code>lilypond-export</code>. Same caveat — only the declarative subset survives.');
+  set('mei','ly','warn','Via MusicXML and <code>musicxml2ly</code>, or MEILER. No direct maintained path.');
+
+  ['pae','abc','kern','mxl','mei','ly','mnx'].forEach(function (f) {
+    set(f, 'midi', 'bad', 'MIDI is performance data. It <b>cannot hold enharmonic spelling</b> (C♯ and D♭ collapse), stem direction, beaming, layout or any editorial layer. Fine for playback; never as an interchange or archival step.');
+    set('midi', f, 'bad', 'Nothing can recover what MIDI never stored. Spelling, notated rhythm grouping and layout must be <b>re-inferred or re-authored</b> — that is transcription, not conversion.');
+  });
+  set('midi','midi','good','');
+
+  ['pae','abc','kern','midi','mxl','mei','ly'].forEach(function (f) {
+    set(f, 'mnx', 'none', 'MNX is a <b>1.0 draft, explicitly not stable for implementation</b>. Tooling is early — a native editor (Veritura) exists, but there is no converter worth depending on yet.');
+    set('mnx', f, 'none', 'MNX is a <b>1.0 draft, explicitly not stable for implementation</b>. Check its current status before planning around it.');
+  });
+  set('mnx','mnx','good','');
+  set('abc','pae','warn','<b>Measured here: 200/200</b> for pitch, octave and grace status via ABC→<code>abc2xml</code>→MusicXML→P&E, and <b>barlines survive</b>. No ABC parser needed. (Through music21 instead: 195/200, and it re-bars — which for an incipit, where the opening phrase\'s barring is the point, is disqualifying.) Grace-note written durations are the one thing ABC does not carry back.');
+  set('abc','mei','warn','Verovio reads ABC weakly — no <code>&lt;keySig&gt;</code>, and it drops an incomplete final bar. <b>music21 is the better ABC reader:</b> measured here, ABC→music21→MusicXML→Verovio→MEI preserved pitch, octave and grace status on 195/200. Barlines and beaming drift, because music21 re-bars.');
+  set('abc','midi','bad','<code>abc2midi</code> is the reference implementation and the right way to ask what an ABC file <em>means</em> — used here to verify an ABC writer at 632/658. Note it <b>realises ornaments</b>: a trill becomes alternating notes, so compare against a renderer that does the same, or strip them first. MIDI still discards spelling and layout.');
+
+  var tbl = document.getElementById('mtx');
+  var head = '<thead><tr><th style="text-align:left">from ↓ &nbsp;to →</th>' +
+    M.map(function (c) { return '<th>' + SHORT[c] + '</th>'; }).join('') + '</tr></thead>';
+  var body = '<tbody>' + M.map(function (r) {
+    return '<tr><th>' + SHORT[r] + '</th>' + M.map(function (c) {
+      var k = C[r + '>' + c] || {s:'none', n:''};
+      if (r === c) return '<td><div class="cell c-self">—</div></td>';
+      var gl = {good:'✓', warn:'~', bad:'✕', none:'·'}[k.s];
+      return '<td><button class="cell c-' + k.s + '" data-k="' + r + '>' + c + '"' +
+             ' aria-label="' + SHORT[r] + ' to ' + SHORT[c] + '">' + gl + '</button></td>';
+    }).join('') + '</tr>';
+  }).join('') + '</tbody>';
+  tbl.innerHTML = head + body;
+
+  var det = document.getElementById('detail');
+  function show(k) {
+    var e = C[k]; if (!e) return;
+    var p = k.split('>');
+    det.innerHTML = '<div class="hd">' + SHORT[p[0]] + ' &rarr; ' + SHORT[p[1]] + '</div><p>' +
+      (e.n || 'No conversion needed.') + '</p>';
+  }
+  tbl.addEventListener('click', function (ev) {
+    var b = ev.target.closest('.cell[data-k]'); if (b) show(b.dataset.k);
+  });
+  tbl.addEventListener('mouseover', function (ev) {
+    var b = ev.target.closest('.cell[data-k]'); if (b) show(b.dataset.k);
+  });
+  show('pae>mxl');
+
+  // --- links -------------------------------------------------------------
+  var LINKS = [
+    {h:'MEI', s:'Music Encoding Initiative — archival/scholarly XML',
+     l:[['Guidelines & site','https://music-encoding.org/'],
+        ['GitHub: music-encoding','https://github.com/music-encoding/music-encoding']]},
+    {h:'MusicXML', s:'W3C Music Notation CG — 4.0 released 2021, 4.1 in draft',
+     l:[['Specification','https://w3c.github.io/musicxml/'],
+        ['For developers','https://www.musicxml.com/for-developers/'],
+        ['GitHub: w3c/musicxml','https://github.com/w3c/musicxml']]},
+    {h:'MNX', s:'Next-generation JSON proposal — 1.0 draft, not stable',
+     l:[['Specification','https://mnx.formats.music/'],
+        ['GitHub: w3c/mnx','https://github.com/w3c/mnx'],
+        ['Music Notation CG','https://www.w3.org/community/music-notation/']]},
+    {h:'Humdrum / **kern', s:'Huron\'s analysis toolkit and its notation scheme',
+     l:[['humdrum.org','https://www.humdrum.org/'],
+        ['**kern reference','https://www.humdrum.org/rep/kern/'],
+        ['GitHub: humdrum-tools','https://github.com/humdrum-tools/humdrum-tools'],
+        ['GitHub: humlib (C++)','https://github.com/craigsapp/humlib']]},
+    {h:'Plaine & Easie', s:'IAML/RISM incipit code — in MARC since 2004; v2 in progress',
+     l:[['Specification v1','https://rism.digital/plaine-and-easie/v1/'],
+        ['GitHub: pae-code-spec','https://github.com/rism-digital/pae-code-spec'],
+        ['Verovio PAE editor','https://www.verovio.org/pae-editor.html'],
+        ['pae2abc (fjorba)','https://github.com/fjorba/pae2abc']]},
+    {h:'ABC', s:'Community standard 2.1 — no single reference implementation',
+     l:[['Standard v2.1','https://abcnotation.com/wiki/abc:standard:v2.1/'],
+        ['Software index','https://abcnotation.com/software'],
+        ['GitHub: abcMIDI','https://github.com/sshlien/abcmidi'],
+        ['GitHub: abcm2ps','https://github.com/lewdlime/abcm2ps'],
+        ['GitHub: abcjs','https://github.com/paulrosen/abcjs'],
+        ['abc2xml / xml2abc (Vree)','https://wim.vree.org/svgParse/abc2xml.html']]},
+    {h:'Verovio', s:'Engraving library — the hub of most of this landscape',
+     l:[['verovio.org','https://www.verovio.org/'],
+        ['GitHub: rism-digital/verovio','https://github.com/rism-digital/verovio'],
+        ['Humdrum Viewer','https://verovio.humdrum.org/']]},
+    {h:'LilyPond', s:'Engraving system; its input is a program, not data',
+     l:[['lilypond.org','https://lilypond.org/'],
+        ['GitLab: lilypond','https://gitlab.com/lilypond/lilypond']]},
+    {h:'MIDI', s:'Standard MIDI File — performance, not notation',
+     l:[['SMF at midi.org','https://midi.org/standard-midi-files']]},
+    {h:'Toolkits', s:'Analysis, editing and browser rendering',
+     l:[['GitHub: music21','https://github.com/cuthbertLab/music21'],
+        ['GitHub: MuseScore','https://github.com/musescore/MuseScore'],
+        ['GitHub: OpenSheetMusicDisplay','https://github.com/opensheetmusicdisplay/opensheetmusicdisplay'],
+        ['GitHub: VexFlow','https://github.com/0xfe/vexflow']]}
+  ];
+  document.getElementById('links').innerHTML = LINKS.map(function (g) {
+    return '<div class="lk"><h4>' + g.h + '</h4><p class="sub">' + g.s + '</p>' +
+      g.l.map(function (x) {
+        return '<a href="' + x[1] + '" target="_blank" rel="noopener">' + x[0] + '</a>';
+      }).join('') + '</div>';
+  }).join('');
+})();
+</script>

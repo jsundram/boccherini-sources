@@ -1,0 +1,37 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "495569cd-001a-4bb5-82b3-f3f34c30168b",
+ "title": "Notated Music / Printed Music Six quatuors for two violins, alto and basse / composed by Luigi Boccherini; oeuvre XXXIII Boccherini, Luigi (1743-1805) — [ca. 1785] See the work Details Add to my BNE Digital",
+ "year": "1785",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "201",
+ "gerard_numbers": [
+  "201",
+  "202",
+  "203",
+  "204",
+  "205",
+  "206"
+ ],
+ "gerard_label": "201-206",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=495569cd-001a-4bb5-82b3-f3f34c30168b&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=495569cd-001a-4bb5-82b3-f3f34c30168b",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_495569cd-001.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "shelfmark": "Mp/2393|2",
+ "opus": "Op. 32 (published as oeuvre XXXIII)",
+ "publication_place": "[Paris?]",
+ "rism_related": [
+  "https://rism.online/sources/1001263271"
+ ],
+ "duplicate_of": "G201-206/1001263271_E-Mn",
+ "duplicate_note": "Byte-for-byte the same scan we already held. Both PDFs are 44,594,536 bytes, 66 pages, produced by 'A-PDF Watermark 3.7.1' on 2012-04-04, and differ in only 64 bytes -- an identifier BNE stamps per download. RISM links this one via bdh-rd.bne.es; the manual download came from bnedigital.bne.es.",
+ "rism_links_this_copy": true,
+ "rism_related_raw": "https://rism.online/sources/1001263271",
+ "rism_relation": "copy"
+}

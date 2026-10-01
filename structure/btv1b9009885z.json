@@ -1,0 +1,30 @@
+{
+ "folder": "found/BnF/btv1b9009885z",
+ "scan_id": "btv1b9009885z",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 14,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 0,
+  "gerard": [],
+  "source_ids": []
+ },
+ "source_mtime": 1790628354,
+ "observed": {
+  "part_books": [
+   {
+    "page": 9,
+    "label": "btv1b9009885z:09",
+    "part": "bass"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 1,
+  "n_work_starts": 0
+ },
+ "disagreements": [],
+ "verified": null
+}

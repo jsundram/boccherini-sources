@@ -1,0 +1,94 @@
+{
+ "folder": "G214_215_233/990005884_D-Mbs_livr2",
+ "scan_id": "990005884_D-Mbs_livr2",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 56,
+ "rism": {
+  "extent": "15, 3 x 13 p. 17, 12, 9, 13 p. 19, 13, 13, 11 p. 3 x 13, 11 p. parts",
+  "parts_declared": null,
+  "form_declared": "parts",
+  "works_declared": 3,
+  "gerard": [
+   "214",
+   "215",
+   "233"
+  ],
+  "source_ids": [
+   "990005884"
+  ]
+ },
+ "source_mtime": 1790628345,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "990005884_D-Mbs_livr2:04",
+    "part": "violin 1"
+   },
+   {
+    "page": 20,
+    "label": "990005884_D-Mbs_livr2:20",
+    "part": "violin 2"
+   },
+   {
+    "page": 32,
+    "label": "990005884_D-Mbs_livr2:32",
+    "part": "viola"
+   },
+   {
+    "page": 45,
+    "label": "990005884_D-Mbs_livr2:45",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 10,
+    "label": "990005884_D-Mbs_livr2:10",
+    "numeral": 7,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 12,
+    "label": "990005884_D-Mbs_livr2:12",
+    "numeral": 3,
+    "tempo": "affettuoso",
+    "candidates": []
+   },
+   {
+    "page": 26,
+    "label": "990005884_D-Mbs_livr2:26",
+    "numeral": 7,
+    "tempo": "affettuoso",
+    "candidates": []
+   },
+   {
+    "page": 32,
+    "label": "990005884_D-Mbs_livr2:32",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 38,
+    "label": "990005884_D-Mbs_livr2:38",
+    "numeral": 5,
+    "tempo": "affettuoso",
+    "candidates": []
+   },
+   {
+    "page": 50,
+    "label": "990005884_D-Mbs_livr2:50",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 6
+ },
+ "disagreements": [],
+ "verified": null
+}

@@ -1,0 +1,39 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b10867724d",
+ "title": "Mese di Aprile 1789. // quartettino // per due violini, viola, e violoncello obbligato // di luigi Boccherini // compositor di camera di S.M. il Ré di prussia",
+ "shelfmark": "D-11158",
+ "institution": "Bibliothèque nationale de France, département Musique, D-11158",
+ "siglum": "F-Pn",
+ "medium": "manuscript",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1790-1810",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10867724d/manifest.json",
+ "pages": 22,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "217",
+ "gerard_numbers": [
+  "217"
+ ],
+ "gerard_label": "217",
+ "opus": "Op. 42 no. 2",
+ "gerard_established_by": "Prior-pass download filenames in boccherini-quartet-data/manuscripts, matched to this ark by Gallica title and page count. RISM records no GerB number for this source.",
+ "rism_related": [
+  "https://rism.online/sources/840013694"
+ ],
+ "rism_related_established_by": "Shelfmark join: RISM records 1 source(s) at F-Pn D-11158, the shelfmark this folder carries. RISM links no scan for them, so this is the record, not the copy.",
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 22
+ },
+ "record_type": "manuscript",
+ "medium_established_by": "Corrected 2026-09-29. Same as D-11157: handwritten, 'Mese di Aprile 1789 ... violoncello'. RISM source 840013694 is a Manuscript copy at D-11158.",
+ "contents_verified": {
+  "date": "2026-09-29",
+  "how": "first page, by eye",
+  "found": "Manuscript, not print. Violoncello part of the April 1789 quartettino (G 217)."
+ }
+}

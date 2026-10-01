@@ -1,0 +1,59 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "42b0a27a-b248-4248-8d6e-8088f953322f",
+ "title": "Six quatuors a deux violons, taille et basse obligés, opera prima",
+ "composer": "Boccherini, Luigi (1743-1805)",
+ "year": "1780",
+ "date_statement": "[ca. 1780]",
+ "publisher": "J. J. Hummel",
+ "publication_place": "Amsterdam",
+ "publication_statement": "À Amsterdam : chez JJ Hummel, [ca. 1780]",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "159",
+ "gerard_numbers": [
+  "159",
+  "160",
+  "161",
+  "162",
+  "163",
+  "164"
+ ],
+ "gerard_label": "159-164",
+ "opus": "Op. 2 (published as opera prima)",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "shelfmark": "M/684-687",
+ "part_shelfmarks": {
+  "violin1": "M/684(10) — V.1 Violino primo",
+  "violin2": "M/685(10) — V.2 Violino secondo",
+  "viola": "M/686(10) — V.3 Viola",
+  "basso": "M/687(10) — V.4 Basso"
+ },
+ "parts": [
+  "violin1",
+  "violin2",
+  "viola",
+  "basso"
+ ],
+ "complete": true,
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=42b0a27a-b248-4248-8d6e-8088f953322f&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=42b0a27a-b248-4248-8d6e-8088f953322f",
+ "rism_related": [
+  "https://rism.online/sources/990005852"
+ ],
+ "rism_holding": "https://rism.online/holdings/23733",
+ "rism_links_this_copy": false,
+ "downloaded_by_hand": true,
+ "files": {
+  "violin1": "BNE_42b0a27a-b24.violin1.pdf",
+  "violin2": "BNE_42b0a27a-b24.violin2.pdf",
+  "viola": "BNE_42b0a27a-b24.viola.pdf",
+  "basso": "BNE_42b0a27a-b24.basso.pdf",
+  "provenance": "bne-catalogue-record.pdf"
+ },
+ "established_by": "Hand-identified. RISM 990005852 records the E-Mn holding at shelfmark M/684-687 (holdings/23733), matching the four BNE part shelfmarks M/684(10)–M/687(10) exactly. Downloaded before this project began; filed 2026-09-28.",
+ "rism_related_raw": "https://rism.online/sources/990005852",
+ "rism_relation": "copy"
+}

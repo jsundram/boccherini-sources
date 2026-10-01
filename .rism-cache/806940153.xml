@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/806940153</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20250226154209.0</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="130" ind1="0" ind2=" ">
+    <subfield code="a">Pieces</subfield>
+    <subfield code="0">standard_titles/3901131</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[Manuscript music, untitled]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1700-1800</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 score: 191 f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">[S.l.], [s.n.], ca. 1785</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Presented to the British Museum by Vincent Novello in 1843</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Instrumental music by William Boyce, Luigi Boccherini, Johann Christian Bach, Charles Frederick Abel, John Christian Abel, and Felice Giardini. On ff. 2v-45v are twelve sonatas for two violins ; with a figured bass for the violoncello or harpsichord. "Dr. Boyce " [1747]. On ff. 46-83 are quartets for a flute and violin (or 2 violins), viola, and a bass, by J. C. Bach, C. F. Abel (AbelWV D19), and F. Giardini. On ff. 83-114v are six trios for a violin, tenor, and violoncello obbligato. "Boccherini" [published about 1780?]. On ff. 114v-191 are two sets of quartets for 2 violins, viola, and basso (violoncello), in score, by C[harles] Frederick] Abel, published between 1761 and 1777, as follows: Nos 1-6. Op. 8. ff. 114b-154; - nos 7-12. Op. 12. ff. 154v-191</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2018-01-24 11:25:01 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-05-04 13:14:04 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2023-09-06 09:13:18 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Abel, Carl Friedrich</subfield>
+    <subfield code="d">1723-1787</subfield>
+    <subfield code="0">people/222</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Bach, Johann Christian</subfield>
+    <subfield code="d">1735-1782</subfield>
+    <subfield code="0">people/2530</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Boyce, William</subfield>
+    <subfield code="d">1711-1779</subfield>
+    <subfield code="0">people/30004115</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Giardini, Felice</subfield>
+    <subfield code="d">1716-1796</subfield>
+    <subfield code="0">people/62183</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Abel, Johann Christian</subfield>
+    <subfield code="d">18.sc</subfield>
+    <subfield code="0">people/30095352</subfield>
+    <subfield code="4">att</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Novello, Vincent</subfield>
+    <subfield code="d">1781-1861</subfield>
+    <subfield code="0">people/252390</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">GB-Lbl</subfield>
+    <subfield code="c">Add. 14337</subfield>
+    <subfield code="e">The British Library</subfield>
+    <subfield code="x">institutions/30001581</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

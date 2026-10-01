@@ -1,0 +1,37 @@
+{
+ "folder": "G165-170/PPN627398782_D-B",
+ "scan_id": "PPN627398782_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 63,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "165",
+   "166",
+   "167",
+   "168",
+   "169",
+   "170"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790811420,
+ "observed": {
+  "part_books": [
+   {
+    "page": 46,
+    "label": "PPN627398782_D-B:46",
+    "part": "viola"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 1,
+  "n_work_starts": 0
+ },
+ "disagreements": [],
+ "verified": null
+}

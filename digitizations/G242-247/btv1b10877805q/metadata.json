@@ -1,0 +1,37 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b10877805q",
+ "title": "Six Quartetti a deux violons, alto et violoncelle, composés par L. Boccherini, en deux livraisons. Op. 58. 2e partie...",
+ "shelfmark": "VM7-1308 (2)",
+ "institution": "Bibliothèque nationale de France, département Musique, VM7-1308 (2)",
+ "siglum": "F-Pn",
+ "medium": "print",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10877805q/manifest.json",
+ "pages": 88,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "242",
+ "gerard_numbers": [
+  "242",
+  "243",
+  "244",
+  "245",
+  "246",
+  "247"
+ ],
+ "gerard_label": "242-247",
+ "opus": "Op. 58, 2e partie",
+ "gerard_established_by": "Title: 'Six Quartetti ... en deux livraisons. Op. 58. 2e partie'. Op. 58 is G242-247; the split between the two parties is not established here.",
+ "rism_related": [
+  "https://rism.online/sources/990005886"
+ ],
+ "rism_relation": "work",
+ "rism_related_established_by": "This copy is not in RISM -- it was found on a library portal. These are RISM's records for the same print of the same works (GerB 242, 243, 244, 245, 246, 247), matched on the Gérard set. They describe the edition, not this copy.",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 88
+ }
+}

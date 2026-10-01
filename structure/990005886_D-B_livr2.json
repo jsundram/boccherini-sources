@@ -1,0 +1,84 @@
+{
+ "folder": "G245-247/990005886_D-B_livr2",
+ "scan_id": "990005886_D-B_livr2",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 57,
+ "rism": {
+  "extent": "13, 13, 10, 10 p. 4 parts part(s)",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 3,
+  "gerard": [
+   "245",
+   "246",
+   "247"
+  ],
+  "source_ids": [
+   "990005886"
+  ]
+ },
+ "source_mtime": 1790565282,
+ "observed": {
+  "part_books": [
+   {
+    "page": 7,
+    "label": "D-B_DMS_51778:07",
+    "part": "violin 1"
+   },
+   {
+    "page": 24,
+    "label": "D-B_DMS_51778:24",
+    "part": "violin 2"
+   },
+   {
+    "page": 38,
+    "label": "D-B_DMS_51778:38",
+    "part": "viola"
+   },
+   {
+    "page": 47,
+    "label": "D-B_DMS_51778:47",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 17,
+    "label": "D-B_DMS_51778:17",
+    "numeral": 1,
+    "tempo": "allegretto moderato",
+    "candidates": []
+   },
+   {
+    "page": 23,
+    "label": "D-B_DMS_51778:23",
+    "numeral": 4,
+    "tempo": "allegro molto",
+    "candidates": []
+   },
+   {
+    "page": 40,
+    "label": "D-B_DMS_51778:40",
+    "numeral": 5,
+    "tempo": "andante sostenuto",
+    "candidates": []
+   },
+   {
+    "page": 53,
+    "label": "D-B_DMS_51778:53",
+    "numeral": 6,
+    "tempo": "moderato",
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 4
+ },
+ "disagreements": [],
+ "verified": {
+  "date": "2026-09-29",
+  "how": "head-strip contact sheet, pages 3-26",
+  "found": "Title page 'Op 58. 2e Partie'. Violino I book runs IV. QUATUOR (p5), V. (p11), VI. (p17); Violino Secondo restarts at IV (p23). Three quartets, not six."
+ }
+}

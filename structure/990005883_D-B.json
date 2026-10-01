@@ -1,0 +1,121 @@
+{
+ "folder": "G201-206/990005883_D-B",
+ "scan_id": "990005883_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 66,
+ "rism": {
+  "extent": "4 parts · 34,5 x 27 cm 4 parts",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 6,
+  "gerard": [
+   "201",
+   "202",
+   "203",
+   "204",
+   "205",
+   "206"
+  ],
+  "source_ids": [
+   "990005883"
+  ]
+ },
+ "source_mtime": 1790811476,
+ "observed": {
+  "part_books": [
+   {
+    "page": 4,
+    "label": "990005883_D-B:04",
+    "part": "violin 1"
+   },
+   {
+    "page": 24,
+    "label": "990005883_D-B:24",
+    "part": "violin 2"
+   },
+   {
+    "page": 38,
+    "label": "990005883_D-B:38",
+    "part": "viola"
+   },
+   {
+    "page": 52,
+    "label": "990005883_D-B:52",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 4,
+    "label": "990005883_D-B:04",
+    "numeral": 2,
+    "tempo": "allegretto",
+    "candidates": [
+     "206"
+    ]
+   },
+   {
+    "page": 20,
+    "label": "990005883_D-B:20",
+    "numeral": 5,
+    "tempo": "allegro",
+    "candidates": [
+     "206"
+    ]
+   },
+   {
+    "page": 24,
+    "label": "990005883_D-B:24",
+    "numeral": 1,
+    "tempo": "allegretto",
+    "candidates": [
+     "206"
+    ]
+   },
+   {
+    "page": 26,
+    "label": "990005883_D-B:26",
+    "numeral": 7,
+    "tempo": "largo",
+    "candidates": []
+   },
+   {
+    "page": 30,
+    "label": "990005883_D-B:30",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 32,
+    "label": "990005883_D-B:32",
+    "numeral": 7,
+    "tempo": "allegro con moto",
+    "candidates": [
+     "205"
+    ]
+   },
+   {
+    "page": 54,
+    "label": "990005883_D-B:54",
+    "numeral": 4,
+    "tempo": "largo",
+    "candidates": []
+   },
+   {
+    "page": 56,
+    "label": "990005883_D-B:56",
+    "numeral": 4,
+    "tempo": "allegro vivo",
+    "candidates": [
+     "203"
+    ]
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 8
+ },
+ "disagreements": [],
+ "verified": null
+}

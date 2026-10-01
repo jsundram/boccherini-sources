@@ -1,0 +1,242 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/19356",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/23854",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm",
+ "all_sigla": [
+  "B-Bc",
+  "CH-Gamoudruz",
+  "D-B",
+  "D-BNba",
+  "DK-Kmk",
+  "F-MH",
+  "F-Pmeyer",
+  "GB-Lam",
+  "GB-Lbl",
+  "I-PAc",
+  "NL-Uim",
+  "RUS-SPk",
+  "S-Skma",
+  "US-AAu",
+  "US-DN",
+  "US-R",
+  "US-Wc"
+ ],
+ "source": "https://rism.online/sources/990005860",
+ "source_id": "990005860",
+ "title": "6 Quartets",
+ "full_title": "VI. Quartetti Per Due Violini, Alto E Violoncello. Dedicati a S. A. R. D-n Luigi Infante Di Spagna. Da Luigi Boccherini. Opera VIa. Libro Secondo di Quartetti. mis au jour par M. Bayer Seul Editeur des dits Ouvrages. [Paris: Chez Naderman, rue de Richelieu, à la Clef d'Or, Passage du Caffé de foy; Chez Mme Le Menu, rue du Roulle, à la Clef d'Or; Lyon: M. Castaud Place de la Comedie, A. P. D. R. (Gravées par M-me. La V-e Leclair)]",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "165",
+ "gerard_numbers": [
+  "165",
+  "166",
+  "167",
+  "168",
+  "169",
+  "170"
+ ],
+ "catalogs": [
+  "GerB 165",
+  "GerB 166",
+  "GerB 167",
+  "GerB 168",
+  "GerB 169",
+  "GerB 170"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "516"
+ ],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1785]"
+ },
+ "physical": [],
+ "extent": [
+  "17, 3 x 13 p.",
+  "4 parts: [2]+17, 13, 13, 13 p."
+ ],
+ "notes": [
+  "Stamp on title of vl 1: \"V-e Naderman\"",
+  "Label: \"Chez Jmbault. M-d. de Musique rue St honoré No. 200, au mont d'or, entre la rue des poulies et la maison d'Aligre. Et Péristile du Théâtre de l'Opéra Comique rue Favart No. 461\""
+ ],
+ "incipits": 0,
+ "gerard_label": "165-170",
+ "holdings": {
+  "holdings/23840": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23841": {
+   "siglum": "CH-Gamoudruz",
+   "institution": "Collection M. Emile Amoudruz",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000514",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23842": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23843": {
+   "siglum": "D-BNba",
+   "institution": "Beethoven-Haus, Forschungszentrum Beethoven-Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000692",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23844": {
+   "siglum": "DK-Kmk",
+   "institution": "Det Kongelige danske Musikkonservatoriums Bibliotek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001345",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23845": {
+   "siglum": "F-MH",
+   "institution": "Bibliothèque municipale",
+   "shelfmark": "MN 4861,2 /A-D",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001468",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23846": {
+   "siglum": "F-Pmeyer",
+   "institution": "Collection André Meyer",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001487",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23847": {
+   "siglum": "GB-Lam",
+   "institution": "Royal Academy of Music, Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000263",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23848": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23849": {
+   "siglum": "I-PAc",
+   "institution": "Sezione musicale della Biblioteca Palatina",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001861",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23850": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23855": {
+   "siglum": "RUS-SPk",
+   "institution": "Sankt-Peterburgskaja gosudarstvennaja konservatorija imeni N. A. Rimskogo-Korsakova, Naučnaja muzykal'naja biblioteka",
+   "shelfmark": "Инв. № 36085",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002520",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23851": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23852": {
+   "siglum": "US-AAu",
+   "institution": "University of Michigan, Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002177",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23853": {
+   "siglum": "US-DN",
+   "institution": "University of North Texas (UNT), Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002265",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23854": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/51004697": {
+   "siglum": "US-Wc",
+   "institution": "The Library of Congress, Music Division",
+   "shelfmark": "M452.A2 B67 Case",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002492",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+17, 13, 13, 13 p. · 34,5 x 27 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005860"
+ ],
+ "rism_relation": "copy",
+ "publisher": "Chez Naderman, rue de Richelieu, à la Clef d'Or, Passage du Caffé de foy (and 2 other imprints)",
+ "publication_place": "Paris",
+ "publisher_established_by": "Imprint at the end of the RISM title; RISM leaves 260 $b empty."
+}

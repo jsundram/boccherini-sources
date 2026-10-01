@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndc a2200000 u 4500</leader>
+  <controlfield tag="001">sources/455003135</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20221016102706.0</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">14 Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="0">standard_titles/4288388</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[spine title:] Boccherini. | XIV | Quatuors. | Partitur. | Abschrift. | [title page, f.3r:] L. Boccherini: | 14 | Quartette | für | 2 Violinen Alto u. Bass | Partitur (in [G-key]) | Abschrift | [at the end of last quartet, f. 96v, stamp:] Geh. Rath Wagener | Marburg.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1800-1849 (19.1d)</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">score: 97f.</subfield>
+    <subfield code="c">35 (34,5) x 26,5 (26) cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Im Titel steht nach "Partitur" in Klammern ein Violinschlüssel</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Die Abschriften sind auf unterschiedlichem Papier, aber alle von der gleichen Hand</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Die Foliierung beziehungsweise Paginierung der einzelnen Stücke ist uneinheitlich, da die unterschiedlichen Abschriften später zusammen gebunden wurden, wehalb eine neue Foliierung angesetzt wurde</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Insgesamt wurde zu der Foliierung ein Vor- und ein Nachsatzblatt dazugezählt, nach dem Vorsatzblatt folgt auf f.2v die Abbildung eines Baumes (18,5 x 17,5 cm), dann das bei der Bindung erstellte Titelblatt und mit f.3 die unterschiedlichen Abschriften</subfield>
+  </datafield>
+  <datafield tag="592" ind1=" " ind2=" ">
+    <subfield code="a">Wasserzeichen nicht lesbar</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+    <subfield code="c">1</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2018-08-29 16:43:40 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Wagener, Guido Richard</subfield>
+    <subfield code="d">1822-1896</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/110011</subfield>
+    <subfield code="4">fmo</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003136</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003137</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003138</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003139</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003140</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003141</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003142</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003143</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003144</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003145</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003146</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003147</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003148</subfield>
+  </datafield>
+  <datafield tag="774" ind1="0" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="t">Quartets - vl (2), vla, vlc; GerB deest</subfield>
+    <subfield code="w">sources/455003149</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">D-F</subfield>
+    <subfield code="c">Mus Hs 1727</subfield>
+    <subfield code="e">Universitätsbibliothek Johann Christian Senckenberg. Abteilung Musik und Theater</subfield>
+    <subfield code="x">institutions/30000125</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,1360 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "2 Quartets - Becker III.12.4",
+    "metadata": [
+        {
+            "label": "Titel",
+            "value": "2 Quartets - Becker III.12.4"
+        },
+        {
+            "label": "Untertitel",
+            "value": "vl (2), vla, vlc"
+        },
+        {
+            "label": "Autor",
+            "value": "Boccherini, Luigi"
+        },
+        {
+            "label": "Eigent\u00fcmer",
+            "value": "SLUB Dresden"
+        },
+        {
+            "label": "Vorlage",
+            "value": "Leipziger St\u00e4dtische Bibliotheken"
+        },
+        {
+            "label": "F\u00f6rderer",
+            "value": "LDP Sachsen"
+        },
+        {
+            "label": "Erscheinungsort",
+            "value": "[S.l.]"
+        },
+        {
+            "label": "Erscheinungsdatum",
+            "value": "1800"
+        },
+        {
+            "label": "Ausgabe",
+            "value": "[Partitur]"
+        },
+        {
+            "label": "Umfang",
+            "value": "Abschrift"
+        },
+        {
+            "label": "Signatur",
+            "value": "Becker III.12.4"
+        },
+        {
+            "label": "Sprache",
+            "value": "\u201eUndefiniert\u201c"
+        },
+        {
+            "label": "Rechteinformationen",
+            "value": "<a target=\"_blank\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public Domain Mark 1.0</a><br />"
+        },
+        {
+            "label": "URN",
+            "value": "<a target=\"_blank\" href=\"https://nbn-resolving.org/process-urn-form?verb=FULL&identifier=urn:nbn:de:bsz:14-db-id4545158550\">urn:nbn:de:bsz:14-db-id4545158550</a>"
+        },
+        {
+            "label": "PURL",
+            "value": "<a target=\"_blank\" href=\"http://digital.slub-dresden.de/id454515855\">http://digital.slub-dresden.de/id454515855</a>"
+        },
+        {
+            "label": "OAI-Identifier",
+            "value": "<a target=\"_blank\" href=\"https://digital.slub-dresden.de/oai/?verb=GetRecord&metadataPrefix=mets&identifier=oai:de:slub-dresden:db:id-454515855\">oai:de:slub-dresden:db:id-454515855</a>"
+        },
+        {
+            "label": "RISM-Nummer",
+            "value": "RISM-A/II-225003122"
+        },
+        {
+            "label": "Sammlungen",
+            "value": "LDP: Sammlung Carl-Ferdinand Becker<br />Projekt: Best\u00e4nde der Leipziger St\u00e4dtischen Bibliotheken<br />Musik<br />"
+        },
+        {
+            "label": "Strukturtyp",
+            "value": "Handschrift"
+        }
+    ],
+    "attribution": "<a href=\"https://www.slub-dresden.de/\" target=\"_blank\"><img src=\"https://digital.slub-dresden.de/fileadmin/images/dfgviewer_logo_ldp.gif\" /></a><br />S\u00e4chsische Landesbibliothek - Staats- und Universit\u00e4tsbibliothek Dresden<br /><a href=\"http://www.slub-dresden.de/\" target=\"_blank\"><img src=\"http://digital.slub-dresden.de/fileadmin/images/dfgviewer_logo_slub.gif\" /></a><br />S\u00e4chsische Landesbibliothek - Staats- und Universit\u00e4tsbibliothek Dresden<br /><br /><i>Rechteinformationen:</i><br /><a target=\"_blank\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public Domain Mark 1.0</a><br />",
+    "sequences": [
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/sequence/2",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0001",
+                    "@type": "sc:Canvas",
+                    "height": 1472,
+                    "width": 1000,
+                    "label": "Seite  - ",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000001.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0001",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000001.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1472,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000001.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0002",
+                    "@type": "sc:Canvas",
+                    "height": 1457,
+                    "width": 1000,
+                    "label": "Seite  - ",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000002.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0002",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000002.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1457,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000002.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0003",
+                    "@type": "sc:Canvas",
+                    "height": 1466,
+                    "width": 1000,
+                    "label": "Seite  - ",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000003.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0003",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000003.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1466,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000003.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0004",
+                    "@type": "sc:Canvas",
+                    "height": 1414,
+                    "width": 1000,
+                    "label": "Seite  - ",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000004.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0004",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000004.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1414,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000004.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005",
+                    "@type": "sc:Canvas",
+                    "height": 1483,
+                    "width": 1000,
+                    "label": "Seite  - ",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000005.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000005.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1483,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000005.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0006",
+                    "@type": "sc:Canvas",
+                    "height": 1414,
+                    "width": 1000,
+                    "label": "Seite 2",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000006.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0006",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000006.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1414,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000006.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0007",
+                    "@type": "sc:Canvas",
+                    "height": 1483,
+                    "width": 1000,
+                    "label": "Seite 3",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000007.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0007",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000007.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1483,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000007.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008",
+                    "@type": "sc:Canvas",
+                    "height": 1442,
+                    "width": 1000,
+                    "label": "Seite 4",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000008.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000008.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1442,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000008.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009",
+                    "@type": "sc:Canvas",
+                    "height": 1483,
+                    "width": 1000,
+                    "label": "Seite 5",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000009.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000009.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1483,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000009.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010",
+                    "@type": "sc:Canvas",
+                    "height": 1442,
+                    "width": 1000,
+                    "label": "Seite 6",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000010.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000010.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1442,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000010.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0011",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite 7",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000011.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0011",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000011.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000011.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0012",
+                    "@type": "sc:Canvas",
+                    "height": 1455,
+                    "width": 1000,
+                    "label": "Seite 8",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000012.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0012",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000012.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1455,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000012.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0013",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite 9",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000013.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0013",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000013.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000013.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0014",
+                    "@type": "sc:Canvas",
+                    "height": 1455,
+                    "width": 1000,
+                    "label": "Seite 10",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000014.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0014",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000014.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1455,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000014.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0015",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite 11",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000015.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0015",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000015.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000015.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0016",
+                    "@type": "sc:Canvas",
+                    "height": 1455,
+                    "width": 1000,
+                    "label": "Seite 12",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000016.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0016",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000016.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1455,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000016.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0017",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite 13",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000017.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0017",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000017.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000017.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0018",
+                    "@type": "sc:Canvas",
+                    "height": 1455,
+                    "width": 1000,
+                    "label": "Seite 14",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000018.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0018",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000018.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1455,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000018.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0019",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite 15",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000019.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0019",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000019.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000019.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0020",
+                    "@type": "sc:Canvas",
+                    "height": 1419,
+                    "width": 1000,
+                    "label": "Seite 16",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000020.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0020",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000020.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1419,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000020.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0021",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite 17",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000021.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0021",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000021.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000021.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0022",
+                    "@type": "sc:Canvas",
+                    "height": 1418,
+                    "width": 1000,
+                    "label": "Seite 18",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000022.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0022",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000022.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1418,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000022.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0023",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite 19",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000023.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0023",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000023.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000023.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0024",
+                    "@type": "sc:Canvas",
+                    "height": 1438,
+                    "width": 1000,
+                    "label": "Seite 20",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000024.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0024",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000024.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1438,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000024.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0025",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite 21",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000025.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0025",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000025.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000025.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0026",
+                    "@type": "sc:Canvas",
+                    "height": 1438,
+                    "width": 1000,
+                    "label": "Seite 22",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000026.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0026",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000026.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1438,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000026.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0027",
+                    "@type": "sc:Canvas",
+                    "height": 1473,
+                    "width": 1000,
+                    "label": "Seite  - ",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000027.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0027",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000027.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1473,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000027.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0028",
+                    "@type": "sc:Canvas",
+                    "height": 1454,
+                    "width": 1000,
+                    "label": "Seite  - ",
+                    "thumbnail": {
+                        "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000028.tif.medium.jpg/full/,150/0/default.jpg",
+                        "@type": "dctypes:Image"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0028",
+                            "resource": {
+                                "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000028.tif.medium.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "images/jpeg",
+                                "height": 1454,
+                                "width": 1000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBocc2Qu_454515855%2FBocc2Qu_454515855_tif%2Fjpegs%2F00000028.tif.medium.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/2",
+            "@type": "sc:Range",
+            "viewingHint": "top",
+            "label": "2 Quartets - Becker III.12.4",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0001",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0002",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0003",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0004",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0006",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0007",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0011",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0012",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0013",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0014",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0015",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0016",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0017",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0018",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0019",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0020",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0021",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0022",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0023",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0024",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0025",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0026",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0027",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0028"
+            ],
+            "ranges": [
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/3",
+                    "@type": "sc:Range",
+                    "label": "Einband",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0001"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/4",
+                    "@type": "sc:Range",
+                    "label": "Annotation",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/5",
+                    "@type": "sc:Range",
+                    "label": "Quatuor en Mi mineur, pour deux Violons, Alto & Violoncelle.",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0006",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0007",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0011",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0012",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0013",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0014"
+                    ],
+                    "ranges": [
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/6",
+                            "@type": "sc:Range",
+                            "label": "Titelblatt",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005"
+                            ]
+                        },
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/7",
+                            "@type": "sc:Range",
+                            "label": "Largo sostenuto.",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0006",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0007",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008"
+                            ]
+                        },
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/8",
+                            "@type": "sc:Range",
+                            "label": "Minuetto",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009"
+                            ]
+                        },
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/9",
+                            "@type": "sc:Range",
+                            "label": "Larghetto.",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010"
+                            ]
+                        },
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/10",
+                            "@type": "sc:Range",
+                            "label": "Rondo comodo",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0011",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0012",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0013",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0014"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/11",
+                    "@type": "sc:Range",
+                    "label": "Quatuor en Ut majeur, pour deux Violons, Alto & Violoncelle.",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0015",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0016",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0017",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0018",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0019",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0020",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0021",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0022",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0023",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0024",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0025"
+                    ],
+                    "ranges": [
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/12",
+                            "@type": "sc:Range",
+                            "label": "Titelblatt",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0015"
+                            ]
+                        },
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/13",
+                            "@type": "sc:Range",
+                            "label": "Allegro bizarro",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0016",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0017",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0018",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0019",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0020"
+                            ]
+                        },
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/14",
+                            "@type": "sc:Range",
+                            "label": "Larghetto",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0021",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0022"
+                            ]
+                        },
+                        {
+                            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/15",
+                            "@type": "sc:Range",
+                            "label": "Finale All[egr]o con brio",
+                            "canvases": [
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0023",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0024",
+                                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0025"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/16",
+                    "@type": "sc:Range",
+                    "label": "Einband",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0028"
+                    ]
+                }
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/3",
+            "@type": "sc:Range",
+            "label": "Einband",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0001"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/4",
+            "@type": "sc:Range",
+            "label": "Annotation",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/5",
+            "@type": "sc:Range",
+            "label": "Quatuor en Mi mineur, pour deux Violons, Alto & Violoncelle.",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0006",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0007",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0011",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0012",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0013",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0014"
+            ],
+            "ranges": [
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/6",
+                    "@type": "sc:Range",
+                    "label": "Titelblatt",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/7",
+                    "@type": "sc:Range",
+                    "label": "Largo sostenuto.",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0006",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0007",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/8",
+                    "@type": "sc:Range",
+                    "label": "Minuetto",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/9",
+                    "@type": "sc:Range",
+                    "label": "Larghetto.",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/10",
+                    "@type": "sc:Range",
+                    "label": "Rondo comodo",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0011",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0012",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0013",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0014"
+                    ]
+                }
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/6",
+            "@type": "sc:Range",
+            "label": "Titelblatt",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0005"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/7",
+            "@type": "sc:Range",
+            "label": "Largo sostenuto.",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0006",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0007",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/8",
+            "@type": "sc:Range",
+            "label": "Minuetto",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0008",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/9",
+            "@type": "sc:Range",
+            "label": "Larghetto.",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0009",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/10",
+            "@type": "sc:Range",
+            "label": "Rondo comodo",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0010",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0011",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0012",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0013",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0014"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/11",
+            "@type": "sc:Range",
+            "label": "Quatuor en Ut majeur, pour deux Violons, Alto & Violoncelle.",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0015",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0016",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0017",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0018",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0019",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0020",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0021",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0022",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0023",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0024",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0025"
+            ],
+            "ranges": [
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/12",
+                    "@type": "sc:Range",
+                    "label": "Titelblatt",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0015"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/13",
+                    "@type": "sc:Range",
+                    "label": "Allegro bizarro",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0016",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0017",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0018",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0019",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0020"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/14",
+                    "@type": "sc:Range",
+                    "label": "Larghetto",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0021",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0022"
+                    ]
+                },
+                {
+                    "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/15",
+                    "@type": "sc:Range",
+                    "label": "Finale All[egr]o con brio",
+                    "canvases": [
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0023",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0024",
+                        "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0025"
+                    ]
+                }
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/12",
+            "@type": "sc:Range",
+            "label": "Titelblatt",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0015"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/13",
+            "@type": "sc:Range",
+            "label": "Allegro bizarro",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0016",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0017",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0018",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0019",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0020"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/14",
+            "@type": "sc:Range",
+            "label": "Larghetto",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0021",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0022"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/15",
+            "@type": "sc:Range",
+            "label": "Finale All[egr]o con brio",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0023",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0024",
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0025"
+            ]
+        },
+        {
+            "@id": "https://iiif.slub-dresden.de/iiif/2/454515855/range/16",
+            "@type": "sc:Range",
+            "label": "Einband",
+            "canvases": [
+                "https://iiif.slub-dresden.de/iiif/2/454515855/canvas/PHYS_0028"
+            ]
+        }
+    ]
+}

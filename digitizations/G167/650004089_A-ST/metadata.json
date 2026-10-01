@@ -1,0 +1,110 @@
+{
+ "kind": "image",
+ "url": "https://muscat.rism.info/system/digital_objects/attachments/000/024/559/original/Boccherini_QuartEs_op8-2_A-ST_MusMs577_vla_3vSm.jpg",
+ "note": null,
+ "label": "Boccherini QuartEs op8-3 A-ST MusMs577 vla_3v",
+ "mime": "image/jpeg",
+ "holding": null,
+ "siglum": "A-ST",
+ "institution": "Zisterzienserstift Stams, Bibliothek und Musikarchiv",
+ "shelfmark": "Mus.ms. 577",
+ "former_shelfmark": "L IV 73",
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 23 x 32 cm",
+ "all_sigla": [
+  "A-ST"
+ ],
+ "source": "https://rism.online/sources/650004089",
+ "source_id": "650004089",
+ "title": "Quartets",
+ "full_title": "[vlc, f. 1r:] [incipit] Opera Sec:da Quartetto à Due Violini, Violetta è Violoncello. Del Sig: Luiggi Boccherini",
+ "key": "E|b",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "167",
+ "gerard_numbers": [
+  "167"
+ ],
+ "catalogs": [
+  "GerB 167"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "ca. 1780"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Bezeichnung von vla: \"Violetta\"",
+  "Alte Signatur auf vlc/f. 1r oben: \"L IV 73\" (links, Blaustift)",
+  "Über dem Titel Werkzählung von der Hand Stefan Palusellis: \"V.\"",
+  "Über dem Titel von der Hand des Schreibers A-ST 183 in der Mitte: \"N.o 6 F\", rechts: \"N:o 3\"",
+  "Bei PaluselliS 1791 unter Sammeltitel \"IX. Quadro\" mit Incipit für no.1 der Sammlung (A-ST Mus.ms. 575) eingetragen; Besetzungsangabe: \"VV. Viola. e Basso\"",
+  "Druckausgabe: no. 3 in: \"VI Quartetti [...] libro secondo di quartetti [...] opera VI\", Paris: Venier, Lyon: Castaud (1769)",
+  "Weitere Druckausgaben siehe GerB"
+ ],
+ "incipits": 5,
+ "gerard_label": "167",
+ "holdings": {
+  "_0": {
+   "siglum": "A-ST",
+   "institution": "Zisterzienserstift Stams, Bibliothek und Musikarchiv",
+   "shelfmark": "Mus.ms. 577",
+   "former_shelfmark": "L IV 73",
+   "institution_id": "institutions/30000384",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 23 x 32 cm",
+   "watermark": "MM [italic, countermark: 3 crescents (decreasing)]"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/650004089"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "filenames, preserved before the images were moved to Trash",
+  "count": 4,
+  "pages": [
+   {
+    "page": 1,
+    "file": "Bocch_QuartEs_op8-2_A-ST_MusMs577_vl1_2vSm.jpg",
+    "shelfmark": "Mus.ms. 577",
+    "part": "violin 1",
+    "folio": "2v",
+    "opus": "Op. 8 no. 2"
+   },
+   {
+    "page": 2,
+    "file": "Bocch_QuartEs_op8-2_A-ST_MusMs577_vlc1vSm.jpg",
+    "shelfmark": "Mus.ms. 577",
+    "part": "violoncello",
+    "folio": "1v",
+    "opus": "Op. 8 no. 2"
+   },
+   {
+    "page": 3,
+    "file": "Boccherini_QuartEs_op8-2_A-ST_MusMs577_vla_3vSm.jpg",
+    "shelfmark": "Mus.ms. 577",
+    "part": "viola",
+    "folio": "3v",
+    "opus": "Op. 8 no. 2"
+   },
+   {
+    "page": 4,
+    "file": "Boccherini_QuartEs_op8-2_A-ST_MusMs577_vlc1rSm.jpg",
+    "shelfmark": "Mus.ms. 577",
+    "part": "violoncello",
+    "folio": "1r",
+    "opus": "Op. 8 no. 2"
+   }
+  ]
+ }
+}

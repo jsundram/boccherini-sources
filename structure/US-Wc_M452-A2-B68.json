@@ -1,0 +1,20 @@
+{
+ "folder": "G248-249/US-Wc_M452-A2-B68",
+ "scan_id": "US-Wc_M452-A2-B68",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 2,
+  "gerard": [
+   "248",
+   "249"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790799967,
+ "verified": null
+}

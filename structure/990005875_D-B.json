@@ -1,0 +1,41 @@
+{
+ "folder": "G183-188/990005875_D-B",
+ "scan_id": "990005875_D-B",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 39,
+ "rism": {
+  "extent": "part(s) part(s)",
+  "parts_declared": null,
+  "form_declared": "parts",
+  "works_declared": 6,
+  "gerard": [
+   "183",
+   "184",
+   "185",
+   "186",
+   "187",
+   "188"
+  ],
+  "source_ids": [
+   "990005875"
+  ]
+ },
+ "source_mtime": 1790811434,
+ "observed": {
+  "part_books": [
+   {
+    "page": 21,
+    "label": "990005875_D-B:21",
+    "part": "violin 2"
+   }
+  ],
+  "work_starts": [],
+  "n_part_books": 1,
+  "n_work_starts": 0
+ },
+ "disagreements": [
+  "RISM calls this a part-set, but only one part name was read — this may be a single part-book rather than the whole set"
+ ],
+ "verified": null
+}

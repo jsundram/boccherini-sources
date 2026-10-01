@@ -1,0 +1,44 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "800a1a1a-6b0e-4757-8916-493384b7043f",
+ "title": "Sei quartetti concertanti per due violini, alto e violoncello, opera 24",
+ "year": "1791",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "189",
+ "gerard_numbers": [
+  "189",
+  "190",
+  "191",
+  "192",
+  "193",
+  "194"
+ ],
+ "gerard_label": "189-194",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=800a1a1a-6b0e-4757-8916-493384b7043f&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=800a1a1a-6b0e-4757-8916-493384b7043f",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_800a1a1a-6b0.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "publisher": "Sieber",
+ "publication_place": "Paris",
+ "opus": "Op. 24",
+ "shelfmark": "Mp/2392|10",
+ "rism_related": [
+  "https://rism.online/sources/990005876"
+ ],
+ "plate_numbers": [
+  "436",
+  "s. No."
+ ],
+ "files": {
+  "all": "BNE_800a1a1a-6b0.pdf"
+ },
+ "established_by": "Hand-identified ('Opus 24 - Paris, Sieber'). RISM 990005876 is the same print -- 'Sei Quartetti Concertanti ... Opera', plate 436, [1777] -- at E-Mn Mp/2392|10.",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "rism_links_this_copy": false,
+ "rism_related_raw": "https://rism.online/sources/990005876",
+ "rism_relation": "copy"
+}

@@ -1,0 +1,148 @@
+{
+ "folder": "G242-244/990005886_D-B_livr1",
+ "scan_id": "990005886_D-B_livr1",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 52,
+ "rism": {
+  "extent": "13, 13, 10, 10 p. 4 parts part(s)",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 3,
+  "gerard": [
+   "242",
+   "243",
+   "244"
+  ],
+  "source_ids": [
+   "990005886"
+  ]
+ },
+ "source_mtime": 1790565281,
+ "observed": {
+  "part_books": [
+   {
+    "page": 7,
+    "label": "D-B_DMS_51778:07",
+    "part": "violin 1"
+   },
+   {
+    "page": 19,
+    "label": "D-B_DMS_51778:19",
+    "part": "violin 2"
+   },
+   {
+    "page": 24,
+    "label": "D-B_DMS_51778:24",
+    "part": "viola"
+   },
+   {
+    "page": 25,
+    "label": "D-B_DMS_51778:25",
+    "part": "violin 2"
+   },
+   {
+    "page": 26,
+    "label": "D-B_DMS_51778:26",
+    "part": "violin 1"
+   },
+   {
+    "page": 27,
+    "label": "D-B_DMS_51778:27",
+    "part": "violin 2"
+   },
+   {
+    "page": 31,
+    "label": "D-B_DMS_51778:31",
+    "part": "viola"
+   },
+   {
+    "page": 41,
+    "label": "D-B_DMS_51778:41",
+    "part": "cello"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 5,
+    "label": "D-B_DMS_51778:05",
+    "numeral": 3,
+    "tempo": "allegro",
+    "candidates": []
+   },
+   {
+    "page": 7,
+    "label": "D-B_DMS_51778:07",
+    "numeral": 7,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 9,
+    "label": "D-B_DMS_51778:09",
+    "numeral": 1,
+    "tempo": "allegretto",
+    "candidates": []
+   },
+   {
+    "page": 11,
+    "label": "D-B_DMS_51778:11",
+    "numeral": 7,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 14,
+    "label": "D-B_DMS_51778:14",
+    "numeral": 1,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 21,
+    "label": "D-B_DMS_51778:21",
+    "numeral": 4,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 27,
+    "label": "D-B_DMS_51778:27",
+    "numeral": 1,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 37,
+    "label": "D-B_DMS_51778:37",
+    "numeral": 6,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 45,
+    "label": "D-B_DMS_51778:45",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 48,
+    "label": "D-B_DMS_51778:48",
+    "numeral": 6,
+    "tempo": "larghetto",
+    "candidates": []
+   }
+  ],
+  "n_part_books": 8,
+  "n_work_starts": 10
+ },
+ "disagreements": [
+  "RISM says 4 parts; 8 part-book starts were read (one either way is usually a mis-split; two is not)"
+ ],
+ "verified": {
+  "date": "2026-09-29",
+  "how": "head-strip contact sheet, all 52 pages",
+  "found": "Title page 'Op 58. 1re Partie'. Four part-books in sequence — Violino I, Violino II, Viola, Violoncello — each running I. / II. / III. Quartetto. Three quartets, not six. Ends on a colour target."
+ }
+}

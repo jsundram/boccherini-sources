@@ -1,0 +1,67 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "7d1c14c0-103a-487b-a86f-3691e3bd6458",
+ "title": "Notated Music / Printed Music Six quatuor a deux violons, taille e basse obligés, dedicated to Monsieur Patrick Alstrómer, conseiller du commerce de Sa Majesté le Roi de Suede by Jean Julien Hummel / composed by Luigi Boccherini; second opera Boccherini, Luigi (1743-1805) — [ca. 1780] See the work D",
+ "year": "1780",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "165",
+ "gerard_numbers": [
+  "165",
+  "166",
+  "167",
+  "168",
+  "169",
+  "170"
+ ],
+ "gerard_label": "165-170",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=7d1c14c0-103a-487b-a86f-3691e3bd6458&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=7d1c14c0-103a-487b-a86f-3691e3bd6458",
+ "downloaded_by_hand": true,
+ "suggested_filename": "BNE_7d1c14c0-103.pdf",
+ "why_manual": "BNE refuses scripted requests; only a browser can fetch it.",
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "166"
+  },
+  {
+   "n": 2,
+   "gerard": "165"
+  },
+  {
+   "n": 3,
+   "gerard": "167"
+  },
+  {
+   "n": 4,
+   "gerard": "168"
+  },
+  {
+   "n": 5,
+   "gerard": "169"
+  },
+  {
+   "n": 6,
+   "gerard": "170"
+  }
+ ],
+ "corrected": true,
+ "correction_note": "The Alstromer-dedicated edition of Op. 8. RISM catalogues it with NO Gerard number and NO incipits at PL-WRu (61343 Muz., manuscript copy) and B-Bc (6430, manuscript copy); BNE holds the printed edition those copies derive from. Identified by hand from the BNE copy: the six quartets are G 165-170 but the first two are transposed in the print's order -- Quartetto I is G 166 and Quartetto II is G 165, thereafter sequential.",
+ "established_by": "identified by hand from the scan, 2026-09-28",
+ "rism_related": [
+  "https://rism.online/sources/301002449",
+  "https://rism.online/sources/702003012"
+ ],
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "siglum_derived_from": "BNE Digital is E-Mn",
+ "rism_relation": "copy",
+ "medium_established_by": "Checked 2026-09-29 and left as print. RISM's linked records call it a Manuscript copy, but the title page is engraved: 'SIX QUATUOR a Deux Violons, Taille e Basse obligés, DEDIES A MONSIEUR PATRICK ALSTRÖMER ... A AMSTERDAM chez J. J. HUMMEL'. A Hummel engraved title page is not a manuscript. The RISM link is to the Alströmer records, which describe a different copy.",
+ "contents_verified": {
+  "date": "2026-09-29",
+  "how": "title page, by eye",
+  "found": "Engraved Hummel print, Op. 8 (opera seconda), dedicated to Patrick Alströmer. RISM calls the linked records manuscripts; they describe another copy."
+ }
+}

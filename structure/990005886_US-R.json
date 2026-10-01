@@ -1,0 +1,209 @@
+{
+ "folder": "G242-247/990005886_US-R",
+ "scan_id": "990005886_US-R",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 90,
+ "rism": {
+  "extent": "part(s) 13, 13, 10, 10 p. 4 parts part(s)",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 6,
+  "gerard": [
+   "242",
+   "243",
+   "244",
+   "245",
+   "246",
+   "247"
+  ],
+  "source_ids": [
+   "990005886"
+  ]
+ },
+ "source_mtime": 1790507132,
+ "observed": {
+  "part_books": [
+   {
+    "page": 2,
+    "label": "39087009315377.cello:02",
+    "part": "cello"
+   },
+   {
+    "page": 24,
+    "label": "39087009315377.viola:02",
+    "part": "viola"
+   },
+   {
+    "page": 45,
+    "label": "39087009315377.violin1:03",
+    "part": "violin 1"
+   },
+   {
+    "page": 76,
+    "label": "39087009315377.violin2:02",
+    "part": "violin 2"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 2,
+    "label": "39087009315377.cello:02",
+    "numeral": 2,
+    "tempo": "allegro",
+    "candidates": []
+   },
+   {
+    "page": 9,
+    "label": "39087009315377.cello:09",
+    "numeral": 6,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 14,
+    "label": "39087009315377.cello:14",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 17,
+    "label": "39087009315377.cello:17",
+    "numeral": 6,
+    "tempo": "andante sostenuto",
+    "candidates": []
+   },
+   {
+    "page": 20,
+    "label": "39087009315377.cello:20",
+    "numeral": 5,
+    "tempo": "moderato",
+    "candidates": []
+   },
+   {
+    "page": 30,
+    "label": "39087009315377.viola:08",
+    "numeral": 4,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 34,
+    "label": "39087009315377.viola:12",
+    "numeral": 1,
+    "tempo": "allegro molto",
+    "candidates": []
+   },
+   {
+    "page": 40,
+    "label": "39087009315377.viola:18",
+    "numeral": 5,
+    "tempo": "allegro moderato",
+    "candidates": []
+   },
+   {
+    "page": 44,
+    "label": "39087009315377.violin1:02",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 45,
+    "label": "39087009315377.violin1:03",
+    "numeral": 2,
+    "tempo": "allegro",
+    "candidates": []
+   },
+   {
+    "page": 47,
+    "label": "39087009315377.violin1:05",
+    "numeral": 4,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 49,
+    "label": "39087009315377.violin1:07",
+    "numeral": 6,
+    "tempo": "allegretto",
+    "candidates": []
+   },
+   {
+    "page": 51,
+    "label": "39087009315377.violin1:09",
+    "numeral": 7,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 59,
+    "label": "39087009315377.violin1:17",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 65,
+    "label": "39087009315377.violin1:23",
+    "numeral": 5,
+    "tempo": "andante sostenuto",
+    "candidates": []
+   },
+   {
+    "page": 71,
+    "label": "39087009315377.violin1:29",
+    "numeral": 1,
+    "tempo": "allegretto moderato",
+    "candidates": []
+   },
+   {
+    "page": 73,
+    "label": "39087009315377.violin1:31",
+    "numeral": 7,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 76,
+    "label": "39087009315377.violin2:02",
+    "numeral": 1,
+    "tempo": "allegro",
+    "candidates": []
+   },
+   {
+    "page": 78,
+    "label": "39087009315377.violin2:04",
+    "numeral": 1,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 81,
+    "label": "39087009315377.violin2:07",
+    "numeral": 1,
+    "tempo": "allegretto",
+    "candidates": []
+   },
+   {
+    "page": 84,
+    "label": "39087009315377.violin2:10",
+    "numeral": 1,
+    "tempo": "larghetto",
+    "candidates": []
+   },
+   {
+    "page": 88,
+    "label": "39087009315377.violin2:14",
+    "numeral": 1,
+    "tempo": "allegro molto",
+    "candidates": []
+   }
+  ],
+  "n_part_books": 4,
+  "n_work_starts": 22
+ },
+ "disagreements": [],
+ "verified": null
+}

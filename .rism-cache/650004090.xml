@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>00000ndm a2200000 u 4500</leader>
+  <controlfield tag="001">sources/650004090</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20260412045142.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Allegro assai</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xFC</subfield>
+    <subfield code="o">c</subfield>
+    <subfield code="p">{(6'DEF)8F}{(6EFG)8G}{(6FGA)8A}{(6GAB)8B}/{8A6B''C}{DEFG}{AGFE}{DC'BA}/</subfield>
+    <subfield code="r">D</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">2</subfield>
+    <subfield code="g">F-4</subfield>
+    <subfield code="m">vlc</subfield>
+    <subfield code="n">xFC</subfield>
+    <subfield code="o">c</subfield>
+    <subfield code="p">1,,D+/8D{,DDD}{DDDD}/</subfield>
+    <subfield code="r">D</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Adagio</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">bB</subfield>
+    <subfield code="o">4/4</subfield>
+    <subfield code="p">8q''B6{A8qG6F}8qE{8.D6D}qq6{xCDE}r{8.D6nC}/8qE6{C'B}4B</subfield>
+    <subfield code="r">d</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">3</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Rondeau</subfield>
+    <subfield code="d">Allegro</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl 1</subfield>
+    <subfield code="n">xFC</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="p">4''FFF/F8qA{GF}4G/</subfield>
+    <subfield code="r">D</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">650004090</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+    <subfield code="c">DE-633</subfield>
+    <subfield code="e">rismg</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi</subfield>
+    <subfield code="d">1743-1805</subfield>
+    <subfield code="0">people/30000391</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Quartets</subfield>
+    <subfield code="m">vl (2), vla, vlc</subfield>
+    <subfield code="n">op. 2</subfield>
+    <subfield code="n">op. 6, 1</subfield>
+    <subfield code="n">op. 8, 1</subfield>
+    <subfield code="n">GerB 165</subfield>
+    <subfield code="r">D</subfield>
+    <subfield code="0">standard_titles/3900008</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[vlc, f. 1r:] [incipit] Opera Sec:da Quartetto à Due Violini, Violetta e, Violoncello. Del Sig: Luiggi Bocherini</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">ca. 1780</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 parts</subfield>
+    <subfield code="c">23 x 32 cm</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 8, 1</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 6, 1</subfield>
+  </datafield>
+  <datafield tag="383" ind1=" " ind2=" ">
+    <subfield code="b">op. 2</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">vl 1, 2, vla, vlc: f. 3 jeweils vacat</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Alte Signatur auf vlc/f.1r oben: "L IV 69" (links, Blaustift)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Über dem Titel Werkzählung von der Hand Stefan Palusellis: "II."</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Über dem Titel von der Hand des Schreibers A-ST 183 in der Mitte: "N.o 6 F", rechts: "N:o 1"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">vla bezeichnet: "Violetta"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Takt 1 vom Incipit des 1. Satzes (Incipit 1.1.1) von demjenigen bei GerB und BrookB 1966 abweichend: bei GerB und BrookB 1966 durchgehend Sechzehntel (keine Triolen)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Bei PaluselliS 1791 unter Sammeltitel "IX. Quadro" mit Incipit für no.1 der Sammlung (A-ST Mus.ms. 575) eingetragen; Besetzungsangabe: "VV. Viola. e Baßo"</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Druckausgabe: no. 1 in: "VI Quartetti [...] libro secondo di quartetti [...] opera VI", Paris: Venier; Lyon: Castaud (1769)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Weitere Druckausgaben siehe GerB</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 1</subfield>
+    <subfield code="b">3 f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vl 2</subfield>
+    <subfield code="b">3 f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vla</subfield>
+    <subfield code="b">3 f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">vlc</subfield>
+    <subfield code="b">3 f.</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="592" ind1=" " ind2=" ">
+    <subfield code="a">MM [italic, countermark: 3 crescents (decreasing)]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="592" ind1=" " ind2=" ">
+    <subfield code="a">[= A-ST 437]</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">Manuscript copy</subfield>
+    <subfield code="b">Notated music</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vl</subfield>
+    <subfield code="c">2</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vla</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="b">vlc</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), vla, vlc</subfield>
+  </datafield>
+  <datafield tag="596" ind1=" " ind2=" ">
+    <subfield code="a">A/I</subfield>
+    <subfield code="b">B 3119</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="b">full</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2017-01-16 14:38:55 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-01-16 13:06:43 UTC (Update linked values)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2020-10-07 10:52:48 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-03-10 07:12:54 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2022-08-10 08:22:52 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2023-09-25 12:20:38 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-06-20 11:22:28 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">2025-06-26 11:58:57 UTC (update)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">Quartets (inst.)</subfield>
+    <subfield code="0">standard_terms/25205</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">GerB</subfield>
+    <subfield code="n">165</subfield>
+    <subfield code="0">publications/29</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="7">
+    <subfield code="a">PaluselliS 1791</subfield>
+    <subfield code="n">p.90 (b), no.F 48 (K)*</subfield>
+    <subfield code="0">publications/1657</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="7">
+    <subfield code="a">BoccheriniCatalogo 1796</subfield>
+    <subfield code="n">op.8 no.1</subfield>
+    <subfield code="0">publications/833</subfield>
+  </datafield>
+  <datafield tag="691" ind1=" " ind2="7">
+    <subfield code="a">BrookB 1966</subfield>
+    <subfield code="n">suppl.5: 1770, clm.388</subfield>
+    <subfield code="0">publications/1269</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Paluselli, Stefan, OCist</subfield>
+    <subfield code="d">1748-1805</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/3492161</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Copyist A-ST 183</subfield>
+    <subfield code="d">18.sc</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/30111947</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Copyist A-ST 120</subfield>
+    <subfield code="d">18.sc</subfield>
+    <subfield code="j">Ascertained</subfield>
+    <subfield code="0">people/41000555</subfield>
+    <subfield code="4">scr</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Jean-Baptiste Venier</subfield>
+    <subfield code="c">Paris</subfield>
+    <subfield code="g">Ascertained</subfield>
+    <subfield code="0">institutions/40010982</subfield>
+    <subfield code="4">pbl</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Castaud</subfield>
+    <subfield code="c">Lyon</subfield>
+    <subfield code="g">Ascertained</subfield>
+    <subfield code="0">institutions/40002100</subfield>
+    <subfield code="4">pbl</subfield>
+    <subfield code="8">01</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">A-ST</subfield>
+    <subfield code="c">Mus.ms. 576</subfield>
+    <subfield code="d">L IV 69</subfield>
+    <subfield code="e">Zisterzienserstift Stams, Bibliothek und Musikarchiv</subfield>
+    <subfield code="x">institutions/30000384</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" ">
+    <subfield code="q">image/jpeg</subfield>
+    <subfield code="u">https://muscat.rism.info/system/digital_objects/attachments/000/024/560/original/Bocch_QuartD_op8-1_A-ST_MusMs576_vlc1r.jpg</subfield>
+    <subfield code="y">Bocch QuartD op8-1 A-ST MusMs576 vlc1r</subfield>
+    <subfield code="7">0</subfield>
+  </datafield>
+  <datafield tag="931" ind1="1" ind2=" ">
+    <subfield code="a">Boccherini, Luigi: Quartets, vl (2), vla, vlc; D; GerB 165</subfield>
+    <subfield code="0">works/33132</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">RISM</subfield>
+    <subfield code="c">examined</subfield>
+  </datafield>
+</record>

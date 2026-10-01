@@ -1,0 +1,57 @@
+{
+ "source": "gallica",
+ "ark": "https://gallica.bnf.fr/ark:/12148/btv1b52514840q",
+ "title": "Quartetti de Boccherini",
+ "shelfmark": "VMB MS-153",
+ "institution": "Bibliothèque nationale de France, département Musique, VMB MS-153",
+ "siglum": "F-Pn",
+ "medium": "manuscript",
+ "form": "quartet",
+ "strings": true,
+ "is_autograph": false,
+ "date": "1775-1800",
+ "manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52514840q/manifest.json",
+ "pages": 42,
+ "siglum_derived_from": "BnF department named in `institution`",
+ "gerard": "184",
+ "gerard_numbers": [
+  "184",
+  "185",
+  "186",
+  "188"
+ ],
+ "gerard_label": "184, 185, 186, 188",
+ "opus": "Op. 22 (nos. 4, 2, 6, 3 in that manuscript order)",
+ "gerard_established_by": "Confirmed against RISM. The prior-pass filename read 'Op. 22 - 4, 2, 6, 3', and RISM's four constituent records run Quartetto I = G186, II = G184, III = G188, IV = G185 -- Op. 22 nos. 4, 2, 6, 3, the same works in the same order.",
+ "parts": {
+  "cello": "001.jpg … 042.jpg (full-resolution IIIF, from Gallica)",
+  "violin1": "Vmb-Ms-153.violin1.pdf",
+  "violin2": "Vmb-Ms-153.violin2.pdf",
+  "viola": "Vmb-Ms-153.viola.pdf"
+ },
+ "complete": true,
+ "parts_note": "Gallica's ark serves only the violoncello part-book -- its manifest has 42 canvases, 'plat sup.' to 'plat inf.', and the record reads '4 parties ... Nombre total de vues : 42'. The other three part-books came from an earlier pass and are no longer findable on Gallica under this shelfmark; they are 1024x1536 PDFs, lower resolution than the jpg run.",
+ "shelfmark_on_cover": "Vm.b Ms 153(1-5)",
+ "shelfmark_gallica": "VMB MS-153",
+ "rism_related": [
+  "https://rism.online/sources/840013688",
+  "https://rism.online/sources/840022733",
+  "https://rism.online/sources/840022734",
+  "https://rism.online/sources/840022735",
+  "https://rism.online/sources/840022736"
+ ],
+ "rism_constituents": {
+  "186": "https://rism.online/sources/840022733",
+  "184": "https://rism.online/sources/840022734",
+  "188": "https://rism.online/sources/840022735",
+  "185": "https://rism.online/sources/840022736"
+ },
+ "rism_constituents_note": "RISM 840022737 is a fifth item in the same volume -- 'Quartetto Terzo | A Due Violini Viola, e Basso | Bochni', also GerB 188. Two records therefore carry G 188; whether that is a duplicate record or a second copy of the work bound in is not established here. It accounts for the '(1-5)' in the cover shelfmark.",
+ "rism_links_this_copy": false,
+ "rism_related_raw": "https://rism.online/sources/840013688",
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 42
+ }
+}

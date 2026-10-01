@@ -1,0 +1,21 @@
+{
+ "folder": "G228/840022755_F-Pn",
+ "scan_id": "840022755_F-Pn",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 1,
+  "gerard": [
+   "228"
+  ],
+  "source_ids": [
+   "840022755"
+  ]
+ },
+ "source_mtime": 1790713711,
+ "verified": null
+}

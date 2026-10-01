@@ -1,0 +1,1742 @@
+{
+ "about": "Derivation record for the Library of Congress facsimiles in this folder. Each page is one leaf, taken from one half of one Book2net opening. `appears_in` gives the PDF and page, and is accurate for the files as they now stand.",
+ "caveat": "The two PDFs were built by an earlier revision of loc_scans.py and then edited by hand to drop the wrapper and the blank leaves. The crop boxes under `box` come from the current pipeline and are NOT the ones those PDFs were made with; they are recorded as the best present description of where each leaf sits in its scan. Rebuilding with `render` and `pdf` would produce different crops. Everything else here \u2014 which leaf, which opening and side, which PDF page, and the source PDF's checksum \u2014 describes the files as they are.",
+ "collection": {
+  "shelfmark": "US-Wc, M452.A2 B68 Case",
+  "repository": "Library of Congress, Music Division",
+  "city": "Washington, D.C.",
+  "source_pdf": "Boccherini G.248-249 - Opus 64 Numbers 1-2 - Library of Congress - M452.A2 B68 Case.pdf",
+  "dedication": "Composti espressamente per il Cittadino Luciano Bonaparte",
+  "dated": "1804",
+  "openings": "2-34",
+  "edited": "blank leaves and the wrapper removed by hand, 30 September 2026",
+  "single_leaf": "2R, 34L",
+  "wrapper": 1
+ },
+ "source": {
+  "pdf": "Boccherini G.248-249 - Opus 64 Numbers 1-2 - Library of Congress - M452.A2 B68 Case.pdf",
+  "sha256": "0a16e215a57a1e896eac16cf9ff3fac6f49079d81da1170ee8272e6fc9d95ed6",
+  "pages": 34,
+  "capture": "Book2net (PR1ME/Microbox), 9344 x 7000 px at 383 ppi"
+ },
+ "generated": "2026-09-30T16:57:11-04:00",
+ "pipeline": {
+  "script": "loc_scans.py",
+  "leaf_detection": "the book's three outer paper edges against the mount, taken as a standing geometry over the whole set; each opening divided at the midpoint between its outer edges",
+  "geometry_note": "describes the current pipeline, not the PDFs on disk",
+  "geometry": {
+   "pad_percent": 0.6,
+   "max_height_px": 3600,
+   "levelled_against_ruling": true
+  },
+  "tone": {
+   "black": 0.03,
+   "contrast": 1.04,
+   "sharpen": 0.2,
+   "targets": {
+    "paper_L": 225.5,
+    "paper_a": 127.0,
+    "paper_b": 137.0
+   }
+  },
+  "output": {
+   "jpeg_quality": 92,
+   "dpi": 300,
+   "wrapper_included": false
+  }
+ },
+ "quartets": [
+  {
+   "id": "M452-1",
+   "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+   "title": "Quartetto Primo",
+   "catalogue": "n.o 80",
+   "opus": "Op. 64 Number 1",
+   "gerard": "G.248",
+   "order": [
+    "violin1",
+    "violin2",
+    "viola",
+    "cello"
+   ],
+   "excluded": null,
+   "removed_by_hand": [
+    "7L",
+    "12L",
+    "16L",
+    "20L"
+   ],
+   "parts": {
+    "Violino Primo": "2R-7L",
+    "Violino Secondo": "7R-12L",
+    "Viola": "12R-16L",
+    "Violoncello": "16R-20L"
+   }
+  },
+  {
+   "id": "M452-2",
+   "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+   "title": "Quartetto Secondo",
+   "catalogue": "n.o 81",
+   "opus": "Op. 64 Number 2",
+   "gerard": "G.249",
+   "order": [
+    "violin1",
+    "violin2",
+    "viola",
+    "cello"
+   ],
+   "excluded": "20R-21R",
+   "removed_by_hand": [
+    "25L",
+    "27R",
+    "28L",
+    "30R",
+    "31L",
+    "31R",
+    "32L",
+    "34L"
+   ],
+   "parts": {
+    "Violino Primo": "22R-25L",
+    "Violino Secondo": "25R-28L",
+    "Viola": "28R-32L",
+    "Violoncello": "32R-34L"
+   }
+  }
+ ],
+ "leaves": [
+  {
+   "leaf": "2R",
+   "source_pdf_page": 2,
+   "scan": "scan-001.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": null,
+   "box": [
+    0.4601515410958904,
+    0.25083428571428573,
+    0.971783390410959,
+    0.7365942857142858
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "2R.jpg",
+   "rendered_size": [
+    5060,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 1,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "3L",
+   "source_pdf_page": 3,
+   "scan": "scan-002.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5038527397260274,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5189478561643835,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "3L.jpg",
+   "rendered_size": [
+    4791,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 2,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "3R",
+   "source_pdf_page": 3,
+   "scan": "scan-002.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5038527397260274,
+   "box": [
+    0.4888064246575342,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "3R.jpg",
+   "rendered_size": [
+    4678,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 3,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "4L",
+   "source_pdf_page": 4,
+   "scan": "scan-003.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5040667808219178,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5191631815068494,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "4L.jpg",
+   "rendered_size": [
+    4793,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 4,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "4R",
+   "source_pdf_page": 4,
+   "scan": "scan-003.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5040667808219178,
+   "box": [
+    0.48902175,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "4R.jpg",
+   "rendered_size": [
+    4676,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 5,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "5L",
+   "source_pdf_page": 5,
+   "scan": "scan-004.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.504708904109589,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5198091575342466,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "5L.jpg",
+   "rendered_size": [
+    4799,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 6,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "5R",
+   "source_pdf_page": 5,
+   "scan": "scan-004.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.504708904109589,
+   "box": [
+    0.4896677260273972,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "5R.jpg",
+   "rendered_size": [
+    4670,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 7,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "6L",
+   "source_pdf_page": 6,
+   "scan": "scan-005.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5017123287671234,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5167946027397261,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "6L.jpg",
+   "rendered_size": [
+    4771,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 8,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "6R",
+   "source_pdf_page": 6,
+   "scan": "scan-005.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5017123287671234,
+   "box": [
+    0.48665317123287677,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "6R.jpg",
+   "rendered_size": [
+    4698,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 9,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "7R",
+   "source_pdf_page": 7,
+   "scan": "scan-006.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5,
+   "box": [
+    0.4849305684931507,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "7R.jpg",
+   "rendered_size": [
+    4713,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 10,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "8L",
+   "source_pdf_page": 8,
+   "scan": "scan-007.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5002140410958904,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5152873253424658,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "8L.jpg",
+   "rendered_size": [
+    4757,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 11,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "8R",
+   "source_pdf_page": 8,
+   "scan": "scan-007.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.5002140410958904,
+   "box": [
+    0.4851458938356164,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "8R.jpg",
+   "rendered_size": [
+    4712,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 12,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "9L",
+   "source_pdf_page": 9,
+   "scan": "scan-008.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4978595890410959,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5129187465753424,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "9L.jpg",
+   "rendered_size": [
+    4735,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 13,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "9R",
+   "source_pdf_page": 9,
+   "scan": "scan-008.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4978595890410959,
+   "box": [
+    0.48277731506849314,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "9R.jpg",
+   "rendered_size": [
+    4733,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 14,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "10L",
+   "source_pdf_page": 10,
+   "scan": "scan-009.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4978595890410959,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5129187465753424,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "10L.jpg",
+   "rendered_size": [
+    4735,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 15,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "10R",
+   "source_pdf_page": 10,
+   "scan": "scan-009.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4978595890410959,
+   "box": [
+    0.48277731506849314,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "10R.jpg",
+   "rendered_size": [
+    4733,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 16,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "11L",
+   "source_pdf_page": 11,
+   "scan": "scan-010.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "11L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 17,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "11R",
+   "source_pdf_page": 11,
+   "scan": "scan-010.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "11R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 18,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "12R",
+   "source_pdf_page": 12,
+   "scan": "scan-011.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4980736301369863,
+   "box": [
+    0.4829926404109589,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "12R.jpg",
+   "rendered_size": [
+    4731,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 19,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "13L",
+   "source_pdf_page": 13,
+   "scan": "scan-012.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4967893835616438,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5118421198630136,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "13L.jpg",
+   "rendered_size": [
+    4725,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 20,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "13R",
+   "source_pdf_page": 13,
+   "scan": "scan-012.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4967893835616438,
+   "box": [
+    0.48170068835616436,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "13R.jpg",
+   "rendered_size": [
+    4743,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 21,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "14L",
+   "source_pdf_page": 14,
+   "scan": "scan-013.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4957191780821918,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.510765493150685,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "14L.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 22,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "14R",
+   "source_pdf_page": 14,
+   "scan": "scan-013.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4957191780821918,
+   "box": [
+    0.48062406164383564,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "14R.jpg",
+   "rendered_size": [
+    4754,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 23,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "15L",
+   "source_pdf_page": 15,
+   "scan": "scan-014.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4961472602739726,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5111961438356164,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "15L.jpg",
+   "rendered_size": [
+    4719,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 24,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "15R",
+   "source_pdf_page": 15,
+   "scan": "scan-014.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4961472602739726,
+   "box": [
+    0.4810547123287671,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "15R.jpg",
+   "rendered_size": [
+    4750,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 25,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "16R",
+   "source_pdf_page": 16,
+   "scan": "scan-015.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "16R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 26,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "17L",
+   "source_pdf_page": 17,
+   "scan": "scan-016.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "17L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 27,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "17R",
+   "source_pdf_page": 17,
+   "scan": "scan-016.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "17R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 28,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "18L",
+   "source_pdf_page": 18,
+   "scan": "scan-017.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "18L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 29,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "18R",
+   "source_pdf_page": 18,
+   "scan": "scan-017.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "18R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 30,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "19L",
+   "source_pdf_page": 19,
+   "scan": "scan-018.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "19L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 31,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "19R",
+   "source_pdf_page": 19,
+   "scan": "scan-018.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "19R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-1",
+     "pdf": "Boccherini G.248 - Opus 64 Number 1 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 32,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "22R",
+   "source_pdf_page": 22,
+   "scan": "scan-021.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "22R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 1,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "23L",
+   "source_pdf_page": 23,
+   "scan": "scan-022.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "23L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 2,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "23R",
+   "source_pdf_page": 23,
+   "scan": "scan-022.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "23R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 3,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "24L",
+   "source_pdf_page": 24,
+   "scan": "scan-023.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "24L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 4,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "24R",
+   "source_pdf_page": 24,
+   "scan": "scan-023.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "24R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 5,
+     "part": "Violino Primo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "25R",
+   "source_pdf_page": 25,
+   "scan": "scan-024.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "25R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 6,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "26L",
+   "source_pdf_page": 26,
+   "scan": "scan-025.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4980736301369863,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5131340719178081,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "26L.jpg",
+   "rendered_size": [
+    4737,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 7,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "26R",
+   "source_pdf_page": 26,
+   "scan": "scan-025.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4980736301369863,
+   "box": [
+    0.4829926404109589,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "26R.jpg",
+   "rendered_size": [
+    4731,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 8,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "27L",
+   "source_pdf_page": 27,
+   "scan": "scan-026.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "27L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 9,
+     "part": "Violino Secondo",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "28R",
+   "source_pdf_page": 28,
+   "scan": "scan-027.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "28R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 10,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "29L",
+   "source_pdf_page": 29,
+   "scan": "scan-028.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "29L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 11,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "29R",
+   "source_pdf_page": 29,
+   "scan": "scan-028.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.4847152431506849,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "29R.jpg",
+   "rendered_size": [
+    4715,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 12,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "30L",
+   "source_pdf_page": 30,
+   "scan": "scan-029.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4997859589041096,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5148566746575343,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "30L.jpg",
+   "rendered_size": [
+    4753,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 13,
+     "part": "Viola",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "32R",
+   "source_pdf_page": 32,
+   "scan": "scan-031.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4978595890410959,
+   "box": [
+    0.48277731506849314,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "32R.jpg",
+   "rendered_size": [
+    4733,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 14,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "33L",
+   "source_pdf_page": 33,
+   "scan": "scan-032.jpg",
+   "side": "left",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4907962328767123,
+   "box": [
+    0.0,
+    0.23920000000000002,
+    0.5058130102739725,
+    0.7596571428571428
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "33L.jpg",
+   "rendered_size": [
+    4670,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 15,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  },
+  {
+   "leaf": "33R",
+   "source_pdf_page": 33,
+   "scan": "scan-032.jpg",
+   "side": "right",
+   "scan_size": [
+    2336,
+    1750
+   ],
+   "gutter_x": 0.4907962328767123,
+   "box": [
+    0.47567157876712324,
+    0.23460114285714284,
+    1.0,
+    0.7596845714285714
+   ],
+   "found_by": "leaf edges, divided at the spine",
+   "pad_percent": 0.6,
+   "override": null,
+   "rendered": "33R.jpg",
+   "rendered_size": [
+    4799,
+    3600
+   ],
+   "appears_in": [
+    {
+     "quartet": "M452-2",
+     "pdf": "Boccherini G.249 - Opus 64 Number 2 - Manuscript - LoC M452.A2 B68 Case.pdf",
+     "pdf_page": 16,
+     "part": "Violoncello",
+     "kind": "leaf"
+    }
+   ]
+  }
+ ]
+}

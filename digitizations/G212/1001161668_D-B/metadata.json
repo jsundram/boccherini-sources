@@ -1,0 +1,72 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0003048A00000000",
+ "note": "Digitalisat",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 584",
+ "former_shelfmark": "h.40.",
+ "source_type": "Manuscript copy",
+ "holding_extent": "score: 14 p. · 22 x 31,5 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/1001161668",
+ "source_id": "1001161668",
+ "title": "Quartets",
+ "full_title": "[cover title, p. 1:] Opera 1a | Quartettino VI°. | Per due Violini, Viola, è Violoncello, Composto per S. A. Rle. | Dn. Luigi Infante di Spagna. | da Luigi Boccherini, Virtuoso di Camera, è Compositore di Musica. | della Prefata S. A. Rle.",
+ "key": "E|b",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "212",
+ "gerard_numbers": [
+  "212"
+ ],
+ "catalogs": [
+  "GerB 212"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1781 (ca)"
+ },
+ "physical": [],
+ "extent": [
+  "score: 14 p."
+ ],
+ "notes": [
+  "Notenpapier mit 10 Systemen",
+  "p. [15-16] nur rastriert",
+  "Etikett mit Aufdruck \"h.40.\" auf dem Titelblatt aufgeklebt (oben rechts); unter der Überklebung ist die Zählung \"40\" handschriftlich notiert"
+ ],
+ "incipits": 0,
+ "gerard_label": "212",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 584",
+   "former_shelfmark": "h.40.",
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "score: 14 p. · 22 x 31,5 cm",
+   "watermark": "R. ROMANI; tree stars in crowned shield"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/1001161668"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 17
+ }
+}

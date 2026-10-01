@@ -1,0 +1,106 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0001C5D600000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 577",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 24,5 x 33,5 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/463057700",
+ "source_id": "463057700",
+ "title": "6 Quartets",
+ "full_title": "[title page, vl 1:] 6. Quartetti | Per due Violini, Viola, e Violoncello Obligato, Composto per Servizzio di S. A. R.le | D.n Luigi Infante di Spagna | da Luigi Boccherini, Virtuoso di Camera, è Compositore di Musica, di | S. A. R.le | Violino Imo [on top, right:] Opera 3.za 1780",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": null,
+ "gerard_numbers": [
+  "201",
+  "202",
+  "203",
+  "204",
+  "205",
+  "206"
+ ],
+ "catalogs": [],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1780-1800 (ca.)"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Bibliothekarische Bleistiftfoliierung je Stimmheft.",
+  "Berliner Stimmensatz der Quartette op. 32, vermutlich kopiert nach den von einem spanischen Kopisten angefertigten Partituren der einzelnen Quartette KHM 571-576. Ein weiterer Stimmensatz, ebenfalls von Schober geschrieben, unter der Signatur KHM 578.",
+  "Alle Stimmen mit bis auf die Instrumentenbezeichnung gleichlautendem Titelblatt. Auf der Stimme vlc oben links von anderer Hand Vermerk: \"Geschrieben\"."
+ ],
+ "incipits": 0,
+ "gerard_label": "201-206",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 577",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 24,5 x 33,5 cm"
+  }
+ },
+ "corrected": true,
+ "correction_note": "D-B KHM 577, a manuscript copy of the complete Op. 32 in one volume. RISM records no GerB number for it, so the harvester files it under `unidentified/`. Berlin's own digital catalogue names it '6 Quartette; vl (2), vla, vlc; G 201-206; op.32' (PPN84753183X), which supplies the six numbers RISM omits. — 161 images. The only manuscript witness to Op. 32 in this collection -- every other Op. 32 item held is a print.",
+ "established_by": "RISM's own child records settle it: 463057701-706 are 'KHM 577 (1)' through '(6)', '1. Quartetto' through '6. Quartetto', carrying GerB 201, 202, 203, 204, 205, 206 in that order. Berlin's digital catalogue (PPN84753183X) agrees, naming the volume '6 Quartette ... G 201-206; op.32'. The parent record 463057700 carries no GerB number, which is why the harvester files it under `unidentified/` without this entry.",
+ "livraison": null,
+ "contents": [
+  {
+   "n": 1,
+   "gerard": "201"
+  },
+  {
+   "n": 2,
+   "gerard": "202"
+  },
+  {
+   "n": 3,
+   "gerard": "203"
+  },
+  {
+   "n": 4,
+   "gerard": "204"
+  },
+  {
+   "n": 5,
+   "gerard": "205"
+  },
+  {
+   "n": 6,
+   "gerard": "206"
+  }
+ ],
+ "unidentified_works": 0,
+ "gerard_numbers_rism": [],
+ "rism_related": [
+  "https://rism.online/sources/463057700"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 161
+ }
+}

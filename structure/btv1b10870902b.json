@@ -1,0 +1,62 @@
+{
+ "folder": "G177-182/btv1b10870902b",
+ "scan_id": "btv1b10870902b",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 36,
+ "rism": {
+  "extent": null,
+  "parts_declared": null,
+  "form_declared": null,
+  "works_declared": 6,
+  "gerard": [
+   "177",
+   "178",
+   "179",
+   "180",
+   "181",
+   "182"
+  ],
+  "source_ids": []
+ },
+ "source_mtime": 1790628347,
+ "observed": {
+  "part_books": [
+   {
+    "page": 8,
+    "label": "btv1b10870902b:08",
+    "part": "violin 1"
+   },
+   {
+    "page": 14,
+    "label": "btv1b10870902b:14",
+    "part": "viola"
+   },
+   {
+    "page": 31,
+    "label": "btv1b10870902b:31",
+    "part": "bass"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 22,
+    "label": "btv1b10870902b:22",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   },
+   {
+    "page": 34,
+    "label": "btv1b10870902b:34",
+    "numeral": 1,
+    "tempo": null,
+    "candidates": []
+   }
+  ],
+  "n_part_books": 3,
+  "n_work_starts": 2
+ },
+ "disagreements": [],
+ "verified": null
+}

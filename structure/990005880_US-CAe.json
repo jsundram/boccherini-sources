@@ -1,0 +1,45 @@
+{
+ "folder": "G201-206/990005880_US-CAe",
+ "scan_id": "990005880_US-CAe",
+ "tool": "read_structure.py/2026-09-29",
+ "read": true,
+ "pages_examined": 90,
+ "rism": {
+  "extent": "part(s) 4 parts part(s)",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 1,
+  "gerard": [
+   "201"
+  ],
+  "source_ids": [
+   "990005880"
+  ]
+ },
+ "source_mtime": 1790561051,
+ "observed": {
+  "part_books": [
+   {
+    "page": 61,
+    "label": "US-CAe_Mus_631.1.329.5:061",
+    "part": "viola"
+   }
+  ],
+  "work_starts": [
+   {
+    "page": 82,
+    "label": "US-CAe_Mus_631.1.329.5:082",
+    "numeral": 1,
+    "tempo": "allegretto",
+    "candidates": []
+   }
+  ],
+  "n_part_books": 1,
+  "n_work_starts": 1
+ },
+ "disagreements": [
+  "RISM says 4 parts; 1 part-book starts were read (one either way is usually a mis-split; two is not)",
+  "RISM calls this a part-set, but only one part name was read — this may be a single part-book rather than the whole set"
+ ],
+ "verified": null
+}

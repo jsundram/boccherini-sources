@@ -1,0 +1,53 @@
+{
+ "source": "bne",
+ "portal": "BNE",
+ "ident": "13ca2435-9716-4183-8e7a-01d75773b0d4",
+ "title": "Six quartettos for two violins, tenor and violoncello obligato, opera VI",
+ "composer": "Boccherini, Luigi (1743-1805)",
+ "year": "1775",
+ "date_statement": "[ca. 1775]",
+ "publisher": "R. Bremner",
+ "publication_place": "London",
+ "medium": "print",
+ "form": "quartet",
+ "gerard": "165",
+ "gerard_numbers": [
+  "165",
+  "166",
+  "167",
+  "168",
+  "169",
+  "170"
+ ],
+ "gerard_label": "165-170",
+ "opus": "Op. 8 (published as opera VI, libro secondo di quartetti)",
+ "keys": "c, D, Es, g, F, A",
+ "siglum": "E-Mn",
+ "institution": "Biblioteca Nacional de España",
+ "shelfmark": "M/680-683",
+ "shelfmark_note": "Per RISM 990005859. The same four part-books also carry Bremner's libro terzo (opera X = Op. 9, RISM 990005866), which is filed at ../../G171-176/bne-9ecb259b-abc -- one shelfmark range, two sets bound together.",
+ "siglum_derived_from": "BNE Digital is E-Mn",
+ "url": "https://bnedigital.bne.es/bd/es/viewer?id=13ca2435-9716-4183-8e7a-01d75773b0d4&page=1",
+ "card": "https://bnedigital.bne.es/bd/es/card?id=13ca2435-9716-4183-8e7a-01d75773b0d4",
+ "rism_related": [
+  "https://rism.online/sources/990005859"
+ ],
+ "rism_links_this_copy": false,
+ "downloaded_by_hand": true,
+ "parts": [
+  "violin1",
+  "violin2",
+  "tenor",
+  "cello"
+ ],
+ "complete": true,
+ "files": {
+  "violin1": "BNE_13ca2435-971.violin1.pdf",
+  "violin2": "BNE_13ca2435-971.violin2.pdf",
+  "tenor": "BNE_13ca2435-971.tenor.pdf",
+  "cello": "BNE_13ca2435-971.cello.pdf"
+ },
+ "established_by": "Identified by hand (note: 'opus 8 - london edition (bremner) - G165-170'). RISM 990005859 is the same print -- 'Six quartettos [c, D, Es, g, F, A] for two violins, tenor and violoncello ... opera VI [London, R. Bremner]' -- and records the E-Mn holding at M/680-683. Filed 2026-09-28.",
+ "rism_related_raw": "https://rism.online/sources/990005859",
+ "rism_relation": "copy"
+}

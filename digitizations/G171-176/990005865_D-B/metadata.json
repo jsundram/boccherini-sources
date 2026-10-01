@@ -1,0 +1,284 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB00001F4400000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/23924",
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "DMS 51778",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm",
+ "all_sigla": [
+  "B-Bc",
+  "B-Gc",
+  "CH-Gamoudruz",
+  "D-B",
+  "D-BDHlebermann",
+  "D-BNba",
+  "DK-Kmk",
+  "F-MH",
+  "F-Pc",
+  "F-Pn",
+  "GB-Lam",
+  "GB-Lbl",
+  "J-Tk",
+  "NL-Uim",
+  "RUS-SPk",
+  "S-Skma",
+  "US-AAu",
+  "US-DN",
+  "US-NH",
+  "US-R",
+  "US-Wc"
+ ],
+ "source": "https://rism.online/sources/990005865",
+ "source_id": "990005865",
+ "title": "6 Quartets",
+ "full_title": "Sei quartetti Per due Violini, Alto e Violoncello Dedicati Alli Sig-ri. Dilettanti di Madrid Da Luigi Boccherini Opera X|a. Libro terzo di Quartetti. Mis au jour par M. Boyer [Paris: {Chez M. Boyer, rue de Richelieu, à la Clef d'Or, Passage du Caffé du foy]; Lyon: Aux Adresses de Musique,  (Gravés par M-e La Vve Leclair) A.P.D.R.]",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "171",
+ "gerard_numbers": [
+  "171",
+  "172",
+  "173",
+  "174",
+  "175",
+  "176"
+ ],
+ "catalogs": [
+  "GerB 171",
+  "GerB 172",
+  "GerB 173",
+  "GerB 174",
+  "GerB 175",
+  "GerB 176"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "517"
+ ],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "[1790]"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts: 52 p.",
+  "4 parts: [2]+13, [2]+13, 13, 13 p.",
+  "4 x 13 p."
+ ],
+ "notes": [
+  "stamp on vl 1 \"V-e Naderman\"",
+  "Label on every part: \"A Paris, Chez Louis, Marchand de Musique, Rue du Roule, No. 6 ou 290. Il tient cordes de Naples, Papier de tout réglure, fait des Envois dant tous les Départemens et a l'étranger, fait parvenir la Musique franche de port en payant le prix marqué sur l'exemplaire\""
+ ],
+ "incipits": 0,
+ "gerard_label": "171-176",
+ "holdings": {
+  "holdings/23921": {
+   "siglum": "B-Bc",
+   "institution": "Conservatoire royal de Bruxelles, Bibliothèque - Koninklijk Conservatorium Brussel, Bibliotheek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000438",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23922": {
+   "siglum": "B-Gc",
+   "institution": "Koninklijk Muziekconservatorium, Muziekbibliotheek",
+   "shelfmark": "DS-906",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000444",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23923": {
+   "siglum": "CH-Gamoudruz",
+   "institution": "Collection M. Emile Amoudruz",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000514",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23924": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "DMS 51778",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23925": {
+   "siglum": "D-BDHlebermann",
+   "institution": "Privatsammlung Walter Lebermann",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000676",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23926": {
+   "siglum": "D-BNba",
+   "institution": "Beethoven-Haus, Forschungszentrum Beethoven-Archiv",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000692",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23927": {
+   "siglum": "DK-Kmk",
+   "institution": "Det Kongelige danske Musikkonservatoriums Bibliotek",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001345",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23928": {
+   "siglum": "F-MH",
+   "institution": "Bibliothèque municipale",
+   "shelfmark": "MN 4861,3 /A.D",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001468",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23929": {
+   "siglum": "F-Pc",
+   "institution": "Bibliothèque du Conservatoire",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001480",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23930": {
+   "siglum": "F-Pn",
+   "institution": "Bibliothèque nationale de France, Département de la Musique",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001488",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23931": {
+   "siglum": "GB-Lam",
+   "institution": "Royal Academy of Music, Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000263",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23932": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23933": {
+   "siglum": "J-Tk",
+   "institution": "Kunitachi Ongaku Daigaku",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30004431",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23934": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23940": {
+   "siglum": "RUS-SPk",
+   "institution": "Sankt-Peterburgskaja gosudarstvennaja konservatorija imeni N. A. Rimskogo-Korsakova, Naučnaja muzykal'naja biblioteka",
+   "shelfmark": "Инв. № 36085",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002520",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23935": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23936": {
+   "siglum": "US-AAu",
+   "institution": "University of Michigan, Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002177",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23937": {
+   "siglum": "US-DN",
+   "institution": "University of North Texas (UNT), Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002265",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23938": {
+   "siglum": "US-NH",
+   "institution": "Yale University, Music Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002351",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/23939": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  },
+  "holdings/51004698": {
+   "siglum": "US-Wc",
+   "institution": "The Library of Congress, Music Division",
+   "shelfmark": "M452.A2 B67 Case",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002492",
+   "source_type": "Print",
+   "extent": "4 parts: [2]+13, [2]+13, 13, 13 p. · 34,5 x 27 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/990005865"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 61
+ }
+}

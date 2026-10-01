@@ -1,0 +1,227 @@
+{
+ "kind": "digitized",
+ "url": "http://hdl.handle.net/1802/19626",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": "holdings/23899",
+ "siglum": "US-R",
+ "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+ "shelfmark": "[no indication]",
+ "former_shelfmark": null,
+ "source_type": "Print",
+ "holding_extent": "4 parts · 31 cm",
+ "all_sigla": [
+  "B-Br",
+  "D-B",
+  "D-F",
+  "D-GOl",
+  "D-Mbs",
+  "F-Pmeyer",
+  "FIN-A",
+  "GB-Lbl",
+  "I-Bc",
+  "N-Onm",
+  "NL-Uim",
+  "RUS-Mrg",
+  "RUS-SPk",
+  "RUS-SPsc",
+  "S-Skma",
+  "US-BETm",
+  "US-R"
+ ],
+ "source": "https://rism.online/sources/1001225288",
+ "source_id": "1001225288",
+ "title": "Quartets",
+ "full_title": "Six quatuors à deux violons, taille et basse obligés, oeuvre VII. Composées par Luigi Boccherini.",
+ "key": null,
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "171",
+ "gerard_numbers": [
+  "171"
+ ],
+ "catalogs": [
+  "GerB 171"
+ ],
+ "record_type": "print",
+ "source_types": [
+  "Print"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [
+  "313"
+ ],
+ "published": {
+  "place": "Amseterdam",
+  "publisher": "J.J. Hummel",
+  "date": "[176-?]"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts",
+  "4 printed parts"
+ ],
+ "notes": [],
+ "incipits": 4,
+ "gerard_label": "171",
+ "holdings": {
+  "holdings/23884": {
+   "siglum": "B-Br",
+   "institution": "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR)",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000440",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23885": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23886": {
+   "siglum": "D-F",
+   "institution": "Universitätsbibliothek Johann Christian Senckenberg. Abteilung Musik und Theater",
+   "shelfmark": "Mus. pr. Q 50/520",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000125",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23887": {
+   "siglum": "D-GOl",
+   "institution": "Forschungsbibliothek Gotha der Universität Erfurt",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000045",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23888": {
+   "siglum": "D-Mbs",
+   "institution": "Bayerische Staatsbibliothek",
+   "shelfmark": "2 Mus.pr. 1784#Beibd.1",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000882",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23889": {
+   "siglum": "F-Pmeyer",
+   "institution": "Collection André Meyer",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001487",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23890": {
+   "siglum": "FIN-A",
+   "institution": "Sibelius-museo, Arkisto",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002168",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23891": {
+   "siglum": "GB-Lbl",
+   "institution": "The British Library",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001581",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23892": {
+   "siglum": "I-Bc",
+   "institution": "Museo internazionale e biblioteca della musica",
+   "shelfmark": "Z.267",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30001740",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23893": {
+   "siglum": "N-Onm",
+   "institution": "Nasjonalbiblioteket, Seksjon for Musikk",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30076022",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23894": {
+   "siglum": "NL-Uim",
+   "institution": "Universiteit Utrecht - Instituut voor Muziekwetenschap",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002045",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23895": {
+   "siglum": "RUS-Mrg",
+   "institution": "Rossijskaja Gosudarstvennaja biblioteka",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002528",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23900": {
+   "siglum": "RUS-SPk",
+   "institution": "Sankt-Peterburgskaja gosudarstvennaja konservatorija imeni N. A. Rimskogo-Korsakova, Naučnaja muzykal'naja biblioteka",
+   "shelfmark": "Инв. № 217292",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002520",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23896": {
+   "siglum": "RUS-SPsc",
+   "institution": "Rossijskaja nacional'naja biblioteka",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000181",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23897": {
+   "siglum": "S-Skma",
+   "institution": "Musik- och teaterbiblioteket",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002153",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  },
+  "holdings/23898": {
+   "siglum": "US-BETm",
+   "institution": "Moravian Music Foundation",
+   "shelfmark": "B misc [51] Beth pr",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002214",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm",
+   "provenance": "From the Moravian Church, Northern Province. Bethlehem Congregation (Bethlehem Miscellaneous Collection B Misc [51] Beth pr)"
+  },
+  "holdings/23899": {
+   "siglum": "US-R",
+   "institution": "Sibley Music Library, Eastman School of Music, University of Rochester",
+   "shelfmark": "[no indication]",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30002450",
+   "source_type": "Print",
+   "extent": "4 parts · 31 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/1001225288"
+ ],
+ "rism_relation": "copy"
+}

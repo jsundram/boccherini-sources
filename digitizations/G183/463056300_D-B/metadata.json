@@ -1,0 +1,72 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0001C5D100000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 563",
+ "former_shelfmark": "h.22",
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 22 x 31,5 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/463056300",
+ "source_id": "463056300",
+ "title": "Quartets",
+ "full_title": "[title page, vlc:] Quartetto I.o | Per due Violini, Viola, è Violoncello obbligato. Fatto per Servizio di | S. A. R.le D.n Luigi Infante di Spagna. | da Luigi Boccherini Virtuoso di Camera, è Compositore di Musica, di | S. A. R.le [on top, right:] Opera 3.za | 1775",
+ "key": "C",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "183",
+ "gerard_numbers": [
+  "183"
+ ],
+ "catalogs": [
+  "GerB 183"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1776-1800 (18.4q)"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Ausführliche Titelseite bei der vlc-Stimme, die anderen Stimmen mit verkürztem Titelblatt \"Quartetto I.o | [Stimmenbezeichnung] | Boccherini | [oben rechts:] Opera 3.a | 1775\".  Auf der Titelseite der Stimme vlc die Angabe oben rechts \"Opera 3.a | 1775\" teilweise verdeckt von aufgeklebter alter Signatur \"h.22\".",
+  "Vgl. auch die Stimmensätze KHM 569 und KHM 570.",
+  "Schreiberzuordnung nach DrosopoulouB 2014."
+ ],
+ "incipits": 0,
+ "gerard_label": "183",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 563",
+   "former_shelfmark": "h.22",
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 22 x 31,5 cm",
+   "watermark": "drei Sterne in überkröntem Wappen - Gegenmarke \"R. ROMANI\""
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/463056300"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 33
+ }
+}

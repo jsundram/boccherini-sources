@@ -1,0 +1,86 @@
+
+  { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063\/manifest",
+    "@type" : "sc:Manifest",
+    "@context" : "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "logo" : "https:\/\/ngcs-beta.staatsbibliothek-berlin.de\/dc\/logo-small",
+    "label" : "Boccherini, Luigi: Six Quartetti A Deux Violons Alto et Violoncelle",
+    "metadata" : 
+    [ 
+      { "label" : "Autor",
+        "value" : "Boccherini, Luigi" },
+      
+      { "label" : "Titel",
+        "value" : "Six Quartetti A Deux Violons Alto et Violoncelle" },
+      
+      { "label" : "Titel",
+        "value" : "Op. 58. ; en deux Livraisons" },
+      
+      { "label" : "Ausgabe",
+        "value" : "[Stimmen]" },
+      
+      { "label" : "Digitalisierer ",
+        "value" : "Sieber" },
+      
+      { "label" : "has_fulltext",
+        "value" : false },
+      
+      { "label" : "Kategorie",
+        "value" : 
+        [ 
+          { "@value" : "Musiknoten" },
+          
+          { "@value" : "Musikdrucke" } ] },
+      
+      { "label" : "Persistente URL",
+        "value" : "http:\/\/resolver.staatsbibliothek-berlin.de\/SBB00001F6400000000" },
+      
+      { "label" : "PlaceOfPublication",
+        "value" : "Paris" },
+      
+      { "label" : "Schlagwörter",
+        "value" : "boccsix" },
+      
+      { "label" : "StaBiKat (ppn digital)",
+        "value" : "PPN627503063" },
+      
+      { "label" : "StaBiKat (ppn original)",
+        "value" : "PPN627354777" },
+      
+      { "label" : "Titelblatt",
+        "value" : "" } ],
+    "structures" : 
+    [ 
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063\/range\/range-1",
+        "@type" : "sc:Range",
+        "label" : "Six Quartetti A Deux Violons Alto et Violoncelle",
+        "ranges" : 
+        [ 
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063\/range\/range-2",
+            "label" : "Six Quartetti A Deux Violons Alto et Violoncelle  Op. 58.; en deux Livraisons Partie 2",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063\/range\/range-1" },
+          
+          { "@type" : "sc:Range",
+            "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063\/range\/range-3",
+            "label" : "Six Quartetti A Deux Violons Alto et Violoncelle  Op. 58.; en deux Livraisons Partie 1",
+            "within" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063\/range\/range-1" } ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063\/range\/range-2",
+        "@type" : "sc:Range",
+        "label" : "Six Quartetti A Deux Violons Alto et Violoncelle  Op. 58.; en deux Livraisons Partie 2",
+        "canvases" : 
+        [  ] },
+      
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063\/range\/range-3",
+        "@type" : "sc:Range",
+        "label" : "Six Quartetti A Deux Violons Alto et Violoncelle  Op. 58.; en deux Livraisons Partie 1",
+        "canvases" : 
+        [  ] } ],
+    "sequences" : 
+    [ 
+      { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/627503063#sequence-1",
+        "@type" : "sc:Sequence",
+        "label" : "Current order",
+        "viewingDirection" : "left-to-right",
+        "canvases" : 
+        [  ] } ] }

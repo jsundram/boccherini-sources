@@ -1,0 +1,70 @@
+{
+ "kind": "digitized",
+ "url": "http://resolver.staatsbibliothek-berlin.de/SBB0001C5D900000000",
+ "note": "[digitized version]",
+ "label": null,
+ "mime": null,
+ "holding": null,
+ "siglum": "D-B",
+ "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+ "shelfmark": "KHM 594",
+ "former_shelfmark": null,
+ "source_type": "Manuscript copy",
+ "holding_extent": "4 parts · 24,5 x 33 cm",
+ "all_sigla": [
+  "D-B"
+ ],
+ "source": "https://rism.online/sources/463059400",
+ "source_id": "463059400",
+ "title": "Quartets",
+ "full_title": "[title page, vla:] Quartettino. | Per due Violini, Viola, e Violoncello. | di Luigi Boccherini | Compositor di Camera di S. M. il Re di Prussia | [on top:] Mese di Marzo. 1790.",
+ "key": "A",
+ "scoring": "vl (2), vla, vlc",
+ "gerard": "218",
+ "gerard_numbers": [
+  "218"
+ ],
+ "catalogs": [
+  "GerB 218"
+ ],
+ "record_type": "manuscript",
+ "source_types": [
+  "Manuscript copy"
+ ],
+ "is_autograph": false,
+ "plate_numbers": [],
+ "published": {
+  "place": null,
+  "publisher": null,
+  "date": "1790-1800 (ca.)"
+ },
+ "physical": [],
+ "extent": [
+  "4 parts"
+ ],
+ "notes": [
+  "Vollständiger Titel auf der vla-Stimme, die anderen Stimmen mit verkürzten Titelblättern \"Mese di Marzo. 1790. | Quartettino | [Stimmenbezeichnung] | di Boccherini.\"",
+  "Durchlaufende bibliothekarische Bleistiftpaginierung 1-24."
+ ],
+ "incipits": 0,
+ "gerard_label": "218",
+ "holdings": {
+  "_0": {
+   "siglum": "D-B",
+   "institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",
+   "shelfmark": "KHM 594",
+   "former_shelfmark": null,
+   "institution_id": "institutions/30000655",
+   "source_type": "Manuscript copy",
+   "extent": "4 parts · 24,5 x 33 cm"
+  }
+ },
+ "rism_related": [
+  "https://rism.online/sources/463059400"
+ ],
+ "rism_relation": "copy",
+ "page_index": {
+  "source": "sequential filenames; order is preserved by the PDF",
+  "count": 27
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "folder": "G162/550503024_CZ-Pu",
+ "scan_id": "550503024_CZ-Pu",
+ "tool": "read_structure.py/2026-09-29",
+ "read": false,
+ "reason": "manuscript — OCR reads engraving, not handwriting",
+ "rism": {
+  "extent": "4 parts · 22,5 x 28,5 cm 4 parts",
+  "parts_declared": 4,
+  "form_declared": "parts",
+  "works_declared": 1,
+  "gerard": [
+   "162"
+  ],
+  "source_ids": [
+   "550503024"
+  ]
+ },
+ "source_mtime": 1790628340,
+ "verified": null
+}

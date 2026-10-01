@@ -1,0 +1,34 @@
+# The scans themselves. 10.6 GB across 231 files, immutable once fetched, and most of them
+# re-fetchable from the portal named in their sidecar. They live in Dropbox beside this repo.
+# What is NOT re-fetchable is declared in `originals.jsonl`, which IS tracked -- a checksum
+# belongs in version control even when the bytes it describes do not.
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Generated pages. Rebuilt by `boc build`; megabytes of base64 thumbnails that would churn
+# the history on every run.
+boccherini_sources.html
+boccherini_incipits.html
+review.html
+
+# Local build state and caches
+.pipeline-state.json
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+
+# Per-machine Claude Code settings
+.claude/
+
+# Everything else is text and is tracked on purpose: every `metadata.json` sidecar, every
+# item README, every document under `digitizations/`, the structure readings, and
+# `.rism-cache/`, so the index can be read and queried without the scans or the network.
+
+# Drafted request letters to archives -- kept local, not published.
+digitizations/*-REQUEST.md
