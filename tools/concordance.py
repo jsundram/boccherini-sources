@@ -93,11 +93,15 @@ def held():
       shelf    (siglum, normalised shelfmark) -> folders. Useful, but a shelfmark is not
                always one object: D-B `DMS 51778` covers ten of our folders, so a shelfmark
                match alone once reported Pleyel's oeuvre 39 as held at Op. 9 and Op. 15.
-      by_rism  RISM id -> folders that explicitly say they are a copy of it. Definitive.
+      by_rism  RISM id -> folders that explicitly say they are a copy of it. Definitive
+               about the source, not about which library's copy: see `placed`.
       claims   folder -> the ids it claims, so a shelfmark match can be refused when the
                folder is demonstrably a copy of something else.
+      own      folder -> the ids it was harvested as (`source_id`, `source`), as opposed to
+               ones someone linked it to afterwards.
+      where    folder -> (siglum, shelfmark as written).
     """
-    shelf, claims = collections.defaultdict(set), {}
+    shelf, claims, own, where = collections.defaultdict(set), {}, {}, {}
     for p in DIG.rglob('metadata.json'):
         d = p.parent
         if not any(f.suffix.lower() in MEDIA for f in d.iterdir() if f.is_file()): continue
@@ -106,11 +110,13 @@ def held():
         except Exception:
             continue
         rel = str(d.relative_to(DIG))
+        where[rel] = (m.get('siglum'), m.get('shelfmark'))
         if m.get('siglum') and norm(m.get('shelfmark')):
             shelf[(m['siglum'], norm(m['shelfmark']))].add(rel)
         ids = set()
         if m.get('source_id'): ids.add(str(m['source_id']))
         for u in walk_urls(m.get('source')): ids.add(u.rstrip('/').rsplit('/', 1)[-1])
+        own[rel] = set(ids)
         # A 'work' link points at RISM's record for the edition at another library. It is
         # not a claim to be a copy of it, so it must not answer "do we hold this source".
         if m.get('rism_relation') != 'work':
@@ -120,7 +126,7 @@ def held():
     by_rism = collections.defaultdict(set)
     for rel, ids in claims.items():
         for i in ids: by_rism[i].add(rel)
-    return shelf, by_rism, claims
+    return shelf, by_rism, claims, own, where
 
 
 def folder_state():
@@ -159,13 +165,70 @@ def editions():
     return out
 
 
-def held_for(sid, siglum, shelfmark, shelf, by_rism, claims):
+RANGE = re.compile(r'\(\s*(\d+)\s*-\s*(\d+)\s*\)\s*$')
+
+
+def tokens(s):
+    """A shelfmark as (tokens, item range or None). RISM gives the six quartets of F-Pn
+    `Vma ms 1067` one holding, `VMA MS-1067 (1-6)`, where our folders say `(2)`; flattened
+    to a string, `(1)` is a prefix of `(1-6)` and of `(10)` alike, so compare by token."""
+    s = unicodedata.normalize('NFKD', s or '')
+    s = ''.join(c for c in s if not unicodedata.combining(c)).lower()
+    r = RANGE.search(s)
+    rng = (int(r.group(1)), int(r.group(2))) if r else None
+    t = re.findall(r'\d+|[a-z]+', RANGE.sub('', s) if r else s)
+    return (t, rng) if any(x.isdigit() for x in t) or rng else ([], None)
+
+
+def same_shelf(a, b):
+    """Whether shelfmarks `a` and `b` can name the same object: equal, one an item of the
+    other's range, or one the volume the other is an item of. Unknown on either side is
+    not a contradiction."""
+    (ta, ra), (tb, rb) = tokens(a), tokens(b)
+    if not ta or not tb: return True
+    if (ta, ra) == (tb, rb): return True
+    for (t1, r1), (t2, r2) in (((ta, ra), (tb, rb)), ((tb, rb), (ta, ra))):
+        if r2 and not r1 and t1[:-1] == t2 and t1[-1].isdigit() and r2[0] <= int(t1[-1]) <= r2[1]:
+            return True
+        if not r1 and not r2 and len(t1) < len(t2) and t2[:len(t1)] == t1:
+            return True
+    return False
+
+
+def placed(sid, holdings, by_rism, own, where):
+    """holding index -> the folders that are a copy of that holding.
+
+    A print record lists every library with a copy, and a claim to be "a copy of
+    990005874" says nothing about which of its twelve: credited to all of them, one
+    Rochester scan stood in for eleven other libraries. So a claim lands only on a holding
+    at the folder's own library, and a shelfmark that contradicts it refuses it. The one
+    exception is the record a folder was harvested as -- the portal said this is that
+    copy -- which lands on its library's holding even when RISM shelves it as the whole
+    volume. A claim that lands nowhere is left to `boc check`, which names it."""
+    out = collections.defaultdict(list)
+    for f in sorted(by_rism.get(sid, set())):
+        fs, fk = where.get(f, (None, None))
+        here = [i for i, h in enumerate(holdings) if h['siglum'] == fs]
+        fit = [i for i in here if same_shelf(fk, holdings[i].get('shelfmark'))]
+        if not fit and sid in own.get(f, ()) and len(here) == 1:
+            fit = here
+        if len(fit) > 1:
+            # one scan is one copy: two holdings at one library, and nothing to choose
+            # between them, is not two copies held
+            exact = [i for i in fit if tokens(holdings[i].get('shelfmark')) == tokens(fk)]
+            fit = exact if len(exact) == 1 else []
+        for i in fit:
+            out[i].append(f)
+    return out
+
+
+def held_for(sid, siglum, shelfmark, shelf, claims, where, direct):
     """(folders, how) for one holding: the copies of it we actually have.
 
     Falls back from an explicit claim, to the same shelfmark, to a shelfmark this one
     extends -- RISM catalogues the six quartets inside D-B `KHM 577` as `KHM 577 (1)` …
-    `(6)`, and we hold the volume, so a lookup for a constituent should find it."""
-    direct = sorted(by_rism.get(sid, set()))
+    `(6)`, and we hold the volume, so a lookup for a constituent should find it.
+    `direct` is what `placed` put on this holding."""
     if direct:
         return direct, 'copy'
     if not siglum or not norm(shelfmark):
@@ -181,16 +244,19 @@ def held_for(sid, siglum, shelfmark, shelf, by_rism, claims):
         return exact, 'shelfmark'
     # No `free` test here: a parent volume necessarily claims a different source -- the
     # volume's own record -- and that is exactly what makes it the parent. The guard is
-    # that the shelfmark must be a strict extension, so `KHM 577 (1)` finds `KHM 577`
-    # while ten folders sharing the blanket `DMS 51778` never match each other.
-    parent = sorted({f for (sg, kk), fs in shelf.items() if sg == siglum
-                     and len(kk) >= 4 and kk != k and k.startswith(kk)
-                     for f in fs})
+    # that the shelfmark must be a strict extension by whole tokens, so `KHM 577 (1)`
+    # finds `KHM 577` while ten folders sharing the blanket `DMS 51778` never match each
+    # other, and `Vma ms 1067 (1)` is not the parent of `VMA MS-1067 (1-6)`.
+    th, rh = tokens(shelfmark)
+    parent = sorted({f for (sg, _), fs in shelf.items() if sg == siglum for f in fs
+                     for tf, rf in [tokens(where[f][1])]
+                     if tf and not rf and not rh and len(tf) >= 2
+                     and len(tf) < len(th) and th[:len(tf)] == tf})
     return parent, ('parent volume' if parent else None)
 
 
 def build():
-    sp, (shelf, by_rism, claims) = spine(), held()
+    sp, (shelf, by_rism, claims, own, where) = spine(), held()
     by_edition = editions()
     state = folder_state()
     rows = []
@@ -204,10 +270,11 @@ def build():
                     key=rd.gnum)
         opus = sorted({sp[g][0] for g in gs if g in sp})
         holds = []
-        for h in m['holdings'].values():
-            if not h.get('siglum'): continue
+        hs = [h for h in m['holdings'].values() if h.get('siglum')]
+        on = placed(sid, hs, by_rism, own, where)
+        for i, h in enumerate(hs):
             folders, how = held_for(sid, h['siglum'], h.get('shelfmark'),
-                                    shelf, by_rism, claims)
+                                    shelf, claims, where, sorted(on.get(i, [])))
             holds.append(dict(siglum=h['siglum'], shelfmark=h.get('shelfmark'),
                               former=h.get('former_shelfmark'),
                               institution=h.get('institution'), held=folders, how=how))

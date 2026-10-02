@@ -57,11 +57,12 @@
  "siglum": "E-Mn",
  "institution": "Biblioteca Nacional de España",
  "siglum_derived_from": "BNE Digital is E-Mn",
- "rism_relation": "copy",
+ "rism_relation": "work",
  "medium_established_by": "Checked 2026-09-29 and left as print. RISM's linked records call it a Manuscript copy, but the title page is engraved: 'SIX QUATUOR a Deux Violons, Taille e Basse obligés, DEDIES A MONSIEUR PATRICK ALSTRÖMER ... A AMSTERDAM chez J. J. HUMMEL'. A Hummel engraved title page is not a manuscript. The RISM link is to the Alströmer records, which describe a different copy.",
  "contents_verified": {
   "date": "2026-09-29",
   "how": "title page, by eye",
   "found": "Engraved Hummel print, Op. 8 (opera seconda), dedicated to Patrick Alströmer. RISM calls the linked records manuscripts; they describe another copy."
- }
+ },
+ "rism_related_established_by": "RISM 702003012 holds only at B-Bc and 301002449 only at PL-WRu; neither lists E-Mn, so neither describes this BNE copy. Same work elsewhere, not this copy. [claim.py, 2026-10-01]"
 }

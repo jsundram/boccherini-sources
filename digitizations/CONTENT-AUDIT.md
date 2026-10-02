@@ -27,24 +27,21 @@ The reading lives in `../structure/<scan-id>.json`: what was seen, on which page
 
 ---
 
-## Worth looking at — 25
+## Worth looking at — 22
 
 | folder | G | pages | works | parts | flags | what the reading says |
 |---|---|---:|---:|---:|---|---|
-| `G171-176/bne-cfa0eaed-c37` | 171-176 | 30 | 6 | 2 | span-shared, parts-short | — |
-| `G186/E-Mc_1-7040-185` | 186 | 16 | 1 | 2 | span-shared, parts-short | — |
 | `G201-206/990005880_US-CAe` | 201 | 104 | 1 | 1 | parts-short, ocr-disagrees | RISM says 4 parts; 1 part-book starts were read (one either way is usually a mis-split; two is not); RISM calls this a part-set, but only one part nam |
 | `G242-247/btv1b108778048` | 242-247 | 15 | 6 | — | thin, ocr-disagrees | nothing read — faint engraving, or not a printed part-book at all |
 | `G159-164/btv1b10886816j` | 159-164 | 28 | 6 | — | thin | — |
 | `G165-170/btv1b10886819w` | 165-170 | 30 | 6 | — | ocr-disagrees | nothing read — faint engraving, or not a printed part-book at all |
 | `G165/650004090_A-ST` | 165 | 1 | 1 | — | thin | — |
 | `G167/650004089_A-ST` | 167 | 4 | 1 | — | thin | — |
-| `G171-176/990005865_D-B` | 171-176 | 61 | 6 | — | span-shared | — |
-| `G171-176/990005865_US-R` | 171-176 | 54 | 6 | 4 | span-shared | — |
 | `G171-176/990005868_US-R` | 171-176 | 55 | 6 | 4 | ocr-disagrees | RISM calls this a score, but 4 part names were read off the pages |
+| `G171-176/bne-cfa0eaed-c37` | 171-176 | 30 | 6 | 2 | parts-short | — |
 | `G177-182/btv1b108868225` | 177-182 | 20 | 6 | — | thin | — |
 | `G183-188/990005875_D-B` | 183-188 | 39 | 6 | — | ocr-disagrees | RISM calls this a part-set, but only one part name was read — this may be a single part-book rather than the whole set |
-| `G186/463056600_D-B` | 186 | 33 | 1 | — | span-shared | — |
+| `G186/E-Mc_1-7040-185` | 186 | 16 | 1 | 2 | parts-short | — |
 | `G189-194/990005876_US-R` | 189-194 | 51 | 6 | 4 | ocr-disagrees | RISM says 4 parts; 6 part-book starts were read (one either way is usually a mis-split; two is not) |
 | `G189-194/btv1b10886830p` | 189-194 | 28 | 6 | — | thin | — |
 | `G195-200/990005877_US-R` | 195 | 49 | 1 | 4 | ocr-disagrees | RISM says 4 parts; 6 part-book starts were read (one either way is usually a mis-split; two is not) |
@@ -72,6 +69,6 @@ The reading lives in `../structure/<scan-id>.json`: what was seen, on which page
 
 ---
 
-## Nothing disagrees — 113
+## Nothing disagrees — 116
 
 No flag fired. That is not the same as having been checked: it means the page count, the Gérard span and the part files are consistent with each other.

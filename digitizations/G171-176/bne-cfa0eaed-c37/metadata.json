@@ -45,5 +45,6 @@
  "institution": "Biblioteca Nacional de España",
  "rism_links_this_copy": false,
  "rism_related_raw": "https://rism.online/sources/990005865",
- "rism_relation": "copy"
+ "rism_relation": "work",
+ "rism_related_established_by": "RISM 990005865 is the same print (Boyer, plate 517) but lists 21 holdings and no E-Mn; this BNE copy is not catalogued by RISM. Same edition elsewhere, not this copy. [claim.py, 2026-10-01]"
 }

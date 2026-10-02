@@ -124,15 +124,26 @@ def main():
     #    deliberately excludes edition-level links, which once made 34 folders invisible.
     conc = Path('concordance.jsonl')
     if conc.exists():
-        reach = set()
+        reach, stray = set(), []
         for line in conc.read_text().splitlines():
             r = json.loads(line)
             reach |= set(r.get('held') or []) | set(r.get('held_edition') or [])
+            stray += [f'{f} -> {r["rism"]}'
+                      for f in sorted(set(r.get('held_any') or []) - set(r.get('held') or []))]
         unreach = sorted({str(d.relative_to(DIG)) for d, _ in all_items} - reach)
         bad('concordance-reach',
             'on disk but unreachable from any RISM record (rebuild with `uv run '
             'concordance.py` if stale)',
             [u for u in unreach if u.split('/')[-1] not in EXPECTED_NO_RISM])
+        # 8b. A "copy" claim must land on a holding: the record lists the folder's library,
+        #     at a shelfmark that does not contradict it. Eight folders once claimed to be
+        #     copies of records with no holding at their library, and the concordance
+        #     credited them to whichever libraries the record did list. If the record is
+        #     the same music elsewhere, `boc link <folder> --rism <id> --relation work`;
+        #     if it is the wrong record, `--drop`.
+        bad('copy-unplaced',
+            '"copy" of a RISM record with no matching holding at this library',
+            stray)
     else:
         bad('concordance-reach', 'concordance.jsonl missing — run `uv run tools/concordance.py`',
             ['concordance.jsonl'])

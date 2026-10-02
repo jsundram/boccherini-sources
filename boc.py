@@ -83,7 +83,7 @@ def main():
     r = subprocess.run(cmd + rest)
     if r.returncode:
         sys.exit(r.returncode)
-    if verb in REBUILDS:
+    if verb in REBUILDS and not {'-h', '--help'} & set(rest):
         print('\n--- rebuilding what depends on that change', file=sys.stderr)
         r = subprocess.run(['uv', 'run', 'tools/pipeline.py'])
         sys.exit(r.returncode)

@@ -20,7 +20,7 @@ Tier C is large and deserves a caveat: RISM stating a number is a catalogue's cl
 
 ---
 
-## The 10 that neither OCR nor RISM can settle
+## The 16 that neither OCR nor RISM can settle
 
 RISM does not describe our copy — the link is edition-level or absent — **and** the pages give the machine nothing. There is no automated path to an answer.
 
@@ -29,10 +29,16 @@ RISM does not describe our copy — the link is edition-level or absent — **an
 | `G159/btv1b10863131t` | manuscript; edition-level link only |
 | `G165-170/btv1b10886819w` | print, but OCR read nothing off it |
 | `G168/btv1b10076417z` | manuscript; edition-level link only |
+| `G183/E-Mc_1-7040-188bis` | no RISM record for this copy, and nothing read off the pages |
+| `G184/E-Mc_1-7040-188` | no RISM record for this copy, and nothing read off the pages |
+| `G185/E-Mc_1-7040-187` | no RISM record for this copy, and nothing read off the pages |
+| `G186/E-Mc_1-7040-185` | no RISM record for this copy, and nothing read off the pages |
+| `G188/E-Mc_1-7040-186bis` | no RISM record for this copy, and nothing read off the pages |
 | `G213_232_235/btv1b10877495x` | Pleyel œuvre 39 livraison; RISM numbers the whole anthology G 234 |
 | `G214_215_233/btv1b10877494g` | Pleyel œuvre 39 livraison; RISM numbers the whole anthology G 234 |
 | `G242-247/btv1b108778048` | Op. 58 *1re partie* at F-Pn; one RISM record for both parties, and no incipits at all |
 | `G242-247/btv1b10877805q` | Op. 58 *2e partie* at F-Pn; same record, same absence of incipits |
+| `G248-249/US-Wc_M452-A2-B68` | no RISM record for this copy, and nothing read off the pages |
 | `G250-255/US-Wc_M452-A2-B68-op54` | Op. 54; no GerB above 249 exists anywhere in RISM. Title page says *Tre Quartetti*, the folder says six |
 | `found/BnF/btv1b525017368` | not a quartet; no RISM record. Only its classification is at stake |
 | `found/BnF/btv1b7400136t` | not a quartet; no RISM record. Only its classification is at stake |
@@ -79,7 +85,7 @@ Four of Pleyel's twelve œuvre 39 quartets — **G 213, 215, 233, 235** — have
 
 1. The **14 contradictions** — the machine has done the work; each needs one look.
 2. The **29 asserted prints** — `contact_sheet.py` confirms or breaks each in a minute.
-3. The **10 stuck** — slow, and two of them would settle real questions.
+3. The **16 stuck** — slow, and two of them would settle real questions.
 4. The **18 asserted manuscripts** — no shortcut exists.
 
 Record every answer as `contents_verified` on the item. That is what moves an item from D to A, and it is the only thing that does. `review.html` is the quickest way to do it.

@@ -128,13 +128,27 @@ def cmd_link(a):
     d = find(a.folder)
     m = load(d)
     sid = a.rism.rstrip('/').rsplit('/', 1)[-1]
+    url = f'https://rism.online/sources/{sid}'
+    urls = [u for u in (m.get('rism_related') or []) if isinstance(u, str)]
+    if a.drop:
+        # The wrong record, not merely the same music elsewhere: take the link out, and
+        # keep why, since nothing else would say it was ever there.
+        if url not in urls:
+            die(f'{d.relative_to(DIG)} does not link RISM {sid}')
+        if str(m.get('source_id')) == sid:
+            die(f'RISM {sid} is the record this folder was harvested as; dropping the link '
+                'would not change that')
+        m['rism_related'] = [u for u in urls if u != url]
+        m.setdefault('rism_dropped', []).append(
+            {'rism': sid, 'why': f'{a.saw} [claim.py, {date.today().isoformat()}]'})
+        save(d, m)
+        print(f'  unlink {d.relative_to(DIG)}  -x RISM {sid}')
+        return
     if not (CACHE / f'{sid}.xml').exists() and not a.force:
         die(f'RISM {sid} is not in the cache — check the id, or harvest it first')
     if a.relation not in ('copy', 'work'):
         die("--relation must be 'copy' (this is that source) or 'work' (RISM's record for "
             "the same edition at another library)")
-    urls = [u for u in (m.get('rism_related') or []) if isinstance(u, str)]
-    url = f'https://rism.online/sources/{sid}'
     if url not in urls: urls.append(url)
     m['rism_related'] = urls
     m['rism_relation'] = a.relation
@@ -194,6 +208,8 @@ def main():
         if name == 'link':
             p.add_argument('--rism', required=True)
             p.add_argument('--relation', default='copy')
+            p.add_argument('--drop', action='store_true',
+                           help='remove the link to --rism: it is the wrong record')
             p.add_argument('--siglum')
             p.add_argument('--shelfmark')
     a = ap.parse_args()

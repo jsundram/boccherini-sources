@@ -54,12 +54,17 @@
  "established_by": "identified by hand from the scan, 2026-09-28",
  "correction_note": "Op. 22 (G 183-188), the Paris edition issued as 'libro quinto di quartetti ... opera XXVI'. This is the Le Duc issue -- RISM source 990005875, which records an E-Mn copy at Mp/2392|9, very likely this one. RISM 990005874 is the earlier La Chevardiere issue of the same edition, confirming the publisher succession La Chevardiere -> Le Duc (-> Imbault). 'Opera XXVI' is the publisher's number; Op. 22 is Gerard's.",
  "rism_related": [
-  "https://rism.online/sources/990005875",
-  "https://rism.online/sources/990005874"
+  "https://rism.online/sources/990005875"
  ],
  "siglum": "E-Mn",
  "institution": "Biblioteca Nacional de España",
  "siglum_derived_from": "BNE Digital is E-Mn",
  "shelfmark_note": "per RISM, unconfirmed",
- "rism_relation": "copy"
+ "rism_relation": "copy",
+ "rism_dropped": [
+  {
+   "rism": "990005874",
+   "why": "The scan is the Le Duc edition (BNE record: Le Duc, Paris), held at E-Mn Mp/2392|9, which is RISM 990005875. RISM 990005874 is the La Chevardière/Castaud/Godefroy edition of the same opus XXVI, with no E-Mn holding: a different edition, not this copy. [claim.py, 2026-10-01]"
+  }
+ ]
 }

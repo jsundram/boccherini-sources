@@ -38,7 +38,7 @@
  "printed_opus_note": "The title page reads \"opera 3ª\", Boccherini's own numbering for the set published as Op. 22. Do not read it as Op. 3.",
  "digitized": "Real Conservatorio Superior de Música de Madrid, 2007",
  "reference": "Gosálvez Lara, C. J. and Labrador López de Azcona, G., \"Fuentes españolas para el estudio de la obra de L. Boccherini (1743-1805): los fondos manuscritos del Real Conservatorio de Música de Madrid\", Revista de Musicología XXVII/2 (2004), pp. 743-762.",
- "rism_relation": "copy",
+ "rism_relation": "work",
  "rism_related": [
   "https://rism.online/sources/463056300",
   "https://rism.online/sources/463056901",
@@ -51,5 +51,6 @@
  "established_by": "Identified from the library's own catalogue record (TITN 3649) and the title page: \"Quartetto Iº\" of the set dated 1775, which is Op. 22 no. 1 in C. The PDF's embedded title agrees. Filed 2026-10-01.",
  "downloaded_by_hand": true,
  "why_manual": "Not linked by RISM; the library publishes the PDF directly.",
- "note": "In a note added in the 19th century: \"A la Escuela Nacional de Música, Eusebio Ruiz y Rero\"."
+ "note": "In a note added in the 19th century: \"A la Escuela Nacional de Música, Eusebio Ruiz y Rero\".",
+ "rism_related_established_by": "RISM lists no E-Mc holding on any of the five linked records (checked holdings: D-B, E-Mn, I-Mc, US-R, ...); the sidecar's own rism_catalogues_this_copy is false. These are RISM's records for the same work at other libraries, not this copy. [claim.py, 2026-10-01]"
 }
