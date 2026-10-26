@@ -78,10 +78,16 @@ That is what the earlier pass captured, and it is no longer improvable from Gall
 
 *1804 // Opera 64. // Quartetto Primo // Violino Primo // Boccherini.* 34 pages.
 
-**This is the only copy of G 248–249 in the project.** RISM lists these two quartets at
-DK-Km (`R454`/`R455`) and Harvard (`fMS Mus 6`), digitizes neither, and links no scan —
-`INDEX.md` has no G 248 or G 249 section at all. Boccherini's last quartets, dated the
-year before his death.
+Boccherini's last quartets, dated the year before his death. RISM does not catalogue this
+copy; it lists the two works at DK-Km (`R454`/`R455`), Harvard (`fMS Mus 6`) and F-Pn
+(`Vma ms 1067 (5)`/`(6)`), and digitizes none of them.
+
+> **Corrected 2026-10-26.** This said *"the only copy of G 248–249 in the project"*. It was
+> not: Melissa's BnF photographs of `Vma ms 1067` carry both, at `G248/840022759_F-Pn` and
+> `G249/840022760_F-Pn`. They were invisible here because this audit excluded friends'
+> photographs, and in `CONCORDANCE.md` because this folder was linked as a `copy` of all
+> six RISM records, so every one of them showed the LoC scan as the copy held. It is now
+> linked as `work`.
 
 ### 3. Library of Congress, Op. 54 — `G250-255/US-Wc_M452-A2-B68-op54/`
 

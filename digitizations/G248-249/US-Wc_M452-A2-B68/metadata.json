@@ -48,7 +48,7 @@
    "https://rism.online/sources/840022760"
   ]
  },
- "rism_relation": "copy",
+ "rism_relation": "work",
  "arrived_as": "pdf",
  "arrived_as_note": "Supplied as a finished PDF, not collated here from page images, so there are no filenames whose meaning could be lost. `page_index` does not apply.",
  "pages_note": "32 pp for G 248 and 16 for G 249, one leaf per page. The purchased capture had 34 openings of two leaves each, wrapper included.",
@@ -71,5 +71,6 @@
   "per_work": true
  },
  "note": "Two PDFs, one per quartet, processed by hand from the purchased Library of Congress capture: the wrapper and the blank leaves removed and each opening split into its two leaves. The unprocessed original is no longer in the archive -- see ~/.Trash/boccherini-loc-unprocessed-2026-09-30/ for its checksum and page count. page-index.md maps every page here back to the opening and side it came from; derivation.json is the machine-readable form.",
- "files_note": "One PDF per work, each containing all four parts in order. Named with a hyphen, not a dot: a dot in the stem is this archive's convention for a part-book file, and the audit counts those to spot an incomplete set."
+ "files_note": "One PDF per work, each containing all four parts in order. Named with a hyphen, not a dot: a dot in the stem is this archive's convention for a part-book file, and the audit counts those to spot an incomplete set.",
+ "rism_related_established_by": "rism_related_note on this folder: the six linked records are DK-Km (R454)/(R455), US-CA fMS Mus 6 and F-Pn Vma ms 1067 (5)/(6), none of them this copy; RISM does not catalogue M452.A2 B68. As 'copy' the concordance marked all three libraries held by the LoC scan, hiding the BnF photos [claim.py, 2026-10-26]"
 }
